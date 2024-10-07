@@ -1,0 +1,23 @@
+main:
+  - title: "about"
+    url: /about
+#  - title: "AI Insights"
+#    url: /articles
+#  - title: "AI papers"
+#    url: /papers
+#  - title: "blog"
+#    url: /posts
+#  - title: "tags"
+#    url: /tags
+#  - title: "books"
+#    url: /books
+#  - title: "lectures"
+#    url: /lectures
+#  - title: "categories"
+#    url: /categories
+#  - title: "miscellaneous"
+#    url: /miscellaneous
+#  - title: "music"
+#    url: /music
+#  - title: "todo-list"
+#    url: /todo-list

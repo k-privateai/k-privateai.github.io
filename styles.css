@@ -1,0 +1,245 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Montserrat:wght@400;700&display=swap');
+
+:root {
+  /*
+  --primary-color: #3498db;
+  --secondary-color: #2ecc71;
+  --font-size-base: 16px;
+  --font-size-large: 1.25rem;
+  --spacing-unit: 8px;
+  */
+  --body-font-size: 16px;
+  --caption-font-size: 15px;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --body-font-size: 14px;
+  }
+}
+
+body {
+	font-family: 'Merriweather', serif;
+	font-size: var(--body-font-size);
+	line-height: 1.6;
+	color: #222;
+	/* text-align: justify; */
+}
+
+@font-face {
+    font-family: "PrettyKorean";
+    src: url("./resource/fonts/NotoSerifKR-Bold/NotoSerifKR-VariableFont_wght.ttf") format("tff");
+    font-weight: normal;
+    font-style: normal;
+}
+
+.pretty-korean {
+/*
+  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Sunflower', sans-serif;
+  font-family: 'Sunflower', sans-serif;
+  font-family: 'Merriweather', serif;
+  font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Nanum Gothic', 'Noto Sans KR', sans-serif;
+  */
+  font-family: "PrettyKorean";
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+  /*max-width: 35.2ch;*/
+}
+
+.emoticon {
+	height: 2.5ex;
+}
+
+.favicon {
+	height: 2.5ex;
+}
+
+.callout {
+    border: 2px solid #ffcc00;
+    background-color: #fff9c4;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+/* Properties of animated graphs by JavaScript */
+.node-label {
+  font-size: var(--body-font-size);
+  pointer-events: none;
+}
+
+.node {
+  /* fill: rgba(0, 0, 255, .8); */
+  stroke: #fff;
+  stroke-width: 2px;
+}
+
+.link {
+  stroke: rgba(0, 0, 0, .5);
+  stroke-width: 1.5px;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  pointer-events: none;
+}
+
+
+/* figures, images, quotes, iframes, etc. */
+
+.boxed-quote {
+  border: 1px solid #ddd;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #eeeeee;
+  margin-left: 0;  /* Aligns to the left */
+  width: auto;     /* Allows it to take its natural width */
+}
+
+.centered-container {
+	text-align: center;
+}
+
+.map-container {
+	text-align: center;
+/*
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #a0a0a0; 
+	position: relative;
+	*/
+}
+
+
+.map-container iframe {
+	max-width: 80%;
+	max-height: 200px;
+}
+
+.fig-container {
+	text-align: center;
+	display: block;
+}
+
+.fig-container figure {
+	display: inline-block;
+	max-width: 80%;
+}
+
+figcaption {
+  font-family: 'Montserrat', serif;
+  font-size: var(--caption-font-size);
+}
+
+.img-container {
+	text-align: center;
+	margin-top: 0em;
+	margin-bottom: 1em;
+}
+
+.img-container img {
+	max-width: 80%;
+}
+
+.article-iframe-container {
+	text-align: center;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.article-iframe-container iframe {
+	max-width: 80%;
+	max-height: 200px;
+}
+
+.emph {
+	color: blue;
+	font-style: italic;
+}
+
+.chinese-korean-transliteration {
+	display: block;
+	margin-top: 7px;
+}
+
+.chinese-korean-translation {
+	display: block;
+	margin-top: 10px;
+	line-height: 1.5;
+}
+
+.translation-container {
+	line-height: 1;
+}
+
+.translation-container p {
+	margin-bottom: 30px;
+}
+
+.text-highlight {
+    background-color: #f0f0f0;
+    border-left: 4px solid #555;
+    padding: 5px 15px 5px;
+    margin: 20px 20px 20px;
+    font-style: italic;
+}
+
+.foldable-content {
+	display: none;
+	padding: 10px;
+	border: 1px solid #ccc;
+	margin-top: 5px;
+}
+.foldable-toggle {
+	cursor: pointer;
+	/*
+	padding: 0px;
+	*/
+	background-color: #f0f0f0;
+	display: inline-block;
+	/*
+	margin-top: 0px;
+	*/
+}
+.foldable-toggle::before {
+	content: '▶ ';
+}
+.foldable-toggle.active::before {
+	content: '▼ ';
+}
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+	max-width: 800px;
+	margin: 20px auto;
+}
+th, td {
+	border: 1px solid #ddd;
+	padding: 8px;
+	text-align: center;
+}
+th {
+	background-color: #f2f2f2;
+	font-weight: bold;
+}
+tr:nth-child(even) {
+	background-color: #f9f9f9;
+}
+caption {
+	font-weight: bold;
+	margin-bottom: 10px;
+}
