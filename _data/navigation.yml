@@ -5,10 +5,10 @@ main:
 #    url: /articles
 #  - title: "AI papers"
 #    url: /papers
-#  - title: "blog"
-#    url: /posts
-#  - title: "tags"
-#    url: /tags
+  - title: "posts"
+    url: /posts
+  - title: "tags"
+    url: /tags
 #  - title: "books"
 #    url: /books
 #  - title: "lectures"

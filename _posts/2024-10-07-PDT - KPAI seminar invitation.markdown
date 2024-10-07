@@ -1,0 +1,111 @@
+---
+title: Seminar Inviation Email
+date: Mon Oct  7 13:53:09 PDT 2024
+last_modified_at: Mon Oct  7 13:53:09 PDT 2024
+categories:
+ - blog
+tags:
+ - seminar
+ - announcement
+toc: true
+toc_label: "ToC"
+toc_icon: "cog"
+toc_sticky: true
+---
+
+<head>
+	<link rel="stylesheet" href="/resource/styles.css">
+</head>
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+
+<h1 id="iniviation">Invitation</h1>
+
+초청이메일 - K Group, KIC/KOTRA, 각 동문회, 지인그룹 
+
+<hr>
+Dear folks, [Recipient's Name],
+
+<p>
+<br>
+We are pleased to invite you to our upcoming K-Group seminar series on Private AI, aimed at fostering knowledge sharing, networking, and discussions on business and entrepreneurship about personalized privacy preserving AI within our community.
+</p>
+
+<p>
+Goal: 미래사회의 주요주제인 AI와 Data, 개인정보보호와 인증에 대해 전문가들을 초청하여 state-of-the art 기술을 배우고, 이들 기술이 고도화되고 결합되어 나타날 응용과 산업들에 대해 논의한다.   
+</p>
+
+<h2 id="topics">
+	Topics to be covered in seminar talks
+</h2>
+<ul>
+<li>
+Privacy-Enhancing Crypto: Homomorphic Encryption, Multi-Party Computation, Trusted Hardware, Post-Quantum Cryptography
+</li>
+<li>
+Block Chain: Zero-knowledge proof, formal proof, distributed network, BC applications .. (Daejun, please revise it) 
+</li>
+<li>
+AI: Technology, Industry &amp; Market - recent advacement and future prediction
+</li>
+<li>
+Data & Platform: media, device 포함 (Chanik, please fill this item)
+</li>
+</ul>
+
+<h2 id="time-and-venue">
+	Seminar Schedule and Venue
+</h2>
+
+<ul>
+<li>
+Date & Time: October 16, 2024, 4:30 PM - 6:30 PM 
+</li>
+<li>
+Location: Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
+</li>
+</ul>
+
+<h2 id="seminar-schedules">
+	Intensive and monthly Seminars
+</h2>
+we plan to hold monthly seminars starting with the following three seminars
+<ul>
+<li>
+Nov 6, 2024: 현대암호학 (Easy and Useful Cryptography)
+</li>
+<li>
+Nov 13, 2024: HE and Private AI 
+</li>
+<li>
+Nov 20, 2024: BlockChain and its ?? 
+</li>
+</ul>
+
+<h2 id="target-audience">
+	Target Audience
+</h2>
+
+<p>
+This series is designed for who are interested in 최신 기술을 습득/융합하여 새로운 기술분야로 확장하고 싶은분, 첨단분야에서 혁신 사업을 기획하는 분, 현재 사업에 AI나 PEC를 도입하여 사업분야를 확장하거나 보완하고 싶은분. 
+</p>
+
+<p>
+We look forward to your participation in what promises to be an enriching series of discussions. If you have any questions or topics you’d like to propose, feel free to reach out!
+</p>
+
+
+<p>
+Best regards,
+
+<br>
+<br>
+[Your Name]
+<br>
+[Your Position]
+<br>
+[Your Contact Information]
+</p>
+
