@@ -1,5 +1,5 @@
 ---
-title: Seminar Inviation Email
+title: Seminar invitation email
 date: Mon Oct  7 13:53:09 PDT 2024
 last_modified_at: Mon Oct  7 13:53:09 PDT 2024
 categories:
