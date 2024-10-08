@@ -8,5 +8,5 @@ permalink: /about/
 	<link rel="stylesheet" href="/resource/styles.css">
 </head>
 
-KPAI
+K-PAI
 
