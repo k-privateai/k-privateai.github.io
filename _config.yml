@@ -16,9 +16,9 @@
 
 repository: k-privateai/k-privateai.github.io
 
-title: KPAI Homepage
+title: K-PAI Homepage
 email: k.prvaite.ai@gmail.com
-description: KPAI Homepage
+description: K-PAI Homepage
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -61,15 +61,15 @@ plugins:
 
 # Site Author
 author:
-  name             : "KPAI"
+  name             : "K-PAI"
   avatar           : "/assets/images/pie.png"
   bio              : "Private AI K-Group"
-  location         : "Silicon Valley, CA, USA"
+#  location         : "Silicon Valley, CA, USA"
   email            : k.private.ai@gmail.com
   links:
-#    - label: "Palo Alto, CA"
-#      icon: "fas fa-map-marker-alt"
-#      url: "https://maps.app.goo.gl/P1qHQzfsHwHFJys47"
+    - label: "Silicon Valley, CA, USA"
+      icon: "fas fa-map-marker-alt"
+      url: "https://maps.app.goo.gl/74sNfTckzm9aCz619"
 #    - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
 #      url: "mailto:sunghee.yun@gmail.com"
