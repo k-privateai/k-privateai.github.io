@@ -1,7 +1,7 @@
 ---
 title: Seminar invitation email
 date: Mon Oct  7 13:53:09 PDT 2024
-last_modified_at: Mon Oct  7 13:53:09 PDT 2024
+last_modified_at: Wed Oct  9 15:50:37 PDT 2024
 categories:
  - blog
 tags:
