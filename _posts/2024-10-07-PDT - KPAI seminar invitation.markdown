@@ -23,35 +23,56 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 
 <h1 id="iniviation">Invitation</h1>
 
-초청이메일 - K Group, KIC/KOTRA, 각 동문회, 지인그룹 
-
 <hr>
 Dear folks, [Recipient's Name],
 
-<p>
-<br>
 We are pleased to invite you to our upcoming K-Group seminar series on Private AI, aimed at fostering knowledge sharing, networking, and discussions on business and entrepreneurship about personalized privacy preserving AI within our community.
-</p>
 
-<p>
-Goal: 미래사회의 주요주제인 AI와 Data, 개인정보보호와 인증에 대해 전문가들을 초청하여 state-of-the art 기술을 배우고, 이들 기술이 고도화되고 결합되어 나타날 응용과 산업들에 대해 논의한다.   
-</p>
+The goals of the seminar series is to learn the state-of-the-art technologies by inviting experts to discuss AI and Data, which are key topics for AI-driven future society and economy as well as privacy protection and authentication. We will also discuss the applications and industries that will emerge as these technologies advance and combine.
+
+
+<div class="centered-container">
+<img width="20%" src="/assets/images/pie.png">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img width="15%" src="/assets/images/kappa-to-pi.png">
+</div>
 
 <h2 id="topics">
 	Topics to be covered in seminar talks
 </h2>
+
 <ul>
 <li>
-Privacy-Enhancing Crypto: Homomorphic Encryption, Multi-Party Computation, Trusted Hardware, Post-Quantum Cryptography
+	Privacy-enhancing cryptography: homomorphic encryption (HE), multi-party computation (MPC), trusted hardware (TH), post-quantum cryptography (PQC)
 </li>
 <li>
-Block Chain: Zero-knowledge proof, formal proof, distributed network, BC applications .. (Daejun, please revise it) 
+	Blockchain + AI
+	<ul>
+	<li>
+		decentralized AI - vs centralized AI controlled by big tech
+	</li>
+	<li>
+		data ownership - enabling fair platforms to access high-quality data
+	</li>
+	<li>
+		data authenticity - vs Deepfakes
+	</li>
+	<li>
+		proof of personhood - verifying human vs AIs
+	</li>
+	<li>
+		decentralized energy - smart energy grids to support AI model growth
+	</li>
+	</ul>
 </li>
 <li>
-AI: Technology, Industry &amp; Market - recent advacement and future prediction
+	AI: Technology, Industry &amp; Market - recent advacement and future prediction
 </li>
 <li>
-Data & Platform: media, device 포함 (Chanik, please fill this item)
+	Data & Platform: media, device 포함 (Chanik, please fill this item)
 </li>
 </ul>
 
@@ -61,7 +82,7 @@ Data & Platform: media, device 포함 (Chanik, please fill this item)
 
 <ul>
 <li>
-Date & Time: October 16, 2024, 4:30 PM - 6:30 PM 
+	Date & Time: 4:30 PM - 6:30 PM Nov 6, 13, & 20, 2024
 </li>
 <li>
 Location: Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
@@ -74,13 +95,13 @@ Location: Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silic
 we plan to hold monthly seminars starting with the following three seminars
 <ul>
 <li>
-Nov 6, 2024: 현대암호학 (Easy and Useful Cryptography)
+	Nov 6, 2024: Modern Cryptography (Easy-to-understand &amp; useful cryptography)
 </li>
 <li>
-Nov 13, 2024: HE and Private AI 
+	Nov 13, 2024: Homomorphic encryption (HE) &amp; Private AI
 </li>
 <li>
-Nov 20, 2024: BlockChain and its ?? 
+	Nov 20, 2024: BlockChain + AI
 </li>
 </ul>
 
@@ -89,7 +110,7 @@ Nov 20, 2024: BlockChain and its ??
 </h2>
 
 <p>
-This series is designed for who are interested in 최신 기술을 습득/융합하여 새로운 기술분야로 확장하고 싶은분, 첨단분야에서 혁신 사업을 기획하는 분, 현재 사업에 AI나 PEC를 도입하여 사업분야를 확장하거나 보완하고 싶은분. 
+	This series is intended for those who are interested in acquiring and integrating cutting-edge technologies to expand into new technological fields, those planning innovative businesses in advanced sectors, and those who want to expand or enhance their current business by introducing AI or privacy-enhancing cryptography (PEC).
 </p>
 
 <p>
