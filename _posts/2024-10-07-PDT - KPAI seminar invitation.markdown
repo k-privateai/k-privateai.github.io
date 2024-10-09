@@ -32,12 +32,12 @@ The goals of the seminar series is to learn the state-of-the-art technologies by
 
 
 <div class="centered-container">
-<img width="20%" src="/assets/images/pie.png">
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 <img width="15%" src="/assets/images/kappa-to-pi.png">
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img width="20%" src="/assets/images/pie.png">
 </div>
 
 <h2 id="topics">
