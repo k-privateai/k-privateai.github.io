@@ -114,7 +114,11 @@ we plan to hold monthly seminars starting with the following three seminars
 </p>
 
 <p>
-We look forward to your participation in what promises to be an enriching series of discussions. If you have any questions or topics you’d like to propose, feel free to reach out!
+	Please apply via <a href="https://forms.gle/hgCWjWSL22VW7amT9">this link</a>!
+</p>
+
+<p>
+	We look forward to your participation in what promises to be an enriching series of discussions. If you have any questions or topics you’d like to propose, feel free to reach out!
 </p>
 
 
