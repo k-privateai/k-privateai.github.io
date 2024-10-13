@@ -62,7 +62,7 @@ plugins:
 # Site Author
 author:
   name             : "K-PAI"
-  avatar           : "/assets/images/pie.png"
+  avatar           : "/assets/images/k-on-pie.png"
   bio              : "Private AI K-Group"
 #  location         : "Silicon Valley, CA, USA"
   email            : k.private.ai@gmail.com

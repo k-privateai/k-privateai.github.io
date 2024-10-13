@@ -37,7 +37,7 @@ The goals of the seminar series is to learn the state-of-the-art technologies by
 &nbsp;
 &nbsp;
 &nbsp;
-<img width="20%" src="/assets/images/pie.png">
+<img width="20%" src="/assets/images/k-on-pie.png">
 </div>
 
 <h2 id="topics">
@@ -82,10 +82,10 @@ The goals of the seminar series is to learn the state-of-the-art technologies by
 
 <ul>
 <li>
-	Date & Time: 4:30 PM - 6:30 PM Nov 6, 13, & 20, 2024
+	Date & Time: 6PM - 8PM Nov 6 &amp; 20, 2024
 </li>
 <li>
-Location: Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
+	Location: Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
 </li>
 </ul>
 
@@ -95,15 +95,22 @@ Location: Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silic
 we plan to hold monthly seminars starting with the following three seminars
 <ul>
 <li>
-	Nov 6, 2024: Modern Cryptography (Easy-to-understand &amp; useful cryptography)
+	Nov 6, 2024: Overview on Cryptography
 </li>
 <li>
-	Nov 13, 2024: Homomorphic encryption (HE) &amp; Private AI
+	Nov 20, 2024: Homomorphic encryption (HE) &amp; Private AI
 </li>
-<li>
+<!--li>
 	Nov 20, 2024: BlockChain + AI
-</li>
+</li-->
 </ul>
+
+<h2 id="he">
+	Brief intro to homomorphic encryption (HE)
+</h2>
+
+Homomorphic encryption (HE) is a form of encryption that allows computations to be performed on encrypted data without decrypting it first. This ensures that sensitive information remains confidential even while it is being processed, enabling secure operations like addition or multiplication on ciphertexts. The results of these operations, when decrypted, are identical to the results of performing the same computations on the unencrypted data.
+HE is particularly useful in privacy-sensitive fields like healthcare and finance, as it allows for secure data processing in cloud computing environments without exposing the underlying data to third parties.
 
 <h2 id="target-audience">
 	Target Audience
@@ -114,7 +121,7 @@ we plan to hold monthly seminars starting with the following three seminars
 </p>
 
 <p>
-	Please apply via <a href="https://forms.gle/hgCWjWSL22VW7amT9">this link</a>!
+	Please apply via <a href="https://forms.gle/nTpxUe7RqyK8dh5A8">this link</a>!
 </p>
 
 <p>
