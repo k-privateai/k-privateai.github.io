@@ -49,61 +49,35 @@ The goals of the seminar series is to learn the state-of-the-art technologies by
 	Privacy-enhancing cryptography: homomorphic encryption (HE), multi-party computation (MPC), trusted hardware (TH), post-quantum cryptography (PQC)
 </li>
 <li>
-	Blockchain + AI
-	<ul>
-	<li>
-		decentralized AI - vs centralized AI controlled by big tech
-	</li>
-	<li>
-		data ownership - enabling fair platforms to access high-quality data
-	</li>
-	<li>
-		data authenticity - vs Deepfakes
-	</li>
-	<li>
-		proof of personhood - verifying human vs AIs
-	</li>
-	<li>
-		decentralized energy - smart energy grids to support AI model growth
-	</li>
-	</ul>
-</li>
-<li>
 	AI: Technology, Industry &amp; Market - recent advacement and future prediction
 </li>
 <li>
-	Data & Platform: media, device 포함 (Chanik, please fill this item)
-</li>
-</ul>
-
-<h2 id="time-and-venue">
-	Seminar Schedule and Venue
-</h2>
-
-<ul>
-<li>
-	Date & Time: 6PM - 8PM Nov 6 &amp; 20, 2024
+	Data & Platform: data management and monetization, hardware/software platform to accelerate encrypted computing
 </li>
 <li>
-	Location: Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
+	Blockchain + AI: exploring how blockchain can enhance AI by addressing challenges such as data ownership, accountability, and decentralization, fostering fair, transparent, and accessible AI systems
 </li>
 </ul>
 
 <h2 id="seminar-schedules">
-	Intensive and monthly Seminars
+    Seminar Schedule and Venue
 </h2>
-we plan to hold monthly seminars starting with the following three seminars
+<p>We will be holding monthly seminars. To kick off the series, however, we'll start with the following two seminars in November:</p>
 <ul>
-<li>
-	Nov 6, 2024: Overview on Cryptography
-</li>
-<li>
-	Nov 20, 2024: Homomorphic encryption (HE) &amp; Private AI
-</li>
-<!--li>
-	Nov 20, 2024: BlockChain + AI
-</li-->
+    <li>
+        <strong>Title: Overview of Cryptography</strong><br>
+        <strong>Date and Time:</strong> Wednesday, November 6, 2024, 6:00 PM - 8:00 PM<br>
+        <strong>Location:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
+    </li>
+    <li>
+        <strong>Title: Homomorphic Encryption (HE) &amp; Private AI</strong><br>
+        <strong>Date and Time:</strong> Wednesday, November 20, 2024, 6:00 PM - 8:00 PM<br>
+        <strong>Location:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
+    </li>
 </ul>
+<p><strong>Speaker:</strong> Prof. Jung Hee Cheon, a professor of Mathematics at Seoul National University and CEO of CryptoLab</p>
+
+TODO: add bio
 
 <h2 id="he">
 	Brief intro to homomorphic encryption (HE)
