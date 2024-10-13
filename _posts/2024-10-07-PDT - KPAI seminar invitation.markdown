@@ -51,17 +51,17 @@ The seminar series will feature experts discussing state-of-the-art technologies
 <p>We will hold monthly seminars, starting with the following two in November:</p>
 <ul>
     <li>
-        <strong>Title: Overview of Cryptography</strong><br>
+        <strong>Overview of Cryptography</strong><br>
         <strong>Date and Time:</strong> Wednesday, November 6, 2024, 6:00 PM - 8:00 PM<br>
         <strong>Location:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
     </li>
     <li>
-        <strong>Title: Homomorphic Encryption (HE) &amp; Private AI</strong><br>
+        <strong>Homomorphic Encryption (HE) &amp; Private AI</strong><br>
         <strong>Date and Time:</strong> Wednesday, November 20, 2024, 6:00 PM - 8:00 PM<br>
         <strong>Location:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
     </li>
 </ul>
-<p><strong>Speaker:</strong> Prof. Jung Hee Cheon, Professor of Mathematics at Seoul National University and CEO of CryptoLab</p>
+<p><strong>Speaker:</strong> Jung Hee Cheon, Professor of Mathematics at Seoul National University and CEO of CryptoLab</p>
 
 TODO: add speaker bio and talk abstract
 
