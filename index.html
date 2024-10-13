@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 title: "Welcome to K-PAI Home!"
-toc: false
+toc: true
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
@@ -13,14 +13,65 @@ toc_sticky: true
 
 <head>
 	<link rel="stylesheet" href="./styles.css">
+	<!--h1 class="text-3xl font-bold">K-Group for Private AI</h1-->
+	<p class="text-xl">Empowering Korean Professionals in Silicon Valley's AI Landscape</p>
 </head>
 
-<h1 id="announcements">Announcements</h1>
+<h1 id="about-us">About Us</h1>
+<p>
+	K-Group for Private AI is a community of Korean professionals in Silicon Valley dedicated to exploring and advancing the field of Artificial Intelligence. Our focus is on fostering knowledge sharing, networking, and professional growth in AI and related technologies.
+</p>
 
+<h1 id="area-of-focuse">Areas of Focus</h1>
 <ul>
-	{% for post in site.posts limit:10 %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-		</li>
-	{% endfor %}
+<li>
+	Privacy-enhancing cryptography
+	- 
+	homomorphic encryption (HE), multi-party computation (MPC), trusted hardware (TH), post-quantum cryptography (PQC)
+</li>
+<li>
+	BlockChain
+	-
+	decentralized AI,
+	data ownership,
+	data authenticity,
+	proof of personhood,
+	decentralized energy
+</li>
+<li>
+	AI technology, market, industry trend, business &amp; entrepreneurship, monetization
+</li>
+<li>
+	Data &amp; platform for AI
+</li>
 </ul>
+
+<h1 id="seminars">Upcoming Seminars</h1>
+
+<!--ul-->
+	{% for post in site.posts limit:10 %}
+		<!--li-->
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		<!--/li-->
+	{% endfor %}
+<!--/ul-->
+
+<h2 id="overview">Overview on Cryptography</h2>
+<p>Date: November 6, 2024</p>
+
+<h2 id="he-seminar">Homomorphic encryption (HE) &amp; Private AI</h2>
+<p> Date: November 6, 2024</p>
+
+<h2 id="bc-ai">Blockchain + AI</h2>
+<p> Data: TBD</p>
+
+<h1 id="contact-us">Contact Us</h1>
+
+<p>
+	Interested in joining or learning more? Contact us at
+	<a href="mailto:k.private.ai@gmail.com">k.private.ai@gmail.com</a>
+</p>
+
+<footer class="bg-blue-600 text-white p-4 mt-8">
+	<p class="text-center">&copy; 2024 K-Group for Private AI. All rights reserved.</p>
+</footer>
