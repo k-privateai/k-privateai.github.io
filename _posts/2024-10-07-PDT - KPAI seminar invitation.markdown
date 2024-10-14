@@ -61,7 +61,7 @@ The seminar series will feature experts discussing state-of-the-art technologies
         <strong>Location:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
     </li>
 </ul>
-<p><strong>Speaker:</strong> <a href="https://en.wikipedia.org/wiki/Jung_Hee_Cheon">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of CryptoLab</p>
+<p><strong>Speaker:</strong> <a href="https://en.wikipedia.org/wiki/Jung_Hee_Cheon">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab</a></p>
 
 <h2 id="he">Introduction to Homomorphic Encryption (HE)</h2>
 
