@@ -1,7 +1,7 @@
 ---
 title: Seminar Invitation Email
 date: Mon Oct  7 13:53:09 PDT 2024
-last_modified_at: Sat Oct 12 19:47:23 PDT 2024
+last_modified_at: Mon Oct 14 23:26:14 PDT 2024
 categories:
  - blog
 tags:
@@ -25,9 +25,14 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 <hr>
 Dear [Recipient's Name],
 
-We are excited to invite you to our upcoming K-Group seminar series on Private AI. This series aims to foster knowledge sharing, networking, and discussions on business and entrepreneurship related to personalized privacy-preserving AI within our community.
+We are excited to invite you to our upcoming K-Group seminar series on Private AI (K-PAI).
+This series aims to foster knowledge sharing, networking, and discussions
+on business and entrepreneurship related to personalized privacy-preserving AI within our community.
+(Please visit <a href="https://k-privateai.github.io/">here</a> to find out more about K-PAI!)
 
-The seminar series will feature experts discussing state-of-the-art technologies in AI and Data, which are crucial for an AI-driven future society and economy, as well as privacy protection and authentication. We will explore the applications and industries that will emerge as these technologies advance.
+The seminar series will feature experts discussing state-of-the-art technologies in AI and Data,
+which are crucial for an AI-driven future society and economy, as well as privacy protection and authentication.
+We will explore the applications and industries that will emerge as these technologies advance.
 
 <div class="centered-container">
 <img width="15%" src="/assets/images/kappa-to-pi.png">
