@@ -96,9 +96,9 @@ author:
 # Site Footer
 footer:
   links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:sunghee.yun@gmail.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:k.private.ai@gmail.com"
 #    - label: "CV"
 #      icon: "fab fa-fw fa-instagram"
 #      url: /resource/CV/Sunghee_Yun_CV_2.pdf
