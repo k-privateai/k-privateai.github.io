@@ -100,12 +100,6 @@ And the series will continue with more seminars beyond these first two.
 
 <ul>
     <li>
-		Blockchain Odyssey: Space-Time Voyage through Decentralization
-		(블록체인 오디세이! 탈중앙화를 통한 시공간 여행)
-		by
-		Dr. Daejun Park
-    </li>
-    <li>
 		The AI Knight Rises: Deep Learning to Flourishing Societies
 		(인공지능의 비상! 딥러닝을 넘어서)
 		by
@@ -116,6 +110,10 @@ And the series will continue with more seminars beyond these first two.
 		(실리콘 요새! 철과 모래 위에 세우는 AI 데이터 제국)
 		by
 		Chanik Park - VP @ Samsung Electronics
+    </li>
+    <li>
+		Blockchain Odyssey: Space-Time Voyage through Decentralization
+		(블록체인 오디세이! 탈중앙화를 통한 시공간 여행)
     </li>
 </ul>
 
