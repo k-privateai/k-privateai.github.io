@@ -112,8 +112,8 @@ And the series will continue with more seminars beyond these first two.
 		Chanik Park - VP @ Samsung Electronics
     </li>
     <li>
-		Blockchain Odyssey: Space-Time Voyage through Decentralization
-		(블록체인 오디세이! 탈중앙화를 통한 시공간 여행)
+        Blockchain Awakens: The Force of Decentralized AI
+        (블록체인: 탈중앙화된 AI의 힘이 깨어나다!)
     </li>
 </ul>
 
