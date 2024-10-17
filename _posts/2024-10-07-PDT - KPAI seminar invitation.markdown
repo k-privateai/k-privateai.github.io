@@ -68,6 +68,10 @@ Please RSVP via <a href="https://forms.gle/nTpxUe7RqyK8dh5A8">this link</a>!
         <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 6, 2024 (wed)
 		<br>
         <strong>location:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
+		<br>
+		(Please refer to Prof. Cheon's YouTube video
+		<a href="https://youtu.be/K95MFqP5_V4?si=GBeluC3MdLx5Rkqu">2024 봄 카오스강연 - AI의 역습! 암호가 세상을 구한다</a>
+		related to the seminar.)
     </li>
     <li>
         <strong>Free Your Data: HE Revolution in Private AI</strong>
@@ -76,6 +80,10 @@ Please RSVP via <a href="https://forms.gle/nTpxUe7RqyK8dh5A8">this link</a>!
         <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 20, 2024 (wed)
 		<br>
         <strong>location:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
+		<br>
+		(Please refer to Prof. Cheon's YouTube video
+		<a href="https://youtu.be/yI2fPlCCMRI?si=nLfK-zL9ePXKU_4H">[과찬의말씀] 뚫리지 않는 방패, 동형암호의 아버지를 만나다</a>
+		related to the seminar.)
     </li>
 </ul>
 <p><strong>Speaker:</strong> <a href="https://en.wikipedia.org/wiki/Jung_Hee_Cheon">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab</a></p>
