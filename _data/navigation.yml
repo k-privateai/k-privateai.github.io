@@ -7,8 +7,8 @@ main:
 #    url: /papers
   - title: "posts"
     url: /posts
-  - title: "tags"
-    url: /tags
+#  - title: "tags"
+#    url: /tags
 #  - title: "books"
 #    url: /books
 #  - title: "lectures"
