@@ -65,12 +65,12 @@ Please RSVP via <a href="https://forms.gle/nTpxUe7RqyK8dh5A8">this link</a>!
 <ul>
     <li>
         <strong>The AI Strikes Back: A New Hope in Cryptography</strong>
-        - 인공지능의 역습! 암호가 세상을 구한다
+        - 인공지능의 역습! 암호가 세상을 구한다.
 		<br>
         <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 6, 2024 (wed)
 		<br>
 		(Please refer to Prof. Cheon's YouTube video
-		<a href="https://youtu.be/K95MFqP5_V4?si=GBeluC3MdLx5Rkqu">2024 봄 카오스강연 - AI의 역습! 암호가 세상을 구한다</a>
+		<a href="https://youtu.be/K95MFqP5_V4?si=GBeluC3MdLx5Rkqu">2024 봄 카오스강연 - AI의 역습! 암호가 세상을 구한다.</a>
 		related to the seminar.)
     </li>
     <li>
@@ -80,7 +80,7 @@ Please RSVP via <a href="https://forms.gle/nTpxUe7RqyK8dh5A8">this link</a>!
         <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 20, 2024 (wed)
 		<br>
 		(Please refer to Prof. Cheon's YouTube video
-		<a href="https://youtu.be/yI2fPlCCMRI?si=nLfK-zL9ePXKU_4H">[과찬의말씀] 뚫리지 않는 방패, 동형암호의 아버지를 만나다</a>
+		<a href="https://youtu.be/yI2fPlCCMRI?si=nLfK-zL9ePXKU_4H">[과찬의말씀] 뚫리지 않는 방패, 동형암호의 아버지를 만나다.</a>
 		related to the seminar.)
     </li>
 </ul>
@@ -96,20 +96,27 @@ And the series will continue with more seminars beyond these first two.
 
 <ul>
     <li>
+		<strong>
 		The AI Knight Rises: Deep Learning to Flourishing Societies
-		(인공지능의 비상: 딥러닝을 넘어서!)
+		</strong>
+		- 인공지능의 비상: 딥러닝을 넘어서!
 		by
 		<a href="https://www.linkedin.com/in/sungheeyun/">Sunghee Yun</a> - Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
     </li>
     <li>
+		<strong>
 		Silicon Citadel: Forging AI's Data Kingdoms on Iron and Sand (hardware &amp; software platforms)
-		(실리콘 요새: 철과 모래 위에 세우는 AI 데이터 제국!)
+		</strong>
+		- 실리콘 요새: 철과 모래 위에 세우는 AI 데이터 제국!
 		by
 		Chanik Park - VP @ Samsung Electronics
     </li>
     <li>
+		<strong>
         Blockchain Awakens: The Force of Decentralized AI
-        (블록체인: 탈중앙화된 AI의 힘이 깨어나다!)
+		</strong>
+        - 
+		블록체인: 탈중앙화된 AI의 힘이 깨어나다!
     </li>
 </ul>
 
