@@ -60,7 +60,12 @@ Please RSVP via <a href="https://forms.gle/nTpxUe7RqyK8dh5A8">this link</a>!
 
 <h2 id="seminar-schedules">November seminar schedule and venue</h2>
 
-<p>We will hold monthly seminars starting with the following two in November.</p>
+<p>
+<!--We will hold monthly seminars starting with the following two in November.-->
+We are excited to launch a series of monthly seminars,
+beginning with two engaging sessions this November.
+Light refreshments will be provided at each event.
+</p>
 
 <ul>
     <li>
