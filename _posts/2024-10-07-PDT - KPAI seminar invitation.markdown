@@ -25,7 +25,8 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 <hr>
 Dear Innovators, Visionaries, and Tech Enthusiasts of Silicon Valley,
 
-We are excited to invite you to our upcoming K-Group seminar series on Private AI (K-PAI).
+We are excited to invite you to our upcoming seminar series on Private AI
+by <a href="https://k-privateai.github.io/">Korean Private AI Group (K-PAI)</a>.
 This series aims to foster knowledge sharing, networking, and discussions
 on business and entrepreneurship related to personalized privacy-preserving AI within our community.
 (Please visit <a href="https://k-privateai.github.io/">here</a> to find out more about K-PAI!)
@@ -120,7 +121,7 @@ And the series will continue with more seminars beyond these first two.
 		<strong>
         Blockchain Awakens: The Force of Decentralized AI
 		</strong>
-        - 
+        -
 		블록체인: 탈중앙화된 AI의 힘이 깨어나다!
     </li>
 </ul>
