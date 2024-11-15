@@ -26,7 +26,7 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 Dear Innovators, Visionaries, and Tech Enthusiasts of Silicon Valley,
 
 We are excited to invite you to our upcoming seminar series on Private AI
-by <a href="https://k-privateai.github.io/">Korean Private AI Group (K-PAI)</a>.
+by <a href="https://k-privateai.github.io/">Korean Private AI Forum (K-PAI)</a>.
 This series aims to foster knowledge sharing, networking, and discussions
 on business and entrepreneurship related to personalized privacy-preserving AI within our community.
 (Please visit <a href="https://k-privateai.github.io/">here</a> to find out more about K-PAI!)

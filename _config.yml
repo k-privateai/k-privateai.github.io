@@ -16,7 +16,7 @@
 
 repository: k-privateai/k-privateai.github.io
 
-title: "K-PAI: Korean Private AI Group"
+title: "K-PAI: Korean Private AI Forum"
 email: k.prvaite.ai@gmail.com
 description: K-PAI Homepage
 twitter_username: username
@@ -63,7 +63,7 @@ plugins:
 author:
   name             : "K-PAI"
   avatar           : "/assets/images/k-on-pie.png"
-  bio              : "Korean Private AI Group"
+  bio              : "Korean Private AI Forum"
 #  location         : "Silicon Valley, CA, USA"
   email            : k.private.ai@gmail.com
   links:
