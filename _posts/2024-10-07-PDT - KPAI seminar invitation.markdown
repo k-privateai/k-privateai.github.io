@@ -1,7 +1,7 @@
 ---
 title: Seminar-series Invitation
-date: Mon Oct  7 13:53:09 PDT 2024
-last_modified_at: Sun Oct 20 20:55:36 PDT 2024
+date: Mon Oct 7 13:53:09 PDT 2024
+last_modified_at: Fri Nov 15 13:51:11 PST 2024
 categories:
  - blog
 tags:
@@ -26,7 +26,7 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 Dear Innovators, Visionaries, and Tech Enthusiasts of Silicon Valley,
 
 We are excited to invite you to our upcoming seminar series on Private AI
-by <a href="https://k-privateai.github.io/">Korean Private AI Forum (K-PAI)</a>.
+by <a href="https://k-privateai.github.io/">Korean Private AI Forum (K-PAI)</a> (sponsored by CryptoLab Inc.).
 This series aims to foster knowledge sharing, networking, and discussions
 on business and entrepreneurship related to personalized privacy-preserving AI within our community.
 (Please visit <a href="https://k-privateai.github.io/">here</a> to find out more about K-PAI!)
@@ -63,31 +63,26 @@ Please RSVP via <a href="https://forms.gle/nTpxUe7RqyK8dh5A8">this link</a>!
 
 <p>
 <!--We will hold monthly seminars starting with the following two in November.-->
-We are excited to launch a series of monthly seminars,
-beginning with two engaging sessions this November.
+We are excited to launch a series of monthly seminars.
+<!--beginning with two engaging sessions this November.
 Light refreshments will be provided at each event.
+-->
 </p>
 
 <ul>
     <li>
-        <strong>The AI Strikes Back: A New Hope in Cryptography</strong>
-        - 인공지능의 역습! 암호가 세상을 구한다.
-		<br>
-        <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 6, 2024 (wed)
-		<br>
-		(Please refer to Prof. Cheon's YouTube video
-		<a href="https://youtu.be/K95MFqP5_V4?si=GBeluC3MdLx5Rkqu">2024 봄 카오스강연 - AI의 역습! 암호가 세상을 구한다.</a>
-		related to the seminar.)
-    </li>
-    <li>
         <strong>Free Your Data: HE Revolution in Private AI</strong>
         - 데이터를 해방하라! 동형암호가 이끄는 프라이빗 AI 혁명
-		<br>
+		<ul>
+		<li>
         <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 20, 2024 (wed)
-		<br>
-		(Please refer to Prof. Cheon's YouTube video
+		</li>
+		<li>
+		Please refer to Prof. Cheon's YouTube video
 		<a href="https://youtu.be/yI2fPlCCMRI?si=nLfK-zL9ePXKU_4H">[과찬의말씀] 뚫리지 않는 방패, 동형암호의 아버지를 만나다.</a>
-		related to the seminar.)
+		related to the seminar.
+		</li>
+		</ul>
     </li>
 </ul>
 
@@ -97,7 +92,7 @@ Light refreshments will be provided at each event.
 <strong>Venue:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
 </p>
 
-<h2 id="seminar-schedules">Upcoming seminars</h2>
+<h2 id="upcoming-schedules">Upcoming seminars</h2>
 And the series will continue with more seminars beyond these first two.
 
 <ul>
@@ -123,6 +118,24 @@ And the series will continue with more seminars beyond these first two.
 		</strong>
         -
 		블록체인: 탈중앙화된 AI의 힘이 깨어나다!
+    </li>
+</ul>
+
+<h2 id="past-schedules">Past seminars</h2>
+
+<ul>
+    <li>
+        <strong>The AI Strikes Back: A New Hope in Cryptography</strong>
+        - 인공지능의 역습! 암호가 세상을 구한다.
+		<ul>
+        <li>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 6, 2024 (wed)
+		</li>
+		<li>
+		Please refer to Prof. Cheon's YouTube video
+		<a href="https://youtu.be/K95MFqP5_V4?si=GBeluC3MdLx5Rkqu">2024 봄 카오스강연 - AI의 역습! 암호가 세상을 구한다.</a>
+		related to the seminar.
+		</li>
+		</ul>
     </li>
 </ul>
 
