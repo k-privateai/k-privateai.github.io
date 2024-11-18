@@ -103,7 +103,7 @@ And the series will continue with more seminars beyond these first two.
 		</strong>
 		- 인공지능의 비상: 딥러닝을 넘어서!
 		by
-		<a href="https://www.linkedin.com/in/sungheeyun/">Sunghee Yun</a> - Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
+		<a href="https://sungheeyun.github.io/">Sunghee Yun</a> - Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
     </li>
     <li>
 		<strong>
