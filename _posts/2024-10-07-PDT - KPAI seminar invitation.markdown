@@ -1,7 +1,7 @@
 ---
 title: Seminar-series Invitation
 date: Mon Oct 7 13:53:09 PDT 2024
-last_modified_at: Fri Nov 15 13:51:11 PST 2024
+last_modified_at: Mon Nov 18 02:06:09 PST 2024
 categories:
  - blog
 tags:
@@ -70,27 +70,28 @@ Light refreshments will be provided at each event.
 </p>
 
 <ul>
-    <li>
-        <strong>Free Your Data: HE Revolution in Private AI</strong>
-        - 데이터를 해방하라! 동형암호가 이끄는 프라이빗 AI 혁명
-		<ul>
-		<li>
-        <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 20, 2024 (wed)
-		</li>
-		<li>
-		Please refer to Prof. Cheon's YouTube video
-		<a href="https://youtu.be/yI2fPlCCMRI?si=nLfK-zL9ePXKU_4H">[과찬의말씀] 뚫리지 않는 방패, 동형암호의 아버지를 만나다.</a>
-		related to the seminar.
-		</li>
-		</ul>
-    </li>
+<li>
+	<strong>Free Your Data: HE Revolution in Private AI</strong>
+	- 데이터를 해방하라! 동형암호가 이끄는 프라이빗 AI 혁명
+	<ul>
+	<li>
+		<strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 20, 2024 (wed)
+	</li>
+	<li>
+		<strong>Speaker:</strong> <a href="https://en.wikipedia.org/wiki/Jung_Hee_Cheon">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab</a>
+	</li>
+	<li>
+		<strong>Venue:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
+	</li>
+	<li>
+	Please refer to Prof. Cheon's YouTube video
+	<a href="https://youtu.be/yI2fPlCCMRI?si=nLfK-zL9ePXKU_4H">[과찬의말씀] 뚫리지 않는 방패, 동형암호의 아버지를 만나다.</a>
+	related to the seminar.
+	</li>
+	</ul>
+</li>
 </ul>
 
-<p>
-<strong>Speaker:</strong> <a href="https://en.wikipedia.org/wiki/Jung_Hee_Cheon">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab</a>
-<br>
-<strong>Venue:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
-</p>
 
 <h2 id="upcoming-schedules">Upcoming seminars</h2>
 And the series will continue with more seminars beyond these first two.
