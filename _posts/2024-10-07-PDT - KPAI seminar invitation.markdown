@@ -1,7 +1,7 @@
 ---
 title: Seminar-series Invitation
 date: Mon Oct 7 13:53:09 PDT 2024
-last_modified_at: Mon Nov 18 02:06:09 PST 2024
+last_modified_at: Mon Nov 18 16:40:55 PST 2024
 categories:
  - blog
 tags:
@@ -129,7 +129,7 @@ And the series will continue with more seminars beyond these first two.
         <strong>The AI Strikes Back: A New Hope in Cryptography</strong>
         - 인공지능의 역습! 암호가 세상을 구한다.
 		<ul>
-        <li>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 6, 2024 (wed)
+        <li>date &amp; time: 6:00 PM - 8:00 PM on Nov 6, 2024 (wed)
 		</li>
 		<li>
 		Please refer to Prof. Cheon's YouTube video
