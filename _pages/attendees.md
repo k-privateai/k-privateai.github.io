@@ -2,6 +2,7 @@
 layout: single
 title: 2nd seminar attendees
 permalink: /attendees/
+date_modified: Tue Nov 19 02:16:53 PST 2024
 ---
 
 <head>
@@ -9,7 +10,7 @@ permalink: /attendees/
 </head>
 
 <h2>
-	Attendees confirmed by phone calls - 13.6 people
+	Attendees confirmed by phone calls - 14.6 people
 </h2>
 
 <ul>
