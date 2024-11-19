@@ -20,7 +20,7 @@ permalink: /attendees/
 	Jane Ahn @ SK hynix
 </li>
 <li>
-	Don Lim @ SK hynix
+	Don Kim @ SK hynix
 </li>
 <li>
 	Dongkyun Lim @ SK hynix
