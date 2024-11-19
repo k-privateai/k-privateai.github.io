@@ -9,10 +9,13 @@ permalink: /attendees/
 </head>
 
 <h2>
-	Attendees confirmed by phone calls - 12.4 people
+	Attendees confirmed by phone calls - 12.6 people
 </h2>
 
 <ul>
+<li>
+	Gyehyon (Andrea) Jo - CEO @ MVLASF
+</li>
 <li>
 	Minyong Shin
 </li>
@@ -48,6 +51,9 @@ permalink: /attendees/
 </li>
 <li>
 	Kiyoung Nam - 30%
+</li>
+<li>
+	Juyong Do - 20%
 </li>
 <li>
 	Bumsoo Kim @ Translink investment - 0%
