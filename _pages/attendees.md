@@ -2,7 +2,7 @@
 layout: single
 title: 2nd seminar attendees
 permalink: /attendees/
-date_modified: Tue Nov 19 11:05:47 PST 2024
+date_modified: Tue Nov 19 14:58:09 PST 2024
 ---
 
 <head>
@@ -10,10 +10,13 @@ date_modified: Tue Nov 19 11:05:47 PST 2024
 </head>
 
 <h2>
-	Attendees confirmed by phone calls - 16.6 people
+	Attendees confirmed by phone calls - 17.6 people
 </h2>
 
 <ul>
+<li>
+	Yongjin Oh
+</li>
 <li>
 	Jongrok Choi - HR @ Samsung SDI
 </li>
