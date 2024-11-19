@@ -10,10 +10,13 @@ date_modified: Tue Nov 19 02:16:53 PST 2024
 </head>
 
 <h2>
-	Attendees confirmed by phone calls - 14.6 people
+	Attendees confirmed by phone calls - 15.6 people
 </h2>
 
 <ul>
+<li>
+	Woosung Jung - Director @ LG Electronics America
+</li>
 <li>
 	Soohyun Bae - CEO @ Podonos
 </li>
