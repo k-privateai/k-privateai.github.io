@@ -14,6 +14,9 @@ permalink: /attendees/
 
 <ul>
 <li>
+	Soohyun Bae - CEO @ Podonos
+</li>
+<li>
 	Gyehyon (Andrea) Jo - CEO @ MVLASF
 </li>
 <li>
