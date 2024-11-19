@@ -9,10 +9,13 @@ permalink: /attendees/
 </head>
 
 <h2>
-	Attendees confirmed by phone calls - 11.2 people
+	Attendees confirmed by phone calls - 12.4 people
 </h2>
 
 <ul>
+<li>
+	Minyong Shin
+</li>
 <li>
 	Kyun Hong Kim - Director @ LG tech ventures
 </li>
@@ -32,10 +35,10 @@ permalink: /attendees/
 	Minsun (Christine) Cho + 3
 </li>
 <li>
-	Misook Jung @ Micron - 50%
+	Hagoon Jang - biochemistry postdoc @ Stanford University - 60%
 </li>
 <li>
-	Hagoon Jang - biochemistry postdoc @ Stanford University - 60%
+	Misook Jung @ Micron - 50%
 </li>
 <li>
 	Henry Noh - 50%
@@ -44,6 +47,12 @@ permalink: /attendees/
 	Seong Hoon Suh @ KDB investment - 50%
 </li>
 <li>
+	Kiyoung Nam - 30%
+</li>
+<li>
 	Bumsoo Kim @ Translink investment - 0%
+</li>
+<li>
+	Jay Eum @ GFT Ventures - 0%
 </li>
 </ul>
