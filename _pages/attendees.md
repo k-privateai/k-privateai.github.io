@@ -9,7 +9,7 @@ permalink: /attendees/
 </head>
 
 <h2>
-	Attendees confirmed by phone calls
+	Attendees confirmed by phone calls - 11.2 people
 </h2>
 
 <ul>
