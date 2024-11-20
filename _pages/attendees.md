@@ -10,10 +10,16 @@ date_modified: Tue Nov 19 14:58:09 PST 2024
 </head>
 
 <h2>
-	Attendees confirmed by phone calls - 17.6 people
+	Attendees confirmed by phone calls - 22.6 people
 </h2>
 
 <ul>
+<li>
+	Heesun Jun @ apptest.AI + 1
+</li>
+<li>
+	Kyunmin Kwon @ Samsung Electronics America + 1
+</li>
 <li>
 	Yongjin Oh
 </li>
