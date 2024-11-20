@@ -18,7 +18,7 @@ date_modified: Tue Nov 19 14:58:09 PST 2024
 	Yongjin Oh
 </li>
 <li>
-	Jongrok Choi - HR @ Samsung SDI
+	Jongrok Choi - HR @ Samsung SDI America
 </li>
 <li>
 	Woosung Jung - Director @ LG Electronics America
