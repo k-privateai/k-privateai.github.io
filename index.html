@@ -44,12 +44,16 @@ last_modified: Mon Nov 18 06:17:50 PST 2024
 </li>
 </ul>
 
+<h1 id="blog">Most recent blog posts</h1>
+<ul>
+	{% for post in site.posts limit:10 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
+
 <h1 id="seminars">Seminars</h1>
-
-<a href="/blog/PDT-KPAI-seminar-invitation/">2024 - seminar-series invitation</a>
-
-<br>
-<a href="#seminars">2025 - seminar-series invitation</a>
 
 <h2 id="ai-strikes-back">
 	The AI Strikes Back: A New Hope in Cryptography
