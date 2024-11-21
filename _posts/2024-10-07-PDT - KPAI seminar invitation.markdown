@@ -111,7 +111,7 @@ And the series will continue with more seminars beyond these first two.
 		</strong>
 		- 실리콘 요새: 철과 모래 위에 세우는 AI 데이터 제국!
 		by
-		Chanik Park - VP @ Samsung Electronics
+		Chanik Park - EVP @ Samsung Electronics
     </li>
     <li>
 		<strong>
