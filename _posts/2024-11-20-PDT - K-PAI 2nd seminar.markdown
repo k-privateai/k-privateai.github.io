@@ -22,9 +22,11 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 
 The 2nd K-PAI seminar was successfully held on November 20, 2024, drawing an impressive crowd of over 35 attendees. The event was a unique opportunity to delve into the intriguing theory and technology of homomorphic cryptography, explore its recent advancements, and understand its practical applications across various industries.
 
-Attendees had the chance to network with key figures from Silicon Valley's tech scene, including engineers, scientists, market analysts, HR professionals, entrepreneurs, investors, and journalists, representing both burgeoning startups and established tech giants from the South Bay area.
+The attendees had the chance to network with key figures from Silicon Valley's tech scene, including engineers, scientists, market analysts, HR professionals, entrepreneurs, investors, and journalists, representing both burgeoning startups and established tech giants from the South Bay area.
 
+<!--
 The seminar concluded on a high note, leaving us with a strong sense of optimism about K-PAI's growth and a shared anticipation for the exciting seminar and non-seminar events planned for the future.
+-->
 
 <a href="https://www.reddit.com/r/StarWars/comments/1fbaqis/i_have_a_bad_feeling_about_this/">We had a very good feeling about this</a>
 leaving the event with a strong sense of optimism about K-PAI's trajectory,
