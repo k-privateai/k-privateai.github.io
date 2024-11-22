@@ -1,7 +1,7 @@
 ---
-title: The 2nd K-PAI Seminar
+title: Reflections on the 2nd K-PAI Seminar (20-Nov-2024)
 date: Thu Nov 21 10:51:49 PST 2024
-last_modified_at: Fri Nov 22 09:39:49 PST 2024
+last_modified_at: Fri Nov 22 13:24:12 PST 2024
 categories:
  - blog
 tags:
