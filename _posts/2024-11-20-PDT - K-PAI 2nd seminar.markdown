@@ -1,7 +1,7 @@
 ---
 title: The 2nd K-PAI Seminar
 date: Thu Nov 21 10:51:49 PST 2024
-last_modified_at: Thu Nov 21 11:31:17 PST 2024
+last_modified_at: Fri Nov 22 09:39:49 PST 2024
 categories:
  - blog
 tags:
@@ -69,4 +69,26 @@ looking forward to a multitude of exciting seminars and other events yet to come
 
 <div class="img-container">
 <img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-47-28 008.jpeg">
+</div>
+
+<h2 id="photo-appendix">Appendix</h2>
+
+<div class="img-container">
+<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-43-55 001.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-44-04 002.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-44-35 006.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-17-54-57 001.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-46-10 001.jpeg">
 </div>
