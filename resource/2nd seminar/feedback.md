@@ -3,7 +3,7 @@ layout: single
 title: The feedback for the 2nd seminar
 permalink: /2nd-seminar/feedback/
 date: Fri Nov 22 09:45:27 PST 2024
-date_modified: Fri Nov 22 09:45:27 PST 2024
+date_modified: Fri Nov 22 10:31:43 PST 2024
 ---
 
 <head>
@@ -78,5 +78,17 @@ date_modified: Fri Nov 22 09:45:27 PST 2024
 
 <br>
 - H.J.
+</blockquote>
+
+<blockquote>
+<p>
+아주 좋았어.
+주제도 재미있고, 교재시간도 좋고.
+</p>
+<p>
+발표하실게 많아서 질문 기회를 못잡아 아쉬었지. 다음에 뵈면 여쭈어볼게 좀 있네. (grin)
+</p>
+
+- J.D.
 </blockquote>
 
