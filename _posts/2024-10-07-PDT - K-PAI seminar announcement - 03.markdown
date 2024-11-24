@@ -39,7 +39,7 @@ The second seminar, in particular, brought together a number of remarkable profe
 <!-- It was hard to disperse the crowd in the middle of
 active networking. :) -->
 The energy was so palpable that it was hard to wrap up the event amidst the lively exchanges!
-(Check out our reflections on the [2nd K-PAI Seminar](/seminar-reflections/02/).
+(Check out [our reflections on the 2nd K-PAI Seminar](/blog/PDT-K-PAI-2nd-seminar/).
 
 <!--Having said that,
 we are excited to invite you to yet another seminar of ours!-->

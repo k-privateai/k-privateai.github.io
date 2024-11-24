@@ -2,7 +2,6 @@
 title: The 2nd K-PAI Seminar Invitation
 date: Nov 18 PST 2024
 last_modified_at: Mon Nov 18 16:40:55 PST 2024
-permalink: /seminar-announcements/02
 categories:
  - blog
 tags:
