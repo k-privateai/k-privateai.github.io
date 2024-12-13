@@ -46,11 +46,11 @@ The AI Knight Rises: From Deep Learning to Flourishing Societies
 
 <ul>
 <li>
-	speaker: <a href="https://sungheeyun.github.io/">Sunghee Yun</a>
+	Speaker: <a href="https://sungheeyun.github.io/">Sunghee Yun</a>
 	- Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
 </li>
 <li>
-	data &amp; time: 6:00PM - 8:00PM on Jan 22, 2025 (wed)
+	Data &amp; time: 6:00PM - 8:00PM on Jan 22, 2025 (wed)
 </li>
 <li>
 	Venue: TBD
