@@ -30,7 +30,7 @@ Thanks to your enthusiastic participation and support, the first two K-PAI semin
 The second seminar, in particular, brought together a number of remarkable professionals—entrepreneurs, investors,
 engineers, scientists, market analysts, HR leaders, and even journalists—sparking vibrant discussions and active networking.
 The energy was so palpable that it was hard to wrap up the event amidst the lively exchanges!
-(Check out [our reflections on the 2nd K-PAI Seminar](/blog/PDT-K-PAI-2nd-seminar/).
+(Check out [our reflections on the 2nd K-PAI Seminar](/blog/PDT-K-PAI-2nd-seminar/)).
 
 Following the success of our first two K-PAI seminars, we're thrilled to invite you to yet another event of ours!
 
