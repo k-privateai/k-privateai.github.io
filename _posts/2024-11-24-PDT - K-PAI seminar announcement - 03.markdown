@@ -24,21 +24,23 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 <h1 id="invitation">Invitation</h1>
 
 <hr>
-Dear Innovators, Visionaries &amp; Tech Enthusiasts of Silicon Valley,
+Greetings, Silicon Valley Innovators, Visionaries &amp; Tech Enthusiasts!
 
 Thanks to your enthusiastic participation and support, the first two K-PAI seminars were a resounding success!
-The second seminar, in particular, brought together a number of remarkable professionals—engineers, scientists, market analysts, HR leaders, entrepreneurs, investors, and journalists—sparking vibrant discussions and active networking.
+The second seminar, in particular, brought together a number of remarkable professionals—entrepreneurs, investors,
+engineers, scientists, market analysts, HR leaders, and even journalists—sparking vibrant discussions and active networking.
 The energy was so palpable that it was hard to wrap up the event amidst the lively exchanges!
 (Check out [our reflections on the 2nd K-PAI Seminar](/blog/PDT-K-PAI-2nd-seminar/).
 
 Following the success of our first two K-PAI seminars, we're thrilled to invite you to yet another event of ours!
 
-<h1 id="3rd-seminar">
+<!--h1 id="3rd-seminar">
 The 3rd K-PAI Seminar
-</h1>
+</h1-->
 
 <h2 id="ai-knight-rises">
-The AI Knight Rises: Deep Learning to Flourishing Societies
+[The 3rd K-PAI Seminar]
+The AI Knight Rises: From Deep Learning to Flourishing Societies
 </h2>
 인공지능의 비상: 딥러닝을 넘어서!
 
@@ -55,6 +57,13 @@ The AI Knight Rises: Deep Learning to Flourishing Societies
 </li>
 </ul>
 
+This seminar will explore the rapid evolution of AI, focusing
+on the last decade's breakthroughs like deep learning (DL) and large language models (LLMs),
+and their impact on industries and markets.
+It delves into both the promises and perils of AI, offering strategies
+for navigating an AI-driven future while maximizing benefits and mitigating risks.
+Finally, it examines deeper questions about AI's capabilities, consciousness, and the very nature of its knowledge.
+
 Please RSVP via [this link](https://forms.gle/aZgU4A5uxVBmUwa79)!
 
 <blockquote>
@@ -65,10 +74,10 @@ and tell us whether you want us to share your information
 within our network.
 </blockquote>
 
-(Gain insights from Sunghee Yun, an expert leading the intersection of AI and biotechnology,
+<!--(Gain insights from Sunghee Yun, an expert leading the intersection of AI, semiconductor &amp; biotechnology,
 as he explores how AI transcends deep learning to impact industries, societies, and economies.
 Discover more about his interests and perspectives on AI
-by visiting his <a href="https://sungheeyun.github.io/articles">AI Insights Hub</a> and <a href="https://sungheeyun.github.io/papers">AI Papers Hub</a>.)
+by visiting his <a href="https://sungheeyun.github.io/articles">AI Insights Hub</a> and <a href="https://sungheeyun.github.io/papers">AI Papers Hub</a>.)-->
 
 <h2 id="why-attend">Why you should attend?</h2>
 
@@ -84,6 +93,7 @@ This series is designed for individuals interested in acquiring and integrating 
 
 - Individuals eager to integrate AI into their professional lives
 - Entrepreneurs seeking to leverage AI for innovative business solutions
+- VCs and other investors seeking to identify and fund high-growth startups
 - Professionals looking to enhance their skills and stay ahead of the curve
 - Anyone who wants to broaden their network with great tech talents, influencers &amp; celebrities in Silicon Valley
 
