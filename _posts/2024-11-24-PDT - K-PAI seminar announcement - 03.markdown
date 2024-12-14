@@ -26,7 +26,7 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 <hr>
 Greetings, Silicon Valley Innovators, Visionaries &amp; Tech Enthusiasts!
 
-Thanks to your enthusiastic participation and support, the first two K-PAI seminars were a resounding success!
+Thanks to your enthusiastic participation and support, the first two Silicon Valley Private AI Forum (K-PAI) seminars were a resounding success!
 The second seminar, in particular, brought together a number of remarkable professionals—entrepreneurs, investors,
 engineers, scientists, market analysts, HR leaders, and even journalists—sparking vibrant discussions and active networking.
 The energy was so palpable that it was hard to wrap up the event amidst the lively exchanges!
@@ -53,7 +53,7 @@ The AI Knight Rises: From Deep Learning to Flourishing Societies
 	Data &amp; time: 6:00PM - 8:00PM on Jan 22, 2025 (wed)
 </li>
 <li>
-	Venue: TBD
+	Venue: <a href="https://maps.app.goo.gl/eDqYCLBccj54VnHc9">Stanford University</a>
 </li>
 </ul>
 
