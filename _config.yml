@@ -16,7 +16,7 @@
 
 repository: k-privateai/k-privateai.github.io
 
-title: "K-PAI: Korean Private AI Forum"
+title: "K-PAI: Silicon Valley Private AI Forum"
 email: k.prvaite.ai@gmail.com
 description: K-PAI Homepage
 twitter_username: username
@@ -63,10 +63,16 @@ plugins:
 author:
   name             : "K-PAI"
   avatar           : "/assets/images/k-on-pie.png"
-  bio              : "Korean Private AI Forum"
+  bio              : "Silicon Valley Private AI Forum"
 #  location         : "Silicon Valley, CA, USA"
-  email            : k.private.ai@gmail.com
+#  email            : k.private.ai@gmail.com
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/k-privateai/k-privateai.github.io"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:k.private.ai@gmail.com"
     - label: "Silicon Valley, CA, USA"
       icon: "fas fa-map-marker-alt"
       url: "https://maps.app.goo.gl/74sNfTckzm9aCz619"
@@ -82,9 +88,6 @@ author:
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
 #      url: "https://facebook.com/sunghee.yun1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/k-privateai"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://www.instagram.com/sunghee.yun/"
@@ -96,9 +99,15 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/k-privateai/k-privateai.github.io"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:k.private.ai@gmail.com"
+    - label: "Silicon Valley, CA, USA"
+      icon: "fas fa-map-marker-alt"
+      url: "https://maps.app.goo.gl/74sNfTckzm9aCz619"
 #    - label: "CV"
 #      icon: "fab fa-fw fa-instagram"
 #      url: /resource/CV/Sunghee_Yun_CV_2.pdf
@@ -108,9 +117,6 @@ footer:
 #    - label: "Facebook"
 #      icon: "fab fa-fw fa-facebook-square"
 #      url: "https://facebook.com/sunghee.yun1"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/k-privateai"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://www.instagram.com/sunghee.yun/"
