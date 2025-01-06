@@ -1,7 +1,7 @@
 ---
 title: The 3rd K-PAI Seminar Invitation
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Sun Nov 24 09:48:08 PST 2024
+last_modified_at: Mon Jan  6 11:35:45 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -18,7 +18,9 @@ toc_sticky: true
 	<link rel="stylesheet" href="/resource/styles.css">
 </head>
 
-posted: {{ page.date | date: "%d-%b-%Y" }}
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 <h1 id="invitation">Invitation</h1>
@@ -53,7 +55,7 @@ The AI Knight Rises: From Deep Learning to Flourishing Societies
 	Data &amp; time: 6:00PM - 8:00PM on Jan 22, 2025 (wed)
 </li>
 <li>
-	Venue: <a href="https://maps.app.goo.gl/eDqYCLBccj54VnHc9">Stanford University</a>
+	Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
 </li>
 </ul>
 
