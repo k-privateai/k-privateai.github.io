@@ -5,10 +5,6 @@ permalink: /attendees/
 date_modified: Tue Nov 19 14:58:09 PST 2024
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
 <h2>
 	Attendees confirmed by phone calls - 22.6 people
 </h2>

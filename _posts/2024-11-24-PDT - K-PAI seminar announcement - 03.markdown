@@ -14,10 +14,6 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-<head>
-	<link rel="stylesheet" href="/resource/styles.css">
-</head>
-
 posted: {{ page.date| date: "%d-%b-%Y" }}
 &amp;
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
