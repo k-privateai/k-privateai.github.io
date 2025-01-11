@@ -1,7 +1,7 @@
 ---
 title: The 3rd K-PAI Seminar Invitation
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Mon Jan  6 11:35:45 PST 2025
+last_modified_at: Sat Jan 11 02:44:35 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -36,9 +36,17 @@ Following the success of our first two K-PAI seminars, we're thrilled to invite 
 The 3rd K-PAI Seminar
 </h1-->
 
+<ul>
+<li>
+	Data: Jan 22, 2025 (wed)
+</li>
+<li>
+	Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
+</li>
+</ul>
+
 <h2 id="ai-knight-rises">
-[The 3rd K-PAI Seminar]
-The AI Knight Rises: From Deep Learning to Flourishing Societies
+[Seminar] The AI Knight Rises - From Deep Learning to Flourishing Societies
 </h2>
 인공지능의 비상: 딥러닝을 넘어서!
 
@@ -48,10 +56,7 @@ The AI Knight Rises: From Deep Learning to Flourishing Societies
 	- Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
 </li>
 <li>
-	Data &amp; time: 6:00PM - 8:00PM on Jan 22, 2025 (wed)
-</li>
-<li>
-	Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
+	Time: 6:00PM - 6:45PM (45 min)
 </li>
 </ul>
 
@@ -61,6 +66,54 @@ and their impact on industries and markets.
 It delves into both the promises and perils of AI, offering strategies
 for navigating an AI-driven future while maximizing benefits and mitigating risks.
 Finally, it examines deeper questions about AI's capabilities, consciousness, and the very nature of its knowledge.
+
+<h2 id="ai-knight-rises">
+[Panel Discussion]
+AI at the Inflection Point
+-
+Navigating Impact, Innovation &amp; Integration
+</h2>
+
+<ul>
+<li>
+	Panelists:
+	<ul>
+	<li>
+		<a href="https://sungheeyun.github.io/">Sunghee Yun</a>
+		- Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
+	</li>
+	<li>
+		<a href="https://www.linkedin.com/in/jayeum/">Jay Eum</a>
+		- Founding Managing Partner @ <a href="https://www.gft.vc/">GFT Ventures</a>
+	</li>
+	<li>
+		Someone from academia
+	</li>
+	<li>
+		Someone from tech industry
+	</li>
+	</ul>
+</li>
+<li>
+	Moderator:
+	<a href="https://www.linkedin.com/in/dayoungjeong/">Dayoung Jeong</a>
+	- Associate Professor of Law at Chungnam National University
+</li>
+<li>
+	Time: 6:50PM - 7:15PM (25 min)
+</li>
+</ul>
+
+In an era where artificial intelligence is reshaping our world at an unprecedented pace,
+"AI at the Inflection Point" brings together
+leading experts from industry, academia, and investment to explore the critical crossroads where technology, society, and business converge.
+This dynamic panel discussion delves into three crucial dimensions:
+the far-reaching impact of AI across industries and society, groundbreaking
+innovations driving its evolution, and strategic approaches to building successful AI businesses across startups and enterprises.
+Join us as our distinguished panelists share insights on navigating this transformative period,
+with an opportunity to engage in deeper discussions with the panelists during dedicated networking sessions.
+
+
 
 Please RSVP via [this link](https://forms.gle/aZgU4A5uxVBmUwa79)!
 
