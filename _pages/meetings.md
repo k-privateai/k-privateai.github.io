@@ -190,7 +190,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	</ul>
 </li>
 <li>
-	find two more panelists (owned by Sunghee (and Jung Hee, CI, VP), due: 15-Jan-2025)
+	find two more panelists
 	<ul>
 	<li>
 		priority: H
@@ -275,7 +275,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		due: 15-Jan-2025
 	</li>
 	<li>
-		status: DONE on 12-Jan-2025
+		COMPLETED on 12-Jan-2025
 	</li>
 	</ul>
 </li>
@@ -292,7 +292,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		result: Hoshik confirmed that he WILL join the Feb seminar as panelist on 12-Feb-2025
 	</li>
 	<li>
-		status: DONE on 12-Jan-2025
+		COMPLETED on 12-Jan-2025
 	</li>
 	</ul>
 </li>
