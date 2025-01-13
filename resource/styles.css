@@ -13,11 +13,13 @@
   --caption-font-size: 15px;
 }
 
+/*
 @media (max-width: 768px) {
   :root {
     --body-font-size: 14px;
   }
 }
+*/
 
 body {
 	font-family: 'Merriweather', serif;
@@ -63,11 +65,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .callout {
+    /*
     border: 2px solid #ffcc00;
+    */
+    /*
     background-color: #fff9c4;
+    background-color: #9b9bff;
+    */
+    background-color: #bdbdff;
     padding: 10px;
     margin: 10px 0;
-    border-radius: 10px;
+    border-radius: 5px;
 }
 
 /* Properties of animated graphs by JavaScript */
@@ -125,7 +133,8 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .map-container iframe {
-	max-width: 80%;
+	max-width: 90%;
+	max-height: 50vh;
 	max-height: 200px;
 }
 
@@ -135,23 +144,42 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fig-container figure {
+	max-width: 90%;
 	display: inline-block;
-	max-width: 80%;
+	max-height: 50vh;
 }
 
 figcaption {
-  font-family: 'Montserrat', serif;
-  font-size: var(--caption-font-size);
+	width: 90%;
+	margin: 0 auto; /* Center the block horizontally */
+	text-align: justify; 
+	font-family: 'Montserrat', serif;
+	font-size: var(--caption-font-size);
+	margin-bottom: 1em;
 }
 
 .img-container {
 	text-align: center;
-	margin-top: 0em;
+	margin-top: 1em;
 	margin-bottom: 1em;
 }
 
 .img-container img {
-	max-width: 80%;
+	max-width: 90%;
+	max-height: 50vh;
+}
+
+.img-container-justified {
+	text-align: center;
+	margin-top: 0em;
+	margin-bottom: 1em;
+	display: flex;
+	justify-content: space-between;
+}
+
+.img-container-justified img {
+	max-width: 49%;
+	max-height: 50vh;
 }
 
 .article-iframe-container {
@@ -161,7 +189,7 @@ figcaption {
 }
 
 .article-iframe-container iframe {
-	max-width: 80%;
+	max-width: 90%;
 	max-height: 200px;
 }
 
@@ -242,4 +270,19 @@ tr:nth-child(even) {
 caption {
 	font-weight: bold;
 	margin-bottom: 10px;
+}
+
+.borderless-table,
+.borderless-table tr,
+.borderless-table td {
+	border: none !important;
+	padding: 0 !important;
+	background: transparent !important;
+	margin: 0 !important;
+	font-family: 'Merriweather', serif;
+	font-size: var(--body-font-size);
+	line-height: 1.6;
+	color: #222;
+	text-align: left;
+	padding: 0 10px 0 0 !important;
 }
