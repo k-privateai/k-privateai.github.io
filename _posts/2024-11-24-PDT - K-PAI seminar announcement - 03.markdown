@@ -67,7 +67,7 @@ It delves into both the promises and perils of AI, offering strategies
 for navigating an AI-driven future while maximizing benefits and mitigating risks.
 Finally, it examines deeper questions about AI's capabilities, consciousness, and the very nature of its knowledge.
 
-<h2 id="ai-knight-rises">
+<h2 id="panel-discussion">
 [Panel Discussion]
 AI at the Inflection Point
 -
