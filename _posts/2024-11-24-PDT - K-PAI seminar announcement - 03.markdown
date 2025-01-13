@@ -87,10 +87,10 @@ Navigating Impact, Innovation &amp; Integration
 		- Founding Managing Partner @ <a href="https://www.gft.vc/">GFT Ventures</a>
 	</li>
 	<li>
-		Someone from academia
+		outstanding figure from academia
 	</li>
 	<li>
-		Someone from tech industry
+		outstanding figure from tech industry
 	</li>
 	</ul>
 </li>
