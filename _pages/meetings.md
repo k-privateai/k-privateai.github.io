@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Sun Jan 12 02:20:26 PST 2025
+last_modified_at: Sun Jan 12 16:17:37 PST 2025
 categories:
  - blog
 toc: true
@@ -18,6 +18,49 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 
+<h1 id="03">The 3rd meeting @ Starbucks on 12-Jan-2025</h1>
+
+<ul>
+<li>
+	attendees: Jung Hee, Sunghee, Daejun (dubbed VP)
+</li>
+<li>
+	location: <a target="_blank" href="https://maps.app.goo.gl/85zkWq3idpd2E2bi7">Starbucks, River Oaks, San Jose</a>
+</li>
+<li>
+	agenda
+	<ul>
+	<li>
+		announcement dates for the 3rd seminar
+	</li>
+	<li>
+		panelists - Prof. Stephen Boyd? Andrew Ng? Luu - Senior Principal Engineer @ Amazon?
+	</li>
+	<li>
+		QR code &amp; electronic passes
+	</li>
+	<li>
+		make 3rd seminar hybrid (i.e., virtual &amp; offline)?
+	</li>
+	<li>
+		get helper for the 3rd seminar (chairs, etc.)
+	</li>
+	<li>
+		Feb seminar (4th) plan &amp; invitation of Senator Yang
+	</li>
+	<li>
+		plan Mar seminar (5th)
+	</li>
+	<li>
+		catering (cost by IRC)
+	</li>
+	<li>
+		more sponsors?
+	</li>
+	</ul>
+</li>
+</ul>
+
 <h1 id="02">The 2nd meeting @ Fox Theater on 10-Jan-2025</h1>
 
 <ul>
@@ -25,7 +68,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	attendees: Jung Hee, Sunghee, Daejun (dubbed VP)
 </li>
 <li>
-	location: <a href="https://maps.app.goo.gl/wB46vzt62DQpK91Z8">Fox Theater, Redwood City</a>
+	location: <a target="_blank" href="https://maps.app.goo.gl/wB46vzt62DQpK91Z8">Fox Theater, Redwood City</a>
 </li>
 <li>
 	agenda: organization structure, panel discussion, future events
@@ -52,7 +95,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	</li>
 	<li>
 		panelists for Jan seminar
-		- Sunghee, Jay Eum, one from academia, one from industry (proposed to <a href="linkedin.com/in/hyunvincero">HyungJoon Jung @ Adobe</a>)
+		- Sunghee, Jay Eum, one from academia, one from industry
 	</li>
 	<li>
 		will accept regular members (if they complete attendance of two seminars)
