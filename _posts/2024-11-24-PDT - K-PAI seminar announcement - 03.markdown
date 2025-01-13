@@ -80,17 +80,21 @@ Navigating Impact, Innovation &amp; Integration
 	<ul>
 	<li>
 		<a href="https://sungheeyun.github.io/">Sunghee Yun</a>
-		- Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
+		-
+		Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
 	</li>
 	<li>
 		<a href="https://www.linkedin.com/in/jayeum/">Jay Eum</a>
-		- Founding Managing Partner @ <a href="https://www.gft.vc/">GFT Ventures</a>
+		-
+		Founding Managing Partner @ <a href="https://www.gft.vc/">GFT Ventures</a>
 	</li>
 	<li>
-		outstanding figure from academia
+		<a href="https://www.linkedin.com/in/y-park/">Youngsuk Park</a>
+		-
+		Senior Applied Scientist &amp; Manager @ Amazon
 	</li>
 	<li>
-		outstanding figure from tech industry
+		outstanding figure from either academia or industry
 	</li>
 	</ul>
 </li>
@@ -110,7 +114,7 @@ leading experts from industry, academia, and investment to explore the critical 
 This dynamic panel discussion delves into three crucial dimensions:
 the far-reaching impact of AI across industries and society, groundbreaking
 innovations driving its evolution, and strategic approaches to building successful AI businesses across startups and enterprises.
-Join us as our distinguished panelists share insights on navigating this transformative period,
+Join us as our distinguished panelists with outstanding track records in their fields share insights on navigating this transformative period,
 with an opportunity to engage in deeper discussions with the panelists during dedicated networking sessions.
 
 
