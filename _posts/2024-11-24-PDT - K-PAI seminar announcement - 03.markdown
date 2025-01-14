@@ -1,7 +1,7 @@
 ---
 title: The 3rd K-PAI Seminar Invitation
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Sat Jan 11 02:44:35 PST 2025
+last_modified_at: Tue Jan 14 02:02:48 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -127,6 +127,15 @@ please fill out <a href="https://forms.gle/aZgU4A5uxVBmUwa79">the form</a>
 to leave your contact information
 and tell us whether you want us to share your information
 within our network.
+</blockquote>
+
+<blockquote>
+Anyone who attends two seminars will automatically be designated as a <font class="emph">K-PAI regular member</font>
+(unless they opt out)
+while attendees of any single seminar will automatically be designated as <font class="emph">K-PAI associate members</font>
+(unless they opt out).
+Regular members enjoy exclusive benefits, including access to regular and special gatherings for networking and socializing,
+in addition to participation in official seminars.
 </blockquote>
 
 <!--(Gain insights from Sunghee Yun, an expert leading the intersection of AI, semiconductor &amp; biotechnology,
