@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Tue Jan 14 01:43:35 PST 2025
+last_modified_at: Wed Jan 15 00:35:12 PST 2025
 categories:
  - blog
 toc: true
@@ -31,7 +31,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		owned by Sunghee
 	</li>
 	<li>
-		due: 13-Jan-2025
+		<font color="red">due: 13-Jan-2025</font>
 	</li>
 	</ul>
 </li>
@@ -67,16 +67,25 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		<li>
 			Sunghee asked
 			<a href="https://www.linkedin.com/in/jiyangkang/">Jiyang Kang @ Google</a> &amp; <a href="https://www.linkedin.com/in/bohyung-han-2249255/">Prof. Bohyung Han</a>
-			@ 12-Jan-2025, both of whom said they can't.
+			on 12-Jan-2025, both of whom said they can't.
 		</li>
 		<li>
 			<a href="https://www.linkedin.com/in/y-park/">Youngsuk Park</a>,
 			who is a Senior Applied Scientist &amp; Manager @ Amazon,
 			has accepted the ask to be a panelist
+			on 13-Jan-2025
 		</li>
 		<li>
-			Jung Hee kindly offered help and sent an email to professor-to-be Sewon Min,
-			who will join EECS @ UC Berkeley soon.
+			Jung Hee kindly offered help and sent an email to professor-to-be <a href="https://www.sewonmin.com/">Sewon Min</a>,
+			who will join EECS @ UC Berkeley soon
+			on 13-Jan-2025
+		</li>
+		<li>
+			<a href="https://www.sewonmin.com/">Sewon</a> got back to us saying she can't make it,
+			but Sunghee once again asked to come with offering flight and accommodation cost
+			and to join us virtually at the least;
+			waiting for her reply
+			on 13-Jan-2025
 		</li>
 		</ul>
 	</li>
