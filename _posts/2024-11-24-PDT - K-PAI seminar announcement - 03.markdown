@@ -1,7 +1,7 @@
 ---
 title: The 3rd K-PAI Seminar Invitation
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Tue Jan 14 02:02:48 PST 2025
+last_modified_at: Wed Jan 15 00:26:55 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -60,7 +60,9 @@ The 3rd K-PAI Seminar
 </li>
 </ul>
 
-This seminar will explore the rapid evolution of AI, focusing
+Because to truly see the holistic view of the rising technology called Artificial Intelligence (AI),
+we have to see not only the technology, but other areas such as industry, market, hardware, society, ethics, entrepreneurs, and even investors.
+For that, this seminar will explore the rapid evolution of AI, focusing
 on the last decade's breakthroughs like deep learning (DL) and large language models (LLMs),
 and their impact on industries and markets.
 It delves into both the promises and perils of AI, offering strategies
