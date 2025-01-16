@@ -59,7 +59,9 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		owned by Sunghee (and Jung Hee, CI, SVP)
 	</li>
 	<li>
+		<font color="red">
 		due: 15-Jan-2025
+		</font>
 	</li>
 	<li>
 		progress
