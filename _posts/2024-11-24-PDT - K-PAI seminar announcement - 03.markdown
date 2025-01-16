@@ -1,7 +1,7 @@
 ---
 title: The 3rd K-PAI Seminar Invitation
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Wed Jan 15 00:26:55 PST 2025
+last_modified_at: Wed Jan 15 22:48:13 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -162,6 +162,18 @@ as he explores how AI transcends deep learning to impact industries, societies, 
 Discover more about his interests and perspectives on AI
 by visiting his <a href="https://sungheeyun.github.io/articles">AI Insights Hub</a> and <a href="https://sungheeyun.github.io/papers">AI Papers Hub</a>.)-->
 
+The hosting organization of K-PAI is
+<a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU PrivateAI Initiative / HERC</a>!
+(HERC: Homomorphic Encryption Research Center)
+
+<div class="img-container-justified">
+&nbsp;
+<img width="100" src="/assets/images/SNU-logo.png">
+<img width="100" src="/assets/images/k-on-pie.png">
+<img width="125" src="/assets/images/kappa-to-pi.png">
+&nbsp;
+</div>
+
 <h2 id="why-attend">Why you should attend?</h2>
 
 - Cutting-Edge Knowledge: Gain access to the latest advancements in AI and its potential impact across industries.
@@ -180,26 +192,11 @@ This series is designed for individuals interested in acquiring and integrating 
 - Professionals looking to enhance their skills and stay ahead of the curve
 - Anyone who wants to broaden their network with great tech talents, influencers &amp; celebrities in Silicon Valley
 
-
-<p>
 We look forward to your participation in what promises to be an enriching series of learning and discussions.
 If you have any questions or topics you’d like to propose, feel free to reach out!
-</p>
 
-<div class="centered-container">
-<img width="15%" src="/assets/images/kappa-to-pi.png">
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-<img width="20%" src="/assets/images/k-on-pie.png">
-</div>
-
-<p>
 Best regards,
-<br>
-<br>
+
 K-PAI Organizing Committee
 <br>
 email: <a href="mailto:k.private.ai@gmail.com">k.private.ai@gmail.com</a>
-</p>
