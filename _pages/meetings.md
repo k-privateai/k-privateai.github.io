@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Wed Jan 15 00:35:12 PST 2025
+last_modified_at: Wed Jan 15 16:39:03 PST 2025
 categories:
  - blog
 toc: true
@@ -133,6 +133,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	</li>
 	</ul>
 </li>
+<font color="gray">
 <li>
 	ask Sehui re students' preference on food, after-party place, potential helpers, etc.
 	<ul>
@@ -145,9 +146,11 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	<li>
 		due: 15-Jan-2025
 	</li>
+	<li>
+		COMPLETED on 15-Jan-2025
+	</li>
 	</ul>
 </li>
-<font color="gray">
 <li>
 	notify Senator Yang re the Feb seminar
 	<ul>
@@ -180,6 +183,61 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	</ul>
 </li>
 </font>
+</ul>
+
+<h1 id="special-01">Special meeting with Stanford students @ SGD on 15-Jan-2025</h1>
+
+<ul>
+<li>
+	location: <a target="_blank" href="https://maps.app.goo.gl/E9z9oaEYXsM9Foyc6">So Gong Dong Tofu House, Palo Alto</a>
+</li>
+<li>
+	attendees: Sunghee, Sehui &amp; Jaehyuk
+	<div class="img-container">
+		<img src="/resource/meetings/2025-0115-Stanford-students/KakaoTalk_Photo_2025-01-15-15-30-59 001.jpeg">
+	</div>
+</li>
+<li>
+	agenda
+	<ul>
+	<li>
+		purposes &amp; objectives of K-PAI
+	</li>
+	<li>
+		the importance of Private AI &amp; data
+	</li>
+	<li>
+		the current trend and future prediction of AI
+		and some differentiated perspectives
+		on AI landscape
+	</li>
+	</ul>
+</li>
+<li>
+	decisions made
+	<ul>
+	<li>
+		Jaehyuk will take care of all tech stuff related to Zoom recording and virtual panel discussion (if needed)
+	</li>
+	<li>
+		They will bring their friends as helpers for the seminar
+	</li>
+	</ul>
+</li>
+<li>
+	quote of the day!
+	<blockquote>
+		We appreciate it especially when you come with food!
+	</blockquote>
+</li>
+<li>
+	learning
+	<ul>
+	<li>
+		Stanford EE department does do PhD Qualifying Examinations anymore. Shit!
+	</li>
+	</ul>
+</li>
 </ul>
 
 <h1 id="03">The 3rd meeting @ Starbucks on 12-Jan-2025</h1>
