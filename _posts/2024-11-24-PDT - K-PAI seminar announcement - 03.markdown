@@ -60,14 +60,25 @@ The 3rd K-PAI Seminar
 </li>
 </ul>
 
-Because to truly see the holistic view of the rising technology called Artificial Intelligence (AI),
+<!--Because to truly see the holistic view of the rising technology called Artificial Intelligence (AI),
 we have to see not only the technology, but other areas such as industry, market, hardware, society, ethics, entrepreneurs, and even investors.
 For that, this seminar will explore the rapid evolution of AI, focusing
 on the last decade's breakthroughs like deep learning (DL) and large language models (LLMs),
 and their impact on industries and markets.
 It delves into both the promises and perils of AI, offering strategies
 for navigating an AI-driven future while maximizing benefits and mitigating risks.
-Finally, it examines deeper questions about AI's capabilities, consciousness, and the very nature of its knowledge.
+Finally, it examines deeper questions about AI's capabilities, consciousness, and the very nature of its knowledge.-->
+
+Understanding Artificial Intelligence (AI) requires more than just examining the technology itself—it
+demands a comprehensive view encompassing its industrial applications, market dynamics, hardware infrastructure, societal implications,
+ethical considerations, entrepreneurial opportunities, and investment landscape.
+This seminar traces AI's rapid evolution, with particular emphasis on the transformative breakthroughs of the past decade,
+including deep learning (DL), large language models (LLMs), generative AI (genAI), and AI agents.
+We'll explore how these advances are reshaping industries and markets
+while carefully examining both AI's tremendous potential and its inherent challenges.
+<!--Through this exploration, we'll develop strategies for thriving in an AI-driven future, balancing innovation with responsible development.-->
+The seminar concludes by addressing fundamental questions about AI's capabilities,
+the nature of machine intelligence, and its relationship to human consciousness.
 
 <h2 id="panel-discussion">
 [Panel Discussion]
@@ -78,7 +89,7 @@ Navigating Impact, Innovation &amp; Integration
 
 <ul>
 <li>
-	Panelists:
+	Panelists
 	<ul>
 	<li>
 		<a href="https://sungheeyun.github.io/">Sunghee Yun</a>
@@ -96,14 +107,20 @@ Navigating Impact, Innovation &amp; Integration
 		Senior Applied Scientist &amp; Manager @ Amazon
 	</li>
 	<li>
-		outstanding figure from either academia or industry
+		<a href="https://www.linkedin.com/in/ernest-ryu-a20972148/">Ernest Ryu</a>
+		-
+		Adjunct Assistant Professor @ UCLA
 	</li>
 	</ul>
 </li>
 <li>
-	Moderator:
-	<a href="https://www.linkedin.com/in/dayoungjeong/">Dayoung Jeong</a>
-	- Associate Professor of Law at Chungnam National University
+	Moderator
+	<ul>
+	<li>
+		<a href="https://www.linkedin.com/in/dayoungjeong/">Dayoung Jeong</a>
+		- Associate Professor of Law @ Chungnam National University
+	</li>
+	</ul>
 </li>
 <li>
 	Time: 6:50PM - 7:15PM (25 min)
@@ -134,7 +151,7 @@ within our network.
 <blockquote>
 Anyone who attends two seminars will automatically be designated as a <font class="emph">K-PAI regular member</font>
 (unless they opt out)
-while attendees of any single seminar will automatically be designated as <font class="emph">K-PAI associate members</font>
+while attendees of any single seminar will be designated as <font class="emph">K-PAI associate members</font>
 (unless they opt out).
 Regular members enjoy exclusive benefits, including access to regular and special gatherings for networking and socializing,
 in addition to participation in official seminars.
