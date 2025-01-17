@@ -1,7 +1,8 @@
 ---
-title: The 3rd K-PAI Seminar Invitation
+#title: The 3rd K-PAI Seminar Invitation
+title: "The AI Knight Rises - Join Silicon Valley's Premier AI Forum, Networking, and Premium Korean Dining Experience @ Stanford University!"
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Wed Jan 15 22:48:13 PST 2025
+last_modified_at: Thu Jan 16 16:17:38 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -30,44 +31,41 @@ engineers, scientists, market analysts, HR leaders, and even journalists—spark
 The energy was so palpable that it was hard to wrap up the event amidst the lively exchanges!
 (Check out [our reflections on the 2nd K-PAI Seminar](/blog/PDT-K-PAI-2nd-seminar/)).
 
-Following the success of our first two K-PAI seminars, we're thrilled to invite you to yet another event of ours!
+Following the success of our first two K-PAI seminars, we're thrilled to invite you to out next exciting event!
 
 <!--h1 id="3rd-seminar">
 The 3rd K-PAI Seminar
 </h1-->
 
-<ul>
-<li>
-	Data: Jan 22, 2025 (wed)
-</li>
-<li>
-	Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
-</li>
-</ul>
+- Date: Jan 22, 2025 (wed)
+- Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
+
+Please RSVP via [Registration &amp; Membership](https://forms.gle/aZgU4A5uxVBmUwa79)!
+
+<blockquote>
+Even if you cannot attend the seminar,
+please fill out <a href="https://forms.gle/aZgU4A5uxVBmUwa79">Registration &amp; Membership</a>
+to leave your contact information
+and tell us whether you want us to share your information
+within our network.
+</blockquote>
+
+<blockquote>
+Anyone who attends two seminars will automatically be designated as a <font class="emph">K-PAI regular member</font>
+<!--(unless they opt out)-->
+while attendees of any single seminar will be designated as <font class="emph">K-PAI associate members</font>
+(unless they opt out).
+Regular members enjoy exclusive benefits, including access to regular and special gatherings for networking and socializing,
+in addition to participation in official seminars.
+</blockquote>
 
 <h2 id="ai-knight-rises">
 [Seminar] The AI Knight Rises - From Deep Learning to Flourishing Societies
 </h2>
 인공지능의 비상: 딥러닝을 넘어서!
 
-<ul>
-<li>
-	Speaker: <a href="https://sungheeyun.github.io/">Sunghee Yun</a>
-	- Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
-</li>
-<li>
-	Time: 6:00PM - 6:45PM (45 min)
-</li>
-</ul>
-
-<!--Because to truly see the holistic view of the rising technology called Artificial Intelligence (AI),
-we have to see not only the technology, but other areas such as industry, market, hardware, society, ethics, entrepreneurs, and even investors.
-For that, this seminar will explore the rapid evolution of AI, focusing
-on the last decade's breakthroughs like deep learning (DL) and large language models (LLMs),
-and their impact on industries and markets.
-It delves into both the promises and perils of AI, offering strategies
-for navigating an AI-driven future while maximizing benefits and mitigating risks.
-Finally, it examines deeper questions about AI's capabilities, consciousness, and the very nature of its knowledge.-->
+- Speaker: <a href="https://sungheeyun.github.io/">Sunghee Yun</a> - Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
+- Time: 6:00PM - 6:50PM (50 min)
 
 Understanding Artificial Intelligence (AI) requires more than just examining the technology itself—it
 demands a comprehensive view encompassing its industrial applications, market dynamics, hardware infrastructure, societal implications,
@@ -87,45 +85,16 @@ AI at the Inflection Point
 Navigating Impact, Innovation &amp; Integration
 </h2>
 
-<ul>
-<li>
-	Panelists
-	<ul>
-	<li>
-		<a href="https://sungheeyun.github.io/">Sunghee Yun</a>
-		-
-		Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
-	</li>
-	<li>
-		<a href="https://www.linkedin.com/in/jayeum/">Jay Eum</a>
-		-
-		Founding Managing Partner @ <a href="https://www.gft.vc/">GFT Ventures</a>
-	</li>
-	<li>
-		<a href="https://www.linkedin.com/in/y-park/">Youngsuk Park</a>
-		-
-		Senior Applied Scientist &amp; Manager @ Amazon
-	</li>
-	<li>
-		<a href="https://www.linkedin.com/in/ernest-ryu-a20972148/">Ernest Ryu</a>
-		-
-		Adjunct Assistant Professor @ UCLA
-	</li>
-	</ul>
-</li>
-<li>
-	Moderator
-	<ul>
-	<li>
-		<a href="https://www.linkedin.com/in/dayoungjeong/">Dayoung Jeong</a>
-		- Associate Professor of Law @ Chungnam National University
-	</li>
-	</ul>
-</li>
-<li>
-	Time: 6:50PM - 7:15PM (25 min)
-</li>
-</ul>
+- Panelists
+	- <a href="https://www.linkedin.com/in/jayeum/">Jay Eum</a> - Founding Managing Partner @ <a href="https://www.gft.vc/">GFT Ventures</a>
+	- <a href="https://www.linkedin.com/in/ernest-ryu-a20972148/">Ernest Ryu</a> - Adjunct Assistant Professor @ <a href="https://www.ucla.edu/">UCLA</a>
+	- <a href="https://www.linkedin.com/in/y-park/">Youngsuk Park</a> - Senior Applied Scientist &amp; Manager @ Amazon
+	- <a href="https://sungheeyun.github.io/">Sunghee Yun</a> - Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
+
+- Moderator
+	- <a href="https://www.linkedin.com/in/dayoungjeong/">Dayoung Jeong</a> - Associate Professor of Law @ Chungnam National University
+
+- Time: 7:00PM - 7:30PM (30 min)
 
 In an era where artificial intelligence is reshaping our world at an unprecedented pace,
 "AI at the Inflection Point" brings together
@@ -136,35 +105,19 @@ innovations driving its evolution, and strategic approaches to building successf
 Join us as our distinguished panelists with outstanding track records in their fields share insights on navigating this transformative period,
 with an opportunity to engage in deeper discussions with the panelists during dedicated networking sessions.
 
+<h2 id="networking-and-dinner">Networking &amp; Dinner</h2>
 
+- Time: 7:30PM - 8:30PM (60 min)
 
-Please RSVP via [this link](https://forms.gle/aZgU4A5uxVBmUwa79)!
+Network with Silicon Valley's diverse ecosystem of innovators -
+technologists, entrepreneurs, scientists, investors, journalists, professors, and industry leaders -
+over an indulgent spread featuring <font color="red">premium Korean cuisine from the Bay Area's finest restaurants,
+plus unlimited gourmet pizza for the perfect fusion of East and West!</font>
 
-<blockquote>
-Even if you cannot attend the seminar,
-please fill out <a href="https://forms.gle/aZgU4A5uxVBmUwa79">the form</a>
-to leave your contact information
-and tell us whether you want us to share your information
-within our network.
-</blockquote>
-
-<blockquote>
-Anyone who attends two seminars will automatically be designated as a <font class="emph">K-PAI regular member</font>
-(unless they opt out)
-while attendees of any single seminar will be designated as <font class="emph">K-PAI associate members</font>
-(unless they opt out).
-Regular members enjoy exclusive benefits, including access to regular and special gatherings for networking and socializing,
-in addition to participation in official seminars.
-</blockquote>
-
-<!--(Gain insights from Sunghee Yun, an expert leading the intersection of AI, semiconductor &amp; biotechnology,
-as he explores how AI transcends deep learning to impact industries, societies, and economies.
-Discover more about his interests and perspectives on AI
-by visiting his <a href="https://sungheeyun.github.io/articles">AI Insights Hub</a> and <a href="https://sungheeyun.github.io/papers">AI Papers Hub</a>.)-->
+<h2 id="hosting-organization">Hosting organization</h2>
 
 The hosting organization of K-PAI is
-<a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU PrivateAI Initiative / HERC</a>!
-(HERC: Homomorphic Encryption Research Center)
+<a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU PrivateAI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
 
 <div class="img-container-justified">
 &nbsp;
@@ -174,13 +127,15 @@ The hosting organization of K-PAI is
 &nbsp;
 </div>
 
-<h2 id="why-attend">Why you should attend?</h2>
+<!--(HERC: Homomorphic Encryption Research Center)-->
+
+<h1 id="why-attend">Why you should attend?</h1>
 
 - Cutting-Edge Knowledge: Gain access to the latest advancements in AI and its potential impact across industries.
 - Networking Opportunities: Connect with fellow innovators, visionaries, and tech enthusiasts who share your passion for pushing boundaries.
 - Engaging Dialogue: Participate in thought-provoking discussions that challenge conventional thinking and inspire new ideas.
 
-<h2 id="target-audience">You should attend if you're one of the below</h2>
+<h1 id="target-audience">You should attend if you're one of the below</h1>
 
 <!--p>
 This series is designed for individuals interested in acquiring and integrating cutting-edge technologies, those planning innovative businesses in advanced sectors, and anyone looking to enhance their current business with AI or privacy-enhancing cryptography (PEC).
