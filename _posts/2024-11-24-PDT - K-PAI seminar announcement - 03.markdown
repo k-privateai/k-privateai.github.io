@@ -2,7 +2,7 @@
 #title: The 3rd K-PAI Seminar Invitation
 title: "The AI Knight Rises - Join Silicon Valley's Premier AI Forum, Networking, and Premium Korean Dining Experience @ Stanford University!"
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Thu Jan 16 16:17:38 PST 2025
+last_modified_at: Thu Jan 16 16:57:22 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -38,7 +38,11 @@ The 3rd K-PAI Seminar
 </h1-->
 
 - Date: Jan 22, 2025 (wed)
+- Time: 6PM - 8PM
 - Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
+
+Enjoy the Silicon Valley's Premier AI seminar, panel discussion, and networking over an indulgent spread featuring <font color="red">premium Korean cuisine from the Bay Area's finest restaurants,
+plus unlimited gourmet pizza for the perfect fusion of East and West!</font>
 
 Please RSVP via [Registration &amp; Membership](https://forms.gle/aZgU4A5uxVBmUwa79)!
 
@@ -65,7 +69,7 @@ in addition to participation in official seminars.
 인공지능의 비상: 딥러닝을 넘어서!
 
 - Speaker: <a href="https://sungheeyun.github.io/">Sunghee Yun</a> - Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
-- Time: 6:00PM - 6:50PM (50 min)
+- Time: 6PM - 6:50PM (50 min)
 
 Understanding Artificial Intelligence (AI) requires more than just examining the technology itself—it
 demands a comprehensive view encompassing its industrial applications, market dynamics, hardware infrastructure, societal implications,
@@ -94,7 +98,7 @@ Navigating Impact, Innovation &amp; Integration
 - Moderator
 	- <a href="https://www.linkedin.com/in/dayoungjeong/">Dayoung Jeong</a> - Associate Professor of Law @ Chungnam National University
 
-- Time: 7:00PM - 7:30PM (30 min)
+- Time: 6:50PM - 7:20PM (30 min)
 
 In an era where artificial intelligence is reshaping our world at an unprecedented pace,
 "AI at the Inflection Point" brings together
@@ -107,12 +111,10 @@ with an opportunity to engage in deeper discussions with the panelists during de
 
 <h2 id="networking-and-dinner">Networking &amp; Dinner</h2>
 
-- Time: 7:30PM - 8:30PM (60 min)
+- Time: 7:20PM - 8PM (40 min)
 
 Network with Silicon Valley's diverse ecosystem of innovators -
-technologists, entrepreneurs, scientists, investors, journalists, professors, and industry leaders -
-over an indulgent spread featuring <font color="red">premium Korean cuisine from the Bay Area's finest restaurants,
-plus unlimited gourmet pizza for the perfect fusion of East and West!</font>
+technologists, entrepreneurs, scientists, investors, journalists, professors, and industry leaders!
 
 <h2 id="hosting-organization">Hosting organization</h2>
 
