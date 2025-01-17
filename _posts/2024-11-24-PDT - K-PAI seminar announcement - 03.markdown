@@ -20,6 +20,11 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
+<blockquote>
+Want to share this event? Find all details at: <a href="https://k-privateai.github.io/seminar-announcements/03">https://k-privateai.github.io/seminar-announcements/03</a>.
+Use this link to share this event!
+</blockquote>
+
 <h1 id="invitation">Invitation</h1>
 
 <hr>
