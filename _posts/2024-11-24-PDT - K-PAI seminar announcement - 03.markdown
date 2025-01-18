@@ -43,7 +43,7 @@ The 3rd K-PAI Seminar
 </h1-->
 
 - Date: Jan 22, 2025 (wed)
-- Time: 6PM - 8PM
+- Time: 5PM - 8PM
 - Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
 
 Enjoy the Silicon Valley's Premier AI seminar, panel discussion, and networking over an indulgent spread featuring <font color="red">premium Korean cuisine from the Bay Area's finest restaurants,
@@ -68,8 +68,21 @@ Regular members enjoy exclusive benefits, including access to regular and specia
 in addition to participation in official seminars.
 </blockquote>
 
+<h2 id="dinner">
+Evening Dinner: International Fusion Buffet
+</h2>
+
+- Time: 5PM &mdash; 8PM
+
+Experience a delightful fusion dining experience featuring an extensive selection
+of authentic Korean cuisine alongside gourmet pizza stations in an all-you-can-eat setting.
+
+<div class="img-container">
+<img style="max-width: 70%;" src="/resource/seminar-2025-0122/buffet.png">
+</div>
+
 <h2 id="ai-knight-rises">
-[Seminar] The AI Knight Rises - From Deep Learning to Flourishing Societies
+Seminar: The AI Knight Rises - From Deep Learning to Flourishing Societies
 </h2>
 인공지능의 비상: 딥러닝을 넘어서!
 
@@ -88,7 +101,7 @@ The seminar concludes by addressing fundamental questions about AI's capabilitie
 the nature of machine intelligence, and its relationship to human consciousness.
 
 <h2 id="panel-discussion">
-[Panel Discussion]
+Panel Discussion:
 AI at the Inflection Point
 -
 Navigating Impact, Innovation &amp; Integration
@@ -114,7 +127,7 @@ innovations driving its evolution, and strategic approaches to building successf
 Join us as our distinguished panelists with outstanding track records in their fields share insights on navigating this transformative period,
 with an opportunity to engage in deeper discussions with the panelists during dedicated networking sessions.
 
-<h2 id="networking-and-dinner">Networking &amp; Dinner</h2>
+<h2 id="networking-and-dinner">Networking</h2>
 
 - Time: 7:20PM - 8PM (40 min)
 
