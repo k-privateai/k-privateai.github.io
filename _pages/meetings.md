@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Wed Jan 15 16:39:03 PST 2025
+last_modified_at: Sat Jan 18 02:54:12 PST 2025
 categories:
  - blog
 toc: true
@@ -22,20 +22,6 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 <ul>
 <li>
-	official 3rd seminar announcement
-	<ul>
-	<li>
-		priority: H
-	</li>
-	<li>
-		owned by Sunghee
-	</li>
-	<li>
-		<font color="red">due: 13-Jan-2025</font>
-	</li>
-	</ul>
-</li>
-<li>
 	reminder of 3rd seminar announcement
 	<ul>
 	<li>
@@ -46,6 +32,41 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	</li>
 	<li>
 		due: 20-Jan-2025
+	</li>
+	</ul>
+</li>
+<li>
+	catering reservation
+	<ul>
+	<li>
+		priority: H
+	</li>
+	<li>
+		owned by Jung Hee
+	</li>
+	<li>
+		due: 17-Jan-2025
+	</li>
+	</ul>
+</li>
+<font color="gray">
+<li>
+	QR code, code reader, database, etc.
+	<ul>
+	<li>
+		priority: M
+	</li>
+	<li>
+		owned by SVP
+	</li>
+	<li>
+		due: 17-Jan-2025
+	</li>
+	<li>
+		COMPLETED on 18-Jan-2025
+	</li>
+	<li>
+		decided to do this from next time using eventbite, for example.
 	</li>
 	</ul>
 </li>
@@ -62,6 +83,9 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		<font color="red">
 		due: 15-Jan-2025
 		</font>
+	</li>
+	<li>
+		COMPLETED on 16-Jan-2025
 	</li>
 	<li>
 		progress
@@ -89,35 +113,35 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 			waiting for her reply
 			on 13-Jan-2025
 		</li>
+		<li>
+			<a href="https://www.linkedin.com/in/ernest-ryu-a20972148/">Ernest Ryu</a>
+			accepted the invitation to the virtual panel discussion!
+		</li>
+		<li>
+			<a href="https://www.sewonmin.com/">Sewon</a> got back later; we will invite her again in one of the future events.
+			Sunghee will personally meet her near UC Berkeley.
+		</li>
 		</ul>
 	</li>
 	</ul>
 </li>
 <li>
-	QR code, code reader, database, etc.
-	<ul>
-	<li>
-		priority: M
-	</li>
-	<li>
-		owned by SVP
-	</li>
-	<li>
-		due: 17-Jan-2025
-	</li>
-	</ul>
-</li>
-<li>
-	catering reservation
+	official 3rd seminar announcement
 	<ul>
 	<li>
 		priority: H
 	</li>
 	<li>
-		owned by Jung Hee
+		owned by Sunghee
 	</li>
 	<li>
-		due: 17-Jan-2025
+		<font color="red">due: 13-Jan-2025</font>
+	</li>
+	<li>
+		COMPLETED on 16-Jan-2025
+	</li>
+	<li>
+		sent additional messages saying that 1. the event will be conducted in Korean 2. the dinner will be served from 5PM.
 	</li>
 	</ul>
 </li>
@@ -133,9 +157,11 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	<li>
 		due: 17-Jan-2025
 	</li>
+	<li>
+		COMPLETED on 15-Jan-2025
+	</li>
 	</ul>
 </li>
-<font color="gray">
 <li>
 	ask Sehui re students' preference on food, after-party place, potential helpers, etc.
 	<ul>
@@ -187,7 +213,9 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 </font>
 </ul>
 
-<h1 id="special-01">Special meeting with Stanford students @ SGD on 15-Jan-2025</h1>
+# Meetings
+
+<h2 id="special-01">Special meeting with Stanford students @ SGD on 15-Jan-2025</h2>
 
 <ul>
 <li>
@@ -242,7 +270,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 </li>
 </ul>
 
-<h1 id="03">The 3rd meeting @ Starbucks on 12-Jan-2025</h1>
+<h2 id="03">The 3rd meeting @ Starbucks on 12-Jan-2025</h2>
 
 <ul>
 <li>
@@ -327,7 +355,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 </li>
 </ul>
 
-<h1 id="02">The 2nd meeting @ Fox Theater on 10-Jan-2025</h1>
+<h2 id="02">The 2nd meeting @ Fox Theater on 10-Jan-2025</h2>
 
 <ul>
 <li>
@@ -395,3 +423,9 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	</ul>
 </li>
 </ul>
+
+<h2 id="01">The 1st meeting @ KIC on 06-Oct-2024</h2>
+
+<div class="img-container">
+<img src="/resource/meetings/01/white-board-photo-shot.jpeg">
+</div>
