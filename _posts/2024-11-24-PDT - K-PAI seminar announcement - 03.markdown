@@ -2,7 +2,7 @@
 #title: The 3rd K-PAI Seminar Invitation
 title: "The AI Knight Rises - Join Silicon Valley's Premier AI Forum, Networking, and Premium Korean Dining Experience @ Stanford University!"
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Sun Jan 19 09:40:44 PST 2025
+last_modified_at: Mon Jan 20 03:57:42 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -21,8 +21,10 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
 <blockquote>
-Want to share this event? Find all details at: <a href="https://k-privateai.github.io/seminar-announcements/03">https://k-privateai.github.io/seminar-announcements/03</a>.
-Use this link to share this event!
+Want to share this event?
+Use this link
+- <a href="{{ page.url }}">{{ page.url }}</a> -
+to share this event!
 </blockquote>
 
 <h1 id="invitation">Invitation</h1>
