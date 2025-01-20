@@ -137,7 +137,7 @@ technologists, entrepreneurs, scientists, investors, journalists, professors, an
 <h2 id="hosting-organization">Hosting organization</h2>
 
 The hosting organization of K-PAI is
-<a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU PrivateAI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
+<a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
 
 <div class="img-container-justified">
 &nbsp;
