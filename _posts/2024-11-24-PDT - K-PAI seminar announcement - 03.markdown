@@ -2,7 +2,7 @@
 #title: The 3rd K-PAI Seminar Invitation
 title: "The AI Knight Rises - Join Silicon Valley's Premier AI Forum, Networking, and Premium Korean Dining Experience @ Stanford University!"
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Mon Jan 20 03:57:42 PST 2025
+last_modified_at: Mon Jan 20 04:03:11 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -90,6 +90,7 @@ Seminar: The AI Knight Rises - From Deep Learning to Flourishing Societies
 
 - Speaker: <a href="https://sungheeyun.github.io/">Sunghee Yun</a> - Co-founder &amp; CTO @ <a href="https://sungheeyun-erudio.github.io/">Erudio Bio, Inc.</a>
 - Time: 6PM - 6:50PM (50 min)
+- The abstract and slides can be found <a href="https://sungheeyun.github.io/#ai-knight-rises">here</a>.
 
 Understanding Artificial Intelligence (AI) requires more than just examining the technology itself—it
 demands a comprehensive view encompassing its industrial applications, market dynamics, hardware infrastructure, societal implications,
