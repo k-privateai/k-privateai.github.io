@@ -77,9 +77,9 @@ Evening Dinner: International Fusion Buffet
 Experience a delightful fusion dining experience featuring an extensive selection
 of authentic Korean cuisine alongside gourmet pizza stations in an all-you-can-eat setting.
 
-<div class="img-container">
+<!--div class="img-container">
 <img style="max-width: 70%;" src="/resource/seminar-2025-0122/buffet.png">
-</div>
+</div-->
 
 <h2 id="ai-knight-rises">
 Seminar: The AI Knight Rises - From Deep Learning to Flourishing Societies
