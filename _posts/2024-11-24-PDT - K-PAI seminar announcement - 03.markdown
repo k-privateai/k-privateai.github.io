@@ -23,7 +23,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 <blockquote>
 Want to share this event?
 Use this link
-- <a href="{{ page.url }}">{{ page.url }}</a> -
+- <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a> -
 to share this event!
 </blockquote>
 
