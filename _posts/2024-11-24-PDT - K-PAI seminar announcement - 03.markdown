@@ -2,7 +2,7 @@
 #title: The 3rd K-PAI Seminar Invitation
 title: "The AI Knight Rises - Join Silicon Valley's Premier AI Forum, Networking, and Premium Korean Dining Experience @ Stanford University!"
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Mon Jan 20 04:03:11 PST 2025
+last_modified_at: Mon Jan 20 23:42:19 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -48,8 +48,13 @@ The 3rd K-PAI Seminar
 - Time: 5PM - 8PM
 - Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
 
-Enjoy the Silicon Valley's Premier AI seminar, panel discussion, and networking over an indulgent spread featuring <font color="red">premium Korean cuisine from the Bay Area's finest restaurants,
-plus unlimited gourmet pizza for the perfect fusion of East and West!</font>
+<!--Enjoy the Silicon Valley's Premier AI seminar, panel discussion, and networking over an indulgent spread featuring <font color="red">premium Korean cuisine from the Bay Area's finest restaurants,
+plus unlimited gourmet gimbap and rice cakes for the perfect fusion of East and West!</font>-->
+
+Join us for Silicon Valley's premier AI seminar, panel discussion, and networking event,
+featuring a lavish Korean buffet from the Bay Area's finest restaurants.
+Savor an endless array of authentic Korean delicacies, including freshly prepared gimbap and traditional rice cakes.
+
 
 Please RSVP via [Registration &amp; Membership](https://forms.gle/aZgU4A5uxVBmUwa79)!
 
