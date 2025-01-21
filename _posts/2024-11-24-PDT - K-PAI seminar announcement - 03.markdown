@@ -48,13 +48,15 @@ The 3rd K-PAI Seminar
 - Time: 5PM - 8PM
 - Venue: <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Havana Room, Stanford Graduate Community Center, Stanford University</a>
 
-<!--Enjoy the Silicon Valley's Premier AI seminar, panel discussion, and networking over an indulgent spread featuring <font color="red">premium Korean cuisine from the Bay Area's finest restaurants,
-plus unlimited gourmet gimbap and rice cakes for the perfect fusion of East and West!</font>-->
-
 Join us for Silicon Valley's premier AI seminar, panel discussion, and networking event,
 featuring a lavish Korean buffet from the Bay Area's finest restaurants.
 Savor an endless array of authentic Korean delicacies, including freshly prepared gimbap and traditional rice cakes.
 
+<div class="img-container">
+<img style="max-width: 39.5%;" src="/resource/seminar-2025-0122/gimbaps.png">
+&nbsp;
+<img style="max-width: 45%;" src="/resource/seminar-2025-0122/rice-cakes.webp">
+</div>
 
 Please RSVP via [Registration &amp; Membership](https://forms.gle/aZgU4A5uxVBmUwa79)!
 
