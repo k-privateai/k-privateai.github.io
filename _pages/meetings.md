@@ -31,10 +31,13 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		owned by Sunghee
 	</li>
 	<li>
+		<font color="red">
 		due: 20-Jan-2025
+		</font>
 	</li>
 	</ul>
 </li>
+<font color="gray">
 <li>
 	catering reservation
 	<ul>
@@ -47,9 +50,11 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 	<li>
 		due: 17-Jan-2025
 	</li>
+	<li>
+		COMPLETED on 20-Jan-2025
+	</li>
 	</ul>
 </li>
-<font color="gray">
 <li>
 	QR code, code reader, database, etc.
 	<ul>
