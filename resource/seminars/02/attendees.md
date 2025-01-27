@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 2nd seminar attendees
-permalink: /attendees/
+permalink: /2nd-seminar/attendees/
 date_modified: Tue Nov 19 14:58:09 PST 2024
 ---
 

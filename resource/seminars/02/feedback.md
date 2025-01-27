@@ -4,6 +4,7 @@ title: The feedback for the 2nd seminar
 permalink: /2nd-seminar/feedback/
 date: Fri Nov 22 09:45:27 PST 2024
 date_modified: Fri Nov 22 10:31:43 PST 2024
+author_profile: true
 ---
 
 <head>
