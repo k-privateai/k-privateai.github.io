@@ -51,7 +51,7 @@ class KPaiRegistrant:
     def __repr__(self) -> str:
         assert self.name is not None, self.email
         return (
-            f"KPaiRegistrant({self.attend_2nd_seminar}, {self.attend_3rd_seminar}"
+            f"KPaiRegistrant({self.attend_2nd_seminar_str}, {self.attend_3rd_seminar_str}"
             f", {self.name}, {self.email})"
         )
 
@@ -64,12 +64,20 @@ class KPaiRegistrant:
         return self._email
 
     @property
-    def attend_2nd_seminar(self) -> str:
-        return "O" if self._attend_2nd_seminar else "X"
+    def attend_2nd_seminar(self) -> bool:
+        return self._attend_2nd_seminar
 
     @property
-    def attend_3rd_seminar(self) -> str:
-        return "O" if self._attend_3rd_seminar else "X"
+    def attend_3rd_seminar(self) -> bool:
+        return self._attend_3rd_seminar
+
+    @property
+    def attend_2nd_seminar_str(self) -> str:
+        return "O" if self.attend_2nd_seminar else "X"
+
+    @property
+    def attend_3rd_seminar_str(self) -> str:
+        return "O" if self.attend_3rd_seminar else "X"
 
     def combine(self, k_pai_registrant: KPaiRegistrant) -> None:
         if self.k_pai_member_02 is None:

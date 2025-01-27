@@ -23,14 +23,21 @@ class KPaiRegistrantCollection:
             self.email_registrant_map[email] = k_pai_registrant
 
     def print_registrants(self) -> None:
-        tt: int = 0
+        number_3rd_seminar_participants: int = 0
+        number_both_seminar_participants: int = 0
         for registrant in sorted(
             self.email_registrant_map.values(),
             key=lambda k_pai_registrant: k_pai_registrant.name,  # type:ignore
             reverse=False,
         ):
+            if registrant.attend_3rd_seminar:
+                number_3rd_seminar_participants += 1
+
+            if registrant.attend_2nd_seminar and registrant.attend_3rd_seminar:
+                number_both_seminar_participants += 1
+
             print(registrant)
-            tt += 1 if registrant.attend_3rd_seminar == "O" else 0
 
         print(len(self.email_registrant_map))
-        print(tt)
+        print(number_3rd_seminar_participants)
+        print(number_both_seminar_participants)
