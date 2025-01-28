@@ -20,9 +20,9 @@ class KPaiMember02:
         self.personal_email: str | None = get_data(row["personal email"])
         self.work_email: str | None = get_data(row["work email"])
         try:
-            self.phone: PhoneNumber | None = parse(row["phone number"])
+            self.phone_number: PhoneNumber | None = parse(row["phone number"])
         except (NumberParseException, TypeError):
-            self.phone = None
+            self.phone_number = None
         self.company: str | None = get_data(row["company/organization"])
         self.job_title: str | None = get_data(row["job title"])
         self.linkedin: str | None = get_data(row["LinkedIn profile url"])
@@ -30,9 +30,9 @@ class KPaiMember02:
 
     def __repr__(self) -> str:
         phone_str: str | None = (
-            self.phone
-            if self.phone is None
-            else format_number(self.phone, PhoneNumberFormat.INTERNATIONAL)
+            self.phone_number
+            if self.phone_number is None
+            else format_number(self.phone_number, PhoneNumberFormat.INTERNATIONAL)
         )
         return (
             f"Member(\n"

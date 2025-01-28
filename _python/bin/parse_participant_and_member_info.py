@@ -35,10 +35,12 @@ if __name__ == "__main__":
 
     for idx, row in data_1.iterrows():
         registrants.add_registrant(KPaiMember02(row))
-        print(KPaiMember02(row))
+        # if idx == 1:
+        #     print(KPaiMember02(row))
 
     for idx, row in data_2.iterrows():
         registrants.add_registrant(SeminarRegistrant03(row))
-        print(SeminarRegistrant03(row))
+        # if idx == 20:
+        #     print(SeminarRegistrant03(row))
 
     registrants.print_registrants()

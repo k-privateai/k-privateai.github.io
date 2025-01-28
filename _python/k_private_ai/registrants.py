@@ -2,14 +2,19 @@
 Collection of K-PAI registrants
 """
 
+from logging import getLogger, Logger
+
 from k_private_ai.registrant import KPaiRegistrant
 from k_private_ai.member_02 import KPaiMember02
 from k_private_ai.registrant_03 import SeminarRegistrant03
+
+logger: Logger = getLogger()
 
 
 class KPaiRegistrantCollection:
     def __init__(self) -> None:
         self.email_registrant_map: dict[str, KPaiRegistrant] = dict()
+        self._fields_completed: bool = False
 
     def add_registrant(self, registrant: KPaiMember02 | SeminarRegistrant03) -> None:
         k_pai_registrant: KPaiRegistrant = KPaiRegistrant(registrant)
@@ -22,22 +27,38 @@ class KPaiRegistrantCollection:
         else:
             self.email_registrant_map[email] = k_pai_registrant
 
+    def complete_fields(self) -> None:
+        if self._fields_completed:
+            return
+
+        for registrant in self.email_registrant_map.values():
+            registrant.complete_fields()
+
+        self._fields_completed = True
+
     def print_registrants(self) -> None:
+        self.complete_fields()
+
         number_3rd_seminar_participants: int = 0
         number_both_seminar_participants: int = 0
-        for registrant in sorted(
+        registrants: list[KPaiRegistrant] = sorted(
             self.email_registrant_map.values(),
             key=lambda k_pai_registrant: k_pai_registrant.name,  # type:ignore
             reverse=False,
-        ):
+        )
+        for idx, registrant in enumerate(registrants):
+            if idx < len(registrants) - 1 and registrant.name == registrants[idx + 1].name:
+                logger.warning(f"redundant name: {registrant.name}")
+
             if registrant.attend_3rd_seminar:
                 number_3rd_seminar_participants += 1
 
             if registrant.attend_2nd_seminar and registrant.attend_3rd_seminar:
                 number_both_seminar_participants += 1
+                print(registrant)
 
-            print(registrant)
-
-        print(len(self.email_registrant_map))
-        print(number_3rd_seminar_participants)
-        print(number_both_seminar_participants)
+        logger.info(f"Total # registrants: {len(self.email_registrant_map)}")
+        logger.info(f"# 3rd seminar participants: {number_3rd_seminar_participants}")
+        logger.info(
+            f"# people who attended both 2nd and 3rd seminar: {number_both_seminar_participants}"
+        )

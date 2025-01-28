@@ -13,7 +13,7 @@ class SeminarRegistrant03:
         self.email: str | None = get_data(row["Email Address"])
         self.attend_3rd_seminar: bool = get_data(row["attend"]) == "o"
         self.korean_name: str | None = get_data(row["Korean name"])
-        self.english_name: str | None = get_data(row["English full name"])
+        self.english_full_name: str | None = get_data(row["English full name"])
         try:
             self.phone_number: PhoneNumber | None = parse(row["Phone number"], "US")
         except TypeError:
@@ -59,7 +59,7 @@ class SeminarRegistrant03:
             f"  Timestamp: {self.timestamp},\n"
             f"  Email: {self.email},\n"
             f"  Korean Name: {self.korean_name},\n"
-            f"  English Name: {self.english_name},\n"
+            f"  English Name: {self.english_full_name},\n"
             f"  Phone: {phone_str},\n"
             f"  Company: {self.company},\n"
             f"  Job Title: {self.job_title},\n"

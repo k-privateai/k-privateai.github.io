@@ -5,6 +5,9 @@ K-PAI registrant
 from __future__ import annotations
 
 from logging import Logger, getLogger
+from urllib.parse import urlparse, urlunparse, ParseResult
+
+from phonenumbers import PhoneNumber, format_number, PhoneNumberFormat
 
 from k_private_ai.member_02 import KPaiMember02
 from k_private_ai.registrant_03 import SeminarRegistrant03
@@ -24,6 +27,12 @@ class KPaiRegistrant:
 
         self._email: str | None = ""
         self._name: str | None = ""
+        self._english_full_name: str | None = None
+        self._phone_number: PhoneNumber | None = None
+        self._company: str | None = None
+        self._job_title: str | None = None
+        self._linkedin_url: str | None = None
+
         self._attend_2nd_seminar: bool = False
         self._attend_3rd_seminar: bool = False
 
@@ -50,10 +59,58 @@ class KPaiRegistrant:
 
     def __repr__(self) -> str:
         assert self.name is not None, self.email
+        phone_number_str: str | None = (
+            self.phone_number
+            if self.phone_number is None
+            else format_number(self.phone_number, PhoneNumberFormat.INTERNATIONAL)
+        )
         return (
             f"KPaiRegistrant({self.attend_2nd_seminar_str}, {self.attend_3rd_seminar_str}"
-            f", {self.name}, {self.email})"
+            + f", {self.name}, {self.email}, {phone_number_str}, {self.company}, {self.job_title}"
+            + f", {self.linkedin_url})"
         )
+
+    def complete_fields(self) -> None:
+        assert not (self.k_pai_member_02 is None and self.seminar_registrant_03 is None)
+        self._complete_field("_english_full_name", "english_full_name")
+        self._complete_field("_company", "company")
+        self._complete_field("_job_title", "job_title")
+        self._complete_field("_phone_number", "phone_number")
+        self._complete_field("_linkedin_url", "linkedin")
+
+        if self._linkedin_url is not None:
+            url: ParseResult = urlparse(self._linkedin_url)
+            self._linkedin_url = urlunparse(
+                ("https", url.netloc, url.path, url.params, url.query, url.fragment)
+            )
+
+    def _complete_field(self, this_field_name: str, field_name: str) -> None:
+        if (
+            self.k_pai_member_02 is not None
+            and self.k_pai_member_02.__dict__[field_name] is not None
+        ):
+            self.__dict__[this_field_name] = self.k_pai_member_02.__dict__[field_name]
+
+        if (
+            self.seminar_registrant_03 is not None
+            and self.seminar_registrant_03.__dict__[field_name] is not None
+        ):
+            self.__dict__[this_field_name] = self.seminar_registrant_03.__dict__[field_name]
+
+        if self.k_pai_member_02 is not None and self.seminar_registrant_03 is not None:
+            if not (
+                self.k_pai_member_02.__dict__[field_name]
+                == self.seminar_registrant_03.__dict__[field_name]
+            ):
+                logger.warning(
+                    f"field value conflict: {field_name}"
+                    + " - "
+                    + f"{self.k_pai_member_02.__dict__[field_name]}"
+                    + " != "
+                    + f"{self.seminar_registrant_03.__dict__[field_name]}"
+                    + " -> "
+                    + f"{self.__dict__[this_field_name]}"
+                )
 
     @property
     def name(self) -> str | None:
@@ -62,6 +119,22 @@ class KPaiRegistrant:
     @property
     def email(self) -> str | None:
         return self._email
+
+    @property
+    def phone_number(self) -> PhoneNumber | None:
+        return self._phone_number
+
+    @property
+    def company(self) -> str | None:
+        return self._company
+
+    @property
+    def job_title(self) -> str | None:
+        return self._job_title
+
+    @property
+    def linkedin_url(self) -> str | None:
+        return self._linkedin_url
 
     @property
     def attend_2nd_seminar(self) -> bool:
