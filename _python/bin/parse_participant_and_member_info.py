@@ -17,12 +17,12 @@ project_root: Path = Path(__file__).parent.parent.parent
 if __name__ == "__main__":
     set_logging_basic_config(__file__)
 
-    data_1: DataFrame = read_csv(
+    data_12: DataFrame = read_csv(
         os.path.join(project_root, "resource/registrants", "K-PAI Members - participants.tsv"),
         sep="\t",
     )
 
-    data_2: DataFrame = read_csv(
+    data_3: DataFrame = read_csv(
         os.path.join(
             project_root,
             "resource/registrants",
@@ -33,14 +33,15 @@ if __name__ == "__main__":
 
     registrants: KPaiRegistrantCollection = KPaiRegistrantCollection()
 
-    for idx, row in data_1.iterrows():
+    for idx, row in data_12.iterrows():
         registrants.add_registrant(KPaiMember02(row))
         # if idx == 1:
         #     print(KPaiMember02(row))
 
-    for idx, row in data_2.iterrows():
+    for idx, row in data_3.iterrows():
         registrants.add_registrant(SeminarRegistrant03(row))
-        # if idx == 20:
-        #     print(SeminarRegistrant03(row))
+        if idx == 20:
+            print(SeminarRegistrant03(row))
 
-    registrants.print_registrants()
+    registrants.analyze()
+    registrants.to_excel("registrants.xlsx", "up to 3rd seminar")

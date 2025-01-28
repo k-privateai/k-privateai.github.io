@@ -7,10 +7,11 @@ from __future__ import annotations
 from logging import Logger, getLogger
 from urllib.parse import urlparse, urlunparse, ParseResult
 
-from phonenumbers import PhoneNumber, format_number, PhoneNumberFormat
+from phonenumbers import PhoneNumber
 
 from k_private_ai.member_02 import KPaiMember02
 from k_private_ai.registrant_03 import SeminarRegistrant03
+from k_private_ai.utils import get_phone_number_str
 
 logger: Logger = getLogger()
 
@@ -32,6 +33,7 @@ class KPaiRegistrant:
         self._company: str | None = None
         self._job_title: str | None = None
         self._linkedin_url: str | None = None
+        self._share_info: bool | None = None
 
         self._attend_2nd_seminar: bool = False
         self._attend_3rd_seminar: bool = False
@@ -59,15 +61,11 @@ class KPaiRegistrant:
 
     def __repr__(self) -> str:
         assert self.name is not None, self.email
-        phone_number_str: str | None = (
-            self.phone_number
-            if self.phone_number is None
-            else format_number(self.phone_number, PhoneNumberFormat.INTERNATIONAL)
-        )
         return (
-            f"KPaiRegistrant({self.attend_2nd_seminar_str}, {self.attend_3rd_seminar_str}"
-            + f", {self.name}, {self.email}, {phone_number_str}, {self.company}, {self.job_title}"
-            + f", {self.linkedin_url})"
+            f"KPaiRegistrant({self.attend_2nd_seminar_ox_str}, {self.attend_3rd_seminar_ox_str}"
+            + f", {self.share_info}"
+            + f", {self.name}, {self.email}, {get_phone_number_str(self.phone_number)}"
+            + f", {self.company}, {self.job_title}, {self.linkedin_url})"
         )
 
     def complete_fields(self) -> None:
@@ -77,12 +75,15 @@ class KPaiRegistrant:
         self._complete_field("_job_title", "job_title")
         self._complete_field("_phone_number", "phone_number")
         self._complete_field("_linkedin_url", "linkedin")
+        if self.seminar_registrant_03 is not None:
+            self._share_info = (
+                self.seminar_registrant_03.share_info is not None
+                and self.seminar_registrant_03.share_info.lower().startswith("yes")
+            )
 
         if self._linkedin_url is not None:
             url: ParseResult = urlparse(self._linkedin_url)
-            self._linkedin_url = urlunparse(
-                ("https", url.netloc, url.path, url.params, url.query, url.fragment)
-            )
+            self._linkedin_url = urlunparse(("https", url.netloc, url.path, url.params, "", ""))
 
     def _complete_field(self, this_field_name: str, field_name: str) -> None:
         if (
@@ -137,6 +138,10 @@ class KPaiRegistrant:
         return self._linkedin_url
 
     @property
+    def share_info(self) -> bool | None:
+        return self._share_info
+
+    @property
     def attend_2nd_seminar(self) -> bool:
         return self._attend_2nd_seminar
 
@@ -145,11 +150,11 @@ class KPaiRegistrant:
         return self._attend_3rd_seminar
 
     @property
-    def attend_2nd_seminar_str(self) -> str:
+    def attend_2nd_seminar_ox_str(self) -> str:
         return "O" if self.attend_2nd_seminar else "X"
 
     @property
-    def attend_3rd_seminar_str(self) -> str:
+    def attend_3rd_seminar_ox_str(self) -> str:
         return "O" if self.attend_3rd_seminar else "X"
 
     def combine(self, k_pai_registrant: KPaiRegistrant) -> None:
@@ -175,3 +180,31 @@ class KPaiRegistrant:
 
         self._attend_2nd_seminar = self._attend_2nd_seminar or k_pai_registrant._attend_2nd_seminar
         self._attend_3rd_seminar = self._attend_3rd_seminar or k_pai_registrant._attend_3rd_seminar
+
+    @staticmethod
+    def get_col_names_for_excel_file() -> list[str]:
+        return [
+            "name",
+            "2nd seminar",
+            "3rd seminar",
+            "share info",
+            "company",
+            "job title",
+            "email",
+            "phone number",
+            "LinkedIn",
+        ]
+
+    @property
+    def excel_fields(self) -> list[str | None]:
+        return [
+            self.name,
+            "o" if self.attend_2nd_seminar else "",
+            "o" if self.attend_3rd_seminar else "",
+            self.share_info if self.share_info is None else ("o" if self.share_info else "x"),
+            self.company,
+            self.job_title,
+            self.email,
+            get_phone_number_str(self.phone_number),
+            self.linkedin_url,
+        ]

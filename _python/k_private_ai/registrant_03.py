@@ -2,9 +2,9 @@
 A class for seminar registrant for the 3rd seminar on 22-Jan-2025
 """
 
-from phonenumbers import parse, PhoneNumber, format_number, PhoneNumberFormat
+from phonenumbers import parse, PhoneNumber
 
-from k_private_ai.utils import get_data
+from k_private_ai.utils import get_data, get_phone_number_str
 
 
 class SeminarRegistrant03:
@@ -49,18 +49,13 @@ class SeminarRegistrant03:
         )
 
     def __repr__(self):
-        phone_str: str | None = (
-            self.phone_number
-            if self.phone_number is None
-            else format_number(self.phone_number, PhoneNumberFormat.INTERNATIONAL)
-        )
         return (
             f"SeminarRegistrant(\n"
             f"  Timestamp: {self.timestamp},\n"
             f"  Email: {self.email},\n"
             f"  Korean Name: {self.korean_name},\n"
             f"  English Name: {self.english_full_name},\n"
-            f"  Phone: {phone_str},\n"
+            f"  Phone: {get_phone_number_str(self.phone_number)},\n"
             f"  Company: {self.company},\n"
             f"  Job Title: {self.job_title},\n"
             f"  LinkedIn: {self.linkedin},\n"

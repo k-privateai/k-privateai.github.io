@@ -4,6 +4,8 @@ Collection of K-PAI registrants
 
 from logging import getLogger, Logger
 
+from pandas import DataFrame, ExcelWriter
+
 from k_private_ai.registrant import KPaiRegistrant
 from k_private_ai.member_02 import KPaiMember02
 from k_private_ai.registrant_03 import SeminarRegistrant03
@@ -17,6 +19,8 @@ class KPaiRegistrantCollection:
         self._fields_completed: bool = False
 
     def add_registrant(self, registrant: KPaiMember02 | SeminarRegistrant03) -> None:
+        self._fields_completed = False
+
         k_pai_registrant: KPaiRegistrant = KPaiRegistrant(registrant)
 
         email = k_pai_registrant.email
@@ -36,14 +40,17 @@ class KPaiRegistrantCollection:
 
         self._fields_completed = True
 
-    def print_registrants(self) -> None:
+    def analyze(self) -> None:
         self.complete_fields()
 
         number_3rd_seminar_participants: int = 0
         number_both_seminar_participants: int = 0
         registrants: list[KPaiRegistrant] = sorted(
             self.email_registrant_map.values(),
-            key=lambda k_pai_registrant: k_pai_registrant.name,  # type:ignore
+            key=lambda k_pai_registrant: (
+                k_pai_registrant.name,
+                k_pai_registrant.email,
+            ),  # type:ignore
             reverse=False,
         )
         for idx, registrant in enumerate(registrants):
@@ -62,3 +69,21 @@ class KPaiRegistrantCollection:
         logger.info(
             f"# people who attended both 2nd and 3rd seminar: {number_both_seminar_participants}"
         )
+
+    def to_excel(self, excel_file_path: str, sheet_name: str) -> None:
+        self.complete_fields()
+
+        with ExcelWriter(excel_file_path) as writer:
+            DataFrame(
+                [
+                    registrant.excel_fields
+                    for registrant in sorted(
+                        self.email_registrant_map.values(),
+                        key=lambda k_pai_registrant: (
+                            k_pai_registrant.name,
+                            k_pai_registrant.email,
+                        ),
+                    )
+                ],
+                columns=KPaiRegistrant.get_col_names_for_excel_file(),
+            ).to_excel(writer, sheet_name=sheet_name, index=False)

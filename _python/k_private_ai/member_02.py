@@ -3,9 +3,9 @@ A class for seminar registrant for the 3rd seminar on 22-Jan-2025
 """
 
 from pandas import Series
-from phonenumbers import parse, PhoneNumber, NumberParseException, format_number, PhoneNumberFormat
+from phonenumbers import parse, PhoneNumber, NumberParseException
 
-from k_private_ai.utils import get_data
+from k_private_ai.utils import get_data, get_phone_number_str
 
 
 class KPaiMember02:
@@ -29,11 +29,6 @@ class KPaiMember02:
         self.experience: str | None = get_data(row["Years of experience in industry (as of 2024)"])
 
     def __repr__(self) -> str:
-        phone_str: str | None = (
-            self.phone_number
-            if self.phone_number is None
-            else format_number(self.phone_number, PhoneNumberFormat.INTERNATIONAL)
-        )
         return (
             f"Member(\n"
             f"  Organizer: {self.organizer},\n"
@@ -45,7 +40,7 @@ class KPaiMember02:
             f"  Korean Name: {self.korean_name},\n"
             f"  Personal Email: {self.personal_email},\n"
             f"  Work Email: {self.work_email},\n"
-            f"  Phone: {phone_str},\n"
+            f"  Phone: {get_phone_number_str(self.phone_number)},\n"
             f"  Company: {self.company},\n"
             f"  Job Title: {self.job_title},\n"
             f"  LinkedIn: {self.linkedin},\n"
