@@ -4,4 +4,11 @@ title: About K-PAI
 permalink: /about/
 ---
 
-Silicon Valley Private AI Forum is a community of Korean professionals in Silicon Valley dedicated to exploring and advancing the field of Artificial Intelligence. Our focus is on fostering knowledge sharing, networking, and professional growth in AI and related technologies.
+Silicon Valley Private AI Forum (K-PAI) is a community of professionals
+dedicated to advancing privacy-preserving Artificial Intelligence (AI) technologies and practices.
+Our members focus on developing and implementing AI systems that protect data privacy, ensure confidentiality,
+and maintain security while delivering powerful capabilities.
+Through knowledge sharing, networking, and collaborative innovation,
+we explore techniques like federated learning, homomorphic encryption,
+and differential privacy to build AI systems that respect individual privacy rights while driving technological progress.
+Our community brings together experts from leading Silicon Valley organizations to shape the future of responsible, privacy-first AI development.
