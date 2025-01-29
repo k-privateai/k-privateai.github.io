@@ -6,6 +6,7 @@ categories:
  - blog
 tags:
  - seminar
+ - reflection
 toc: false
 toc_label: "ToC"
 toc_icon: "cog"
