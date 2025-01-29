@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley Private AI Forum Hits New Heights: 100 Leaders Gather for AI's Holistic Discussion"
 date: Tue Jan 28 17:28:49 PST 2025
-last_modified_at: Wed Jan 29 01:44:45 PST 2025
+last_modified_at: Wed Jan 29 14:44:39 PST 2025
 permalink: /seminar-reflections/03
 categories:
  - blog
@@ -112,7 +112,7 @@ long after the scheduled end time after taking the final photos (below). &#x2605
 achieved its ambitious goal of bridging the technical, business, and societal dimensions of AI,
 demonstrating how Silicon Valley's technological innovation can be thoughtfully aligned with broader human values and social responsibility.
 This holistic approach, enriched by vibrant networking opportunities and elevated by an exceptional Korean fusion dining experience,
-has set a new standard for AI forums in the region.
+has set a new standard for AI forums in the Silicon Valley.
 The overwhelming success of this gathering has generated unprecedented enthusiasm
 for <a href="/#silicon-citadel">the next K-PAI seminar scheduled for Feb 12, 2025</a>,
 where this vital conversation will continue.
