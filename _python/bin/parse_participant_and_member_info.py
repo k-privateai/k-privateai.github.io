@@ -40,8 +40,8 @@ if __name__ == "__main__":
 
     for idx, row in data_3.iterrows():
         registrants.add_registrant(SeminarRegistrant03(row))
-        if idx == 20:
-            print(SeminarRegistrant03(row))
+        # if idx == 20:
+        #     print(SeminarRegistrant03(row))
 
     registrants.analyze()
     registrants.to_excel("registrants.xlsx", "up to 3rd seminar")
