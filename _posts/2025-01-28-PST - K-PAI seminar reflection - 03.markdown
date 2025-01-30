@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley Private AI Forum Hits New Heights: 100 Leaders Gather for AI's Holistic Discussion"
 date: Tue Jan 28 17:28:49 PST 2025
-last_modified_at: Wed Jan 29 14:44:39 PST 2025
+last_modified_at: Thu Jan 30 02:21:40 PST 2025
 permalink: /seminar-reflections/03
 categories:
  - blog
@@ -18,6 +18,10 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 &amp;
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
+
+<blockquote>
+You can find the abstract and slides of the keynote presentation <a href="https://sungheeyun.github.io/#ai-knight-rises">here</a>.
+</blockquote>
 
 <a href="/seminar-announcements/03">The third Silicon Valley Private AI Forum (K-PAI) seminar</a>
 exceeded all expectations, marking its most successful gathering to date.
