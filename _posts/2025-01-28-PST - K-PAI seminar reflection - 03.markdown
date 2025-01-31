@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley Private AI Forum Hits New Heights - 100 Leaders Gather for AI's Holistic Discussion"
 date: Tue Jan 28 17:28:49 PST 2025
-last_modified_at: Fri Jan 31 02:43:24 PST 2025
+last_modified_at: Fri Jan 31 02:54:47 PST 2025
 permalink: /seminar-reflections/03
 categories:
  - blog
@@ -97,7 +97,7 @@ the panel delivered on its promise to provide a truly holistic view of AI's land
 including legal and ethical aspects of AI.
 The diverse backgrounds of the panelists - spanning venture capital, academia, big tech, and startups - contributed to a rich, multifaceted discussion that resonated strongly with the audience
 &amp;
-societal and economical impacts.
+societal and economic impacts.
 
 <!--div class="img-container">
 <img src="/resource/seminars/03/photos/panel-discussion/KakaoTalk_Photo_2025-01-26-02-07-41 015.jpeg">
