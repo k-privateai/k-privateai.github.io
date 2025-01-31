@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley Private AI Forum Hits New Heights - 100 Leaders Gather for AI's Holistic Discussion"
 date: Tue Jan 28 17:28:49 PST 2025
-last_modified_at: Fri Jan 31 02:15:43 PST 2025
+last_modified_at: Fri Jan 31 02:43:24 PST 2025
 permalink: /seminar-reflections/03
 categories:
  - blog
@@ -49,7 +49,7 @@ showcasing the growing interest in AI's multifaceted impact across industries an
 </div-->
 
 The evening kicked off with <a href="https://sungheeyun.github.io">Sunghee</a>'s comprehensive keynote on
-&ldquo;<a href="https://sungheeyun.github.io/#ai-knight-rises">The AI Knight Rises</a>,&rdquo;
+&ldquo;<a href="https://sungheeyun.github.io/#ai-knight-rises">The AI Knight Rises - From Deep Learning to Flourishing Societies</a>,&rdquo;
 which masterfully wove together diverse perspectives on AI's evolution
 &ndash; from technical breakthroughs to market dynamics and societal implications,
 as it echoed themes recently explored at
