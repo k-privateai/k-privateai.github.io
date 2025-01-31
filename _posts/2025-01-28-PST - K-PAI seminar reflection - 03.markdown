@@ -23,6 +23,13 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 You can find the abstract and slides of the keynote presentation <a href="https://sungheeyun.github.io/#ai-knight-rises">here</a>.
 </blockquote>
 
+<blockquote>
+Want to share this reflection?
+Use this link
+&ndash; <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a> &ndash;
+to share!
+</blockquote>
+
 <a href="/seminar-announcements/03">The third Silicon Valley Private AI Forum (K-PAI) seminar</a>
 exceeded all expectations, marking its most successful gathering to date.
 The event, hosted at <a href="https://maps.app.goo.gl/pX9LR2UbUkcJ7g9t8">Stanford University's Graduate Community Center</a>,
