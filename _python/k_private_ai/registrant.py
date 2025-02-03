@@ -26,8 +26,9 @@ class KPaiRegistrant:
         if isinstance(registrant, SeminarRegistrant03):
             self.seminar_registrant_03 = registrant
 
-        self._email: str | None = ""
-        self._name: str | None = ""
+        self._email: str | None = None
+        self._work_email: str | None = None
+        self._name: str | None = None
         self._english_full_name: str | None = None
         self._phone_number: PhoneNumber | None = None
         self._company: str | None = None
@@ -50,6 +51,7 @@ class KPaiRegistrant:
                 if self.k_pai_member_02.personal_email is not None
                 else self.k_pai_member_02.work_email
             )
+            self._work_email = self.k_pai_member_02.work_email
             self._name = (
                 self.k_pai_member_02.korean_name
                 if self.k_pai_member_02.korean_name is not None
@@ -58,6 +60,9 @@ class KPaiRegistrant:
             self._attend_2nd_seminar = self.k_pai_member_02.attend_2nd_seminar
 
         assert self._email is not None
+
+        if self._email == "ywha.p2o.@gmail.com":
+            self._email = "ywha.p2o@gmail.com"
 
     def __repr__(self) -> str:
         assert self.name is not None, self.email
@@ -122,6 +127,10 @@ class KPaiRegistrant:
         return self._email
 
     @property
+    def work_email(self) -> str | None:
+        return self._work_email
+
+    @property
     def phone_number(self) -> PhoneNumber | None:
         return self._phone_number
 
@@ -156,6 +165,13 @@ class KPaiRegistrant:
     @property
     def attend_3rd_seminar_ox_str(self) -> str:
         return "O" if self.attend_3rd_seminar else "X"
+
+    @property
+    def emails(self) -> list[str]:
+        assert self.email is not None
+        return ([self.email] if "@" in self.email else []) + (
+            [] if self.work_email is None else [self.work_email]
+        )
 
     def combine(self, k_pai_registrant: KPaiRegistrant) -> None:
         if self.k_pai_member_02 is None:

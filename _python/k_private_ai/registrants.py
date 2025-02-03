@@ -3,6 +3,7 @@ Collection of K-PAI registrants
 """
 
 from logging import getLogger, Logger
+from functools import reduce
 
 from pandas import DataFrame, ExcelWriter
 
@@ -87,3 +88,10 @@ class KPaiRegistrantCollection:
                 ],
                 columns=KPaiRegistrant.get_col_names_for_excel_file(),
             ).to_excel(writer, sheet_name=sheet_name, index=False)
+
+    @property
+    def all_emails(self) -> list[str]:
+        self.complete_fields()
+        return reduce(
+            list.__add__, [registrant.emails for registrant in self.email_registrant_map.values()]
+        )

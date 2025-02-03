@@ -4,6 +4,7 @@ parse .tsv file for the Google form summary for the K-PAI 3rd seminar
 
 import os
 from pathlib import Path
+from logging import Logger, getLogger
 
 from pandas import read_csv, DataFrame
 from freq_used.logging_utils import set_logging_basic_config
@@ -11,6 +12,8 @@ from freq_used.logging_utils import set_logging_basic_config
 from k_private_ai.registrant_03 import SeminarRegistrant03
 from k_private_ai.member_02 import KPaiMember02
 from k_private_ai.registrants import KPaiRegistrantCollection
+
+logger: Logger = getLogger()
 
 project_root: Path = Path(__file__).parent.parent.parent
 
@@ -45,3 +48,4 @@ if __name__ == "__main__":
 
     registrants.analyze()
     registrants.to_excel("registrants.xlsx", "up to 3rd seminar")
+    logger.info(", ".join(registrants.all_emails))
