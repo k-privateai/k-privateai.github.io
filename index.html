@@ -6,7 +6,7 @@ toc: true
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
-last_modified_at: Mon Feb  3 02:39:14 PST 2025
+last_modified_at: Mon Feb  3 14:52:43 PST 2025
 ---
 
 Empowering Professionals in Silicon Valley's AI Landscape!
@@ -44,6 +44,15 @@ The hosting organization of K-PAI is
 
 Discover the exclusive benefits and perks of K-PAI membership, and learn how to join us <a href="/membership/">here</a>!
 
+<h1 id="blog">Recent blog posts</h1>
+<ul>
+	{% for post in site.posts limit:10 %}
+		<li>
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+	{% endfor %}
+</ul>
+
 <h1 id="area-of-focuse">Areas of Focus</h1>
 <ul>
 <li>
@@ -63,15 +72,6 @@ Discover the exclusive benefits and perks of K-PAI membership, and learn how to 
 	data ownership, accountability, and decentralization
 	to foster fair, transparent, and accessible AI systems
 </li>
-</ul>
-
-<h1 id="blog">Recent blog posts</h1>
-<ul>
-	{% for post in site.posts limit:10 %}
-		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
-		</li>
-	{% endfor %}
 </ul>
 
 <h1 id="upcoming-events">Upcoming events</h1>
