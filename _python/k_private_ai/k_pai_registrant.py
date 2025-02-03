@@ -36,6 +36,7 @@ class KPaiRegistrant:
         self._linkedin_url: str | None = None
         self._share_info: bool | None = None
 
+        self._attend_1st_seminar: bool = False
         self._attend_2nd_seminar: bool = False
         self._attend_3rd_seminar: bool = False
 
@@ -67,8 +68,8 @@ class KPaiRegistrant:
     def __repr__(self) -> str:
         assert self.name is not None, self.email
         return (
-            f"KPaiRegistrant({self.attend_2nd_seminar_ox_str}, {self.attend_3rd_seminar_ox_str}"
-            + f", {self.share_info}"
+            f"KPaiRegistrant({self.attend_1st_seminar_ox_str}, {self.attend_2nd_seminar_ox_str}"
+            + f", {self.attend_3rd_seminar_ox_str}, {self.share_info}"
             + f", {self.name}, {self.email}, {get_phone_number_str(self.phone_number)}"
             + f", {self.company}, {self.job_title}, {self.linkedin_url})"
         )
@@ -151,12 +152,24 @@ class KPaiRegistrant:
         return self._share_info
 
     @property
+    def attend_1st_seminar(self) -> bool:
+        return self._attend_1st_seminar
+
+    @attend_1st_seminar.setter
+    def attend_1st_seminar(self, value: bool) -> None:
+        self._attend_1st_seminar = value
+
+    @property
     def attend_2nd_seminar(self) -> bool:
         return self._attend_2nd_seminar
 
     @property
     def attend_3rd_seminar(self) -> bool:
         return self._attend_3rd_seminar
+
+    @property
+    def attend_1st_seminar_ox_str(self) -> str:
+        return "O" if self.attend_1st_seminar else "X"
 
     @property
     def attend_2nd_seminar_ox_str(self) -> str:
@@ -201,6 +214,7 @@ class KPaiRegistrant:
     def get_col_names_for_excel_file() -> list[str]:
         return [
             "name",
+            "1st seminar",
             "2nd seminar",
             "3rd seminar",
             "share info",
@@ -215,6 +229,7 @@ class KPaiRegistrant:
     def excel_fields(self) -> list[str | None]:
         return [
             self.name,
+            "o" if self.attend_1st_seminar else "",
             "o" if self.attend_2nd_seminar else "",
             "o" if self.attend_3rd_seminar else "",
             self.share_info if self.share_info is None else ("o" if self.share_info else "x"),
