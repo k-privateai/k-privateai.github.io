@@ -5,6 +5,8 @@ main:
     url: /posts
   - title: "Tags"
     url: /tags
+  - title: "Membership"
+    url: /membership
 #  - title: "books"
 #    url: /books
 #  - title: "lectures"
