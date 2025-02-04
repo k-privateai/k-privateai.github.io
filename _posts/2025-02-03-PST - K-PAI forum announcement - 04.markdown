@@ -1,7 +1,7 @@
 ---
 title: "Silicon Meets Software - Join Silicon Valley's Premier AI & Semiconductor Forum with Distinguished Policymakers @ Stanford University!"
 date: Mon Feb  3 15:45:24 PST 2025
-last_modified_at: Mon Feb  3 19:16:43 PST 2025
+last_modified_at: Mon Feb  3 19:49:16 PST 2025
 permalink: /event-announcements/04
 categories:
  - blog
@@ -31,7 +31,7 @@ Greetings, Silicon Valley Innovators, Visionaries & Tech Enthusiasts!
 
 We're thrilled to announce the continuation of our successful Silicon Valley Private AI Forum (K-PAI) series! Building on the momentum of our previous events, we're excited to invite you to our 4th forum, which will explore the fascinating intersection of software and silicon, featuring distinguished speakers and experts from various domains.
 
-- Date: February 12, 2025 (Thu)
+- Date: February 12, 2025 (Wed)
 - Time: 5:00 PM - 8:00 PM
 - Venue: <a href="https://www.google.com/maps/search/?api=1&query=EVGR%2C%20Building%20C&query_place_id=ChIJi_5xBba7j4ARdHAXFI7y3Hs">EVGR Theater, Stanford University</a>
 
