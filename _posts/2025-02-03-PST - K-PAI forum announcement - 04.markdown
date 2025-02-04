@@ -1,7 +1,7 @@
 ---
-title: The 4th K-PAI Forum
+title: "Silicon Meets Software - Join Silicon Valley's Premier AI & Semiconductor Forum with Distinguished Policymakers @ Stanford University!"
 date: Mon Feb  3 15:45:24 PST 2025
-last_modified_at: Mon Feb  3 16:23:54 PST 2025
+last_modified_at: Mon Feb  3 16:28:31 PST 2025
 permalink: /event-announcements/03
 categories:
  - blog
@@ -29,11 +29,11 @@ to share this event!
 ---
 Greetings, Silicon Valley Innovators, Visionaries & Tech Enthusiasts!
 
-We're thrilled to announce the continuation of our successful Silicon Valley Private AI Forum (K-PAI) series! Building on the momentum of our previous events, we're excited to invite you to our 4th forum that will explore the fascinating intersection of software and silicon, featuring distinguished speakers and experts from various domains.
+We're thrilled to announce the continuation of our successful Silicon Valley Private AI Forum (K-PAI) series! Building on the momentum of our previous events, we're excited to invite you to our 4th forum, which will explore the fascinating intersection of software and silicon, featuring distinguished speakers and experts from various domains.
 
 - Date: February 21, 2025 (Thu)
 - Time: 5:00 PM - 8:00 PM
-- Venue: <a href="https://www.google.com/maps/search/?api=1&query=EVGR%2C%20Building%20C&query_place_id=ChIJi_5xBba7j4ARdHAXFI7y3Hs">EVGR Teather, Stanford University</a>
+- Venue: <a href="https://www.google.com/maps/search/?api=1&query=EVGR%2C%20Building%20C&query_place_id=ChIJi_5xBba7j4ARdHAXFI7y3Hs">EVGR Theater, Stanford University</a>
 
 {% assign post = site.posts | where: "permalink", "/seminar-reflections/03" | first %}
 
@@ -54,14 +54,10 @@ Ms. Yang will provide unique insights into the global semiconductor landscape, a
 Her participation adds a crucial policy perspective to our discussion, bridging the gap between technological innovation and legislative frameworks that shape the future of the semiconductor industry.
 
 - Please RSVP via [this link](https://lu.ma/fgzqg9ou)!
-> Great news! We've streamlined the check-in process using [Luma](https://lu.ma)! After registration, you'll receive a QR code - just show it at the entrance for quick and easy access to the event.
+> Great news! We've streamlined the check-in process using [Luma](https://lu.ma)! After registration, you'll receive a QR code — just show it at the entrance for quick and easy access to the event.
 - Please visit [K-PAI Membership](/membership)
 to learn about our K-PAI membership
 for the qualification and all exclusive perks you can enjoy!
-
-<!-- > Even if you cannot attend the forum, please fill out <a href="https://forms.gle/aZgU4A5uxVBmUwa79">Registration & Membership</a> to leave your contact information and tell us whether you want us to share your information within our network.-->
-
-<!-- > Anyone who attends two seminars will automatically be designated as a <font class="emph">K-PAI regular member</font> while attendees of any single seminar will be designated as <font class="emph">K-PAI associate members</font> (unless they opt out). Regular members enjoy exclusive benefits, including access to regular and special gatherings for networking and socializing, in addition to participation in official seminars.-->
 
 # Schedule Overview
 
@@ -83,17 +79,16 @@ providing the perfect atmosphere for meaningful connections and conversations.
 # Panel Discussion: Next Frontiers in Computing
 - Time: 6:30 PM - 7:45 PM
 - Panelists
-	- <a href="https://www.linkedin.com/in/jayeum/">Hyangja Yang</a> - Former Member of the National Assembly (MNA) and Legislator
-	- <a href="https://www.linkedin.com/in/hoshikk/">Hoshik Kim</a> - Senior VP and Fellow, Memory Systems Research @ SK hynix
-	- <a href="https://www.linkedin.com/in/jung-ho-ahn-9876748/">Jung Ho Ahn</a> - Professor, EE @ SNU
-
+    - <a href="https://www.linkedin.com/in/jayeum/">Hyangja Yang</a> - Former Member of the National Assembly (MNA) and Legislator
+    - <a href="https://www.linkedin.com/in/hoshikk/">Hoshik Kim</a> - Senior VP and Fellow, Memory Systems Research @ SK hynix
+    - <a href="https://www.linkedin.com/in/jung-ho-ahn-9876748/">Jung Ho Ahn</a> - Professor, EE @ SNU
 
 Join our distinguished panel of experts as they explore crucial topics shaping the future of computing:
 
-- Software's role in hardware evolution &amp; the convergence of Generative AI, Agentic AI, and Physical AI
+- Software's role in hardware evolution & the convergence of Generative AI, Agentic AI, and Physical AI
 - Defining and measuring high-quality data
-- Next-generation HBM innovations &amp; the future of encrypted computing
-- Global semiconductor landscape: From CHIPS Act to K-Semiconductor legislation - geopolitical dynamics and national competitiveness
+- Next-generation HBM innovations & the future of encrypted computing
+- Global semiconductor landscape: From CHIPS Act to K-Semiconductor legislation — geopolitical dynamics and national competitiveness
 
 # Conclusion and Future Forum Preview
 - Time: 7:45 PM - 8:00 PM
@@ -135,4 +130,3 @@ Best regards,
 [K-PAI](/) Organizing Committee
 <br>
 email: <a href="mailto:k.private.ai@gmail.com">k.private.ai@gmail.com</a>
-
