@@ -40,7 +40,7 @@ We're thrilled to announce the continuation of our successful Silicon Valley Pri
 Join us for an evening of insightful discussions, networking, and a delightful dinner experience. Our forums have become a cornerstone for meaningful dialogue in Silicon Valley's AI community, bringing together entrepreneurs, engineers, scientists, investors, and thought leaders.
 Check out [{{ post.title }}]({{ post.url }})!
 
-We are honored to welcome [Hyangja Yang](https://www.linkedin.com/in/jayeum/),
+We are honored to welcome [Hyangja Yang](https://ko.wikipedia.org/wiki/%EC%96%91%ED%96%A5%EC%9E%90),
 Former Member of the National Assembly (MNA) of South Korea,
 as <font color="red">our distinguished panelist</font>.
 Drawing from her extensive experience in technology policy and legislation,
@@ -79,7 +79,7 @@ providing the perfect atmosphere for meaningful connections and conversations.
 # Panel Discussion: Next Frontiers in Computing
 - Time: 6:30 PM - 7:45 PM
 - Panelists
-    - <a href="https://www.linkedin.com/in/jayeum/">Hyangja Yang</a> - Former Member of the National Assembly (MNA) and Legislator
+    - <a href="https://ko.wikipedia.org/wiki/%EC%96%91%ED%96%A5%EC%9E%90">Hyangja Yang</a> - Former Member of the National Assembly (MNA) and Legislator
     - <a href="https://www.linkedin.com/in/hoshikk/">Hoshik Kim</a> - Senior VP and Fellow, Memory Systems Research @ SK hynix
     - <a href="https://www.linkedin.com/in/jung-ho-ahn-9876748/">Jung Ho Ahn</a> - Professor, EE @ SNU
 
