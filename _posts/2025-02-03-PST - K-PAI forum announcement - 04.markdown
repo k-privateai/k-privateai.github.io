@@ -1,7 +1,7 @@
 ---
 title: "Silicon Meets Software - Join Silicon Valley's Premier AI & Semiconductor Forum with Distinguished Policymakers @ Stanford University!"
 date: Mon Feb  3 15:45:24 PST 2025
-last_modified_at: Mon Feb  3 17:52:52 PST 2025
+last_modified_at: Mon Feb  3 18:20:04 PST 2025
 permalink: /event-announcements/04
 categories:
  - blog
@@ -86,7 +86,7 @@ providing the perfect atmosphere for meaningful connections and conversations.
     - <a href="https://www.linkedin.com/in/hoshikk/">Hoshik Kim</a> - Senior VP and Fellow, Memory Systems Research @ SK hynix
     - <a href="https://www.linkedin.com/in/jung-ho-ahn-9876748/">Jung Ho Ahn</a> - Professor, EE @ SNU
     - <a href="https://www.linkedin.com/in/jkim1109/">Jin Kim</a> - CSO @ T3Compute.ai
-    - <a href="https://www.linkedin.com/in/geunhwi-kenny-lim-04116571/">Geunhwi Kenny Lim</a> - CTO @ UClone.net
+    - <a href="https://www.linkedin.com/in/geunhwi-kenny-lim-04116571/">Geunhwi Kenny Lim</a> - AI Advisor @ UClone.net
     - <a href="https://ko.wikipedia.org/wiki/%EC%96%91%ED%96%A5%EC%9E%90">Hyangja Yang</a> - Former Member of the National Assembly (MNA) and Legislator
 
 Join our distinguished panel of experts as they explore crucial topics shaping the future of computing:
