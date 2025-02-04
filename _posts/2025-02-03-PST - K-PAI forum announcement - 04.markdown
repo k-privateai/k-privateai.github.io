@@ -2,7 +2,7 @@
 title: "Silicon Meets Software - Join Silicon Valley's Premier AI & Semiconductor Forum with Distinguished Policymakers @ Stanford University!"
 date: Mon Feb  3 15:45:24 PST 2025
 last_modified_at: Mon Feb  3 16:28:31 PST 2025
-permalink: /event-announcements/03
+permalink: /event-announcements/04
 categories:
  - blog
 tags:
