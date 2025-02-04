@@ -1,7 +1,7 @@
 ---
 title: "Silicon Meets Software - Join Silicon Valley's Premier AI & Semiconductor Forum with Distinguished Policymakers @ Stanford University!"
 date: Mon Feb  3 15:45:24 PST 2025
-last_modified_at: Mon Feb  3 16:28:31 PST 2025
+last_modified_at: Mon Feb  3 17:30:10 PST 2025
 permalink: /event-announcements/04
 categories:
  - blog
@@ -41,6 +41,9 @@ Join us for an evening of insightful discussions, networking, and a delightful d
 Check out [{{ post.title }}]({{ post.url }})!
 
 We are honored to welcome [Hyangja Yang](https://ko.wikipedia.org/wiki/%EC%96%91%ED%96%A5%EC%9E%90),
+Former Member of the National Assembly (MNA) of South Korea, who will join our distinguished panel to share valuable insights on semiconductor policy and innovation in the global context. Her extensive experience in technology legislation will add a unique policy perspective to our discussion of software-silicon convergence.
+
+<!--We are honored to welcome [Hyangja Yang](https://ko.wikipedia.org/wiki/%EC%96%91%ED%96%A5%EC%9E%90),
 Former Member of the National Assembly (MNA) of South Korea,
 as <font color="red">our distinguished panelist</font>.
 Drawing from her extensive experience in technology policy and legislation,
@@ -52,6 +55,7 @@ Ms. Yang will provide unique insights into the global semiconductor landscape, a
 - <font class="emph">The landmark K-Semiconductor bills she championed, and their role in strengthening South Korea's position in the global semiconductor and AI ecosystem!</font>
 
 Her participation adds a crucial policy perspective to our discussion, bridging the gap between technological innovation and legislative frameworks that shape the future of the semiconductor industry.
+-->
 
 - Please RSVP via [this link](https://lu.ma/fgzqg9ou)!
 > Great news! We've streamlined the check-in process using [Luma](https://lu.ma)! After registration, you'll receive a QR code — just show it at the entrance for quick and easy access to the event.
@@ -79,9 +83,11 @@ providing the perfect atmosphere for meaningful connections and conversations.
 ## Panel Discussion: Next Frontiers in Computing
 - Time: 6:30 PM - 7:45 PM
 - Panelists
-    - <a href="https://ko.wikipedia.org/wiki/%EC%96%91%ED%96%A5%EC%9E%90">Hyangja Yang</a> - Former Member of the National Assembly (MNA) and Legislator
     - <a href="https://www.linkedin.com/in/hoshikk/">Hoshik Kim</a> - Senior VP and Fellow, Memory Systems Research @ SK hynix
     - <a href="https://www.linkedin.com/in/jung-ho-ahn-9876748/">Jung Ho Ahn</a> - Professor, EE @ SNU
+    - <a href="https://www.linkedin.com/in/jkim1109/">Jin Kim</a> - CSO @ T3Compute.ai
+    - <a href="https://www.linkedin.com/in/geunhwi-kenny-lim-04116571/">Geunhwi Kenny Lim</a> - CSO @ T3Compute.ai
+    - <a href="https://ko.wikipedia.org/wiki/%EC%96%91%ED%96%A5%EC%9E%90">Hyangja Yang</a> - Former Member of the National Assembly (MNA) and Legislator
 
 Join our distinguished panel of experts as they explore crucial topics shaping the future of computing:
 
