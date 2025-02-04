@@ -72,11 +72,11 @@ generously provided by our hosting organization,
 [SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)](https://imdarc.snu.ac.kr/?page_id=2129&lang=en),
 providing the perfect atmosphere for meaningful connections and conversations.
 
-# Featured Presentation: "Love and Hate between Software and Silicon"
+## Featured Presentation: "Love and Hate between Software and Silicon"
 - Speaker: <a href="https://www.linkedin.com/in/chanik-park-14878b32/">Chanik Park</a> - CCO @ <a href="https://www.mangoboost.io/">MangoBoost, Inc.</a>
 - Time: 6:00 PM - 6:30 PM
 
-# Panel Discussion: Next Frontiers in Computing
+## Panel Discussion: Next Frontiers in Computing
 - Time: 6:30 PM - 7:45 PM
 - Panelists
     - <a href="https://ko.wikipedia.org/wiki/%EC%96%91%ED%96%A5%EC%9E%90">Hyangja Yang</a> - Former Member of the National Assembly (MNA) and Legislator
@@ -90,7 +90,7 @@ Join our distinguished panel of experts as they explore crucial topics shaping t
 - Next-generation HBM innovations & the future of encrypted computing
 - Global semiconductor landscape: From CHIPS Act to K-Semiconductor legislation — geopolitical dynamics and national competitiveness
 
-# Conclusion and Future Forum Preview
+## Conclusion and Future Forum Preview
 - Time: 7:45 PM - 8:00 PM
 
 Get a sneak peek at what's coming in our 5th forum!
