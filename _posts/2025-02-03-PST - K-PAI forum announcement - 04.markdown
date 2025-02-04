@@ -1,7 +1,7 @@
 ---
 title: "Silicon Meets Software - Join Silicon Valley's Premier AI & Semiconductor Forum with Distinguished Policymakers @ Stanford University!"
 date: Mon Feb  3 15:45:24 PST 2025
-last_modified_at: Mon Feb  3 19:49:16 PST 2025
+last_modified_at: Mon Feb  3 21:06:06 PST 2025
 permalink: /event-announcements/04
 categories:
  - blog
@@ -77,7 +77,7 @@ generously provided by our hosting organization,
 providing the perfect atmosphere for meaningful connections and conversations.
 
 ## Featured Presentation: "Love and Hate between Software and Silicon"
-- Speaker: <a href="https://www.linkedin.com/in/chanik-park-14878b32/">Chanik Park</a> - CCO @ <a href="https://www.mangoboost.io/">MangoBoost, Inc.</a>
+- Speaker: <a href="https://www.linkedin.com/in/chanik-park-14878b32/">Chanik Park</a> - CCO @ <!--a href="https://www.mangoboost.io/"-->MangoBoost, Inc.<!--/a-->
 - Time: 6:00 PM - 6:30 PM
 
 ## Panel Discussion: Next Frontiers in Computing
