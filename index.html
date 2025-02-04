@@ -44,11 +44,12 @@ The hosting organization of K-PAI is
 
 Discover the exclusive benefits and perks of K-PAI membership, and learn how to join us <a href="/membership/">here</a>!
 
-<h1 id="blog">Recent blog posts</h1>
+<h1 id="blog">Recent posts</h1>
 <ul>
-	{% for post in site.posts limit:10 %}
+	{% for post in site.posts limit:5 %}
 		<li>
-			<a href="{{ post.url }}">{{ post.title }}</a>
+			<!--a href="{{ post.url }}">{{ post.title }}</a-->
+			<a href="{{ post.url }}">{{ post.title }}</a> &commat; {{ post.date | date: "%d-%b-%Y"}}
 		</li>
 	{% endfor %}
 </ul>
