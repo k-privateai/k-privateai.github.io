@@ -1,7 +1,7 @@
 ---
 title: "Silicon Meets Software - Join Silicon Valley's Premier AI & Semiconductor Forum @ Stanford University!"
 date: Mon Feb  3 15:45:24 PST 2025
-last_modified_at: Wed Feb  5 22:55:32 PST 2025
+last_modified_at: Sun Feb  9 19:46:10 PST 2025
 permalink: /event-announcements/04
 categories:
  - blog
@@ -57,7 +57,7 @@ Ms. Yang will provide unique insights into the global semiconductor landscape, a
 Her participation adds a crucial policy perspective to our discussion, bridging the gap between technological innovation and legislative frameworks that shape the future of the semiconductor industry.
 -->
 
-- Please RSVP via [this link](https://lu.ma/fgzqg9ou)!
+- <strong>Please RSVP via [this link](https://lu.ma/fgzqg9ou)!</strong>
 > Great news! We've streamlined the check-in process using [Luma](https://lu.ma)! After registration, you'll receive a QR code — just show it at the entrance for quick and easy access to the event.
 - Please visit [K-PAI Membership](/membership)
 to learn about our K-PAI membership
