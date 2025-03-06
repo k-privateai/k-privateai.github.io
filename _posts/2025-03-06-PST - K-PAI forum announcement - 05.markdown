@@ -1,7 +1,7 @@
 ---
 title: "Blockchain Awakens - The Force of Decentralized AI @ LG Silicon Valley Lab!"
 date: Thu Mar  6 05:59:32 PST 2025
-last_modified_at: Thu Mar  6 07:18:26 KST 2025
+last_modified_at: Thu Mar  6 07:18:26 PST 2025
 permalink: /event-announcements/05
 categories:
  - blog
