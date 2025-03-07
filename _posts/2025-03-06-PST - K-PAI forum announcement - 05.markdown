@@ -1,7 +1,7 @@
 ---
 title: "Blockchain Awakens - The Force of Decentralized AI @ LG Silicon Valley Lab!"
 date: Thu Mar  6 05:59:32 PST 2025
-last_modified_at: Thu Mar  6 17:21:29 KST 2025
+last_modified_at: Fri Mar  7 17:09:12 KST 2025
 permalink: /event-announcements/05
 categories:
  - blog
@@ -46,8 +46,7 @@ Check out [{{ post1.title }}]({{ post1.url }}) and [{{ post2.title }}]({{ post2.
 to learn about our K-PAI membership
 for the qualification and all exclusive perks you can enjoy!
 
-Please note this time, LG Electronics America will be kind enough to provide you a chance to win a lucky draw
-for a Smart Monitor and a Wireless Speaker.
+This time, you have the opportunity to win a Smart Monitor and Wireless Speaker from LG Electronics America in a special lucky draw.
 
 <div class="img-container-justified">
 &nbsp;
