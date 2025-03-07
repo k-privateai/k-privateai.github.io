@@ -1,7 +1,7 @@
 ---
 title: "Blockchain Awakens - The Force of Decentralized AI @ LG Silicon Valley Lab!"
 date: Thu Mar  6 05:59:32 PST 2025
-last_modified_at: Thu Mar  6 07:18:26 PST 2025
+last_modified_at: Thu Mar  6 17:21:29 KST 2025
 permalink: /event-announcements/05
 categories:
  - blog
@@ -47,12 +47,11 @@ to learn about our K-PAI membership
 for the qualification and all exclusive perks you can enjoy!
 
 Please note this time, LG Electronics America will be kind enough to provide you a chance to win a lucky draw
-for a Smart Monitor and a Wireless Speaker
-
+for a Smart Monitor and a Wireless Speaker.
 
 <div class="img-container-justified">
 &nbsp;
-<img width="293" height="202" src="/resource/seminars/05/Monitor_34SR60QC-B_gallery_02_5000x5000.png">
+<img width="343" height="202" src="/resource/seminars/05/Monitor_34SR60QC-B_gallery_02_5000x5000.png">
 <img width="140" height="232" src="/resource/seminars/05/speaker-01.png">
 &nbsp;
 </div>
@@ -139,6 +138,12 @@ The hosting organization of K-PAI is <a href="https://imdarc.snu.ac.kr/?page_id=
 <img width="100" src="/assets/images/k-on-pie.png">
 <img width="125" src="/assets/images/kappa-to-pi.png">
 &nbsp;
+</div>
+
+# Parking Information
+
+<div class="img-container">
+<img src="/resource/seminars/05/parking-info.jpeg">
 </div>
 
 We look forward to your participation in this exciting forum! If you have any questions or topics you'd like to discuss, please don't hesitate to reach out.
