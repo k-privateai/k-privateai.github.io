@@ -1,7 +1,7 @@
 ---
 title: "Blockchain Awakens - The Force of Decentralized AI @ LG Silicon Valley Lab!"
 date: Thu Mar  6 05:59:32 PST 2025
-last_modified_at: Fri Mar  7 00:29:04 PST 2025
+last_modified_at: Fri Mar  7 00:42:22 KST 2025
 permalink: /event-announcements/05
 categories:
  - blog
@@ -79,6 +79,8 @@ Experience our signature networking reception featuring a carefully curated sele
 
 ## Spotlight Sessions (6:45PM ~ 7:45PM)
 
+Join our distinguished speakers as they delve into the fascinating terrain where blockchain and AI converge. They will examine how blockchain technology creates new frameworks for enhancing AI fairness and transparency, making algorithmic decisions more accountable. The discussion will explore innovative applications of homomorphic encryption in biometric verification, offering powerful solutions that maintain security while preserving privacy. Speakers will also investigate how blockchain is fundamentally revolutionizing ownership models for real-world assets, creating more inclusive and efficient systems. The conversation will extend to cutting-edge privacy-preserving techniques essential for blockchain scaling, addressing one of the field's most pressing challenges. Throughout the event, you'll gain insights into pioneering R&D initiatives that are actively shaping the future landscape where blockchain and AI technologies seamlessly integrate, opening new possibilities for technological advancement.
+
 - Homomorphic Iris Code Verification
     - [Jung Hee Cheon](https://en.wikipedia.org/wiki/Jung_Hee_Cheon) - Math Professor @ SNU &amp; CEO @ CryptoLab, Inc.
 - Ownership Revolution of Real-World Assets with Blockchain Technology
@@ -88,13 +90,14 @@ Experience our signature networking reception featuring a carefully curated sele
 - R&D Initiatives at LG Electronics
     - [Jacob Song](https://www.linkedin.com/in/jacob-song-1bb2301/) - Head of Emerging Technology @ LG Electronics
 
-Join our distinguished speakers as they explore crucial topics at the intersection of blockchain and AI:
+<!--Join our distinguished speakers as they explore crucial topics at the intersection of blockchain and AI:
 
 - How blockchain technology can enhance AI fairness and transparency
 - Applications of homomorphic encryption in biometric verification
 - Revolutionizing ownership of real-world assets through blockchain
 - Privacy-preserving techniques in blockchain scaling
-- Cutting-edge R&D initiatives in blockchain and AI convergence
+- Cutting-edge R&D initiatives in blockchain and AI convergence-->
+
 
 ## Q&A &amp; Closing (7:45PM ~ 8PM)
 
