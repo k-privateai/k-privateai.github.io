@@ -1,7 +1,7 @@
 ---
 title: Unlocking Innovation - Blockchain and AI at K-PAI 5
 date: Fri Mar 14 17:43:50 PDT 2025
-last_modified_at: Fri Mar 14 23:23:54 PDT 2025
+last_modified_at: Fri Mar 14 23:51:08 PDT 2025
 permalink: /seminar-reflections/05
 categories:
  - blog
@@ -43,7 +43,7 @@ This informal gathering embodied K-PAI's dedication to building a genuine commun
 As conversations flowed, the boundaries between organizations dissolved, creating exactly the kind of authentic exchange that has become the hallmark of
 these Silicon Valley Private AI Forum events.
 
-# Featured Presentation: "Blockchain + AI"
+# Featured Presentation - "Blockchain + AI"
 
 Daejun Park @ a16z crypto delivered the keynote address, shedding light on the integration of blockchain principles into AI systems. He emphasized how decentralization and immutability inherent in blockchain can enhance AI's transparency and accountability, paving the way for more ethical and robust applications.
 
