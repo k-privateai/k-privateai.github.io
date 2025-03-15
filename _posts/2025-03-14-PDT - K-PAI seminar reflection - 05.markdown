@@ -1,7 +1,7 @@
 ---
 title: Unlocking Innovation - Blockchain and AI at K-PAI 5
 date: Fri Mar 14 17:43:50 PDT 2025
-last_modified_at: Fri Mar 14 23:51:08 PDT 2025
+last_modified_at: Sat Mar 15 06:21:20 PDT 2025
 permalink: /seminar-reflections/05
 categories:
  - blog
@@ -75,6 +75,10 @@ The forum featured several spotlight sessions, each highlighting innovative inte
 
 - <b>Privacy and Scaling Explorations at Ethereum Foundation</b>
 &ndash; Keewoo Lee, a researcher @ the Ethereum Foundation and PostDoc @ UC Berkeley, explored cutting-edge privacy-preserving techniques essential for blockchain scaling. His discussion addressed pressing challenges in the field and potential solutions.​
+
+<div class="img-container">
+<img style="max-width: 80%;" src="/resource/seminars/05/Screenshot 2025-03-15 at 6.19.34 AM.png">
+</div>
 
 - <b>R&D Initiatives at LG Electronics</b>
 &ndash; Jacob Song, Head of Emerging Technology at LG Electronics, shared the company's research and development initiatives at the intersection of blockchain and AI. His presentation highlighted LG's commitment to integrating these technologies into consumer electronics to enhance user experiences.
