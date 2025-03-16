@@ -3,12 +3,12 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Sat Jan 18 02:54:12 PST 2025
+last_modified_at: Sun Mar 16 14:31:26 PDT 2025
 categories:
  - blog
 toc: true
-toc_label: "ToC"
-toc_icon: "cog"
+toc_label: "&nbsp;Table of Contents"
+toc_icon: "fa-solid fa-list"
 toc_sticky: true
 ---
 
@@ -219,6 +219,97 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 </ul>
 
 # Meetings
+
+## The 4th org committee meeting @ KOTRA @ 16-Mar-2025
+
+Sunghee's plans proposed for the following 6 months.
+
+<!--# **K-PAI: Next 6 Months of Events (April - September 2025)**-->
+
+### **April 2025 – "AI & Synthetic Biology: Engineering Life with Code"**
+- **Theme:** AI’s role in accelerating drug discovery, synthetic biology, and genomics.
+- **Key Discussion Points:**
+  - AI-driven protein folding, CRISPR advancements, and biofoundries.
+  - The ethics of AI in bioengineering.
+  - Regulatory hurdles for AI-driven biotech.
+  - AI-powered pandemic response technologies.
+- **Potential Speaker:** Someone from DeepMind’s AlphaFold team, a biotech founder, or a genomics researcher.
+- **Format:** Technical talks + biotech startup showcase.
+- **Venue:** UCSF or Stanford School of Medicine.
+
+---
+
+### **May 2025 – "AI Meets Quantum: The Next Computing Revolution?"**
+- **Theme:** Exploring the synergy between AI and quantum computing.
+- **Key Discussion Points:**
+  - How quantum computing can accelerate AI workloads.
+  - Quantum cryptography’s impact on AI security.
+  - Challenges in integrating quantum computing into AI pipelines.
+  - The investment landscape for quantum AI startups.
+- **Potential Speaker:** A researcher from IBM Quantum, Google Quantum AI, or a quantum startup.
+- **Format:** Tech talk + panel discussion + live demo.
+- **Venue:** Supex Hall @SK hynix
+
+---
+
+### **June 2025 – "Scaling Privacy-Preserving AI: Tech & Business Strategies"**
+- **Theme:** A deep dive into the commercial adoption of privacy-enhancing AI.
+- **Key Discussion Points:**
+  - Practical applications of homomorphic encryption and federated learning.
+  - Startups tackling private AI challenges in healthcare, finance, and enterprise security.
+  - Open-source privacy AI frameworks.
+  - The business case for privacy-preserving AI.
+- **Potential Speaker:** A VC investor in privacy AI + tech startup founders.
+- **Format:** Startup pitch competition + investor panel.
+- **Venue:** Plug and Play Tech Center, Sunnyvale.
+
+---
+
+### **July 2025 – "AI & Energy: The Power Struggle for Compute"**
+- **Theme:** The impact of AI on energy consumption and sustainability.
+- **Key Discussion Points:**
+  - The energy cost of large AI models and sustainable compute.
+  - Innovations in AI-driven energy management.
+  - The role of AI in optimizing semiconductor manufacturing for efficiency.
+  - AI-powered solutions for climate change.
+- **Potential Speaker:** Experts from Google DeepMind, Tesla Energy, or TSMC.
+- **Format:** Panel discussion + startup showcase.
+- **Venue:** Samsung Semiconductor America
+
+---
+
+### **August 2025 – "AI & National Security: A Double-Edged Sword"**
+- **Theme:** The intersection of AI, cybersecurity, and geopolitics.
+- **Key Discussion Points:**
+  - AI's role in cyber defense and offense.
+  - The impact of AI regulations on national security.
+  - AI-enhanced misinformation and deepfake detection.
+  - Balancing privacy with state security needs.
+- **Potential Speaker:** A security AI expert from DARPA, OpenAI, or a government agency.
+- **Format:** Fireside chat + panel discussion.
+- **Venue:** A corporate innovation hub (Google, Nvidia, or Tesla).
+
+---
+
+### **September 2025 – "From Compute to Creativity: Generative AI in Art, Music & Culture"**
+- **Theme:** The creative explosion in AI-generated art, music, and storytelling.
+- **Key Discussion Points:**
+  - AI’s role in creative expression and authorship rights.
+  - How AI is transforming music composition and filmmaking.
+  - Ethical considerations in AI-generated content.
+  - Monetization and business models for generative AI.
+- **Potential Speaker:** Someone from Stability AI, OpenAI, or a creative AI startup.
+- **Format:** Demo night + panel + live AI-generated performance.
+- **Venue:** A cultural hub (SF Exploratorium, AI art gallery).
+
+---
+
+### **Ideas for Special Formats**
+- **Startup Demo Night** – Showcase new AI startups working on private AI, biotech, or blockchain AI.
+- **Cross-industry Roundtable** – Invite policy experts, engineers, and investors for an off-the-record strategy session.
+- **AI Hackathon** – A weekend-long event where teams build privacy-preserving AI applications.
+
+
 
 <h2 id="special-01">Special meeting with Stanford students @ SGD on 15-Jan-2025</h2>
 
