@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Sun Mar 16 14:31:26 PDT 2025
+last_modified_at: Sun Mar 16 17:43:07 PDT 2025
 categories:
  - blog
 toc: true
@@ -21,6 +21,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 <h1 id="action-items">Action items</h1>
 
 <ul>
+<font color="gray">
 <li>
 	reminder of 3rd seminar announcement
 	<ul>
@@ -31,13 +32,12 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		owned by Sunghee
 	</li>
 	<li>
-		<font color="red">
+		<!--font color="red"-->
 		due: 20-Jan-2025
-		</font>
+		<!--/font-->
 	</li>
 	</ul>
 </li>
-<font color="gray">
 <li>
 	catering reservation
 	<ul>
@@ -85,9 +85,9 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		owned by Sunghee (and Jung Hee, CI, SVP)
 	</li>
 	<li>
-		<font color="red">
+		<!--font color="red"-->
 		due: 15-Jan-2025
-		</font>
+		<!--/font-->
 	</li>
 	<li>
 		COMPLETED on 16-Jan-2025
@@ -140,7 +140,9 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 		owned by Sunghee
 	</li>
 	<li>
-		<font color="red">due: 13-Jan-2025</font>
+		<!--font color="red"-->
+		due: 13-Jan-2025
+		<!--/font-->
 	</li>
 	<li>
 		COMPLETED on 16-Jan-2025
