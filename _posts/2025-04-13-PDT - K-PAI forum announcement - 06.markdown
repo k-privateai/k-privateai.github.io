@@ -1,0 +1,139 @@
+---
+title: "K-PAI partners with K-BIOX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
+date: Sun Apr 13 21:38:43 PDT 2025
+last_modified_at: Sun Apr 13 21:38:43 PDT 2025
+permalink: /event-announcements/06
+categories:
+ - blog
+tags:
+ - seminar
+ - announcement
+ - partnership
+toc: true
+toc_label: "&nbsp;Table of Contents"
+toc_icon: "fa-solid fa-list"
+toc_sticky: true
+---
+
+posted: {{ page.date| date: "%d-%b-%Y" }}
+&amp;
+updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
+{: .notice--primary}
+
+> Want to share this event?
+Use this link
+&ndash; <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a> &ndash;
+to share this event!
+
+# Invitation
+
+---
+Greetings, Silicon Valley Innovators, Visionaries & Tech Enthusiasts!
+
+We are excited to invite you to the sixth edition of the [K-PAI Forum](/),
+a premier gathering for researchers, industry leaders,
+and innovators exploring the future of AI-enhancing technologies. For this special event,
+we are thrilled to partner with [K-BioX](https://kbiox.net/),
+combining our expertise in privacy-first AI with their leadership in biomedical innovation.
+Building on the success of our previous forums,
+we are diving into the revolutionary intersection of AI and medical technology, examining how AI is transforming healthcare, genomics, and medical imaging while maintaining critical privacy standards.
+
+<div class="img-container-justified">
+&nbsp;
+<img width="20%" src="/assets/images/k-on-pie.png">
+<img width="60%" src="/resource/org-logos/k-biox-logo-01.png">
+&nbsp;
+</div>
+
+- Date: April 22, 2025 (tue) PDT
+- Time: 5:30pm - 8pm
+- Venue: [Alaska, KOTRA](https://maps.app.goo.gl/8E411UigJUCvKJJf7)
+
+{% assign post1 = site.posts | where: "permalink", "/seminar-reflections/05" | first %}
+
+Join us for an evening of insightful discussions, networking, and cutting-edge research at the forefront of AI and medical technology! Our forums have become a cornerstone for meaningful dialogue in Silicon Valley's tech community, bringing together entrepreneurs, engineers, scientists, investors, and thought leaders.
+Check out [{{ post1.title }}]({{ post1.url }}) to see how we enjoy the last event tremendously!
+
+- <font color="red"><strong>Please RSVP via <a href="">this link</a>!</strong></font>
+- Please visit [K-PAI Membership](/membership)
+to learn about our K-PAI membership
+for the qualification and all exclusive perks you can enjoy!
+
+Stay tuned for information about special prizes and giveaways at this event!
+
+<!--***Please note: This event will be conducted in Korean.***-->
+
+# Schedule Overview
+
+## Reception & Networking (5:30pm ~ 6pm)
+
+Experience our signature networking reception featuring a carefully curated selection of refreshments and hors d'oeuvres,
+providing the perfect atmosphere for meaningful connections and conversations.
+This time, though,
+you will meet all the nice people from K-BioX
+with whom
+you will broaden your network even larger!
+
+## Featured Presentations (6pm ~ 7:30pm)
+
+### Integrating AI-driven Genomics and Image Analysis for Precision Medicine
+
+- Speaker: [HoJoon Lee @ Stanford University School of Medicine](https://www.linkedin.com/in/hojoonlee/)
+- Time: 6pm ~ 6:30pm
+
+The Artificial intelligence (AI) is reshaping healthcare and biomedical research,
+driving unprecedented advancements in personalized medicine.
+This presentation will examine how AI revolutionizes cancer treatment by harnessing vast genomic and biomedical imaging datasets,
+while also exploring future opportunities.
+Drawing on research in cancer and immunogenomics,
+the speaker will demonstrate the practical applications of AI in oncology and underscore its transformative potential
+in delivering precision medicine to improve outcomes for cancer patients.
+
+### AI in Medical Imaging
+
+- Speaker: [Donghoon Kim @ Stanford Center for Advanced Functional Neuroimaging (CAFN)](https://www.linkedin.com/in/donghoon-kim-983149151/)
+- Time: 6:30pm ~ 7pm
+
+This presentation will explore the applications of artificial intelligence in medical imaging, with a focus on its roles in image analysis, interpretation, and clinical decision support. The speaker will discuss how AI technologies are enhancing diagnostic accuracy, workflow efficiency, and treatment planning across various medical specialties.
+
+## Spotlight Sessions (7pm ~ 7:30pm)
+
+Join our distinguished speakers as they delve into the critical intersection of AI, privacy, and healthcare. They will examine how privacy-preserving AI technologies like homomorphic encryption can enable medical research and analysis while protecting sensitive patient data. The discussion will explore innovative applications in genomic privacy, secure medical data sharing, and regulatory considerations for AI in healthcare settings.
+
+## Q&A & Further Networking (7:45pm ~ 8pm)
+
+# Why Attend?
+
+Attending this event offers a unique opportunity to gain valuable insights into the revolutionary integration of AI with biomedical research and healthcare. You'll have the chance to network with leading experts in AI, genomics, medical imaging, and privacy-preserving technologies. Engage in thought-provoking discussions about the ethical implications and technological challenges of implementing AI in healthcare while maintaining patient privacy. Additionally, you'll be able to connect with Silicon Valley's vibrant and innovative tech community, and learn about the latest cutting-edge research and practical applications shaping the future of precision medicine.
+
+# Target Audience
+
+The event is tailored to a diverse yet focused audience. It caters to:
+
+- Healthcare professionals and medical researchers
+- AI researchers and practitioners in healthcare
+- Genomics and bioinformatics specialists
+- Medical imaging experts and radiologists
+- Privacy technology professionals
+- Industry leaders exploring healthcare innovation
+- Technology investors and entrepreneurs
+- Anyone interested in the future of AI-powered healthcare
+
+# Hosting Organizations
+
+This event is jointly hosted by [K-PAI](/) and [K-BioX](https://kbiox.net/)!
+The primary hosting organization of K-PAI is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
+
+<div class="img-container-justified">
+&nbsp;
+<img width="19%" src="/assets/images/SNU-logo.png">
+<img width="19%" src="/assets/images/k-on-pie.png">
+<img width="58%" src="/resource/org-logos/k-biox-logo-01.png">
+&nbsp;
+</div>
+
+We look forward to your participation in this exciting forum! If you have any questions or topics you'd like to discuss, please don't hesitate to reach out.
+
+Best regards,
+
+[K-PAI](/) and [K-BIOX](https://kbiox.net/) Organizing Committee
