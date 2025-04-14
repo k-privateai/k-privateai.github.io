@@ -1,7 +1,7 @@
 ---
-title: "K-PAI partners with K-BIOX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
+title: "K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 date: Sun Apr 13 21:38:43 PDT 2025
-last_modified_at: Sun Apr 13 21:38:43 PDT 2025
+last_modified_at: Sun Apr 13 23:48:53 PDT 2025
 permalink: /event-announcements/06
 categories:
  - blog
@@ -28,7 +28,7 @@ to share this event!
 # Invitation
 
 ---
-Greetings, Silicon Valley Innovators, Visionaries & Tech Enthusiasts!
+Pioneers of Innovation, Healers of Tomorrow, and Digital Visionaries!
 
 We are excited to invite you to the sixth edition of the [K-PAI Forum](/),
 a premier gathering for researchers, industry leaders,
@@ -102,6 +102,8 @@ Join our distinguished speakers as they delve into the critical intersection of 
 
 ## Q&A & Further Networking (7:45pm ~ 8pm)
 
+This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI's role in healthcare innovation while respecting data privacy. Bring your most challenging questions and contribute to this vibrant exchange of ideas!
+
 # Why Attend?
 
 Attending this event offers a unique opportunity to gain valuable insights into the revolutionary integration of AI with biomedical research and healthcare. You'll have the chance to network with leading experts in AI, genomics, medical imaging, and privacy-preserving technologies. Engage in thought-provoking discussions about the ethical implications and technological challenges of implementing AI in healthcare while maintaining patient privacy. Additionally, you'll be able to connect with Silicon Valley's vibrant and innovative tech community, and learn about the latest cutting-edge research and practical applications shaping the future of precision medicine.
@@ -126,9 +128,9 @@ The primary hosting organization of K-PAI is <a href="https://imdarc.snu.ac.kr/?
 
 <div class="img-container-justified">
 &nbsp;
-<img width="19%" src="/assets/images/SNU-logo.png">
-<img width="19%" src="/assets/images/k-on-pie.png">
-<img width="58%" src="/resource/org-logos/k-biox-logo-01.png">
+<img width="20%" src="/assets/images/SNU-logo.png">
+<!--img width="19%" src="/assets/images/k-on-pie.png"-->
+<img width="60%" src="/resource/org-logos/k-biox-logo-01.png">
 &nbsp;
 </div>
 
@@ -136,4 +138,4 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[K-PAI](/) and [K-BIOX](https://kbiox.net/) Organizing Committee
+[K-PAI](/) and [K-BioX](https://kbiox.net/) Organizing Committee
