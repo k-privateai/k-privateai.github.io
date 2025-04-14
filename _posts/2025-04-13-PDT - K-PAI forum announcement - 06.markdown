@@ -1,7 +1,7 @@
 ---
 title: "K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 date: Sun Apr 13 21:38:43 PDT 2025
-last_modified_at: Mon Apr 14 00:00:44 PDT 2025
+last_modified_at: Mon Apr 14 14:12:32 PDT 2025
 permalink: /event-announcements/06
 categories:
  - blog
@@ -54,7 +54,7 @@ we are diving into the revolutionary intersection of AI and medical technology, 
 Join us for an evening of insightful discussions, networking, and cutting-edge research at the forefront of AI and medical technology! Our forums have become a cornerstone for meaningful dialogue in Silicon Valley's tech community, bringing together entrepreneurs, engineers, scientists, investors, and thought leaders.
 Check out [{{ post1.title }}]({{ post1.url }}) to see how we enjoy the last event tremendously!
 
-- <font color="red"><strong>Please RSVP via <a href="">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a href="https://lu.ma/c4fn7lq7">this link</a>!</strong></font>
 - Please visit [K-PAI Membership](/membership)
 to learn about our K-PAI membership
 for the qualification and all exclusive perks you can enjoy!
