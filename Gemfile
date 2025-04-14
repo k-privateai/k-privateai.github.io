@@ -16,4 +16,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "webrick"
   gem "minimal-mistakes-jekyll"
+  gem "mutex_m"
 end
