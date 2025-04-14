@@ -1,7 +1,7 @@
 ---
 title: "K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 date: Sun Apr 13 21:38:43 PDT 2025
-last_modified_at: Mon Apr 14 14:12:32 PDT 2025
+last_modified_at: Mon Apr 14 16:34:26 PDT 2025
 permalink: /event-announcements/06
 categories:
  - blog
@@ -46,7 +46,7 @@ we are diving into the revolutionary intersection of AI and medical technology, 
 </div>
 
 - Date: April 22, 2025 (tue) PDT
-- Time: 5:30pm - 8pm
+- Time: 5pm - 8pm
 - Venue: [Alaska, KOTRA](https://maps.app.goo.gl/8E411UigJUCvKJJf7)
 
 {% assign post1 = site.posts | where: "permalink", "/seminar-reflections/05" | first %}
@@ -65,7 +65,7 @@ Stay tuned for information about special prizes and giveaways at this event!
 
 # Schedule Overview
 
-## Reception & Networking (5:30pm ~ 6pm)
+## Reception & Networking (5pm ~ 6pm)
 
 Experience our signature networking reception featuring a carefully curated selection of refreshments and hors d'oeuvres,
 providing the perfect atmosphere for meaningful connections and conversations.
