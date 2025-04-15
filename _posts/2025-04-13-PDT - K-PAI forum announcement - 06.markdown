@@ -1,7 +1,7 @@
 ---
 title: "K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 date: Sun Apr 13 21:38:43 PDT 2025
-last_modified_at: Mon Apr 14 17:16:01 PDT 2025
+last_modified_at: Mon Apr 14 17:22:02 PDT 2025
 permalink: /event-announcements/06
 categories:
  - blog
@@ -96,9 +96,7 @@ in delivering precision medicine to improve outcomes for cancer patients.
 
 This presentation will explore the applications of artificial intelligence in medical imaging, with a focus on its roles in image analysis, interpretation, and clinical decision support. The speaker will discuss how AI technologies are enhancing diagnostic accuracy, workflow efficiency, and treatment planning across various medical specialties.
 
-### Spotlight Sessions
-
-- Time: 7pm ~ 7:30pm
+## Spotlight Sessions (7pm ~ 7:30pm)
 
 Join our distinguished speakers as they delve into the critical intersection of AI, privacy, and healthcare. They will examine how privacy-preserving AI technologies like homomorphic encryption can enable medical research and analysis while protecting sensitive patient data. The discussion will explore innovative applications in genomic privacy, secure medical data sharing, and regulatory considerations for AI in healthcare settings.
 
