@@ -1,7 +1,7 @@
 ---
 title: "K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 date: Sun Apr 13 21:38:43 PDT 2025
-last_modified_at: Fri Apr 18 20:52:23 PDT 2025
+last_modified_at: Sat Apr 19 17:43:26 PDT 2025
 permalink: /event-announcements/06
 categories:
  - blog
@@ -64,6 +64,8 @@ Stay tuned for information about special prizes and giveaways at this event!
 <!--***Please note: This event will be conducted in Korean.***-->
 
 # Schedule Overview
+
+[Program and Announcements](/resource/seminars/06 - 22-Apr-2025/K-PAI - Biotech - Apr-2025.pdf)
 
 ## Reception & Networking (5pm ~ 6pm)
 
