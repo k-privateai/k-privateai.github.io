@@ -1,7 +1,7 @@
 ---
 title: "K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 date: Sun Apr 13 21:38:43 PDT 2025
-last_modified_at: Mon Apr 21 21:52:55 PDT 2025
+last_modified_at: Mon Apr 21 22:05:52 PDT 2025
 permalink: /event-announcements/06
 categories:
  - blog
@@ -64,7 +64,7 @@ Their support makes this valuable networking and knowledge-sharing opportunity p
 &nbsp;
 <img width="15%" src="/assets/images/k-on-pie.png">
 <img width="65%" src="/resource/org-logos/k-biox-logo-01.png">
-<img width="15%" src="/resource/org-logos/kotra-silicon-valley-log.jpeg">
+<img width="15%" src="/resource/org-logos/kotra-silicon-valley-logo.jpeg">
 &nbsp;
 </div>
 
@@ -139,8 +139,8 @@ The primary hosting organization of K-PAI is <a href="https://imdarc.snu.ac.kr/?
 
 <div class="img-container-justified">
 &nbsp;
+<img width="15%" src="/assets/images/k-on-pie.png">
 <img width="15%" src="/assets/images/SNU-logo.png">
-<!--img width="19%" src="/assets/images/k-on-pie.png"-->
 <img width="65%" src="/resource/org-logos/k-biox-logo-01.png">
 &nbsp;
 </div>
