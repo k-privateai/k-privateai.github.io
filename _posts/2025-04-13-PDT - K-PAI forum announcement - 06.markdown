@@ -1,7 +1,7 @@
 ---
 title: "K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 date: Sun Apr 13 21:38:43 PDT 2025
-last_modified_at: Sat Apr 19 17:43:26 PDT 2025
+last_modified_at: Mon Apr 21 21:52:55 PDT 2025
 permalink: /event-announcements/06
 categories:
  - blog
@@ -38,13 +38,6 @@ combining our expertise in privacy-first AI with their leadership in biomedical 
 Building on the success of our previous forums,
 we are diving into the revolutionary intersection of AI and medical technology, examining how AI is transforming healthcare, genomics, and medical imaging while maintaining critical privacy standards.
 
-<div class="img-container-justified">
-&nbsp;
-<img width="15%" src="/assets/images/k-on-pie.png">
-<img width="65%" src="/resource/org-logos/k-biox-logo-01.png">
-&nbsp;
-</div>
-
 - Date: April 22, 2025 (tue)
 - Time: 5pm - 8pm PDT
 - Venue: [Alaska, KOTRA](https://maps.app.goo.gl/8E411UigJUCvKJJf7)
@@ -58,6 +51,22 @@ Check out [{{ post1.title }}]({{ post1.url }}) to see how we enjoy the last even
 - Please visit [K-PAI Membership](/membership)
 to learn about our K-PAI membership
 for the qualification and all exclusive perks you can enjoy!
+
+## Special Thanks to Our Sponsor
+
+We extend our sincere gratitude to [KOTRA Silicon Valley](https://www.connectkotrasv.org/)
+for their generous sponsorship of this forum.
+KOTRA is providing both the venue at their Alaska conference room and high-quality bento box dinners
+for all attendees.
+Their support makes this valuable networking and knowledge-sharing opportunity possible!
+
+<div class="img-container-justified">
+&nbsp;
+<img width="15%" src="/assets/images/k-on-pie.png">
+<img width="65%" src="/resource/org-logos/k-biox-logo-01.png">
+<img width="15%" src="/resource/org-logos/kotra-silicon-valley-log.jpeg">
+&nbsp;
+</div>
 
 Stay tuned for information about special prizes and giveaways at this event!
 
