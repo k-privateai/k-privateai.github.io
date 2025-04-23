@@ -1,7 +1,7 @@
 ---
 title: "K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical Technology's AI Revolution!"
 date: Sun Apr 13 21:38:43 PDT 2025
-last_modified_at: Mon Apr 21 22:05:52 PDT 2025
+last_modified_at: Wed Apr 23 00:34:29 PDT 2025
 permalink: /event-announcements/06
 categories:
  - blog
@@ -91,6 +91,7 @@ you will broaden your network even larger!
 
 - Speaker: [HoJoon Lee](https://www.linkedin.com/in/hojoonlee/) @ [Stanford University School of Medicine](https://online.stanford.edu/schools-centers/stanford-school-medicine)
 - Time: 6pm ~ 6:30pm
+- [Presentation slides](/resource/seminars/06 - 22-Apr-2025/K-PAI_HoJoonLee.pdf)
 
 The Artificial intelligence (AI) is reshaping healthcare and biomedical research,
 driving unprecedented advancements in personalized medicine.
@@ -104,6 +105,7 @@ in delivering precision medicine to improve outcomes for cancer patients.
 
 - Speaker: [Donghoon Kim](https://www.linkedin.com/in/donghoon-kim-983149151/) @ [Stanford Center for Advanced Functional Neuroimaging (CAFN)](https://med.stanford.edu/content/sm/cafn.html/)
 - Time: 6:30pm ~ 7pm
+- [Presentation slides](/resource/seminars/06 - 22-Apr-2025/K-PAI_K-BioX_talk_DK.pdf)
 
 This presentation will explore the applications of artificial intelligence in medical imaging, with a focus on its roles in image analysis, interpretation, and clinical decision support. The speaker will discuss how AI technologies are enhancing diagnostic accuracy, workflow efficiency, and treatment planning across various medical specialties.
 
