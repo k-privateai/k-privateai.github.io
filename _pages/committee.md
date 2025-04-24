@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Thu Apr 24 14:26:21 PDT 2025
+last_modified_at: Thu Apr 24 16:14:45 PDT 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -52,7 +52,7 @@ author_profile: true
 <table class="borderless-table">
 <tr>
 <td class="role">
-	Steering Committee
+	Organizing Committee
 </td>
 <td class="kor-name">
 	천정희
@@ -93,7 +93,7 @@ author_profile: true
 </tr>
 <tr>
 <td class="role">
-	Organizing Committee
+	Program Committee
 </td>
 <td>
 	장준영
