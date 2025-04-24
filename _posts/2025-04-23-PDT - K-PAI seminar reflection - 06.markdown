@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Sixth Forum: Advancing Humanity - Bio and Medical Technology's AI Revolution"
 date: Wed Apr 23 16:25:07 PDT 2025
-last_modified_at: Wed Apr 23 23:30:32 PDT 2025
+last_modified_at: Thu Apr 24 00:11:45 PDT 2025
 permalink: /seminar-reflections/06/
 categories:
  - blog
@@ -96,6 +96,7 @@ re-affirming that deep learning + big biological data = precision decisions
 
 [Dr. HoJoon Lee](https://www.linkedin.com/in/hojoonlee/) from Stanford University School of Medicine
 delivered a compelling presentation on the integration of AI-driven genomics and image analysis for precision medicine. His talk systematically walked attendees through the evolution of deep learning in the biomedical field, from AlexNet in 2012 to today's advanced transformer models processing massive biomedical datasets.
+([Presentation slides](/resource/seminars/06 - 22-Apr-2025/K-PAI_HoJoonLee.pdf))
 
 Particularly illuminating was Dr. Lee's explanation of how various types of biomedical data—genomic, proteomic, electronic health records, medical images, and wearable device data—are being integrated through AI to provide unprecedented insights. The presentation highlighted how The Cancer Genome Atlas, with its comprehensive data on over 11,000 samples across 33 cancer types, has become a cornerstone resource for training AI models to identify patterns invisible to human researchers.
 
@@ -114,6 +115,7 @@ His work opens a path to &ldquo;non-invasive, scalable early diagnosis&rdquo; �
 [Dr. Donghoon Kim](https://www.linkedin.com/in/donghoon-kim-983149151/)
 from Stanford's Center for Advanced Functional Neuroimaging (CAFN)
 complemented the genomics perspective with a comprehensive overview of AI applications in medical imaging. His presentation highlighted the rapid progression from basic classification tasks to today's sophisticated systems that can predict disease progression from imaging data alone.
+([Presentation slides](/resource/seminars/06 - 22-Apr-2025/K-PAI_K-BioX_talk_DK.pdf))
 
 Most impressive were the practical applications Dr. Kim demonstrated, including:
 
