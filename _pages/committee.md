@@ -1,8 +1,8 @@
 ---
 layout: single
-title: Team
-permalink: /team/
-last_modified_at: Thu Apr 24 02:27:45 PDT 2025
+title: Committee
+permalink: /committee/
+last_modified_at: Thu Apr 24 14:26:21 PDT 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
