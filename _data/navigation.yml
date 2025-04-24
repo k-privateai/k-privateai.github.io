@@ -1,21 +1,11 @@
 main:
-  - title: "About Us"
+  - title: "About"
     url: /about
+  - title: "Team"
+    url: /team
   - title: "Posts"
     url: /posts
   - title: "Tags"
     url: /tags
   - title: "Membership"
     url: /membership
-#  - title: "books"
-#    url: /books
-#  - title: "lectures"
-#    url: /lectures
-#  - title: "categories"
-#    url: /categories
-#  - title: "miscellaneous"
-#    url: /miscellaneous
-#  - title: "music"
-#    url: /music
-#  - title: "todo-list"
-#    url: /todo-list
