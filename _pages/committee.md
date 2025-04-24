@@ -2,12 +2,12 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Thu Apr 24 16:14:45 PDT 2025
+last_modified_at: Thu Apr 24 16:17:14 PDT 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
-author_profile: true
+author_profile: false
 ---
 
 <head>
