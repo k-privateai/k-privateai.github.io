@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Thu Apr 24 16:17:14 PDT 2025
+last_modified_at: Fri Apr 25 01:15:29 PDT 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -109,7 +109,7 @@ author_profile: false
 	노현정
 </td>
 <td class="eng-name">
-	Hyun Jung Noh
+	<a href="https://www.linkedin.com/in/%EB%85%B8%ED%98%84%EC%A0%95/">Hyun Jung Noh</a>
 </td>
 </tr>
 <tr>
