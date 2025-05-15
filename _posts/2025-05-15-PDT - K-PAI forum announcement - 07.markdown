@@ -1,7 +1,7 @@
 ---
 title: "The Autonomous Alliance - AI Agents in a Connected World"
 date: Thu May 15 07:27:07 PDT 2025
-last_modified_at: Thu May 15 08:17:35 PDT 2025
+last_modified_at: Thu May 15 13:51:16 PDT 2025
 permalink: /event-announcements/07
 categories:
  - blog
@@ -47,7 +47,7 @@ Join us for an evening of insightful discussions, networking, and cutting-edge r
 
 Check out [{{ post.title }}]({{ post.url }}) to see how our previous Bio and Medical Technology AI Revolution event was a resounding success!
 
-- <font color="red"><strong>Please RSVP via <a href="#">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a href="https://lu.ma/0h1eot3z">this link</a>!</strong></font>
 - Please visit [K-PAI Membership](/membership)
 to learn about our K-PAI membership
 for the qualification and all exclusive perks you can enjoy!
@@ -75,37 +75,44 @@ providing the perfect atmosphere for meaningful connections and conversations.
 
 ## Featured Presentations (6pm ~ 7:30pm)
 
-### Vibe Coding Demo and Various Agent Application Cases
+### Harnessing the Power of AI in Research and Data Science
 
 - Speaker: [Dr. Minha Hwang](https://www.linkedin.com/in/minha-hwang-7440771/) @ [Microsoft](https://www.microsoft.com/)
-- Time: 6pm ~ 6:20pm
+- Time: 6pm ~ 6:25pm
 
-This presentation will showcase Microsoft's innovative Vibe coding platform and explore various real-world applications of autonomous AI agents. Dr. Hwang will demonstrate how these intelligent systems are revolutionizing software development and creating new possibilities for human-AI collaboration while maintaining privacy and security standards.
+<!--(Short demos of AI-enhanced research, coding and data science)-->
+Minha will
+elaborate on Microsoft's AI technologies for research and data science, highlighting the Vibe coding platform, practical applications across different fields, and the balance between computational power and privacy.
 
-### Leveraging GitHub Copilot: Case Studies and Applications
+### Agentic AI and Software Development
 
 - Speaker: [Dr. Insop Song](https://www.linkedin.com/in/insopsong/) @ [GitHub](https://github.com/)
-- Time: 6:25pm ~ 6:45pm
+- Time: 6:25pm ~ 6:50pm
 
-Dr. Song will present fascinating case studies on GitHub Copilot, examining how AI-powered coding assistants are transforming software development workflows. The presentation will cover productivity gains, code quality improvements, and the evolving relationship between human developers and AI agents, with special attention to privacy considerations in code generation.
+<!--(Exploring Agent AI as a progression of language model usage and its implications in software design, implementation, test and maintenance)-->
+Insop will
+provide a comprehensive overview of how Agentic AI represents an evolution in language model applications for software development, using GitHub Copilot as a case study, and addressing important aspects like security and privacy implications.
 
-### Agent AI-Based Social Media Platforms
 
-- Speaker: [Dr. Geunhwi Kenny Lim](https://www.linkedin.com/in/geunhwi-kenny-lim-04116571/) @ [Uclone](https://www.uclone.net/)
-- Time: 6:50pm ~ 7:15pm
+### Dream toward AI Universe
 
-This comprehensive presentation will explore how autonomous AI agents are reshaping social media landscapes. Dr. Lim will discuss Uclone's pioneering work in developing agent-based social platforms that enhance user experience while preserving privacy. The talk will examine the technological foundations, ethical considerations, and future directions of AI-driven social interactions.
+- Speaker: [Dr. Kenny Lim](https://www.linkedin.com/in/geunhwi-kenny-lim-04116571/) @ [Uclone](https://www.uclone.net/)
+- Time: 6:50pm ~ 7:20pm
 
-### Memory and Storage Requirements in the Age of Agent AI
+<!--(Brief history of AI and recent trend including RAG, Multi-Agent, and MCP)-->
+Kenny will
+frame his talk as a journey through AI's evolution, with detailed explanations of the three key paradigms - Retrieval-Augmented Generation (RAG), Multi-Agent architectures, and Modular Capability Profiles (MCP), concluding with insights into the "AI Universe."
+
+### Concluding Remarks
 
 - Speaker: [Dr. Hoshik Kim](https://www.linkedin.com/in/hoshikk/) @ [SK Hynix](https://www.skhynix.com/)
 - Time: 7:20pm ~ 7:30pm
 
-Dr. Kim will address the critical infrastructure challenges posed by autonomous AI agents, focusing on next-generation memory and storage solutions. This presentation will examine how hardware innovations are evolving to meet the demanding computational requirements of agent-based systems while addressing energy efficiency and privacy concerns.
-
 ## Q&A & Further Networking (7:30pm ~ 8pm)
 
-This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI agents, autonomous systems, and their privacy implications. Bring your most challenging questions and contribute to this vibrant exchange of ideas!
+The moments that all K-PAI participants love most!
+&ndash;
+This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI agents, autonomous systems, and their privacy implications. Bring your most challenging questions, share your insights, and participate in the vibrant exchange of ideas that has become a hallmark of K-PAI events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, and practitioners bridge theory and application in real-time conversations.
 
 # Why Attend?
 
