@@ -1,7 +1,7 @@
 ---
 title: "The Autonomous Alliance - AI Agents in a Connected World"
 date: Thu May 15 07:27:07 PDT 2025
-last_modified_at: Thu May 15 08:12:25 PDT 2025
+last_modified_at: Thu May 15 08:17:35 PDT 2025
 permalink: /event-announcements/07
 categories:
  - blog
@@ -85,14 +85,14 @@ This presentation will showcase Microsoft's innovative Vibe coding platform and 
 ### Leveraging GitHub Copilot: Case Studies and Applications
 
 - Speaker: [Dr. Insop Song](https://www.linkedin.com/in/insopsong/) @ [GitHub](https://github.com/)
-- Time: 6:30pm ~ 6:50pm
+- Time: 6:25pm ~ 6:45pm
 
 Dr. Song will present fascinating case studies on GitHub Copilot, examining how AI-powered coding assistants are transforming software development workflows. The presentation will cover productivity gains, code quality improvements, and the evolving relationship between human developers and AI agents, with special attention to privacy considerations in code generation.
 
 ### Agent AI-Based Social Media Platforms
 
 - Speaker: [Dr. Geunhwi Kenny Lim](https://www.linkedin.com/in/geunhwi-kenny-lim-04116571/) @ [Uclone](https://www.uclone.net/)
-- Time: 6:50pm ~ 7:20pm
+- Time: 6:50pm ~ 7:15pm
 
 This comprehensive presentation will explore how autonomous AI agents are reshaping social media landscapes. Dr. Lim will discuss Uclone's pioneering work in developing agent-based social platforms that enhance user experience while preserving privacy. The talk will examine the technological foundations, ethical considerations, and future directions of AI-driven social interactions.
 
