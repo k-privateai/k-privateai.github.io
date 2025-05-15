@@ -1,8 +1,8 @@
 ---
 title: "Reflection on K-PAI's Sixth Forum: Advancing Humanity - Bio and Medical Technology's AI Revolution"
 date: Wed Apr 23 16:25:07 PDT 2025
-last_modified_at: Thu Apr 24 00:11:45 PDT 2025
-permalink: /seminar-reflections/06/
+last_modified_at: Thu May 15 08:12:06 PDT 2025
+permalink: /seminar-reflections/06
 categories:
  - blog
 tags:

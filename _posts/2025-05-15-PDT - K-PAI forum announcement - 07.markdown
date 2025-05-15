@@ -1,7 +1,7 @@
 ---
 title: "The Autonomous Alliance - AI Agents in a Connected World"
 date: Thu May 15 07:27:07 PDT 2025
-last_modified_at: Thu May 15 07:58:46 PDT 2025
+last_modified_at: Thu May 15 08:12:25 PDT 2025
 permalink: /event-announcements/07
 categories:
  - blog
@@ -41,10 +41,11 @@ this event will delve into the fascinating world of autonomous AI agents—intel
 - Time: 5pm - 8pm PDT
 - Venue: [SK hynix America](https://maps.app.goo.gl/RXRodg2mYrnu4kMt9)
 
-{% assign post1 = site.posts | where: "permalink", "/seminar-reflections/06" | first %}
+{% assign post = site.posts | where: "permalink", "/seminar-reflections/06" | first %}
 
 Join us for an evening of insightful discussions, networking, and cutting-edge research at the forefront of AI agent technology! Our forums have become a cornerstone for meaningful dialogue in Silicon Valley's tech community, bringing together entrepreneurs, engineers, scientists, investors, and thought leaders.
-Check out [{{ post1.title }}]({{ post1.url }}) to see how our previous Bio and Medical Technology AI Revolution event was a resounding success!
+
+Check out [{{ post.title }}]({{ post.url }}) to see how our previous Bio and Medical Technology AI Revolution event was a resounding success!
 
 - <font color="red"><strong>Please RSVP via <a href="#">this link</a>!</strong></font>
 - Please visit [K-PAI Membership](/membership)
