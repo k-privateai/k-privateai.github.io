@@ -1,7 +1,7 @@
 ---
 title: "The Autonomous Alliance - AI Agents in a Connected World"
 date: Thu May 15 07:27:07 PDT 2025
-last_modified_at: Thu May 15 13:51:16 PDT 2025
+last_modified_at: Thu May 15 14:47:55 PDT 2025
 permalink: /event-announcements/07
 categories:
  - blog
@@ -148,5 +148,5 @@ We look forward to your participation in this exciting forum! If you have any qu
 
 Best regards,
 
-[K-PAI](/) Organizing Committee
+[K-PAI Committee](/committee)
 
