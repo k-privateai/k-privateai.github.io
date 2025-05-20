@@ -1,7 +1,7 @@
 ---
 title: "The Autonomous Alliance - AI Agents in a Connected World"
 date: Thu May 15 07:27:07 PDT 2025
-last_modified_at: Thu May 15 14:47:55 PDT 2025
+last_modified_at: Tue May 20 09:19:31 PDT 2025
 permalink: /event-announcements/07
 categories:
  - blog
@@ -64,7 +64,7 @@ We extend our sincere gratitude to [SK hynix](https://www.skhynix.com/) [America
 &nbsp;
 </div>
 
-Stay tuned for information about special prizes and giveaways at this event!
+<!--Stay tuned for information about special prizes and giveaways at this event!-->
 
 <!--***Please note: This event will be conducted in Korean.***-->
 
