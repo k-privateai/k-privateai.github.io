@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Seventh Forum: The Autonomous Alliance - AI Agents in a Connected World"
 date: Fri May 30 07:34:10 PDT 2025
-last_modified_at: Sat May 31 00:52:43 KST 2025
+last_modified_at: Sat May 31 12:36:13 KST 2025
 permalink: /seminar-reflections/07
 categories:
  - blog
@@ -43,17 +43,28 @@ brought together an exceptional lineup of speakers from Microsoft, GitHub, Uclon
 to examine the rapidly evolving landscape of autonomous AI systems
 and their implications for software development, research, and human-AI collaboration.
 
+<div class="img-container">
+<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-08 004.jpeg">
+</div>
+
 # Overview and Industry Significance
 
 Building on the tremendous success of [the previous biomedical AI forum](/seminar-reflections/06),
 this 7th edition demonstrated K-PAI's growing influence as a premier forum for privacy-first AI discussions. The choice to focus on AI agents proved prescient, addressing one of the most transformative developments in contemporary AI—the evolution from passive language models to autonomous, tool-wielding agents capable of complex reasoning and multi-step task execution.
 
+<div class="img-container">
+<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-07 003.jpeg">
+</div>
 
 The partnership with [SK hynix America](https://www.linkedin.com/company/skhynix-america-inc/) underscored the critical importance of hardware infrastructure in enabling the agentic AI revolution. As speakers throughout the evening emphasized, the progression from simple language models to sophisticated multi-agent systems requires unprecedented computational resources and memory bandwidth—capabilities that modern GPU architectures and high-speed interconnects like NVLink are specifically designed to provide.
 
 # Transformative Presentations on Agentic AI
 
 ## Dr. Kenny Lim's Vision of the AI Universe
+
+<div class="img-container">
+<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-08 014.jpeg">
+</div>
 
 ([Presentation Slides](/resource/seminars/07 - 21-may-2025/slides/Dream toward AI Universe - UClone.pdf))
 
@@ -65,6 +76,10 @@ The concept of an "AI Universe" that Dr. Lim articulated—where multiple specia
 
 ## Dr. Insop Song's Software Development Evolution
 
+<div class="img-container">
+<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-07 002.jpeg">
+</div>
+
 ([Presentation Slides](/resource/seminars/07 - 21-may-2025/slides/Agentic AI and Software Development - Insop Song.pdf))
 
 Dr. Insop Song from GitHub provided a masterful overview of "Agentic AI and Software Development," tracing the evolution from simple auto-completion to sophisticated autonomous software engineering agents. His presentation effectively contextualized current AI coding assistants within the broader trajectory of language model capabilities.
@@ -74,6 +89,10 @@ Dr. Song's explanation of the progression from Retrieval-Augmented Generation (R
 The practical implications were striking: AI systems that can not only generate code but also debug, refactor, and maintain software systems with minimal human oversight. Dr. Song's emphasis on the importance of testing and feedback loops in agentic development highlighted how these systems are beginning to embody software engineering best practices autonomously.
 
 ## Dr. Minha Hwang's Research Revolution
+
+<div class="img-container">
+<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-40 001.jpeg">
+</div>
 
 ([Presentations Slides](/resource/seminars/07 - 21-may-2025/slides/Harnessing the Power of AI in Research and Data Science - Minha Hwang.pdf))
 
@@ -88,6 +107,10 @@ His live demonstrations of Deep Research capabilities across ChatGPT, Gemini, an
 
 Dr. Hoshik Kim from SK Hynix provided concluding remarks that grounded the evening's technical discussions in practical industry considerations. His perspective on the hardware requirements for supporting large-scale agentic systems reinforced the critical importance of continued innovation in memory architectures and high-speed interconnects.
 -->
+
+<div class="img-container">
+<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-23 001.jpeg">
+</div>
 
 # Emerging Themes and Technical Insights
 
@@ -118,6 +141,13 @@ The conversation about standardization protocols sparked debate about whether th
 # Key Takeaways and Future Implications
 
 Several major themes emerged from the evening's discussions:
+
+<div class="img-container-justified">
+&nbsp;
+<img width="45%" src="/resource/seminars/07 - 21-may-2025/photos/u1564158738_The_Agentic_TransitionPermalink_We_are_witnessing_79d703be-5280-4037-a277-9020c4db7fdb_2.png">
+<img with="45%" src="/resource/seminars/07 - 21-may-2025/photos/u1564158738_The_Agentic_TransitionPermalink_We_are_witnessing_67206742-62c5-4525-9d79-b1b1b2bb30c4_2.png">
+&nbsp;
+</div>
 
 ## The Agentic Transition
 
