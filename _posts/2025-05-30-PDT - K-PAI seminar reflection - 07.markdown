@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Seventh Forum: The Autonomous Alliance - AI Agents in a Connected World"
 date: Fri May 30 07:34:10 PDT 2025
-last_modified_at: Sat May 31 12:36:13 KST 2025
+last_modified_at: Tue Jun  3 02:51:08 PDT 2025
 permalink: /seminar-reflections/07
 categories:
  - blog
@@ -74,20 +74,6 @@ Dr. Lim's exploration of three key paradigms—RAG, Multi-Agent architectures, a
 
 The concept of an "AI Universe" that Dr. Lim articulated—where multiple specialized agents collaborate through standardized protocols—represents a compelling vision for the future of human-AI collaboration. His demonstration of UClone's multi-agent debate system and MCP integration provided tangible examples of how this future might unfold.
 
-## Dr. Insop Song's Software Development Evolution
-
-<div class="img-container">
-<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-07 002.jpeg">
-</div>
-
-([Presentation Slides](/resource/seminars/07 - 21-may-2025/slides/Agentic AI and Software Development - Insop Song.pdf))
-
-Dr. Insop Song from GitHub provided a masterful overview of "Agentic AI and Software Development," tracing the evolution from simple auto-completion to sophisticated autonomous software engineering agents. His presentation effectively contextualized current AI coding assistants within the broader trajectory of language model capabilities.
-
-Dr. Song's explanation of the progression from Retrieval-Augmented Generation (RAG) to tool usage to full agentic behavior provided crucial technical context for understanding why 2025 represents an inflection point. His demonstration of how agentic systems can now understand entire codebases, execute commands, run tests, and iterate based on feedback illustrated the emergence of truly autonomous software development workflows.
-
-The practical implications were striking: AI systems that can not only generate code but also debug, refactor, and maintain software systems with minimal human oversight. Dr. Song's emphasis on the importance of testing and feedback loops in agentic development highlighted how these systems are beginning to embody software engineering best practices autonomously.
-
 ## Dr. Minha Hwang's Research Revolution
 
 <div class="img-container">
@@ -102,8 +88,23 @@ Particularly illuminating was Dr. Hwang's distinction between traditional data s
 
 His live demonstrations of Deep Research capabilities across ChatGPT, Gemini, and other platforms showcased how AI can now conduct comprehensive literature reviews and synthesize findings in minutes rather than hours or days. This capability represents a fundamental acceleration of the research cycle, potentially transforming how scientific knowledge is discovered and validated.
 
-<!--
+## Dr. Insop Song's Software Development Evolution
+
+<div class="img-container">
+<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-07 002.jpeg">
+</div>
+
+([Presentation Slides](/resource/seminars/07 - 21-may-2025/slides/Agentic AI and Software Development - Insop Song.pdf))
+
+Dr. Insop Song from GitHub provided a masterful overview of "Agentic AI and Software Development," tracing the evolution from simple auto-completion to sophisticated autonomous software engineering agents. His presentation effectively contextualized current AI coding assistants within the broader trajectory of language model capabilities.
+
+Dr. Song's explanation of the progression from Retrieval-Augmented Generation (RAG) to tool usage to full agentic behavior provided crucial technical context for understanding why 2025 represents an inflection point. His demonstration of how agentic systems can now understand entire codebases, execute commands, run tests, and iterate based on feedback illustrated the emergence of truly autonomous software development workflows.
+
+The practical implications were striking: AI systems that can not only generate code but also debug, refactor, and maintain software systems with minimal human oversight. Dr. Song's emphasis on the importance of testing and feedback loops in agentic development highlighted how these systems are beginning to embody software engineering best practices autonomously.
+
 ## Dr. Hoshik Kim's Industry Perspective
+
+<!--
 
 Dr. Hoshik Kim from SK Hynix provided concluding remarks that grounded the evening's technical discussions in practical industry considerations. His perspective on the hardware requirements for supporting large-scale agentic systems reinforced the critical importance of continued innovation in memory architectures and high-speed interconnects.
 -->
