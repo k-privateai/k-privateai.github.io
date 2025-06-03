@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Seventh Forum: The Autonomous Alliance - AI Agents in a Connected World"
 date: Fri May 30 07:34:10 PDT 2025
-last_modified_at: Tue Jun  3 02:51:08 PDT 2025
+last_modified_at: Tue Jun  3 03:21:35 PDT 2025
 permalink: /seminar-reflections/07
 categories:
  - blog
@@ -104,14 +104,17 @@ The practical implications were striking: AI systems that can not only generate 
 
 ## Dr. Hoshik Kim's Industry Perspective
 
-<!--
-
-Dr. Hoshik Kim from SK Hynix provided concluding remarks that grounded the evening's technical discussions in practical industry considerations. His perspective on the hardware requirements for supporting large-scale agentic systems reinforced the critical importance of continued innovation in memory architectures and high-speed interconnects.
--->
-
 <div class="img-container">
 <img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-23 001.jpeg">
 </div>
+
+Dr. Hoshik Kim from SK Hynix provided concluding remarks that grounded the evening's technical discussions in practical industry considerations, focusing on "Memory-centric AI System Evolution and New Memory Opportunities." His presentation offered a crucial hardware perspective on the infrastructure requirements for supporting the agentic AI systems discussed throughout the forum.
+
+Dr. Kim's analysis revealed the fundamental shift occurring in AI workloads—from compute-intensive operations to increasingly memory-intensive processes. He demonstrated how agentic AI applications, with their complex reasoning chains and long context requirements, are driving unprecedented memory bandwidth demands. His presentation included compelling industry data showing the rapid growth of data center AI processor revenue and SK Hynix's positioning within this expanding market, with the company holding significant market share across conventional DRAM, HBM (High Bandwidth Memory), and emerging memory technologies.
+
+<!--
+Particularly insightful was Dr. Kim's vision of the "Memory-centric AI System Era," where custom AI memory solutions become essential enablers for the autonomous agents discussed by previous speakers. His slides illustrated how major technology companies—from NVIDIA and AMD to Google, Microsoft, Tesla, and Apple—are all converging on the need for specialized memory architectures to support their AI initiatives. This hardware foundation, Dr. Kim emphasized, represents the critical infrastructure that makes the sophisticated multi-agent systems and MCP protocols demonstrated earlier in the evening not just possible, but practical for deployment at scale.
+-->
 
 # Emerging Themes and Technical Insights
 
