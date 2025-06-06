@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Seventh Forum: The Autonomous Alliance - AI Agents in a Connected World"
 date: Fri May 30 07:34:10 PDT 2025
-last_modified_at: Tue Jun  3 03:21:35 PDT 2025
+last_modified_at: Fri Jun  6 08:54:08 PDT 2025
 permalink: /seminar-reflections/07
 categories:
  - blog
@@ -166,7 +166,7 @@ The future appears to favor networks of specialized agents over monolithic gener
 The capabilities demonstrated require substantial computational infrastructure. The partnership with SK hynix highlighted how hardware innovation continues to be essential for AI advancement.
 
 ## Privacy-First Development
-https://k-privateai.github.io/#robots-electronics
+
 Successful agentic systems must incorporate privacy and security considerations from the ground up, not as afterthoughts. The integration of techniques like homomorphic encryption represents promising progress in this direction.
 
 # Conclusion
