@@ -1,7 +1,7 @@
 ---
 title: "Silicon Companions - Robots and Smart Devices in Daily Life"
 date: Wed Jun 11 16:29:04 PDT 2025
-last_modified_at: Wed Jun 11 17:16:38 PDT 2025
+last_modified_at: Wed Jun 11 18:18:25 PDT 2025
 permalink: /event-announcements/08
 categories:
  - blog
@@ -89,7 +89,11 @@ John will explore the transformative journey of robotics and AI technologies as 
 - Speaker: [Victor Cho](https://www.linkedin.com/in/victor-cho-/), CEO of [Emovid](https://www.emovid.com/)
 - Time: 6:30pm ~ 7pm
 
+<!--
 Victor will delve into the critical principles and practices necessary for developing responsible AI systems, robotics, and autonomous agents. His presentation will cover ethical AI development frameworks, safety considerations in robotic systems, privacy-preserving approaches in smart device ecosystems, and the importance of human-centered design in creating AI companions that enhance rather than replace human capabilities.
+-->
+
+In this 30 minute discussion Victor will share a very simple framework for building responsible technology and businesses--whether it is robotic hardware systems or agentic software experiences. He will explain why responsibility is so critical in today's AI enabled world, and why building AI experiences that amplify vs. replace human capabilities should be the first step on our journey.
 
 ## Q&A & Further Networking (7pm ~ 8pm)
 
