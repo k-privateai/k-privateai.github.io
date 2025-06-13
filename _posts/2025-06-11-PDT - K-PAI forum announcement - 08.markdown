@@ -1,7 +1,7 @@
 ---
 title: "Silicon Companions - Robots and Smart Devices in Daily Life"
 date: Wed Jun 11 16:29:04 PDT 2025
-last_modified_at: Fri Jun 13 01:21:32 PDT 2025
+last_modified_at: Fri Jun 13 14:05:53 PDT 2025
 permalink: /event-announcements/08
 categories:
  - blog
@@ -73,23 +73,34 @@ We extend our sincere gratitude to [Altos Ventures](https://altos.vc/) who make 
 Experience our signature networking reception featuring a luxurious sushi buffet dinner and premium beverages,
 graciously provided by Altos Ventures! This exceptional culinary experience will provide the perfect atmosphere for meaningful connections and conversations while you enjoy gourmet cuisine in an elegant setting.
 
-## Featured Presentations (6pm ~ 7pm)
+## Featured Presentations (6pm ~ 7:20pm)
+
+### Inside Altos: How We Think About VC and the Market Today
+
+- **Speaker**: [Han Kim](https://www.linkedin.com/in/han-kim-8a16/), General Partner @ [Altos Ventures](https://altos.vc/)
+- **Time**: 6pm ~ 6:10pm
 
 ### The Recipe for Imitation Learning in Self-Driving
 
-- **Speaker**: [Cong Jie Ng](https://www.linkedin.com/in/congjie/), CTO of [Mars Auto](https://marsauto.com/)
-- **Time**: 6pm ~ 6:30pm
+- **Speaker**: [Cong Jie Ng](https://www.linkedin.com/in/congjie/), CTO @ [Mars Auto](https://marsauto.com/)
+- **Time**: 6:10pm ~ 6:35pm
 
 This talk outlines the core challenges and essential components of applying imitation learning to end-to-end autonomous driving using camera input. Unlike traditional robotic manipulation tasks—where experts can explicitly demonstrate a wide range of recovery behaviors—self-driving requires robust handling of out-of-distribution situations such as lane deviations, which are rarely captured in expert demonstrations. This makes pure imitation learning in self-driving especially challenging. The talk will also discuss strategies industry leaders use to bridge this gap.
 
 ### Building Responsible AI, Robotics, and Agents
 
-- **Speaker**: [Victor Cho](https://www.linkedin.com/in/victor-cho-/), CEO of [Emovid](https://www.emovid.com/)
-- **Time**: 6:30pm ~ 7pm
+- **Speaker**: [Victor Cho](https://www.linkedin.com/in/victor-cho-/), CEO @ [Emovid](https://www.emovid.com/)
+- **Time**: 6:35pm ~ 7pm
 
 In this 30-minute discussion, Victor will share a very simple framework for building responsible technology and businesses—whether it is robotic hardware systems or agentic software experiences. He will explain why responsibility is so critical in today's AI-enabled world, and why building AI experiences that amplify vs. replace human capabilities should be the first step on our journey.
 
-## Q&A & Further Networking (7pm ~ 8pm)
+
+### Introduction of Altos Ventures
+
+- **Speaker**: [Tae Yoon](https://www.linkedin.com/in/taejyoon/), Partner @ [Altos Ventures](https://altos.vc/)
+- **Time**: 7pm ~ 7:20pm
+
+## Q&A & Further Networking (7:20pm ~ 8pm)
 
 The moments that all K-PAI participants love most!
 –
