@@ -1,7 +1,7 @@
 ---
 title: "Silicon Companions - Robots and Smart Devices in Daily Life"
 date: Wed Jun 11 16:29:04 PDT 2025
-last_modified_at: Fri Jun 13 14:05:53 PDT 2025
+last_modified_at: Fri Jun 13 14:31:47 PDT 2025
 permalink: /event-announcements/08
 categories:
  - blog
@@ -80,6 +80,8 @@ graciously provided by Altos Ventures! This exceptional culinary experience will
 - **Speaker**: [Han Kim](https://www.linkedin.com/in/han-kim-8a16/), General Partner @ [Altos Ventures](https://altos.vc/)
 - **Time**: 6pm ~ 6:10pm
 
+Get an exclusive insider's perspective on the current venture capital landscape from one of Silicon Valley's most respected investors. Han will share Altos Ventures' investment philosophy, current market trends, and how they evaluate emerging technologies in the AI and robotics space. This opening session will provide valuable context for understanding the investment climate for innovative companies in the silicon companions ecosystem.
+
 ### The Recipe for Imitation Learning in Self-Driving
 
 - **Speaker**: [Cong Jie Ng](https://www.linkedin.com/in/congjie/), CTO @ [Mars Auto](https://marsauto.com/)
@@ -92,23 +94,24 @@ This talk outlines the core challenges and essential components of applying imit
 - **Speaker**: [Victor Cho](https://www.linkedin.com/in/victor-cho-/), CEO @ [Emovid](https://www.emovid.com/)
 - **Time**: 6:35pm ~ 7pm
 
-In this 30-minute discussion, Victor will share a very simple framework for building responsible technology and businesses—whether it is robotic hardware systems or agentic software experiences. He will explain why responsibility is so critical in today's AI-enabled world, and why building AI experiences that amplify vs. replace human capabilities should be the first step on our journey.
-
+In this 25-minute discussion, Victor will share a very simple framework for building responsible technology and businesses—whether it is robotic hardware systems or agentic software experiences. He will explain why responsibility is so critical in today's AI-enabled world, and why building AI experiences that amplify vs. replace human capabilities should be the first step on our journey.
 
 ### Introduction of Altos Ventures
 
 - **Speaker**: [Tae Yoon](https://www.linkedin.com/in/taejyoon/), Partner @ [Altos Ventures](https://altos.vc/)
 - **Time**: 7pm ~ 7:20pm
 
+Discover the story and vision behind Altos Ventures, one of Silicon Valley's prominent venture capital firms. Tae will introduce the firm's portfolio companies, investment areas of focus, and their unique approach to supporting entrepreneurs building the next generation of technology companies. Learn about Altos Ventures' commitment to fostering innovation in AI, robotics, and emerging technologies that are shaping our digital future.
+
 ## Q&A & Further Networking (7:20pm ~ 8pm)
 
 The moments that all K-PAI participants love most!
 –
-This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about robotics, smart devices, responsible AI development, and their privacy implications. Bring your most challenging questions, share your insights, and participate in the vibrant exchange of ideas that has become a hallmark of K-PAI events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, and practitioners bridge theory and application in real-time conversations.
+This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about robotics, smart devices, responsible AI development, and their privacy implications. **Mingle with venture capitalists** from Altos Ventures and **gain differentiated insights from their investment perspectives** on emerging technologies, market trends, and what makes startups successful in the AI and robotics space. Bring your most challenging questions, share your insights, and participate in the vibrant exchange of ideas that has become a hallmark of K-PAI events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, practitioners, and investors bridge theory and application in real-time conversations.
 
 # Why Attend?
 
-Attending this event offers a unique opportunity to gain valuable insights into the rapidly evolving field of robotics and smart devices in daily life. You'll have the chance to network with leading experts from Mars Auto and Emovid, who are at the forefront of developing responsible AI systems and robotic technologies. Engage in thought-provoking discussions about the technical innovations, ethical considerations, and privacy implications of living alongside intelligent silicon companions. Additionally, you'll be able to connect with Silicon Valley's vibrant and innovative tech community, and learn about practical applications that are transforming how we interact with technology in our homes, workplaces, and communities.
+Attending this event offers a unique opportunity to gain valuable insights into the rapidly evolving field of robotics and smart devices in daily life. You'll have the chance to network with leading experts from Altos Ventures, Mars Auto, and Emovid, who are at the forefront of developing responsible AI systems and robotic technologies. Get insider perspectives on venture capital trends, learn about cutting-edge autonomous driving techniques, and explore frameworks for responsible AI development. Engage in thought-provoking discussions about the technical innovations, ethical considerations, and privacy implications of living alongside intelligent silicon companions. Additionally, you'll be able to connect with Silicon Valley's vibrant and innovative tech community, and learn about practical applications that are transforming how we interact with technology in our homes, workplaces, and communities.
 
 # Target Audience
 
