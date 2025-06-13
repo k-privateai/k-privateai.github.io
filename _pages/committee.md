@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Fri Apr 25 01:15:29 PDT 2025
+last_modified_at: Fri Jun 13 14:23:57 PDT 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -130,6 +130,26 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a href="https://www.linkedin.com/in/alex-moon/">Alex Moon</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	배재혁
+</td>
+<td class="eng-name">
+	<a href="https://www.linkedin.com/in/jaehyeok-bae-57b866218/">Jaehyeok Bae</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	정세희
+</td>
+<td class="eng-name">
+	<a href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
 </td>
 </tr>
 </table>
