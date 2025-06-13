@@ -1,7 +1,7 @@
 ---
 title: "Silicon Companions - Robots and Smart Devices in Daily Life"
 date: Wed Jun 11 16:29:04 PDT 2025
-last_modified_at: Wed Jun 11 18:18:25 PDT 2025
+last_modified_at: Thu Jun 12 22:34:54 PDT 2025
 permalink: /event-announcements/08
 categories:
  - blog
@@ -79,10 +79,10 @@ graciously provided by Altos Ventures! This exceptional culinary experience will
 
 ### Robotics and AI in Everyday Life: From Vision to Reality
 
-- Speaker: [John Suh](https://www.linkedin.com/in/johnsuh/), Founder &amp; Head of New Horizons Studio, Hyundai Motor Group
+- Speaker: [Cong Jie Ng](https://www.linkedin.com/in/congjie/), CTO of [Mars Auto](https://marsauto.com/)
 - Time: 6pm ~ 6:30pm
 
-John will explore the transformative journey of robotics and AI technologies as they transition from laboratory concepts to practical daily applications. Drawing from his extensive experience in AI research and development, he will discuss current breakthroughs, real-world implementations, and the future landscape of intelligent robots and smart devices that seamlessly integrate into our homes, workplaces, and communities.
+This talk outlines the core challenges and essential components of applying imitation learning to end-to-end autonomous driving using camera input. Unlike traditional robotic manipulation tasks—where experts can explicitly demonstrate a wide range of recovery behaviors—self-driving requires robust handling of out-of-distribution situations such as lane deviations, which are rarely captured in expert demonstrations. This makes pure imitation learning in self-driving especially challenging. The talk will also discuss strategies industry leaders use to bridge this gap.
 
 ### Building Responsible AI, Robotics, and Agents
 
