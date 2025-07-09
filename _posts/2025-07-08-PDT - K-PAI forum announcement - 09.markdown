@@ -1,7 +1,7 @@
 ---
 title: "Fortress Code - The New Frontier of AI Security"
 date: Tue Jul  8 20:59:32 PDT 2025
-last_modified_at: Tue Jul  8 21:32:14 PDT 2025
+last_modified_at: Tue Jul  8 21:37:07 PDT 2025
 permalink: /event-announcements/09
 categories:
  - blog
@@ -38,7 +38,7 @@ Innovators, Technologists, and AI Enthusiasts!
 We are excited to invite you to the ninth edition of the [K-PAI Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
-Following the remarkable success of our ["Silicon Companions - Robots and Smart Devices in Daily Life" forum](/event-announcements/08),
+Following the remarkable success of our ["Silicon Companions - Robots and Smart Devices in Daily Life"](/event-announcements/08) forum,
 this event will explore the critical intersection of AI and cybersecurity&mdash;examining how artificial intelligence is reshaping the security landscape while introducing new vulnerabilities that require innovative protection strategies.
 
 - **Date**: July 16, 2025 (Wednesday)
