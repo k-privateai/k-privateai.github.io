@@ -1,7 +1,7 @@
 ---
 title: "Fortress Code - The New Frontier of AI Security"
 date: Tue Jul  8 20:59:32 PDT 2025
-last_modified_at: Wed Jul 16 13:13:35 PDT 2025
+last_modified_at: Wed Jul 16 13:18:54 PDT 2025
 permalink: /event-announcements/09
 categories:
  - blog
@@ -42,7 +42,7 @@ Following the remarkable success of our ["Silicon Companions - Robots and Smart 
 this event will explore the critical intersection of AI and cybersecurity&mdash;examining how artificial intelligence is reshaping the security landscape while introducing new vulnerabilities that require innovative protection strategies.
 
 - **Date**: July 16, 2025 (Wednesday)
-- **Time**: 5pm - 8pm PDT
+- **Time**: 5pm - 8pm PDT (9:30pm for K-PAI members)
 - **Venue**: Alaska @ [KIC Silicon Valley](https://maps.app.goo.gl/LCBixf78LLCdx2Aa6)
 
 {% assign post = site.posts | where: "permalink", "/event-announcements/08" | first %}
