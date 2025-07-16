@@ -1,7 +1,7 @@
 ---
 title: "Fortress Code - The New Frontier of AI Security"
 date: Tue Jul  8 20:59:32 PDT 2025
-last_modified_at: Tue Jul  8 21:37:07 PDT 2025
+last_modified_at: Wed Jul 16 13:13:35 PDT 2025
 permalink: /event-announcements/09
 categories:
  - blog
@@ -58,6 +58,9 @@ Check out [{{ post.title }}]({{ post.url }}) to see how our previous Silicon Com
 
 We extend our sincere gratitude to [Erudio Bio, Inc.](https://www.erudio.bio/) and [KIC Silicon Valley](https://www.kicsv.org/) who make this valuable networking and knowledge-sharing opportunity possible, and who will be providing an exceptional networking experience with premium refreshments and hors d'oeuvres throughout the evening!
 
+**Erudio Bio**, fresh from receiving a $1M grant from the [Gates Foundation](https://www.gatesfoundation.org/),
+is transforming healthcare through their innovative semiconductor-based diagnostic technology and AI-driven data analytics, perfectly embodying the convergence of AI and cutting-edge technology that defines tonight's forum. **KIC Silicon Valley** continues to be a cornerstone of innovation in the Bay Area, fostering entrepreneurship and technological advancement that drives our community forward.
+
 <div class="img-container-justified">
 &nbsp;
 <!--img width="20%" src="/assets/images/k-on-pie.png"-->
@@ -76,39 +79,50 @@ We extend our sincere gratitude to [Erudio Bio, Inc.](https://www.erudio.bio/) a
 Experience our signature networking reception featuring a carefully curated selection of premium refreshments and hors d'oeuvres,
 graciously provided by our sponsors! This welcoming atmosphere provides the perfect setting for meaningful connections and conversations while you engage with cybersecurity professionals, AI researchers, and industry leaders in an elegant setting.
 
-## Featured Presentations (6pm ~ 7pm)
+## Opening Remarks (6pm ~ 6:10pm)
+
+### Welcome &amp; Opening Address
+
+- **Speaker**: [Peter Bae](https://www.linkedin.com/in/peter-bae-551b1b1/) - Head @ [KIC Silicon Valley](https://www.kicsv.org/)
+- **Time**: 6pm ~ 6:10pm
+
+Join us as Peter Bae, Head of KIC Silicon Valley, delivers the opening welcome address to kick off our ninth K-PAI Forum. As our venue partner and a key pillar of Silicon Valley's innovation ecosystem, KIC Silicon Valley has been instrumental in fostering entrepreneurship and technological advancement in the region. Peter will share insights about the importance of AI security in today's rapidly evolving technological landscape and set the stage for an evening of meaningful discussions and networking.
+
+## Featured Presentations (6:10pm ~ 7:20pm)
 
 ### The AI-Security Nexus
-<!--: Navigating the Double-Edged Sword of Intelligent Systems-->
 
-- **Speaker**: [Prof. Gail-Joon Ahn](https://www.linkedin.com/in/gail-joon-ahn-3a59b411/), Professor @ [Arizona State University](https://asuonline.asu.edu/)
-- **Time**: 6pm ~ 6:30pm
-
-<!--As AI systems become increasingly sophisticated and pervasive, they present both unprecedented opportunities for enhancing cybersecurity and significant new attack vectors that threat actors are already exploiting. Professor Ahn will explore this fascinating duality, examining how AI is revolutionizing threat detection, incident response, and security automation while simultaneously creating novel vulnerabilities in adversarial machine learning, data poisoning, and model extraction attacks. Drawing from his extensive research in security and privacy, he will provide insights into building robust AI systems that can defend against both traditional cyber threats and emerging AI-specific attacks, while maintaining the privacy and integrity principles that are fundamental to trustworthy AI deployment.-->
+- **Speaker**: [Prof. Gail-Joon Ahn](https://www.linkedin.com/in/gail-joon-ahn-3a59b411/) - Professor @ [Arizona State University](https://asuonline.asu.edu/)
+- **Time**: 6:10pm ~ 6:40pm
 
 Professor Ahn will explore how AI systems present both unprecedented opportunities for enhancing cybersecurity and significant new attack vectors. He'll examine how AI is revolutionizing threat detection and security automation while creating novel vulnerabilities in adversarial machine learning and model extraction attacks. Drawing from his extensive research, he will provide insights into building robust AI systems that defend against both traditional cyber threats and emerging AI-specific attacks.
 
 ### Cybersecurity Trends for 2025
-<!--: Market Insights from RSA Conference and Beyond-->
 
-- **Speaker**: [Kyeyeon Kim](https://www.linkedin.com/in/double73/), Co-Founder & CTO @ [GENIANS](https://www.linkedin.com/company/genians/)
-- **Time**: 6:30pm ~ 7pm
-
-<!--
-사이버보안에 생소하신 분들을 위해서 최근 사이버보안 트랜드와 AI 적용현황 & 4월에 있었던 RSA 컨버런스를 중심으로 어떤 트랜드가 시장에 이슈인지
--->
-
-<!--Join Kyeyeon for an accessible yet comprehensive overview of the current cybersecurity landscape, designed especially for those new to the field while providing valuable insights for seasoned professionals. Drawing from key observations and trends presented at the April 2025 RSA Conference—the world's premier cybersecurity event—Kyeyeon will break down the most significant market developments, emerging threats, and technological innovations shaping the industry. The presentation will cover how AI is being integrated into cybersecurity solutions, from automated threat hunting and behavioral analytics to intelligent vulnerability management and incident response. You'll gain practical insights into current market issues, understand the competitive landscape, and learn about the investment trends that are driving innovation in the cybersecurity space, all presented in an approachable format that bridges the gap between technical complexity and business impact.-->
+- **Speaker**: [Kyeyeon Kim](https://www.linkedin.com/in/double73/) - Co-Founder & CTO @ [GENIANS](https://www.linkedin.com/company/genians/)
+- **Time**: 6:40pm ~ 7pm
 
 Kyeyeon will provide an accessible overview of the current cybersecurity landscape, drawing from key trends presented at the April 2025 RSA Conference. The presentation will cover how AI is being integrated into cybersecurity solutions, from automated threat hunting to intelligent incident response. You'll gain practical insights into current market issues, emerging threats, and investment trends driving innovation in the cybersecurity space, all presented in an approachable format for both newcomers and seasoned professionals.
 
-## Q&A & Further Networking (7pm ~ 8pm)
+### Q&A - AI-Security &amp; Cybersecurity
 
-<!--
-The moments that all K-PAI participants love most!
-–
-This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI security, cybersecurity trends, and their privacy implications. **Connect with cybersecurity professionals** from GENIANS and **gain academic insights** from Arizona State University's research perspectives on emerging security challenges, threat intelligence, and what makes AI systems resilient against evolving attack vectors. Bring your most challenging questions about securing AI systems, implementing privacy-preserving security measures, and navigating the complex regulatory landscape. Share your insights and participate in the vibrant exchange of ideas that has become a hallmark of K-PAI events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, practitioners, and security professionals bridge theory and application in real-time conversations.
--->
+- **Time**: 7pm ~ 7:20pm
+
+## Sponsor Introduction (7:20pm ~ 7:30pm)
+
+### Erudio Bio, Inc. - Transforming Healthcare with AI and Semiconductor Technology
+
+- **Speaker**: [Sunghee Yun](https://sungheeyun.github.io/) - Co-Founder &amp; CTO @ [Erudio Bio, Inc.](https://www.erudio.bio/)
+- **Time**: 7:20pm ~ 7:30pm
+
+We conclude our evening with a fascinating presentation from [Erudio Bio, Inc.](https://www.erudio.bio/), one of our generous sponsors whose innovative work exemplifies the intersection of AI, semiconductor technology, and healthcare—perfectly aligned with tonight's theme of "Fortress Code." **Fresh from receiving a $1M grant from [the Gates Foundation](https://en.wikipedia.org/wiki/Gates_Foundation)**, Erudio is revolutionizing medical diagnostics through their groundbreaking Versatile Smart Assay (VSA), a cutting-edge semiconductor-based multiplexed instrument platform that enables comprehensive biomarker testing from a single biological sample. Learn about their patented dynamic force spectroscopy technology that significantly reduces false positives and achieves unprecedented accuracy in disease detection.
+With their expanding partnerships
+with [Bundang Seoul Nation University General Hospital](https://www.snubh.org/index.do)
+and Shanghai General Hospital,
+generating vast amounts of bio &amp; medical data, Erudio is at the forefront of driving knowledge discovery through AI and machine learning applications in healthcare. This presentation will showcase how their technology is saving lives through earlier disease detection and how they're building secure, intelligent systems that protect sensitive medical data while advancing precision medicine.
+
+
+## Further Networking (7:30pm ~ 8pm)
 
 This interactive session provides a unique opportunity to engage directly with our expert speakers, addressing your specific questions about AI security, cybersecurity trends, and their privacy implications. **Connect with cybersecurity professionals** from GENIANS and **gain academic insights** from Arizona State University's research perspectives on emerging security challenges, threat intelligence, and what makes AI systems resilient against evolving attack vectors. **K-PAI members are encouraged to introduce themselves and their companies**, creating opportunities for meaningful business connections and potential collaborations. Bring your most challenging questions about securing AI systems, implementing privacy-preserving security measures, and navigating the complex regulatory landscape. Share your insights and participate in the vibrant exchange of ideas that has become a hallmark of K-PAI events. Previous forums have seen some of the most valuable connections and collaborations emerge during these dynamic discussions, where industry leaders, researchers, practitioners, and security professionals bridge theory and application in real-time conversations.
 
