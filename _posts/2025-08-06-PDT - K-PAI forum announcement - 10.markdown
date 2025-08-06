@@ -1,7 +1,7 @@
 ---
 title: "The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 date: Wed Aug  6 02:50:41 PDT 2025
-last_modified_at: Wed Aug  6 03:14:28 PDT 2025
+last_modified_at: Wed Aug  6 15:39:29 PDT 2025
 permalink: /event-announcements/10
 categories:
  - blog
@@ -56,7 +56,7 @@ and thought leaders who are shaping the future of responsible AI.
 Check out [{{ post.title }}]({{ post.url }}) to see how our previous Fortress Code event brought together cybersecurity experts from
 GENIANS and Arizona State University!
 
-- <font color="red"><strong>Please RSVP via <a href="https://lu.ma/humanistic-ai-2025">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a href="https://lu.ma/lv2kqmmu">this link</a>!</strong></font>
 - Please visit [K-PAI Membership](/membership) to learn about our K-PAI membership for the qualification and all exclusive perks you can enjoy!
 
 <!--
