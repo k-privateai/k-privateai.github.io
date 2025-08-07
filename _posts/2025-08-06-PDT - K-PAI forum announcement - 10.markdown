@@ -1,7 +1,7 @@
 ---
 title: "The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 date: Wed Aug  6 02:50:41 PDT 2025
-last_modified_at: Wed Aug  6 15:39:29 PDT 2025
+last_modified_at: Wed Aug  6 17:54:35 PDT 2025
 permalink: /event-announcements/10
 categories:
  - blog
@@ -95,6 +95,7 @@ Join us as we open this landmark forum exploring the evolution from technical AI
 ### From Intellectual Property to Data Scraping and Privacy: AI Regulatory Insights for Engineers
 
 - **Speaker**: [Natalie Huh](https://www.linkedin.com/in/natalie-huh-03b2221b7/), Associate / Trial Attorney @ [Quinn Emanuel](https://www.quinnemanuel.com/)
+- **Language**: Korean
 - **Time**: 6:10pm ~ 6:40pm
 
 Natalie will provide essential regulatory insights for AI and semiconductor engineers navigating today's complex legal landscape. This presentation will cover critical areas including intellectual property protection in AI systems, the legal implications of data scraping for training models, privacy regulations affecting AI development, and practical compliance strategies for engineering teams. Drawing from her extensive experience in technology litigation, she'll offer practical guidance on how engineers can build AI systems that meet regulatory requirements while fostering innovation. This talk is particularly valuable for technical professionals who need to understand the legal framework governing their AI development work.
@@ -102,6 +103,7 @@ Natalie will provide essential regulatory insights for AI and semiconductor engi
 ### Agency in a New World Order - AI and Humanism in &ldquo;Musical Counterpoint&rdquo;
 
 - **Speaker**: [James Rhee](https://www.redhelicopter.com/about-james) with [Jennifer Kim Lin](https://www.linkedin.com/in/jennifer-kim-lin-19a87a2/)
+- **Language**: English
 - **Time**: 6:40pm ~ 7:10pm
 
 James will present a visionary exploration of how we can preserve and enhance human agency in an AI-dominated world through the lens of "musical counterpoint"—where different voices maintain their independence while creating harmony together. Drawing from his transformative leadership experience and bestselling book insights, he'll examine how humanistic principles can guide AI development and organizational leadership. This presentation will explore the concept of "Joo-duh-sung" (주도성/Agency) and demonstrate how AI and human intelligence can work in counterpoint rather than replacement. Jennifer Kim Lin will conclude the session with a brief demonstration of a beta application that makes these humanistic AI principles tangible and actionable for attendees.
