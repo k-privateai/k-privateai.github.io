@@ -1,7 +1,7 @@
 ---
 title: "The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 date: Wed Aug  6 02:50:41 PDT 2025
-last_modified_at: Wed Aug  6 17:54:35 PDT 2025
+last_modified_at: Fri Aug  8 13:20:41 KST 2025
 permalink: /event-announcements/10
 categories:
  - blog
@@ -98,7 +98,15 @@ Join us as we open this landmark forum exploring the evolution from technical AI
 - **Language**: Korean
 - **Time**: 6:10pm ~ 6:40pm
 
-Natalie will provide essential regulatory insights for AI and semiconductor engineers navigating today's complex legal landscape. This presentation will cover critical areas including intellectual property protection in AI systems, the legal implications of data scraping for training models, privacy regulations affecting AI development, and practical compliance strategies for engineering teams. Drawing from her extensive experience in technology litigation, she'll offer practical guidance on how engineers can build AI systems that meet regulatory requirements while fostering innovation. This talk is particularly valuable for technical professionals who need to understand the legal framework governing their AI development work.
+Natalie will provide essential regulatory insights for AI and semiconductor engineers navigating today's complex legal landscape.
+This presentation will cover critical areas including intellectual property protection in AI systems
+and
+the legal implications of data scraping for training models.
+<!--
+privacy regulations affecting AI development, and practical compliance strategies for engineering teams.
+Drawing from her extensive experience in technology litigation, she'll offer practical guidance on how engineers can build AI systems that meet regulatory requirements while fostering innovation.
+-->
+This talk is particularly valuable for technical professionals who need to understand the legal framework governing their AI development work.
 
 ### Agency in a New World Order - AI and Humanism in &ldquo;Musical Counterpoint&rdquo;
 
