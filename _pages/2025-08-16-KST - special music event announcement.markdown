@@ -1,7 +1,7 @@
 ---
 title: "Harmony Across Generations - A Musical Journey Through Korean Heritage"
 date: Sat Aug 16 02:06:11 KST 2025
-last_modified_at: Sat Aug 16 02:21:45 KST 2025
+last_modified_at: Sat Aug 16 07:00:39 KST 2025
 permalink: /event-announcements/korean-family-harmony
 categories:
  - blog
@@ -64,11 +64,13 @@ His upcoming collaboration with K-PAI in September on "Creative Intelligence - A
 
 Families gather with traditional Korean refreshments including songpyeon (송편) and seasonal treats, creating a warm Chuseok atmosphere. Children and adults mingle in a relaxed setting designed to foster intergenerational connections.
 
+<!--
 ### Musical Journey - Live Piano Performance (2:30pm ~ 2:50pm)
 
 **"Melodies That Connect Us"**
 
 Maestro Baek will open our musical journey with an intimate piano recital featuring pieces that speak to every generation in our community. He'll begin with traditional Korean melodies that will bring warm recognition to our grandparents, weaving through classical arrangements of beloved children's songs that parents remember from their own childhoods. The performance will include enchanting Disney melodies that transcend age and cultural boundaries, creating moments of shared joy across our multi-generational audience. The centerpiece will be a special Arirang variation, demonstrating how our most treasured Korean traditional music has been beautifully reimagined and embraced across different cultures and musical traditions.
+-->
 
 <!--
 - Traditional Korean pieces that grandparents will recognize
@@ -77,7 +79,7 @@ Maestro Baek will open our musical journey with an intimate piano recital featur
 - A special Arirang variation showcasing how traditional Korean music has been reimagined across cultures
 -->
 
-### Concert Showcase - Visual Journey (2:50pm ~ 3:10pm)
+### Concert Showcase - Visual Journey (2:30pm ~ 2:50pm)
 
 **"The Dancing Conductor in Action"**
 
@@ -91,7 +93,7 @@ Video highlights from Maestro Baek's performances, including:
 - Special focus on Disney OST performances and other family-friendly concerts
 -->
 
-### Cultural Bridge Talk - "From Engineering to Music: Following Your Heart" (3:10pm ~ 4:00pm)
+### Cultural Bridge Talk - "From Engineering to Music: Following Your Heart" (2:50pm ~ 3:40pm)
 
 **Interactive Presentation for the Whole Family**
 
@@ -118,15 +120,15 @@ Video highlights from Maestro Baek's performances, including:
 - **Musical Memory Sharing**: Brief moment for families to share what music means in their homes
 -->
 
-### Q&A and Family Sharing (4:00pm ~ 4:20pm)
+### Q&A and Family Sharing (3:40pm ~ 4pm)
 
 Open discussion where families can ask questions about music education, cultural preservation, and how to nurture children's artistic interests while maintaining academic excellence—a topic close to many Korean families' hearts.
 
-### Closing Ceremony - "A Musical Thanksgiving" (4:20pm ~ 4:30pm)
+### Closing Ceremony - "A Musical Thanksgiving" (4pm ~ 4:20pm)
 
 A special moment of gratitude combining Korean Chuseok traditions with musical celebration, acknowledging both our heritage and our American community.
 
-### Extended Family Networking (4:30pm ~ 5:00pm)
+### Extended Family Networking (4:20pm ~ 5:00pm)
 
 Families continue conversations over refreshments, sharing contact information and potentially forming music appreciation groups or planning visits to upcoming concerts together.
 
