@@ -87,16 +87,18 @@ Experience our signature networking reception featuring a carefully curated sele
 
 - **Speaker**: [K-PAI Organizing Committee](/committee)
 - **Time**: 6pm ~ 6:10pm
+- [slides](/resource/seminars/10 - 20-Aug-2025/K-PAI - Biotech - Aug-2025.pdf)
 
 Join us as we open this landmark forum exploring the evolution from technical AI compliance to humanistic leadership. This opening address will set the stage for an evening of transformative discussions about how we can build AI systems that truly serve humanity while navigating the complex landscape of regulations, ethics, and human agency.
 
 ## Featured Presentations (6:10pm ~ 7:30pm)
 
-### From Intellectual Property to Data Scraping and Privacy: AI Regulatory Insights for Engineers
+### From Intellectual Property to Data Scraping and Privacy - AI Regulatory Insights for Engineers
 
 - **Speaker**: [Natalie Huh](https://www.linkedin.com/in/natalie-huh-03b2221b7/), Associate / Trial Attorney @ [Quinn Emanuel](https://www.quinnemanuel.com/)
 - **Language**: Korean
 - **Time**: 6:10pm ~ 6:40pm
+- [slides](/resource/seminars/10 - 20-Aug-2025/NH_Presentation_KPAI_Aug2025.pdf)
 
 Natalie will provide essential regulatory insights for AI and semiconductor engineers navigating today's complex legal landscape.
 This presentation will cover critical areas including intellectual property protection in AI systems
