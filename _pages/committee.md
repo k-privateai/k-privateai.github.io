@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Mon Aug 25 15:57:43 PDT 2025
+last_modified_at: Sun Aug 31 20:50:02 PDT 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -150,6 +150,16 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	장하군
+</td>
+<td class="eng-name">
+	<a href="https://www.linkedin.com/in/hagoon-jang-79766a54/">Hagoon Jang</a>
 </td>
 </tr>
 <tr>
