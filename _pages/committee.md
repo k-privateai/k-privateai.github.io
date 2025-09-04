@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Sun Aug 31 20:50:02 PDT 2025
+last_modified_at: Thu Sep  4 00:54:25 PDT 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -58,7 +58,7 @@ author_profile: false
 	천정희
 </td>
 <td>
-	<a href="https://en.wikipedia.org/wiki/Jung_Hee_Cheon">Jung Hee Cheon</a>
+	<a href="https://www.linkedin.com/in/jungheecheon/">Jung Hee Cheon</a>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ author_profile: false
 <tr>
 <td>
 </td>
-<td>
+<td class="kor-name">
 	윤성희
 </td>
 <td class="eng-name">
@@ -82,9 +82,9 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="kor-name">
-</td>
 <td>
+</td>
+<td class="kor-name">
 	박대준
 </td>
 <td class="eng-name">
@@ -95,7 +95,7 @@ author_profile: false
 <td class="role">
 	Operating Committee
 </td>
-<td>
+<td class="kor-name">
 	장준영
 </td>
 <td class="eng-name">
@@ -103,9 +103,9 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="kor-name">
-</td>
 <td>
+</td>
+<td class="kor-name">
 	노현정
 </td>
 <td class="eng-name">
@@ -166,7 +166,17 @@ author_profile: false
 <td class="role">
 	Program Committee
 </td>
+<td class="kor-name">
+	이시연
+</td>
+<td class="eng-name">
+	<a href="https://www.linkedin.com/in/siyeon-rhee-39449642/">Siyeon Rhee</a>
+</td>
+</tr>
+<tr>
 <td>
+</td>
+<td class="kor-name">
 	정미숙
 </td>
 <td class="eng-name">
@@ -174,13 +184,23 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="kor-name">
-</td>
 <td>
+</td>
+<td class="kor-name">
 	허예랑
 </td>
 <td class="eng-name">
 	<a href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	진재현
+</td>
+<td class="eng-name">
+	<a href="https://www.linkedin.com/in/austinnnjin/">Austin Jin</a>
 </td>
 </tr>
 </table>
