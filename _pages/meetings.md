@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Fri Sep  5 20:34:14 PDT 2025
+last_modified_at: Fri Sep  5 22:39:06 PDT 2025
 categories:
  - blog
 toc: true
@@ -28,6 +28,7 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 [Alex](https://www.linkedin.com/in/alex-moon/),
 [Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
 [Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/),
+and
 [Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/)
 
 ### Things that were discussed and agreed!
@@ -38,7 +39,7 @@ to reduce each member's work load and at the same time, make the running of the 
 - We are constantly getting great feedback - quality of the talks are amazing (compared to other meetings in Silicon Valley), which [Sunghee](https://sungheeyun.github.io) could not agree more,
 extremely friendly atmosphere, open to everyone, etc.
 - We will need to extract younger demography, though.
-- Oh, [Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/) joined the committee! Finally! Yeah! :)
+- Right, [Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/) joined the committee! Finally! Yeah! :)
 
 ### Photos
 
@@ -56,33 +57,48 @@ extremely friendly atmosphere, open to everyone, etc.
 
 ## 13-Jun-2025 Lunch!
 
+### Participnts
+
 - [Sunghee](https://sungheeyun.github.io),
 [Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
 [Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/),
+and
 [Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/)
 
 ## 06-Jun-2025 Lunch!
 
+### Participnts
+
 - [Sunghee](https://sungheeyun.github.io),
 [Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
+and
 [Alex](https://www.linkedin.com/in/alex-moon/)
 
 ## 19-Mar-2025 Lunch!
 
+### Participnts
+
 - [Sunghee](https://sungheeyun.github.io),
 [Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
+and
 [Alex](https://www.linkedin.com/in/alex-moon/)
 
 ## 05-Feb-2025 Lunch!
 
+### Participnts
+
 - [Sunghee](https://sungheeyun.github.io),
 [Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
+and
 [Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/)
 
 ## 15-Jan-2025 Lunch!
 
+### Participnts
+
 - [Sunghee](https://sungheeyun.github.io),
 [Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
+and
 [Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/)
 
 ## The 4th org committee meeting @ KOTRA @ 16-Mar-2025
