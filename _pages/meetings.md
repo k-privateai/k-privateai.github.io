@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Fri Sep  5 20:24:15 PDT 2025
+last_modified_at: Fri Sep  5 20:34:14 PDT 2025
 categories:
  - blog
 toc: true
@@ -16,209 +16,6 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 &amp;
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
-
-
-<h1 id="action-items">Action items</h1>
-
-<ul>
-<font color="gray">
-<li>
-	reminder of 3rd seminar announcement
-	<ul>
-	<li>
-		priority: M
-	</li>
-	<li>
-		owned by Sunghee
-	</li>
-	<li>
-		<!--font color="red"-->
-		due: 20-Jan-2025
-		<!--/font-->
-	</li>
-	</ul>
-</li>
-<li>
-	catering reservation
-	<ul>
-	<li>
-		priority: H
-	</li>
-	<li>
-		owned by Jung Hee
-	</li>
-	<li>
-		due: 17-Jan-2025
-	</li>
-	<li>
-		COMPLETED on 20-Jan-2025
-	</li>
-	</ul>
-</li>
-<li>
-	QR code, code reader, database, etc.
-	<ul>
-	<li>
-		priority: M
-	</li>
-	<li>
-		owned by SVP
-	</li>
-	<li>
-		due: 17-Jan-2025
-	</li>
-	<li>
-		COMPLETED on 18-Jan-2025
-	</li>
-	<li>
-		decided to do this from next time using eventbite, for example.
-	</li>
-	</ul>
-</li>
-<li>
-	find two more panelists
-	<ul>
-	<li>
-		priority: H
-	</li>
-	<li>
-		owned by Sunghee (and Jung Hee, CI, SVP)
-	</li>
-	<li>
-		<!--font color="red"-->
-		due: 15-Jan-2025
-		<!--/font-->
-	</li>
-	<li>
-		COMPLETED on 16-Jan-2025
-	</li>
-	<li>
-		progress
-		<ul>
-		<li>
-			Sunghee asked
-			<a href="https://www.linkedin.com/in/jiyangkang/">Jiyang Kang @ Google</a> &amp; <a href="https://www.linkedin.com/in/bohyung-han-2249255/">Prof. Bohyung Han</a>
-			on 12-Jan-2025, both of whom said they can't.
-		</li>
-		<li>
-			<a href="https://www.linkedin.com/in/y-park/">Youngsuk Park</a>,
-			who is a Senior Applied Scientist &amp; Manager @ Amazon,
-			has accepted the ask to be a panelist
-			on 13-Jan-2025
-		</li>
-		<li>
-			Jung Hee kindly offered help and sent an email to professor-to-be <a href="https://www.sewonmin.com/">Sewon Min</a>,
-			who will join EECS @ UC Berkeley soon
-			on 13-Jan-2025
-		</li>
-		<li>
-			<a href="https://www.sewonmin.com/">Sewon</a> got back to us saying she can't make it,
-			but Sunghee once again asked to come with offering flight and accommodation cost
-			and to join us virtually at the least;
-			waiting for her reply
-			on 13-Jan-2025
-		</li>
-		<li>
-			<a href="https://www.linkedin.com/in/ernest-ryu-a20972148/">Ernest Ryu</a>
-			accepted the invitation to the virtual panel discussion!
-		</li>
-		<li>
-			<a href="https://www.sewonmin.com/">Sewon</a> got back later; we will invite her again in one of the future events.
-			Sunghee will personally meet her near UC Berkeley.
-		</li>
-		</ul>
-	</li>
-	</ul>
-</li>
-<li>
-	official 3rd seminar announcement
-	<ul>
-	<li>
-		priority: H
-	</li>
-	<li>
-		owned by Sunghee
-	</li>
-	<li>
-		<!--font color="red"-->
-		due: 13-Jan-2025
-		<!--/font-->
-	</li>
-	<li>
-		COMPLETED on 16-Jan-2025
-	</li>
-	<li>
-		sent additional messages saying that 1. the event will be conducted in Korean 2. the dinner will be served from 5PM.
-	</li>
-	</ul>
-</li>
-<li>
-	find people who will help us on the day of event with, e.g., setting up chairs, video-taping, etc.
-	<ul>
-	<li>
-		priority: M
-	</li>
-	<li>
-		owned by Sunghee
-	</li>
-	<li>
-		due: 17-Jan-2025
-	</li>
-	<li>
-		COMPLETED on 15-Jan-2025
-	</li>
-	</ul>
-</li>
-<li>
-	ask Sehui re students' preference on food, after-party place, potential helpers, etc.
-	<ul>
-	<li>
-		priority: M
-	</li>
-	<li>
-		owned by Sunghee
-	</li>
-	<li>
-		due: 15-Jan-2025
-	</li>
-	<li>
-		COMPLETED on 15-Jan-2025
-	</li>
-	</ul>
-</li>
-<li>
-	notify Senator Yang re the Feb seminar
-	<ul>
-	<li>
-		owned by Sunghee
-	</li>
-	<li>
-		due: 15-Jan-2025
-	</li>
-	<li>
-		COMPLETED on 12-Jan-2025
-	</li>
-	</ul>
-</li>
-<li>
-	ask SVP Hoshik Kim to be the Feb seminar panelist
-	<ul>
-	<li>
-		owned by Sunghee
-	</li>
-	<li>
-		due: 13-Jan-2025
-	</li>
-	<li>
-		result: Hoshik confirmed that he WILL join the Feb seminar as panelist on 12-Feb-2025
-	</li>
-	<li>
-		COMPLETED on 12-Jan-2025
-	</li>
-	</ul>
-</li>
-</font>
-</ul>
 
 # Meetings
 
@@ -593,3 +390,205 @@ Sunghee's plans proposed for the following 6 months.
 <div class="img-container">
 <img src="/resource/meetings/01/white-board-photo-shot.jpeg">
 </div>
+
+<h1 id="action-items">Action items</h1>
+
+<ul>
+<font color="gray">
+<li>
+	reminder of 3rd seminar announcement
+	<ul>
+	<li>
+		priority: M
+	</li>
+	<li>
+		owned by Sunghee
+	</li>
+	<li>
+		<!--font color="red"-->
+		due: 20-Jan-2025
+		<!--/font-->
+	</li>
+	</ul>
+</li>
+<li>
+	catering reservation
+	<ul>
+	<li>
+		priority: H
+	</li>
+	<li>
+		owned by Jung Hee
+	</li>
+	<li>
+		due: 17-Jan-2025
+	</li>
+	<li>
+		COMPLETED on 20-Jan-2025
+	</li>
+	</ul>
+</li>
+<li>
+	QR code, code reader, database, etc.
+	<ul>
+	<li>
+		priority: M
+	</li>
+	<li>
+		owned by SVP
+	</li>
+	<li>
+		due: 17-Jan-2025
+	</li>
+	<li>
+		COMPLETED on 18-Jan-2025
+	</li>
+	<li>
+		decided to do this from next time using eventbite, for example.
+	</li>
+	</ul>
+</li>
+<li>
+	find two more panelists
+	<ul>
+	<li>
+		priority: H
+	</li>
+	<li>
+		owned by Sunghee (and Jung Hee, CI, SVP)
+	</li>
+	<li>
+		<!--font color="red"-->
+		due: 15-Jan-2025
+		<!--/font-->
+	</li>
+	<li>
+		COMPLETED on 16-Jan-2025
+	</li>
+	<li>
+		progress
+		<ul>
+		<li>
+			Sunghee asked
+			<a href="https://www.linkedin.com/in/jiyangkang/">Jiyang Kang @ Google</a> &amp; <a href="https://www.linkedin.com/in/bohyung-han-2249255/">Prof. Bohyung Han</a>
+			on 12-Jan-2025, both of whom said they can't.
+		</li>
+		<li>
+			<a href="https://www.linkedin.com/in/y-park/">Youngsuk Park</a>,
+			who is a Senior Applied Scientist &amp; Manager @ Amazon,
+			has accepted the ask to be a panelist
+			on 13-Jan-2025
+		</li>
+		<li>
+			Jung Hee kindly offered help and sent an email to professor-to-be <a href="https://www.sewonmin.com/">Sewon Min</a>,
+			who will join EECS @ UC Berkeley soon
+			on 13-Jan-2025
+		</li>
+		<li>
+			<a href="https://www.sewonmin.com/">Sewon</a> got back to us saying she can't make it,
+			but Sunghee once again asked to come with offering flight and accommodation cost
+			and to join us virtually at the least;
+			waiting for her reply
+			on 13-Jan-2025
+		</li>
+		<li>
+			<a href="https://www.linkedin.com/in/ernest-ryu-a20972148/">Ernest Ryu</a>
+			accepted the invitation to the virtual panel discussion!
+		</li>
+		<li>
+			<a href="https://www.sewonmin.com/">Sewon</a> got back later; we will invite her again in one of the future events.
+			Sunghee will personally meet her near UC Berkeley.
+		</li>
+		</ul>
+	</li>
+	</ul>
+</li>
+<li>
+	official 3rd seminar announcement
+	<ul>
+	<li>
+		priority: H
+	</li>
+	<li>
+		owned by Sunghee
+	</li>
+	<li>
+		<!--font color="red"-->
+		due: 13-Jan-2025
+		<!--/font-->
+	</li>
+	<li>
+		COMPLETED on 16-Jan-2025
+	</li>
+	<li>
+		sent additional messages saying that 1. the event will be conducted in Korean 2. the dinner will be served from 5PM.
+	</li>
+	</ul>
+</li>
+<li>
+	find people who will help us on the day of event with, e.g., setting up chairs, video-taping, etc.
+	<ul>
+	<li>
+		priority: M
+	</li>
+	<li>
+		owned by Sunghee
+	</li>
+	<li>
+		due: 17-Jan-2025
+	</li>
+	<li>
+		COMPLETED on 15-Jan-2025
+	</li>
+	</ul>
+</li>
+<li>
+	ask Sehui re students' preference on food, after-party place, potential helpers, etc.
+	<ul>
+	<li>
+		priority: M
+	</li>
+	<li>
+		owned by Sunghee
+	</li>
+	<li>
+		due: 15-Jan-2025
+	</li>
+	<li>
+		COMPLETED on 15-Jan-2025
+	</li>
+	</ul>
+</li>
+<li>
+	notify Senator Yang re the Feb seminar
+	<ul>
+	<li>
+		owned by Sunghee
+	</li>
+	<li>
+		due: 15-Jan-2025
+	</li>
+	<li>
+		COMPLETED on 12-Jan-2025
+	</li>
+	</ul>
+</li>
+<li>
+	ask SVP Hoshik Kim to be the Feb seminar panelist
+	<ul>
+	<li>
+		owned by Sunghee
+	</li>
+	<li>
+		due: 13-Jan-2025
+	</li>
+	<li>
+		result: Hoshik confirmed that he WILL join the Feb seminar as panelist on 12-Feb-2025
+	</li>
+	<li>
+		COMPLETED on 12-Jan-2025
+	</li>
+	</ul>
+</li>
+</font>
+</ul>
