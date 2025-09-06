@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Sun Mar 16 17:43:07 PDT 2025
+last_modified_at: Fri Sep  5 20:24:15 PDT 2025
 categories:
  - blog
 toc: true
@@ -222,13 +222,79 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 # Meetings
 
+## 29-Aug-2025 Lunch
+
+### Participnts
+
+- [Sunghee](https://sungheeyun.github.io),
+[Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
+[Alex](https://www.linkedin.com/in/alex-moon/),
+[Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
+[Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/),
+[Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/)
+
+### Things that were discussed and agreed!
+
+- We said we were going to expand our committee members &amp; volunteers
+to reduce each member's work load and at the same time, make the running of the org more effective and efficient
+- We will regularly have this type of fun meetings!
+- We are constantly getting great feedback - quality of the talks are amazing (compared to other meetings in Silicon Valley), which [Sunghee](https://sungheeyun.github.io) could not agree more,
+extremely friendly atmosphere, open to everyone, etc.
+- We will need to extract younger demography, though.
+- Oh, [Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/) joined the committee! Finally! Yeah! :)
+
+### Photos
+
+<div class="img-container">
+<img src="/resource/meetings/2025-0829 - Operating Committee - near Stanford/photos/KakaoTalk_Photo_2025-09-05-20-04-03 004.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/meetings/2025-0829 - Operating Committee - near Stanford/photos/KakaoTalk_Photo_2025-09-05-20-04-01 003.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/meetings/2025-0829 - Operating Committee - near Stanford/photos/KakaoTalk_Photo_2025-09-05-20-04-03 005.jpeg">
+</div>
+
+## 13-Jun-2025 Lunch!
+
+- [Sunghee](https://sungheeyun.github.io),
+[Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
+[Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/),
+[Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/)
+
+## 06-Jun-2025 Lunch!
+
+- [Sunghee](https://sungheeyun.github.io),
+[Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
+[Alex](https://www.linkedin.com/in/alex-moon/)
+
+## 19-Mar-2025 Lunch!
+
+- [Sunghee](https://sungheeyun.github.io),
+[Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
+[Alex](https://www.linkedin.com/in/alex-moon/)
+
+## 05-Feb-2025 Lunch!
+
+- [Sunghee](https://sungheeyun.github.io),
+[Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
+[Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/)
+
+## 15-Jan-2025 Lunch!
+
+- [Sunghee](https://sungheeyun.github.io),
+[Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
+[Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/)
+
 ## The 4th org committee meeting @ KOTRA @ 16-Mar-2025
 
 Sunghee's plans proposed for the following 6 months.
 
-<!--# **K-PAI: Next 6 Months of Events (April - September 2025)**-->
+### K-PAI: Next 6 Months of Events (April - September 2025)
 
-### **April 2025 – "AI & Synthetic Biology: Engineering Life with Code"**
+#### **April 2025 – "AI & Synthetic Biology: Engineering Life with Code"**
 - **Theme:** AI’s role in accelerating drug discovery, synthetic biology, and genomics.
 - **Key Discussion Points:**
   - AI-driven protein folding, CRISPR advancements, and biofoundries.
@@ -241,7 +307,7 @@ Sunghee's plans proposed for the following 6 months.
 
 ---
 
-### **May 2025 – "AI Meets Quantum: The Next Computing Revolution?"**
+#### **May 2025 – "AI Meets Quantum: The Next Computing Revolution?"**
 - **Theme:** Exploring the synergy between AI and quantum computing.
 - **Key Discussion Points:**
   - How quantum computing can accelerate AI workloads.
@@ -254,7 +320,7 @@ Sunghee's plans proposed for the following 6 months.
 
 ---
 
-### **June 2025 – "Scaling Privacy-Preserving AI: Tech & Business Strategies"**
+#### **June 2025 – "Scaling Privacy-Preserving AI: Tech & Business Strategies"**
 - **Theme:** A deep dive into the commercial adoption of privacy-enhancing AI.
 - **Key Discussion Points:**
   - Practical applications of homomorphic encryption and federated learning.
@@ -267,7 +333,7 @@ Sunghee's plans proposed for the following 6 months.
 
 ---
 
-### **July 2025 – "AI & Energy: The Power Struggle for Compute"**
+#### **July 2025 – "AI & Energy: The Power Struggle for Compute"**
 - **Theme:** The impact of AI on energy consumption and sustainability.
 - **Key Discussion Points:**
   - The energy cost of large AI models and sustainable compute.
@@ -280,7 +346,7 @@ Sunghee's plans proposed for the following 6 months.
 
 ---
 
-### **August 2025 – "AI & National Security: A Double-Edged Sword"**
+#### **August 2025 – "AI & National Security: A Double-Edged Sword"**
 - **Theme:** The intersection of AI, cybersecurity, and geopolitics.
 - **Key Discussion Points:**
   - AI's role in cyber defense and offense.
@@ -293,7 +359,7 @@ Sunghee's plans proposed for the following 6 months.
 
 ---
 
-### **September 2025 – "From Compute to Creativity: Generative AI in Art, Music & Culture"**
+#### **September 2025 – "From Compute to Creativity: Generative AI in Art, Music & Culture"**
 - **Theme:** The creative explosion in AI-generated art, music, and storytelling.
 - **Key Discussion Points:**
   - AI’s role in creative expression and authorship rights.
@@ -306,7 +372,7 @@ Sunghee's plans proposed for the following 6 months.
 
 ---
 
-### **Ideas for Special Formats**
+#### **Ideas for Special Formats**
 - **Startup Demo Night** – Showcase new AI startups working on private AI, biotech, or blockchain AI.
 - **Cross-industry Roundtable** – Invite policy experts, engineers, and investors for an off-the-record strategy session.
 - **AI Hackathon** – A weekend-long event where teams build privacy-preserving AI applications.
