@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Fri Sep  5 22:39:06 PDT 2025
+last_modified_at: Wed Sep 10 14:55:42 PDT 2025
 categories:
  - blog
 toc: true
@@ -17,7 +17,9 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
+<!--
 # Meetings
+-->
 
 ## 29-Aug-2025 Lunch
 
@@ -82,24 +84,6 @@ and
 [Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
 and
 [Alex](https://www.linkedin.com/in/alex-moon/)
-
-## 05-Feb-2025 Lunch!
-
-### Participnts
-
-- [Sunghee](https://sungheeyun.github.io),
-[Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
-and
-[Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/)
-
-## 15-Jan-2025 Lunch!
-
-### Participnts
-
-- [Sunghee](https://sungheeyun.github.io),
-[Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
-and
-[Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/)
 
 ## The 4th org committee meeting @ KOTRA @ 16-Mar-2025
 
@@ -190,9 +174,26 @@ Sunghee's plans proposed for the following 6 months.
 - **Cross-industry Roundtable** – Invite policy experts, engineers, and investors for an off-the-record strategy session.
 - **AI Hackathon** – A weekend-long event where teams build privacy-preserving AI applications.
 
+## 05-Feb-2025 Lunch!
+
+### Participnts
+
+- [Sunghee](https://sungheeyun.github.io),
+[Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
+and
+[Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/)
+
+## 15-Jan-2025 Lunch!
+
+### Participnts
+
+- [Sunghee](https://sungheeyun.github.io),
+[Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
+and
+[Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/)
 
 
-<h2 id="special-01">Special meeting with Stanford students @ SGD on 15-Jan-2025</h2>
+## Special meeting with Stanford students @ SGD on 15-Jan-2025
 
 <ul>
 <li>
@@ -247,7 +248,7 @@ Sunghee's plans proposed for the following 6 months.
 </li>
 </ul>
 
-<h2 id="03">The 3rd meeting @ Starbucks on 12-Jan-2025</h2>
+## The 3rd meeting @ Starbucks on 12-Jan-2025
 
 <ul>
 <li>
@@ -401,7 +402,7 @@ Sunghee's plans proposed for the following 6 months.
 </li>
 </ul>
 
-<h2 id="01">The 1st meeting @ KIC on 06-Oct-2024</h2>
+## The 1st meeting @ KIC on 06-Oct-2024
 
 <div class="img-container">
 <img src="/resource/meetings/01/white-board-photo-shot.jpeg">
