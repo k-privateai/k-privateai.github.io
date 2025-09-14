@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Sat Sep 13 00:59:31 PDT 2025
+last_modified_at: Sat Sep 13 18:13:42 PDT 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -211,6 +211,16 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a href="https://www.linkedin.com/in/haeyunkimsv/">Haeyun Kim</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	최세영
+</td>
+<td class="eng-name">
+	<a href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
 </td>
 </tr>
 </table>
