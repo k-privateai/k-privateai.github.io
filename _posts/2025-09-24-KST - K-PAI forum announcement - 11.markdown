@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 date: Tue Sep 23 10:26:16 PDT 2025
-last_modified_at: Tue Sep 23 10:26:16 PDT 2025
+last_modified_at: Wed Sep 24 03:08:08 KST 2025
 permalink: /event-announcements/11
 categories:
  - blog
@@ -93,7 +93,7 @@ Experience our signature networking reception featuring a carefully curated sele
 
 ## Announcement of the Perpetual Partnership between K-PAI and KOTRA SV
 
-- **Speakers**: [Sunghee Yun](https://sungheeyun.github.io) (Leader of K-PAI) and [Oh Hyoung Kwon](https://www.linkedin.com/in/oh-hyoung-kwon-0183b7338/) (Managing Director of [KOTRA Silicon Valley](https://www.connectkotrasv.org/))
+- **Speakers**: [Sunghee Yun](https://sungheeyun.github.io) (Leader of [K-PAI](/)) and [Oh Hyoung Kwon](https://www.linkedin.com/in/oh-hyoung-kwon-0183b7338/) (Managing Director of [KOTRA Silicon Valley](https://www.connectkotrasv.org/))
 - **Time**: 6pm ~ 6:10pm
 
 Join us for this historic moment as we officially announce the groundbreaking perpetual partnership between K-PAI and KOTRA Silicon Valley. This opening ceremony will formalize the strategic alliance that will transform how we foster innovation and collaboration in the AI ecosystem, bridging Korean and Silicon Valley AI communities while setting the stage for an evening of transformative discussions about the intersection of AI and energy systems.
