@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 date: Tue Sep 23 10:26:16 PDT 2025
-last_modified_at: Wed Sep 24 03:08:08 KST 2025
+last_modified_at: Wed Sep 24 11:18:15 KST 2025
 permalink: /event-announcements/11
 categories:
  - blog
@@ -98,37 +98,37 @@ Experience our signature networking reception featuring a carefully curated sele
 
 Join us for this historic moment as we officially announce the groundbreaking perpetual partnership between K-PAI and KOTRA Silicon Valley. This opening ceremony will formalize the strategic alliance that will transform how we foster innovation and collaboration in the AI ecosystem, bridging Korean and Silicon Valley AI communities while setting the stage for an evening of transformative discussions about the intersection of AI and energy systems.
 
-## Featured Presentations (6:10pm ~ 7:30pm)
+## Featured Presentations (6:10pm ~ 7:40pm)
 
 ### Power and energy as first-class AI design metrics
 
 - **Speaker**: [Jae-Won Chung](https://www.linkedin.com/in/jae-won-chung-cs/), Ph.D. Student @ [University of Michigan](https://umich.edu/)
-- **Time**: 6:10pm ~ 6:30pm
+- **Time**: 6:10pm ~ 6:40pm
 
 The field of AI is experiencing unprecedented scale, which has made power and energy a key concern in building and deploying AI models in the real world. This talk will first discuss current challenges in AI power management and energy consumption, and how increasing scale will exacerbate them. Following this, Jae-Won will discuss current academic and open-source advances in systematically measuring, understanding, and optimizing the energy consumption of AI, leading to our vision for a cross-layer optimized, energy-optimal AI stack. This presentation provides essential insights for anyone building or deploying AI systems at scale.
 
 ### AI and the renewable energy value chain - Market transformation and opportunities
 
 - **Speaker**: [Jieul Jang](https://www.linkedin.com/in/jieuljang/), Senior Director @ [Hanwha Qcells](https://www.hanwha.com/companies/hanwha-solutions-qcells-division.do)
-- **Time**: 6:30pm ~ 6:50pm
+- **Time**: 6:40pm ~ 7:05pm
 
 AI chips are becoming 2–3x more efficient every generation, but demand is rising 10x faster. Even with technological breakthroughs, AI's energy use will triple by 2030. To keep AI scaling, efficiency alone isn't enough. We need massive, fast energy deployment and solar and storage can be a very viable answer. The future of AI depends on the energy sector as much as on chipmakers. Both must win together. Jieul will explore how renewable energy infrastructure and AI development are becoming increasingly interdependent, creating new market opportunities and transformation strategies.
 
 ### Challenges of power grid, power market, and renewable energy operation
 
 - **Speaker**: [Brian Shin](https://www.linkedin.com/in/brian-shin-b2611134/), Senior Specialist @ [PG&E](https://www.pge.com/)
-- **Time**: 6:50pm ~ 7:10pm
+- **Time**: 7:05pm ~ 7:20pm
 
 This talk will explore challenges of modern power grid operations. Modern power grids require comprehensive analysis using multiple data types—real-time operational data, historical performance records, simulation models, and research study data—to effectively implement generative AI solutions. Brian will discuss core operational challenges spanning blackout management and restoration procedures, renewable energy integration with various inverter technologies, and complex power market operations. Energy storage system technology presents both opportunities and challenges, with battery output experiencing rapid growth that must be carefully managed alongside evolving supply and demand patterns. Real-world security events in California's CAISO system and Australia demonstrate the vulnerability of power grids and highlight the critical need for enhanced operational strategies using AI.
 
 ### AI-based energy management systems - Collaboration research with PG&amp;E
 
 - **Speaker**: [Seong Choi](https://www.linkedin.com/in/seong-choi-944a80a4/), Senior Lead @ [National Renewable Energy Laboratory](https://www.nrel.gov/)
-- **Time**: 7:10pm ~ 7:30pm
+- **Time**: 7:20pm ~ 7:40pm
 
 As the energy grid becomes increasingly complex and dynamic, utility control centers must adapt to process vast amounts of data, respond quickly to changing grid conditions, manage floods of alarms, and maintain reliability in an era of high stress and uncertainty. Can Artificial Intelligence truly live up to its promise to support this transformation, or is it more hype than help? This presentation examines the potential for AI to move from concept to reality in transmission and distribution grid operations. Seong will demonstrate the capabilities of eGridGPT, a cutting-edge Generative AI model designed specifically for NERC compliant on-premise use in grid control rooms. By integrating eGridGPT with existing control room tools and Digital Twin, operators can gain enhanced guidance and decision support, leading to improved situational awareness, operational effectiveness, security and reliability.
 
-## Q&A & Further Networking (7:30pm ~ 8pm)
+## Q&A & Further Networking (7:40pm ~ 8pm)
 
 K-PAI Members' favorite time! The very moment everyone awaits!
 —
