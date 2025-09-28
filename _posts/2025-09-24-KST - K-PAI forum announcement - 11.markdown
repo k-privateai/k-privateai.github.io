@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 date: Tue Sep 23 10:26:16 PDT 2025
-last_modified_at: Wed Sep 24 11:18:15 KST 2025
+last_modified_at: Sun Sep 28 02:09:37 PDT 2025
 permalink: /event-announcements/11
 categories:
  - blog
@@ -62,7 +62,7 @@ Check out [{{ post.title }}]({{ post.url }}) to see how our previous Human-Centr
 
 **🎉 MAJOR ANNOUNCEMENT: K-PAI &amp; KOTRA Silicon Valley Perpetual Partnership! 🎉**
 
-We are thrilled to announce a groundbreaking **perpetual partnership** between [K-PAI](/) and [KOTRA Silicon Valley (SV)](https://www.connectkotrasv.org/) that will transform how we foster innovation and collaboration in the AI ecosystem! This strategic alliance represents a new chapter in bridging Korean and Silicon Valley AI communities.
+We are thrilled to announce a groundbreaking **<font color="#ee0000">Perpetual Partnership</font>** between [K-PAI](/) and [KOTRA Silicon Valley (SV)](https://www.connectkotrasv.org/) as a type of **<font color="#ee0000">Strategic Alliances</font>** that will transform how we foster innovation and collaboration in the AI ecosystem! This strategic alliance represents a new chapter in bridging Korean and Silicon Valley AI communities.
 
 **Partnership Highlights:**
 - **Co-hosted Forums**: Minimum twice yearly collaborative K-PAI Forum events
