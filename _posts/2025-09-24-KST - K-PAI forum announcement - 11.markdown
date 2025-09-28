@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 date: Tue Sep 23 10:26:16 PDT 2025
-last_modified_at: Sun Sep 28 02:09:37 PDT 2025
+last_modified_at: Sun Sep 28 03:48:41 PDT 2025
 permalink: /event-announcements/11
 categories:
  - blog
@@ -34,6 +34,8 @@ to share this event!
 ---
 
 Innovators, Energy Leaders, and AI Pioneers!
+
+[Main agenda slides (PDF)](/resource/seminars/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf)
 
 We are thrilled to invite you to the eleventh edition of the [K-PAI Forum](/),
 a premier gathering for researchers, industry leaders,
