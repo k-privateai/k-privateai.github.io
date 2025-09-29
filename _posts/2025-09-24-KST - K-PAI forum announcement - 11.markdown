@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 date: Tue Sep 23 10:26:16 PDT 2025
-last_modified_at: Mon Sep 29 06:05:43 PDT 2025
+last_modified_at: Mon Sep 29 16:11:03 PDT 2025
 permalink: /event-announcements/11
 categories:
  - blog
@@ -89,6 +89,8 @@ We extend our sincere gratitude to [KOTRA Silicon Valley](https://www.connectkot
 
 Experience our signature networking reception featuring a carefully curated selection of premium refreshments and hors d'oeuvres in the elegant KOTRA setting, **generously sponsored by <a href="https://www.uclone.net/">UClone</a> and <a href="https://www.mangoboost.io/">MangoBoost</a>**!
 This welcoming atmosphere provides the perfect setting for meaningful connections between energy industry professionals, AI researchers, renewable energy specialists, and policy experts who are pioneering the sustainable AI revolution.
+
+<a href="/resource/seminars/11 - 29-Sep-2025/Logo for K_PAI with Uclone.pdf">UClone &amp; Mangoboost</a>
 
 <div class="img-container-justified">
 &nbsp;
