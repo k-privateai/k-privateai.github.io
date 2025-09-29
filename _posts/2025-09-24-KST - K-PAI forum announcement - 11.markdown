@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 date: Tue Sep 23 10:26:16 PDT 2025
-last_modified_at: Sun Sep 28 03:48:41 PDT 2025
+last_modified_at: Mon Sep 29 06:05:43 PDT 2025
 permalink: /event-announcements/11
 categories:
  - blog
@@ -83,13 +83,19 @@ We extend our sincere gratitude to [KOTRA Silicon Valley](https://www.connectkot
 &nbsp;
 </div>
 
-<!--Stay tuned for information about special prizes and giveaways at this event!-->
-
-<!--***Please note: This event will be conducted in Korean.***-->
-
 ## Reception & Networking (5pm ~ 6pm)
 
-Experience our signature networking reception featuring a carefully curated selection of premium refreshments and hors d'oeuvres in the elegant KOTRA setting! This welcoming atmosphere provides the perfect setting for meaningful connections between energy industry professionals, AI researchers, renewable energy specialists, and policy experts who are pioneering the sustainable AI revolution.
+<a href="/resource/seminars/11 - 29-Sep-2025/SpeakerslideShow.pptx">Speakers Slide Show</a>
+
+Experience our signature networking reception featuring a carefully curated selection of premium refreshments and hors d'oeuvres in the elegant KOTRA setting, **generously sponsored by <a href="https://www.uclone.net/">UClone</a> and <a href="https://www.mangoboost.io/">MangoBoost</a>**!
+This welcoming atmosphere provides the perfect setting for meaningful connections between energy industry professionals, AI researchers, renewable energy specialists, and policy experts who are pioneering the sustainable AI revolution.
+
+<div class="img-container-justified">
+&nbsp;
+<img width="40%" src="/resource/org-logos/uclone-logo-gray-2048.png">
+<img width="20%" src="/resource/org-logos/MangoBoost_Logo.png">
+&nbsp;
+</div>
 
 ## Opening Remarks (6pm ~ 6:10pm)
 
@@ -109,21 +115,22 @@ Join us for this historic moment as we officially announce the groundbreaking pe
 
 The field of AI is experiencing unprecedented scale, which has made power and energy a key concern in building and deploying AI models in the real world. This talk will first discuss current challenges in AI power management and energy consumption, and how increasing scale will exacerbate them. Following this, Jae-Won will discuss current academic and open-source advances in systematically measuring, understanding, and optimizing the energy consumption of AI, leading to our vision for a cross-layer optimized, energy-optimal AI stack. This presentation provides essential insights for anyone building or deploying AI systems at scale.
 
-### AI and the renewable energy value chain - Market transformation and opportunities
+### How Silicon Valley and energy companies must both win for AI to scale
 
 - **Speaker**: [Jieul Jang](https://www.linkedin.com/in/jieuljang/), Senior Director @ [Hanwha Qcells](https://www.hanwha.com/companies/hanwha-solutions-qcells-division.do)
 - **Time**: 6:40pm ~ 7:05pm
+- <a href="/resource/seminars/11 - 29-Sep-2025/Jieul - K-PAI Sep 2025.pdf">slides</a>
 
 AI chips are becoming 2–3x more efficient every generation, but demand is rising 10x faster. Even with technological breakthroughs, AI's energy use will triple by 2030. To keep AI scaling, efficiency alone isn't enough. We need massive, fast energy deployment and solar and storage can be a very viable answer. The future of AI depends on the energy sector as much as on chipmakers. Both must win together. Jieul will explore how renewable energy infrastructure and AI development are becoming increasingly interdependent, creating new market opportunities and transformation strategies.
 
-### Challenges of power grid, power market, and renewable energy operation
+### Challenges of modern power grid operations
 
 - **Speaker**: [Brian Shin](https://www.linkedin.com/in/brian-shin-b2611134/), Senior Specialist @ [PG&E](https://www.pge.com/)
 - **Time**: 7:05pm ~ 7:20pm
 
 This talk will explore challenges of modern power grid operations. Modern power grids require comprehensive analysis using multiple data types—real-time operational data, historical performance records, simulation models, and research study data—to effectively implement generative AI solutions. Brian will discuss core operational challenges spanning blackout management and restoration procedures, renewable energy integration with various inverter technologies, and complex power market operations. Energy storage system technology presents both opportunities and challenges, with battery output experiencing rapid growth that must be carefully managed alongside evolving supply and demand patterns. Real-world security events in California's CAISO system and Australia demonstrate the vulnerability of power grids and highlight the critical need for enhanced operational strategies using AI.
 
-### AI-based energy management systems - Collaboration research with PG&amp;E
+### The control room of the future - AI meets digital twin
 
 - **Speaker**: [Seong Choi](https://www.linkedin.com/in/seong-choi-944a80a4/), Senior Lead @ [National Renewable Energy Laboratory](https://www.nrel.gov/)
 - **Time**: 7:20pm ~ 7:40pm
