@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 date: Tue Sep 23 10:26:16 PDT 2025
-last_modified_at: Tue Sep 30 14:04:44 PDT 2025
+last_modified_at: Tue Sep 30 14:13:02 PDT 2025
 permalink: /event-announcements/11
 categories:
  - blog
@@ -123,9 +123,7 @@ The field of AI is experiencing unprecedented scale, which has made power and en
 
 - **Speaker**: [Jieul Jang](https://www.linkedin.com/in/jieuljang/), Senior Director @ [Hanwha Qcells](https://www.hanwha.com/companies/hanwha-solutions-qcells-division.do)
 - **Time**: 6:40pm ~ 7:05pm
-<!--
-- <a href="https://solar-society.github.io/resource/seminars/11 - 29-Sep-2025/presentation slides/Jieul - K-PAI Sep 2025.pdf">slides</a>
--->
+<!-- <a href="https://solar-society.github.io/resource/seminars/11 - 29-Sep-2025/presentation slides/Jieul - K-PAI Sep 2025.pdf">slides</a-->
 
 AI chips are becoming 2–3x more efficient every generation, but demand is rising 10x faster. Even with technological breakthroughs, AI's energy use will triple by 2030. To keep AI scaling, efficiency alone isn't enough. We need massive, fast energy deployment and solar and storage can be a very viable answer. The future of AI depends on the energy sector as much as on chipmakers. Both must win together. Jieul will explore how renewable energy infrastructure and AI development are becoming increasingly interdependent, creating new market opportunities and transformation strategies.
 
