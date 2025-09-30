@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy's Future"
 date: Tue Sep 23 10:26:16 PDT 2025
-last_modified_at: Mon Sep 29 16:11:03 PDT 2025
+last_modified_at: Tue Sep 30 07:57:58 PDT 2025
 permalink: /event-announcements/11
 categories:
  - blog
@@ -35,7 +35,7 @@ to share this event!
 
 Innovators, Energy Leaders, and AI Pioneers!
 
-[Main agenda slides (PDF)](/resource/seminars/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf)
+<a href="/resource/seminars/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf">Main agenda slides (PDF)</a>
 
 We are thrilled to invite you to the eleventh edition of the [K-PAI Forum](/),
 a premier gathering for researchers, industry leaders,
@@ -105,6 +105,7 @@ This welcoming atmosphere provides the perfect setting for meaningful connection
 
 - **Speakers**: [Sunghee Yun](https://sungheeyun.github.io) (Leader of [K-PAI](/)) and [Oh Hyoung Kwon](https://www.linkedin.com/in/oh-hyoung-kwon-0183b7338/) (Managing Director of [KOTRA Silicon Valley](https://www.connectkotrasv.org/))
 - **Time**: 6pm ~ 6:10pm
+- <a href="/resource/seminars/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf">slides</a>
 
 Join us for this historic moment as we officially announce the groundbreaking perpetual partnership between K-PAI and KOTRA Silicon Valley. This opening ceremony will formalize the strategic alliance that will transform how we foster innovation and collaboration in the AI ecosystem, bridging Korean and Silicon Valley AI communities while setting the stage for an evening of transformative discussions about the intersection of AI and energy systems.
 
@@ -114,6 +115,7 @@ Join us for this historic moment as we officially announce the groundbreaking pe
 
 - **Speaker**: [Jae-Won Chung](https://www.linkedin.com/in/jae-won-chung-cs/), Ph.D. Student @ [University of Michigan](https://umich.edu/)
 - **Time**: 6:10pm ~ 6:40pm
+- <a href="/resource/seminars/11 - 29-Sep-2025/presentation slides/2025.09.29 KPAI -- Power and Energy as First-Class AI Design Metrics.pdf">slides</a>
 
 The field of AI is experiencing unprecedented scale, which has made power and energy a key concern in building and deploying AI models in the real world. This talk will first discuss current challenges in AI power management and energy consumption, and how increasing scale will exacerbate them. Following this, Jae-Won will discuss current academic and open-source advances in systematically measuring, understanding, and optimizing the energy consumption of AI, leading to our vision for a cross-layer optimized, energy-optimal AI stack. This presentation provides essential insights for anyone building or deploying AI systems at scale.
 
@@ -121,7 +123,7 @@ The field of AI is experiencing unprecedented scale, which has made power and en
 
 - **Speaker**: [Jieul Jang](https://www.linkedin.com/in/jieuljang/), Senior Director @ [Hanwha Qcells](https://www.hanwha.com/companies/hanwha-solutions-qcells-division.do)
 - **Time**: 6:40pm ~ 7:05pm
-- <a href="/resource/seminars/11 - 29-Sep-2025/Jieul - K-PAI Sep 2025.pdf">slides</a>
+- <a href="/resource/seminars/11 - 29-Sep-2025/presentation slides/Jieul - K-PAI Sep 2025.pdf">slides</a>
 
 AI chips are becoming 2–3x more efficient every generation, but demand is rising 10x faster. Even with technological breakthroughs, AI's energy use will triple by 2030. To keep AI scaling, efficiency alone isn't enough. We need massive, fast energy deployment and solar and storage can be a very viable answer. The future of AI depends on the energy sector as much as on chipmakers. Both must win together. Jieul will explore how renewable energy infrastructure and AI development are becoming increasingly interdependent, creating new market opportunities and transformation strategies.
 
