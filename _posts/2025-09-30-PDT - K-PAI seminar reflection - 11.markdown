@@ -1,7 +1,7 @@
 ---
-title: "Reflection on K-PAI's Eleventh Forum: Power Paradigm - AI-Driven Solutions for Energy's Future"
+title: "The Perpetual Partnership and the Paradigm Shift - Institutional Alliance Meets Architectural Innovation"
 date: Tue Sep 30 13:35:24 PDT 2025
-last_modified_at: Tue Sep 30 14:00:17 PDT 2025
+last_modified_at: Tue Sep 30 14:09:35 PDT 2025
 permalink: /seminar-reflections/11
 categories:
  - blog
