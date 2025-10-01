@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Wed Oct  1 05:44:36 PDT 2025
+last_modified_at: Wed Oct  1 09:36:17 PDT 2025
 permalink: /event-announcements/12
 categories:
  - blog
@@ -78,14 +78,20 @@ We extend our profound gratitude to [KOTRA Silicon Valley](https://www.connectko
 
 <div class="img-container-justified">
 &nbsp;
-<img width="40%" src="/assets/images/k-on-pie.png">
-<img width="40%" src="/resource/org-logos/kotra-silicon-valley-logo.jpeg">
+<img width="30%" src="/assets/images/smoke-rotate-clockwise.gif">
+<img width="30%" src="/resource/org-logos/kotra-silicon-valley-logo.jpeg">
+<img width="30%" src="/assets/images/smoke-rotate-counter-clockwise.gif">
 &nbsp;
 </div>
 
 ## Reception & Premium Networking (5pm ~ 6pm)
 
 **Experience our <font color="#ee0000">premium luxury dinner</font> generously provided by KOTRA Silicon Valley** as part of our historic perpetual partnership! This exceptional dining experience begins our evening, featuring an exquisite culinary selection alongside carefully curated premium refreshments and hors d'oeuvres in the elegant KOTRA setting. This welcoming atmosphere provides the perfect setting for meaningful connections between marketing professionals, AI researchers, adtech entrepreneurs, and digital advertising specialists who are pioneering the intelligent marketing revolution. Enjoy world-class hospitality while networking with industry leaders—a tangible benefit of the transformative KOTRA-K-PAI partnership announced at last month's forum.
+
+<div class="img-container">
+<img width="80%" src="/resource/seminars/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__a6af28da-2778-47c2-a0ab-e954480c8897_1.gif">
+</div>
+
 
 <div class="img-container">
 <img width="80%" src="/resource/seminars/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__682fa7ff-17b5-4494-a0a0-c18369f20f3a_2.gif">
