@@ -1,7 +1,7 @@
 ---
 title: "The Perpetual Partnership and the Paradigm Shift - Institutional Alliance Meets Architectural Innovation"
 date: Tue Sep 30 13:35:24 PDT 2025
-last_modified_at: Tue Sep 30 19:16:01 PDT 2025
+last_modified_at: Tue Sep 30 20:18:22 PDT 2025
 permalink: /seminar-reflections/11
 categories:
  - blog
@@ -86,7 +86,7 @@ Jieul Jang, Senior Director at Hanwha Qcells, argued that the AI industry faces 
 Jang’s presentation excelled at making abstract energy numbers visceral and comprehensible. He demonstrated that a single AI server rack consuming 120kW equals 38 Tesla Model Y charges per day, providing attendees with an intuitive grasp of the energy scale involved. He then showed that even with Nvidia Blackwell’s impressive 2.5x efficiency improvement, AI energy consumption will still grow from 176 TWh today to 400-450 TWh by 2028—an increase roughly equivalent to adding Texas-sized electricity demand to the grid. The brutal math: efficiency growing 2-3x while demand grows 10x means we still need at least 2x grid capacity expansion even under optimistic scenarios.
 
 <div class="img-container">
-<img style="max-width: 100%;" width="100%" src="/resource/seminars/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-44-32 003.jpeg">
+<img style="max-width: 100%;" src="/resource/seminars/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-44-32 003.jpeg">
 </div>
 
 The most compelling aspect of Jang’s argument centered on deployment speed. He systematically demonstrated that natural gas plants require 7-10 years from decision to operation, with current gas turbine delivery times alone stretching 5-7 years due to manufacturing constraints. Nuclear plants require 10+ years. In stark contrast, solar plus storage projects can achieve 18-month deployment timelines from decision to grid connection—the only technology that matches AI’s 2-3 year development cycles. Combined with cost advantages (new solar is now cheaper than running existing coal plants), Jang presented renewables not as an idealistic preference but as the pragmatic solution to an existential constraint.
