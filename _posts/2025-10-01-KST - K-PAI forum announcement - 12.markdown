@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Thu Oct  2 01:53:42 PDT 2025
+last_modified_at: Thu Oct  2 02:11:12 PDT 2025
 permalink: /event-announcements/12
 categories:
  - blog
@@ -38,9 +38,10 @@ to share this event!
 
 Marketing Leaders, AI Innovators, and Digital Pioneers!
 
-Yes! We know—K-PAI's 11th Chapter just wrapped up a few days ago, and now we're already announcing the next one for next week? Before you wonder if we've lost our minds  &#x2605;^^&#x2605;, let us explain! September's forum had to shift to the end of the month due to speaker availability (you know how it is with FOUR busy thought leaders), and October's forum needed to jump to the beginning due to some logistics. But honestly? *<span style="color:red;">Two forums in quick succession just means double the innovation, double the networking, and double the excitement—what's not to love?</span>*
+Yes! I know—K-PAI's 11th Chapter just wrapped up a few days ago, and now I'm already announcing the next one for next week? Before you wonder if I've lost my mind  &#x2605;^^&#x2605;, let me explain! September's forum had to shift to the end of the month due to speaker availability (you know how it is with FOUR busy thought leaders), and October's forum needed to jump to the beginning due to some logistics. But honestly? *<span style="color:red;">Two forums in quick succession just means double the innovation, double the networking, and double the excitement—what's not to love?</span>*
 
-We are thrilled to invite you to the Twelfth Edition of the [K-PAI Forum](/),
+Having said that,
+we are thrilled to invite you to the Twelfth Edition of the [K-PAI Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
 Following the tremendous success of our [{{ prev_announcement.title }}]({{ prev_announcement.url }}) forum,
@@ -89,13 +90,9 @@ We extend our profound gratitude to [KOTRA Silicon Valley](https://www.connectko
 
 **Experience our <font color="#ee0000">premium luxury dinner</font> generously provided by KOTRA Silicon Valley** as part of our historic perpetual partnership! This exceptional dining experience begins our evening, featuring an exquisite culinary selection alongside carefully curated premium refreshments and hors d'oeuvres in the elegant KOTRA setting. This welcoming atmosphere provides the perfect setting for meaningful connections between marketing professionals, AI researchers, adtech entrepreneurs, and digital advertising specialists who are pioneering the intelligent marketing revolution. Enjoy world-class hospitality while networking with industry leaders—a tangible benefit of the transformative KOTRA-K-PAI partnership announced at last month's forum.
 
-<div class="img-container">
-<img width="80%" src="/resource/seminars/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__a6af28da-2778-47c2-a0ab-e954480c8897_1.gif">
-</div>
-
-
-<div class="img-container">
-<img width="80%" src="/resource/seminars/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__682fa7ff-17b5-4494-a0a0-c18369f20f3a_2.gif">
+<div class="img-container-justified">
+<img src="/resource/seminars/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__a6af28da-2778-47c2-a0ab-e954480c8897_1.gif">
+<img src="/resource/seminars/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__682fa7ff-17b5-4494-a0a0-c18369f20f3a_2.gif">
 </div>
 
 ## Opening Remarks (6pm ~ 6:10pm)
