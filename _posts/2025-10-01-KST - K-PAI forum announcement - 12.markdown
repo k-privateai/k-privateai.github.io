@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Wed Oct  1 09:36:17 PDT 2025
+last_modified_at: Thu Oct  2 01:21:19 PDT 2025
 permalink: /event-announcements/12
 categories:
  - blog
@@ -47,7 +47,6 @@ this groundbreaking event explores how artificial intelligence is revolutionizin
 - **Date**: October 8, 2025 (Wednesday)
 - **Time**: 5pm - 8pm PDT
 - **Venue**: [Alaska @ KOTRA](https://maps.app.goo.gl/rodukzZGtDmz2XZM9)
-
 
 Join us for an evening of transformative discussions, networking,
 and visionary insights at the intersection of AI innovation and digital marketing!
@@ -117,12 +116,18 @@ Sunghyuk will present groundbreaking insights into how artificial intelligence i
 
 The talk will also demonstrate how AI solves complex mathematical optimization problems to allocate advertising budgets across multiple channels, maximizing marketing efficiency through intelligent portfolio management. Attendees will gain insights into emerging trends shaping the next generation of AI-driven marketing solutions, from predictive analytics to automated creative optimization.
 
-### Engineering Excellence in AI-Driven Advertising Platforms
+### AI and Machine Learning in Online Advertising - An Overview from 30,000 Feet
 
-- **Speaker**: [Diko Ko](https://www.linkedin.com/in/dikoko/), Director of Engineering @ Viva Republica
+- **Speaker**: [Diko Ko](https://www.linkedin.com/in/dikoko/), Director of Engineering @ Toss USA
 - **Time**: 6:50pm ~ 7:20pm
 
-Diko will provide deep technical insights into building and scaling AI-powered advertising platforms that serve millions of users. Drawing from his extensive experience in engineering leadership, he'll explore the infrastructure, algorithms, and architectural decisions that enable real-time ad optimization and personalization at scale. This presentation will cover practical challenges in implementing machine learning models for ad targeting, A/B testing frameworks, and the engineering practices that ensure both performance and privacy in modern advertising systems.
+<!--
+This talk takes a high-altitude look at the evolution of online advertising—from early search ads to today's display ads, and retail/commerce ecosystems. We'll explore how AI and ML drive modern demand-side platforms (DSPs), from retrieval and ranking to auction mechanisms. The objective is to deepen our shared understanding of how these technologies are applied in ads—without assuming pre-defined architectures or fixed rules.
+-->
+
+Diko will take attendees on a comprehensive journey through the evolution of online advertising, examining how the industry has transformed from the early days of simple search ads to today's sophisticated display advertising systems and complex retail/commerce ecosystems. This high-altitude perspective will illuminate how AI and machine learning have become the driving force behind modern demand-side platforms (DSPs), exploring the intricate technical components including retrieval systems that identify relevant ad inventory, ranking algorithms that optimize ad placement, and sophisticated auction mechanisms that determine pricing and allocation in real-time.
+
+Drawing from his extensive experience in engineering leadership at Toss USA, Diko will deepen our collective understanding of how these cutting-edge technologies are practically applied in the advertising industry. Rather than presenting rigid architectures or fixed rules, this presentation encourages dynamic thinking about how AI/ML systems can be designed and adapted to solve evolving challenges in digital advertising, providing attendees with frameworks for innovation in this rapidly changing landscape.
 
 ### Q&A - AI in Digital Marketing
 
