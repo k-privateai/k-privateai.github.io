@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Thu Oct  2 01:48:22 PDT 2025
+last_modified_at: Thu Oct  2 01:53:42 PDT 2025
 permalink: /event-announcements/12
 categories:
  - blog
@@ -107,7 +107,7 @@ We extend our profound gratitude to [KOTRA Silicon Valley](https://www.connectko
 
 Join us as we open this exciting forum exploring how AI is transforming the digital marketing landscape. This opening address will set the stage for an evening of cutting-edge insights into video intelligence, budget optimization, and the future of intelligent advertising systems.
 
-## Featured Presentations (6:10pm ~ 7:20pm)
+## Featured Presentations (6:10pm ~ 7:30pm)
 
 ### The Future of Advertising Revolutionized by AI
 
