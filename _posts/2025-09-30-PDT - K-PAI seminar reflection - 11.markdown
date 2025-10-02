@@ -1,7 +1,7 @@
 ---
 title: "The Perpetual Partnership and the Paradigm Shift - Institutional Alliance Meets Architectural Innovation"
 date: Tue Sep 30 13:35:24 PDT 2025
-last_modified_at: Tue Sep 30 20:18:22 PDT 2025
+last_modified_at: Thu Oct  2 01:45:44 PDT 2025
 permalink: /seminar-reflections/11
 categories:
  - blog
@@ -37,7 +37,7 @@ The 11th K-PAI Forum marked a historic inflection point—not only in addressing
 
 [The 11th Silicon Valley Private AI Forum (K-PAI)](/event-announcements/11), held on September 29, 2025, at KOTRA Silicon Valley's Alaska venue,
 drawing close to <font color="red">one hundred</font> participants eager to explore one of AI's most existential challenge,
-represented far more than another successful Technical Forum. The evening began with a groundbreaking announcement that will *<font color="red">fundamentally reshape K-PAI's institutional foundation</font>*, followed by four exceptional presentations addressing one of AI's most existential challenges: the growing chasm between computational demand and energy supply. The palpable energy in the room&mdash;from the opening partnership ceremony through the extended networking session that refused to end  &#x2605;^^&#x2605;&mdash;reflected the community's recognition that they were witnessing something genuinely historic.
+represented far more than another successful Technical Forum. The evening began with a groundbreaking announcement that will *<font color="red">fundamentally reshape K-PAI's institutional foundation</font>*, followed by four exceptional presentations addressing one of AI's most existential challenges: the growing chasm between computational demand and energy supply. The palpable energy in the room&mdash;from the opening partnership ceremony through the extended networking session that refused to end &#x2605;^^&#x2605;&mdash;reflected the community's recognition that they were witnessing something genuinely historic.
 
 <div class="img-container">
 <img style="max-width: 100%;" src="/resource/seminars/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-45-19 006.jpeg">

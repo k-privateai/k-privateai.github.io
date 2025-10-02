@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Thu Oct  2 01:21:19 PDT 2025
+last_modified_at: Thu Oct  2 01:48:22 PDT 2025
 permalink: /event-announcements/12
 categories:
  - blog
@@ -38,7 +38,9 @@ to share this event!
 
 Marketing Leaders, AI Innovators, and Digital Pioneers!
 
-We are thrilled to invite you to the twelfth edition of the [K-PAI Forum](/),
+Yes! We know—K-PAI's 11th Chapter just wrapped up a few days ago, and now we're already announcing the next one for next week? Before you wonder if we've lost our minds  &#x2605;^^&#x2605;, let us explain! September's forum had to shift to the end of the month due to speaker availability (you know how it is with FOUR busy thought leaders), and October's forum needed to jump to the beginning due to some logistics. But honestly? *<span style="color:red;">Two forums in quick succession just means double the innovation, double the networking, and double the excitement—what's not to love?</span>*
+
+We are thrilled to invite you to the Twelfth Edition of the [K-PAI Forum](/),
 a premier gathering for researchers, industry leaders,
 and innovators exploring the frontier of privacy-first AI technologies.
 Following the tremendous success of our [{{ prev_announcement.title }}]({{ prev_announcement.url }}) forum,
