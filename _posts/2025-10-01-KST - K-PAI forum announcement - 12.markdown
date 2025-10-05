@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Thu Oct  2 02:18:18 PDT 2025
+last_modified_at: Sun Oct  5 09:28:37 PDT 2025
 permalink: /event-announcements/12
 categories:
  - blog
@@ -78,7 +78,7 @@ This **<font color="#ee0000">premium luxury dinner</font>** represents the tangi
 
 We extend our profound gratitude to [KOTRA Silicon Valley](https://www.connectkotrasv.org) for their generous support in making this **<font color="#ee0000">premium luxury dining experience</font>** possible, for providing the prestigious Alaska Venue, and for this transformative partnership that continues to foster enhanced international business collaboration and innovation in the heart of Silicon Valley.
 
-<div class="img-container-justified">
+<div class="img-container-justified" id="moving-logos">
 &nbsp;
 <img width="30%" src="/assets/images/smoke-rotate-clockwise.gif">
 <img width="30%" src="/resource/org-logos/kotra-silicon-valley-logo.jpeg">
