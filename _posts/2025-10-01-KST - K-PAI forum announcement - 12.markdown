@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Sun Oct  5 09:28:37 PDT 2025
+last_modified_at: Wed Oct  8 15:55:49 PDT 2025
 permalink: /event-announcements/12
 categories:
  - blog
@@ -136,7 +136,7 @@ Drawing from his extensive experience in engineering leadership at Toss USA, Dik
 
 An interactive dialogue exploring how AI is reshaping marketing strategies, technical implementation challenges, and the future of intelligent advertising systems.
 
-## Premium Luxury Dinner & Deep Discussions (7:30pm ~ 8pm)
+## Premium Networking &amp; Deep Discussions (7:30pm ~ 8pm)
 
 K-PAI Members' favorite time! The very moment everyone awaits!
 —
