@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Wed Oct  8 15:55:49 PDT 2025
+last_modified_at: Wed Oct  8 16:12:07 PDT 2025
 permalink: /event-announcements/12
 categories:
  - blog
@@ -37,6 +37,8 @@ to share this event!
 ---
 
 Marketing Leaders, AI Innovators, and Digital Pioneers!
+
+[Main Program](/resource/seminars/12 - 08-Oct-2025/K-PAI - Ad Intelligence - Oct-2025.pdf)
 
 Yes! I know—K-PAI's 11th Chapter just wrapped up a few days ago, and now I'm already announcing the next one for next week? Before you wonder if I've lost my mind  &#x2605;^^&#x2605;, let me explain! September's forum had to shift to the end of the month due to speaker availability (you know how it is with FOUR busy thought leaders), and October's forum needed to jump to the beginning due to some logistics. But honestly? *<span style="color:red;">Two forums in quick succession just means double the innovation, double the networking, and double the excitement—what's not to love?</span>*
 
@@ -121,6 +123,7 @@ The talk will also demonstrate how AI solves complex mathematical optimization p
 
 - **Speaker**: [Diko Ko](https://www.linkedin.com/in/dikoko/), Director of Engineering @ Toss USA
 - **Time**: 6:50pm ~ 7:20pm
+- [slides](/resource/seminars/12 - 08-Oct-2025/KPAI-AIML_Online_Ads.pdf)
 
 <!--
 This talk takes a high-altitude look at the evolution of online advertising—from early search ads to today's display ads, and retail/commerce ecosystems. We'll explore how AI and ML drive modern demand-side platforms (DSPs), from retrieval and ranking to auction mechanisms. The objective is to deepen our shared understanding of how these technologies are applied in ads—without assuming pre-defined architectures or fixed rules.
