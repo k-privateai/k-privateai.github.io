@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Wed Sep 10 14:55:42 PDT 2025
+last_modified_at: Fri Oct 10 23:13:06 PDT 2025
 categories:
  - blog
 toc: true
@@ -21,9 +21,40 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 # Meetings
 -->
 
+## 10-Oct-2025 Brunch
+
+### Participants
+
+- Chanik,
+Daejun,
+Daniel,
+Hagoon,
+Jun Yeong,
+Jung Hee,
+and
+Sunghee
+
+### Agenda
+
+- [K-PAI Committee Brunch Meeting Agenda](https://www.notion.so/K-PAI-Committee-Brunch-Meeting-Agenda-2886215a599880c7874dd6ec79881cd3?v=21a6215a599880e8b4c4000c88a12ff1&source=copy_link)
+
+### Meeting Minutes
+
+- [K-PAI Committee Brunch Meeting Minutes](https://www.notion.so/K-PAI-Committee-Brunch-Meeting-Minutes-2886215a599880b88219c49e6024fca9?v=21a6215a599880e8b4c4000c88a12ff1&source=copy_link)
+
+### Photos
+
+<div class="img-container">
+<img src="/resource/meetings/2025-1010 - Brunch Meeting @ Bloom/photos/KakaoTalk_Photo_2025-10-10-22-46-00 003.jpeg">
+</div>
+
+<div class="img-container">
+<img src="/resource/meetings/2025-1010 - Brunch Meeting @ Bloom/photos/KakaoTalk_Photo_2025-10-10-22-46-55 001.jpeg">
+</div>
+
 ## 29-Aug-2025 Lunch
 
-### Participnts
+### Participants
 
 - [Sunghee](https://sungheeyun.github.io),
 [Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
@@ -59,7 +90,7 @@ extremely friendly atmosphere, open to everyone, etc.
 
 ## 13-Jun-2025 Lunch!
 
-### Participnts
+### Participants
 
 - [Sunghee](https://sungheeyun.github.io),
 [Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
@@ -69,7 +100,7 @@ and
 
 ## 06-Jun-2025 Lunch!
 
-### Participnts
+### Participants
 
 - [Sunghee](https://sungheeyun.github.io),
 [Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
@@ -78,7 +109,7 @@ and
 
 ## 19-Mar-2025 Lunch!
 
-### Participnts
+### Participants
 
 - [Sunghee](https://sungheeyun.github.io),
 [Christine](https://www.linkedin.com/in/christine-c-5b8b4b168/),
@@ -176,7 +207,7 @@ Sunghee's plans proposed for the following 6 months.
 
 ## 05-Feb-2025 Lunch!
 
-### Participnts
+### Participants
 
 - [Sunghee](https://sungheeyun.github.io),
 [Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
@@ -185,7 +216,7 @@ and
 
 ## 15-Jan-2025 Lunch!
 
-### Participnts
+### Participants
 
 - [Sunghee](https://sungheeyun.github.io),
 [Sehui](https://www.linkedin.com/in/sehui-jeong-0509241a4/),
