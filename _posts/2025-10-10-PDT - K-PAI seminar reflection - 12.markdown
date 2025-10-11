@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Sat Oct 11 00:54:59 PDT 2025
+last_modified_at: Sat Oct 11 09:37:01 PDT 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -98,6 +98,10 @@ The case studies Park presented demonstrated dramatic performance improvements:
 Beyond video-level targeting, Park introduced ADOASIS's approach to **Marketing Mix Modeling (MMM)**—the classic challenge of allocating advertising budgets across multiple channels (Google, Meta, TikTok, etc.) to maximize overall campaign performance. This represents a complex mathematical optimization problem that has traditionally relied on statistical regression models built on historical data.
 
 Park's innovation involves applying **AI-powered optimization** that continuously learns from campaign performance data to recommend budget reallocations. The system addresses the fundamental question: "Given 100,000 videos across multiple platforms with different performance characteristics, and a fixed budget, how should we allocate spend to maximize conversions, minimize cost per acquisition, or achieve other campaign objectives?"
+
+<div id="example-contextual-targeting-by-adoasis" class="img-container">
+<img src="/resource/seminars/12 - 08-Oct-2025/1st presentation screen shots/Screenshot 2025-10-10 at 6.29.03 PM.png">
+</div>
 
 The presentation showed how ADOASIS's MMM achieved **25% average performance improvement** across diverse campaigns by dynamically shifting budget toward higher-performing channels and video categories. Critically, these optimizations occur **within existing campaign structures**—advertisers don't need to redesign creative, change targeting parameters, or modify landing pages. The AI simply directs budget more intelligently across available inventory.
 
