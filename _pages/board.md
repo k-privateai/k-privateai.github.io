@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Sun Oct 12 09:52:11 PDT 2025
+last_modified_at: Sun Oct 12 10:06:49 PDT 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -40,6 +40,10 @@ toc_sticky: true
 > [Sun Oct 12 06:20 PDT 2025] OpenAI Dev Day 2025에서 AppSDK가 인상 깊네요. 혹시 아직 안 보셨으면, 꼭 보세요. Link 첨부 드립니다.
 > [https://www.youtube.com/live/hS1YqcewH0c?si=OWFrlzSNNlXCcdxy](https://www.youtube.com/live/hS1YqcewH0c?si=OWFrlzSNNlXCcdxy)
 {: .notice--info}
+
+<div class="img-container">
+<img style="max-width: 50%;" src="/resource/board/Screenshot 2025-10-12 at 10.04.16 AM.png">
+</div>
 
 ## Sunghee's podcast announcement!
 
