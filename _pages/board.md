@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Sun Oct 12 00:44:29 PDT 2025
+last_modified_at: Sun Oct 12 09:52:11 PDT 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -32,6 +32,14 @@ toc_sticky: true
 >
 > [Sat Oct 11 17:30 PDT 2025] 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
 {: .notice--warning}
+
+## Minha introduces OpenAI Dev Day 2025!
+
+> [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
+>
+> [Sun Oct 12 06:20 PDT 2025] OpenAI Dev Day 2025에서 AppSDK가 인상 깊네요. 혹시 아직 안 보셨으면, 꼭 보세요. Link 첨부 드립니다.
+> [https://www.youtube.com/live/hS1YqcewH0c?si=OWFrlzSNNlXCcdxy](https://www.youtube.com/live/hS1YqcewH0c?si=OWFrlzSNNlXCcdxy)
+{: .notice--info}
 
 ## Sunghee's podcast announcement!
 
@@ -90,6 +98,9 @@ toc_sticky: true
 > [Sat Oct 11 21:07 PDT 2025] 생각해보면 미국은 bio data 사업에서 Mayo Clinic, Tempus 등으로 선두자리를 차지하고 있지만 서양에 없는게.. 바로 한의학! :) 물론 ~ 아직 갈 길은 멉니다만~ 마침 대한한의사협회에서 AI TF도 꾸렸고 최근에 국회에서 관련한 발표도 하였고요! 또 AI의 whole point가 인간의 know-how나 경험으로 파악할 수 없는 highly multi-dimentional signal들에 묻힌 pattern을 찾아 내는 것이라면! - 머리 아프면 발에 침을 놓는 - 한의학이 재격일 수도 있겠다는 생각도 들고요! 또 의학 고문서들을 모아서 database화 하는 작업도 OCR과 NLP가 LLM과 genAI를 선두로 이렇게 발달하고 있는 요즘 딱! 제격이란 생각도 듭니다!
 >
 > [Sat Oct 11 21:08 PDT 2025] 이 행사 관련해서는 진행 되는 것 차차 update 해 드릴게요! 혹시 이 때 한국에 와 계시는 분들 있으면 너무 좋을 듯 해요! 꼭 ! 참석해 주세요~ :)
+>
+> [Sun Oct 12 09:37 PDT 2025] 참고로 최근 한의약韓醫學 AI 융합融合 추진 TF 자문 위원으로 위촉委囑되어 활동하고 있습니다~ :) [https://www.linkedin.com/posts/sungheeyun_im-happy-to-share-that-im-starting-a-new-activity-7369716534962778117-0qYI](https://www.linkedin.com/posts/sungheeyun_im-happy-to-share-that-im-starting-a-new-activity-7369716534962778117-0qYI){:target="_blank"}
+> [Facebook - Started new job at 대한한의사협회](https://www.facebook.com/sunghee.yun1/posts/pfbid0ZRUqxcejzAznXxBzKzz9LDLd41uBRGzCMjpJa4EzdxrPC6XEqTj8os3w5oPtiSiyl){:target="_blank"}
 {: .notice--info}
 
 <div class="img-container">
