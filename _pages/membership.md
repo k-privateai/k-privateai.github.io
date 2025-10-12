@@ -3,12 +3,7 @@ layout: single
 title: K-PAI Membership
 permalink: /membership/
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Mon Feb  3 02:25:36 PST 2025
-categories:
- - blog
-tags:
- - seminar
- - announcement
+last_modified_at: Sat Oct 11 23:00:58 PDT 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
