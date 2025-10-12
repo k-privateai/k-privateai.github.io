@@ -3,16 +3,18 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Sun Oct 12 10:06:49 PDT 2025
+last_modified_at: Sun Oct 12 11:33:42 PDT 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
 ---
 
-# Oct-2025
+# Conversations on [K-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
-## Gordon's seeking talents!
+## Selected Posts
+
+### Gordon's seeking talents!
 
 > [Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"}
 >
@@ -33,7 +35,9 @@ toc_sticky: true
 > [Sat Oct 11 17:30 PDT 2025] 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
 {: .notice--warning}
 
-## Minha introduces OpenAI Dev Day 2025!
+## Oct-2025
+
+### Minha introduces OpenAI Dev Day 2025!
 
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
 >
@@ -45,7 +49,7 @@ toc_sticky: true
 <img style="max-width: 50%;" src="/resource/board/Screenshot 2025-10-12 at 10.04.16 AM.png">
 </div>
 
-## Sunghee's podcast announcement!
+### Sunghee's podcast announcement!
 
 > [Sunghee](https://sungheeyun.github.io){:target="_blank"}
 >
@@ -54,7 +58,7 @@ toc_sticky: true
 > [Sat Oct 11 23:33 PDT 2025] 저쪽에서 approve가 떨어지면 어떤 channel에서 보실 수 있는지도 알려 드릴게요! :) ㅎㅎ
 {: .notice--info}
 
-## Chanik's sharing IFEZ X K-BioX ABDD SUMMIT in Song-do!
+### Chanik's sharing IFEZ X K-BioX ABDD SUMMIT in Song-do!
 
 > [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
 >
@@ -65,7 +69,7 @@ toc_sticky: true
 <img style="max-width:100%;" src="/resource/board/KakaoTalk_Photo_2025-10-11-23-22-15.png">
 </div>
 
-## Minha's announcement of BAY K-AI Seminar!
+### Minha's announcement of BAY K-AI Seminar!
 
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
 >
@@ -89,7 +93,7 @@ toc_sticky: true
 &nbsp;
 </div>
 
-## Sunghee announces AI-BioX ConfEX Grand Summit 2025!
+### Sunghee announces AI-BioX ConfEX Grand Summit 2025!
 
 > [Sunghee](https://sungheeyun.github.io){:target="_blank"}
 >
@@ -110,3 +114,13 @@ toc_sticky: true
 <div class="img-container">
 <img src="/resource/board/KakaoTalk_Photo_2025-10-12-00-39-10.jpeg">
 </div>
+
+### Sunghee invited Maestro Baek to Stanford!
+
+> [Sunghee](https://sungheeyun.github.io){:target="_blank"}
+>
+> [Sun Oct 12 11:23 PDT 2025]
+> 그리고 (K-PAI 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
+> [https://sungheeyun.github.io/reflections/harmony-across-generations](https://sungheeyun.github.io/reflections/harmony-across-generations) - 사람들 feedback도 좀 모았습니다! :) -
+> [https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience](https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience)
+{: .notice--info}
