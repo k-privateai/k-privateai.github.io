@@ -1,4 +1,6 @@
 main:
+  - title: "Board"
+    url: /board
   - title: "About"
     url: /about
   - title: "Posts"
@@ -9,5 +11,3 @@ main:
     url: /membership
   - title: "Committee"
     url: /committee
-  - title: "Board"
-    url: /board
