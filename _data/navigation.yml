@@ -1,8 +1,8 @@
 main:
-  - title: "Board"
-    url: /board
   - title: "About"
     url: /about
+  - title: "Board"
+    url: /board
   - title: "Posts"
     url: /posts
   - title: "Tags"
