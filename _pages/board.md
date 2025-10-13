@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Mon Oct 13 02:04:08 PDT 2025
+last_modified_at: Mon Oct 13 13:02:08 PDT 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -36,6 +36,15 @@ toc_sticky: true
 {: .notice--warning}
 
 ## Oct-2025
+
+### Sunghee executes the first Agreement of Strategic Alliances with KOTRA Silicon Valley!
+
+> [Sunghee](https://sungheeyun.github.io)
+>
+> [Mon Oct 13 12:59 PDT 2025]
+> 그리고 지난번엔 10/7에 있었던 "실리콘벨리 한인 전문가 간담회"에 한국에서 오신 국회 AI 정책 관련자 (국회 의원 4명), 총영사관 AI 담당 영사님, big tech 관계자, investor, bio tech startup 대표님들을 모시고 - 여기서 K-PAI가 KOTRA와 맺은 Strategic Alliances의 동의 사항 중 하나로 -
+> [https://k-privateai.github.io/seminar-reflections/11#the-perpetual-alliance-between-k-pai-and-kotra-silicon-valley](https://k-privateai.github.io/seminar-reflections/11#the-perpetual-alliance-between-k-pai-and-kotra-silicon-valley) -
+> 즉 K-PAI의 Technical Consulation execution 입장에서 인력 풀을 추천/제공 해 드렸었는데 - 했는데 정말 결정적인 발언들을 해 주시고 간담회를 주도해 주셨습니다! 교수님을 추천했던 제가 다 뿌듯했습니다! :) @[편재호](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}
 
 ### Minha introduces Google Labs!
 
