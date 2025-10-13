@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Sun Oct 12 10:59:15 PDT 2025
+last_modified_at: Sun Oct 12 21:59:12 PDT 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -25,11 +25,71 @@ posted: {{ page.date | date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 {: .notice--primary}
 
+**Share on**
+[LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url={{ site.url }}{{ site.baseurl }}{{ page.url }})
+| [Instagram](https://www.instagram.com/)
+| [Twitter (X)](https://x.com/intent/tweet?text={{ site.url }}{{ site.baseurl }}{{ page.url }})
+| [Facebook](https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }})
+
 Want to share this reflection?
 Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a> — to share!
 {: .notice--info}
 
 > <span class="emph">The 12th K-PAI Forum demonstrated how Artificial Intelligence is fundamentally transforming digital marketing from intuitive guesswork into precision science—while simultaneously showcasing the tangible benefits of the historic KOTRA Silicon Valley partnership through exceptional hospitality and world-class content delivery.</span>
+
+# AI generates Podcasts
+
+## Videos
+
+<div id="podcast-video-01" style="text-align: center; margin-bottom: 1em;">
+<!--video width="320" height="240" controls-->
+<video width="100%" controls>
+    <source src="/resource/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Revolution_in_Marketing.mp4" type="video/mp4">
+</video>
+</div>
+
+<div id="podcast-video-02" style="text-align: center; margin-bottom: 1em;">
+<!--video width="320" height="240" controls-->
+<video width="100%" controls>
+    <source src="/resource/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740B_Ad_Revolution.mp4" type="video/mp4">
+</video>
+</div>
+
+## Audios
+
+<audio id="podcast-audio-01" controls>
+	<source type="audio/mp4" src="/resource/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/65__CPC_Drop_and_the_100-Millisecond_Wall__How_AI_is_Re-Enginee.m4a">
+	Your browser does not support this longest audio element.
+</audio>
+
+<audio id="podcast-audio-02" controls>
+	<source type="audio/mp4" src="/resource/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Ad_Intelligence_Unleashed__How_AI_Is_Turning_Digital_Marketing_.m4a">
+	Your browser does not support this longest audio element.
+</audio>
+
+<audio id="podcast-audio-03" controls>
+	<source type="audio/mp4" src="/resource/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Advertising_Revolution__Decoding_the_Programmatic_Blueprint_.m4a">
+	Your browser does not support this longest audio element.
+</audio>
+
+<audio id="podcast-audio-04" controls>
+	<source type="audio/mp4" src="/resource/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740_Billion_Pivot__Why_Optimizing_Video_Content,_Not_Just.m4a">
+	Your browser does not support this longest audio element.
+</audio>
+
+<audio id="podcast-audio-05" controls>
+	<source type="audio/mp4" src="/resource/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_vs.m4a">
+	Your browser does not support this longest audio element.
+</audio>
+
+<audio id="podcast-audio-06" controls>
+	<source type="audio/mp4" src="/resource/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Decoding_the_Ad_Intelligence_Revolution__How_AI_Slashes_Costs_b.m4a">
+	Your browser does not support this longest audio element.
+</audio>
+
+
+
+# Where Speed Meets Sophistication
 
 [The 12th Silicon Valley Private AI Forum (K-PAI)](/event-announcements/12), held on October 8, 2025, at [KOTRA Silicon Valley's Alaska venue](https://maps.app.goo.gl/rodukzZGtDmz2XZM9), marked a unique moment in K-PAI's evolution—<font color="red">the first forum to occur in rapid succession following the previous month's historic event</font>. This compressed timeline, far from diminishing the forum's impact, actually amplified the community's energy and demonstrated K-PAI's capacity to deliver exceptional value at an accelerated pace. The evening brought together marketing professionals, AI researchers, and adtech entrepreneurs to explore how artificial intelligence is revolutionizing digital advertising through sophisticated video analysis, mathematical budget optimization, and intelligent programmatic systems.
 
@@ -71,6 +131,10 @@ Most significantly, the partnership enables <strong><span style="color:#ee0000">
 # Dr. Sunghyuk Park - The Practical Revolution in Video Advertising
 
 Dr. Sunghyuk Park's presentation on "The Future of Advertising Revolutionized by AI" provided a masterclass in how academic research translates into commercial impact. As CEO of Impact AI and Assistant Professor at KAIST, Park bridges the worlds of rigorous scholarship and entrepreneurial execution—a combination that produced genuinely novel insights into AI-driven advertising optimization.
+
+<div class="img-container">
+<img style="max-width: 100%;" src="/resource/seminars/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-23-02-52 005.jpeg">
+</div>
 
 ## The ADOASIS Platform - Intelligence at the Video Level
 
@@ -125,6 +189,10 @@ This creative-level optimization addresses one of advertising's persistent chall
 # Diko Ko - The Architectural View from 30,000 Feet
 
 If Park's presentation zoomed into specific AI applications revolutionizing advertising practice, Diko Ko's talk provided the essential wide-angle perspective—mapping the entire digital advertising ecosystem and identifying where AI/ML creates value across each component. As Director of Engineering at Toss USA, Ko brings deep technical expertise in building scalable advertising platforms, and his presentation revealed both the complexity and the elegant systematization that modern programmatic advertising has achieved.
+
+<div id="example-contextual-targeting-by-adoasis" class="img-container">
+<img style="max-width: 100%;" src="/resource/seminars/12 - 08-Oct-2025/photos/Screenshot 2025-10-12 at 6.00.12 PM.png">
+</div>
 
 ## The Historical Evolution - From Manual to Intelligent
 
