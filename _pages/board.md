@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Sun Oct 12 11:33:42 PDT 2025
+last_modified_at: Mon Oct 13 02:04:08 PDT 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -20,7 +20,7 @@ toc_sticky: true
 >
 > [Sat Oct 11 17:20 PDT 2025] AI 개발 전문가를 찾습니다. GenAI를 이용해 생물정보학 (bioinformatics) 데이터 분석을 natural language로 할 수 있는 AI Agent를 개발하고 있습니다. 관심 있으신 분이나 팀 있으시면 개인톡 (neuorpa)이나 이메일 (neuropa@stanford.edu) 부탁드립니다. Ps. K-PAI 운영팀으로 허가 받아 공지합니다.
 >
-> [Sunghee](https://sungheeyun.github.io){:target="_blank"}
+> [Sunghee](https://sungheeyun.github.io)
 >
 > :) 앞으로는 운영진의 허가를 받지 않고도 이렇게 이 공간을 십분 활용하시기 바랍니다! :)
 >
@@ -37,6 +37,43 @@ toc_sticky: true
 
 ## Oct-2025
 
+### Minha introduces Google Labs!
+
+> [Sunghee](https://sungheeyun.github.io)
+>
+> [Sun Oct 12 11:23 PDT 2025] 그리고 (K-PAI 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
+> [https://sungheeyun.github.io/reflections/harmony-across-generations](https://sungheeyun.github.io/reflections/harmony-across-generations) - 사람들 feedback도 좀 모았습니다! :) -
+> [https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience](https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience)
+>
+> [Sun Oct 12 22:50 PDT 2025] OMG! 오늘 Google의 NotebookLM이 video로 podcast까지 만들어 준다는 사실을 알아내고 곧바로!!! 실행에 옮겼습니다! :) 우리 엇그제 행사 후기에 video / audio podcast 잔뜩! 달아 놨어요~ ㅎ -
+> [https://k-privateai.github.io/seminar-reflections/12?audio=podcast-audio-05#ai-generates-podcasts](https://k-privateai.github.io/seminar-reflections/12?audio=podcast-audio-05#ai-generates-podcasts)
+> enjoy! :)
+>
+> [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
+>
+> [Sun Oct 12 22:59 PDT 2025]
+> [https://labs.google](https://labs.google){:target="_blank"}
+>
+> 여기 보시면 재미있는 AI Service 실험들이 많습니다. Notebook LM도 여기서 나온거고, 개안적으론 Learn Your Way, Data Science Agent, Jules, Flow, Opal, Project Astra 추천 드려요.
+>
+> [Sunghee](https://sungheeyun.github.io)
+>
+> [Sun Oct 12 22:59 PDT 2025]
+> 올~~~ 굿굿굿굿!!! :)
+>
+> [Sun Oct 12 23:04 PDT 2025]
+> 여러분~
+> [https://k-privateai.github.io/seminar-reflections/12](https://k-privateai.github.io/seminar-reflections/12)
+> 요 내용을 넣어서~ (훨) 더 좋은 vidoe podcast 혹은 audio podcast 혹은.. 꼭 *더* 좋지 않아도 새로운 것들.. 혹은 제가 지금 생각도 못할 것들을 생성해 내시면 바로바로 공유해 주세요! 여러분들 이름을 넣어서! contribution recognize하면서 (익명을 원하시면 이름 빠고 ^^) 바로바로 홈피에 반영해 드립니다! :)
+>
+> [Sun Oct 12 23:05 PDT 2025]
+>연말에~ 남우 주연 상 / 여우 주연 상.. 처럼 뭔가 기여도에 따라 상을 드리는 것도 생각해 봐야 겠어요~ :) !!! ㅎㅎ K-PAI 백상 예술 시상식~ ㅎ
+>
+> [Sun Oct 12 23:10 PDT 2025]
+> 저는 2022 / 2023 / 2024년을 지켜 보면서 잘못하면 Google 망하겠구나~ 하는 생각도 했었는데 ㅎㅎ - hald jokingly - llm을 너무 못 따라와서 ~ 최근에 나름 저력을 보여 주는 것 같아요. 이 모든 일이 .. 저희 근처에서 일어나고 있는 거졍? 제가 주로 골프 연습하고 Shoreline Golf Link 거기 있는 Googlex도 한 몫 한다는 내부자 정보를 얻긴 했는데~ ㅎㅎ
+> @[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
+{: .notice--info}
+
 ### Minha introduces OpenAI Dev Day 2025!
 
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
@@ -51,7 +88,7 @@ toc_sticky: true
 
 ### Sunghee's podcast announcement!
 
-> [Sunghee](https://sungheeyun.github.io){:target="_blank"}
+> [Sunghee](https://sungheeyun.github.io)
 >
 > [Sat Oct 11 23:32 PDT 2025] 여러분~ 제가 곧 어떤 podcast에 출연 예정입니다! ㅎㅎㅎ 사실 이미 recording 다 했고요! - 영어가 제 mother tongue이 아니다 보니 제 영어 실력은 그날그날 컨디션에 따라 다른데… ㅎㅎ 이 날은 영어가 꽤나! 안 되는 날이었나 봅니다. ㅎㅎ - [https://sungheeyun.github.io/#podcast-erudio-bio](https://sungheeyun.github.io/#podcast-erudio-bio){:target="_blank"}
 >
@@ -75,7 +112,7 @@ toc_sticky: true
 >
 > [Sat Oct 11 18:45 PDT 2025] 10월 18일 K-AI Group (K-Group AI 소그룹)에서 하는 LLM Seminar가 있어서 공지드립니다. KAIST의 LLM 전문가이신 오혜연 교수님 (현 Google 안식년)이 연사이시구요. 관심있으신 분들의 많은 참여 부탁드립니다. 세부 사항은 밑에 첨부 참고하시고, 인원 파악을 위한 Form에 Sign-up 해주시면, 감사하겠습니다.
 >
-> [Sunghee](https://sungheeyun.github.io){:target="_blank"}
+> [Sunghee](https://sungheeyun.github.io)
 >
 > [Sat Oct 11 18:45 PDT 2025] @[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} 좋은 정보 감사드립니다!
 >
@@ -95,7 +132,7 @@ toc_sticky: true
 
 ### Sunghee announces AI-BioX ConfEX Grand Summit 2025!
 
-> [Sunghee](https://sungheeyun.github.io){:target="_blank"}
+> [Sunghee](https://sungheeyun.github.io)
 >
 > [Sat Oct 11 20:55 PDT 2025] 오늘 박군호 대표님이랑 황민하 박사님께서 해 주셨듯~ 다른 분들도 이 공간을 맘껏! 활용해 주세요! "어, 이 거 너무 걘적인 거 올리는 거 아닐까?" 이런 생각 쏙~! 빼고 ㅎㅎ 걍 맘껏! 자기 자랑도 좋고! 회사 소개도 좋고요! 구직, 구인, 채용, 투자 등등등~ 저는 이 공간이 maximally 활용될 때 가장 큰 보람을 느낄 것 같아요! ㅎ
 >
@@ -117,7 +154,7 @@ toc_sticky: true
 
 ### Sunghee invited Maestro Baek to Stanford!
 
-> [Sunghee](https://sungheeyun.github.io){:target="_blank"}
+> [Sunghee](https://sungheeyun.github.io)
 >
 > [Sun Oct 12 11:23 PDT 2025]
 > 그리고 (K-PAI 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
