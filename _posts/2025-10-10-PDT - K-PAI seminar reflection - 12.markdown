@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Sun Oct 12 22:40:14 PDT 2025
+last_modified_at: Sun Oct 12 23:13:18 PDT 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -599,10 +599,15 @@ The energy that pervaded the networking session—attendees clustered in animate
 
 As K-PAI moves toward its **13th forum in November on AI semiconductor innovation**, the foundation established by this marketing-focused discussion will inform explorations of the computational infrastructure enabling sophisticated advertising AI. The community is building cumulative knowledge of how AI transforms industries from multiple perspectives—applications, architecture, algorithms, and hardware—creating holistic understanding rather than siloed technical depth.
 
-<!--
-The 12th K-PAI Forum proved that innovation thrives at the intersection of disciplinary boundaries, geographical connections, and institutional collaboration. By bringing together academic research (Park's KAIST affiliation), entrepreneurial execution (Impact AI and ADOASIS), engineering excellence (Ko's Toss USA experience), and international partnership (KOTRA SV, K-PAI, K•ASIC), the evening embodied the cross-pollination that drives progress in AI and its applications across industries.
+[Sunghee
+<br>
+<br>
+Mathematician, Thinker & Seeker of Universal Truth
+<br>
+Entrepreneur, Engineer, Scientist, Creator & Connector of Ideas (and, most of all) PEOPLE](https://sungheeyun.github.io/)
 
-The future of advertising lies not in choosing between creativity and technology, between human judgment and algorithmic optimization, but in architecting systems where each enhances the other—creating intelligent platforms that amplify human capabilities while respecting individual privacy and dignity.
--->
+---
 
-[Sunghee Yun](https://sungheeyun.github.io/)
+*[The 12th K-PAI Forum](/event-announcements/12) proved that innovation thrives at the intersection of disciplinary boundaries, geographical connections, and institutional collaboration. By bringing together academic research (Park's KAIST affiliation), entrepreneurial execution (Impact AI and ADOASIS), engineering excellence (Ko's Toss USA experience), and international partnership ([KOTRA Silicon Valley](https://www.connectkotrasv.org/) &amp; [K-PAI](/)), the evening embodied the cross-pollination that drives progress in AI and its applications across industries.*
+
+*The future of advertising lies not in choosing between creativity and technology, between human judgment and algorithmic optimization, but in architecting systems where each enhances the other—creating intelligent platforms that amplify human capabilities while respecting individual privacy and dignity.*
