@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Sun Oct 12 23:13:18 PDT 2025
+last_modified_at: Sun Oct 12 23:25:46 PDT 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -474,8 +474,8 @@ The 12th K-PAI Forum's success in delivering exceptional content and networking 
 
 <div class="img-container-justified">
 &nbsp;
-<img width="40%" src="/resource/org-logos/k-asic-logo.png">
-<img width="40%" src="/assets/images/k-on-pie.png">
+<img width="46.20%" src="/resource/org-logos/k-asic-logo.png">
+<img width="33.80%" src="/assets/images/k-on-pie.png">
 &nbsp;
 </div>
 
