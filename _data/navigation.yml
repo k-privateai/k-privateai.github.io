@@ -3,6 +3,8 @@ main:
     url: /about
   - title: "Board"
     url: /board
+  - title: "KPTM"
+    url: /kptm
   - title: "Posts"
     url: /posts
   - title: "Tags"
