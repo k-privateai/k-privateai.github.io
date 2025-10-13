@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Sun Oct 12 21:59:12 PDT 2025
+last_modified_at: Sun Oct 12 22:40:14 PDT 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -468,31 +468,14 @@ Sophisticated AI optimization creates incentives for sophisticated gaming—adve
 
 Both presentations focused implicitly on U.S. and developed market advertising. Yet emerging markets—India, Southeast Asia, Africa, Latin America—develop advertising ecosystems with different characteristics, regulations, and cultural norms. How do AI advertising systems adapt to diverse global contexts? What lessons from developed markets apply versus require fundamental rethinking?
 
-<!--
-# Looking Forward - The November Forum and Beyond
-
-The 12th K-PAI Forum's success in delivering exceptional content and networking despite compressed timing reinforces the value of the KOTRA Silicon Valley partnership and K-PAI's organizational maturation. The **November 12th forum on "The AI Silicon Race: Korea-US Innovation Leadership"** at the Korea AI & IC Innovation Center (K•ASIC) promises to explore the semiconductor innovations enabling the AI advances both Park and Ko described.
-
-<div class="img-container-justified">
-&nbsp;
-<img width="20%" src="/resource/org-logos/k-asic-logo.png">
-<img width="20%" src="/assets/images/k-on-pie.png">
-&nbsp;
-</div>
-
-This thematic progression—from AI applications in marketing (October) to the silicon infrastructure enabling those applications (November)—demonstrates K-PAI's evolving sophistication in creating narrative arcs across forums rather than treating each event in isolation. The community is building cumulative knowledge and sustained dialogues rather than episodic discussions.
-
-The partnership with K•ASIC, complementing the KOTRA SV relationship, expands K-PAI's institutional network and venue options. This growing web of strategic partnerships positions K-PAI for sustainable long-term growth while maintaining the community's distinctive character: rigorous technical content, cross-disciplinary dialogue, and genuine networking rather than superficial mingling.
--->
-
 # Looking Forward - The Silicon Foundation and Strategic Korea-US Alliance
 
 The 12th K-PAI Forum's success in delivering exceptional content and networking despite compressed timing reinforces the value of the KOTRA Silicon Valley partnership and K-PAI's organizational maturation. Yet the **November 12th forum on "The AI Silicon Race: Korea-US Innovation Leadership"** at the Korea AI & IC Innovation Center (K•ASIC) represents far more than the next event in K-PAI's calendar—it addresses a fundamental gap in how the AI ecosystem is typically understood and discussed.
 
 <div class="img-container-justified">
 &nbsp;
-<img width="20%" src="/resource/org-logos/k-asic-logo.png">
-<img width="20%" src="/assets/images/k-on-pie.png">
+<img width="40%" src="/resource/org-logos/k-asic-logo.png">
+<img width="40%" src="/assets/images/k-on-pie.png">
 &nbsp;
 </div>
 
