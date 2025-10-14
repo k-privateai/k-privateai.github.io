@@ -13,3 +13,5 @@ main:
     url: /membership
   - title: "Committee"
     url: /committee
+  - title: "Meetings"
+    url: /meetings
