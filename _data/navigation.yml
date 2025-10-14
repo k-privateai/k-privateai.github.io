@@ -1,8 +1,8 @@
 main:
-#  - title: "About"
-#    url: /about
-  - title: "Meetings"
-    url: /meetings
+  - title: "About"
+    url: /about
+#  - title: "Meetings"
+#    url: /meetings
   - title: "Board"
     url: /board
   - title: "TMKP"
