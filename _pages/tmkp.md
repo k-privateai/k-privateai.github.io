@@ -1,9 +1,9 @@
 ---
 layout: single
-title: K-PAI To Me is ...
+title: To Me, K-PAI is &hellip;
 permalink: /kptm/
 date: Mon Oct 13 03:59:43 PDT 2025
-last_modified_at: Mon Oct 13 04:33:14 PDT 2025
+last_modified_at: Mon Oct 13 21:26:48 PDT 2025
 toc: false
 toc_label: "ToC"
 toc_icon: "cog"

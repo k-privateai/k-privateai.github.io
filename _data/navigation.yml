@@ -1,12 +1,14 @@
 main:
-  - title: "About"
-    url: /about
-  - title: "I recommend ..."
-    url: /i-recommend
+#  - title: "About"
+#    url: /about
+  - title: "Meetings"
+    url: /meetings
   - title: "Board"
     url: /board
-  - title: "KPTM"
+  - title: "TMKP"
     url: /kptm
+  - title: "I recommend ..."
+    url: /i-recommend
   - title: "Posts"
     url: /posts
   - title: "Tags"
@@ -15,5 +17,3 @@ main:
     url: /membership
   - title: "Committee"
     url: /committee
-  - title: "Meetings"
-    url: /meetings
