@@ -3,7 +3,7 @@ layout: single
 title: I recommend ...
 permalink: /i-recommend/
 date: Mon Oct 13 19:59:56 PDT 2025
-last_modified_at: Mon Oct 13 21:02:25 PDT 2025
+last_modified_at: Thu Oct 16 06:39:57 KST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -50,7 +50,9 @@ NONE of these would've been possible!
 So as a token of appreciation for your sacrifice, devotion, and selfless enthusiasm not for themselves, but for others,
 we want to throw K-PAI Best Awards Ceremony!
 
+<!--
 But then ..., how do we nominate people? Like below!
+-->
 
 But then &hellip;, how do we nominate people? Like below!
 
