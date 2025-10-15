@@ -3,14 +3,14 @@ layout: single
 title: To Me, K-PAI is &hellip;
 permalink: /kptm/
 date: Mon Oct 13 03:59:43 PDT 2025
-last_modified_at: Thu Oct 16 06:12:24 KST 2025
+last_modified_at: Thu Oct 16 06:24:12 KST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
 ---
 
-## Gordon finds the community (K-PAI) that speaks both bio and tech
+## Gordon finds the Community (K-PAI) that speaks both Bio &amp; Tech
 
 > Only 바이오 전공인 제게, 바이오에서 만들어지는 데이터들은 어느 순간부터 핸들링하기 어려울 정도로 쌓여만 갔습니다. 이를 해결하기 위해 배우기 시작한 Stanford Sherlock system은 저에게 새로운 분야의 문을 열어주었습니다. 하지만 전공의 깊이 차이를 여실히 느끼며 좌절하던 중, K-PAI 모임을 알게 되었지요. 만나서 이야기해보고 싶었던 사람들이 한자리에 모여 있는 것이 너무 좋았습니다. 그분들이 넌지시 던지는 기본적인 이야기조차 이해하지 못했던 적도 있었지만, 듣고 찾아 공부하다 보니 조금씩 이해할 수 있었습니다. 대표적인게 RAG라는 알고리즘을 이용해 데이터 분석에 Hallucination을 줄일 수 있다는..
 >
@@ -18,7 +18,7 @@ toc_sticky: true
 >
 > &ndash; [Gordon Park](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"}
 
-## Joe Transforms a Blank Field Into a Startup Journey via K-PAI
+## Joe transforms a Blank Field into a Startup Journey via K-PAI
 
 >K-PAI는 저에게 스타트업 창업가라는, 전혀 예상하지 못했던 새로운 길을 열어준 특별한 모임입니다. 사실 예전부터 스타트업 아이디어는 있었지만, 바쁜 일상과 현직 업무에 쫓겨 실행에 옮기지 못하고 있었습니다.
 >
@@ -29,4 +29,3 @@ toc_sticky: true
 >바쁘신 일정 속에서도 이런 귀한 자리를 만들어주신 윤 대표님께 진심으로 감사드리며, 앞으로도 K-PAI를 통해 더 많은 소중한 인연들이 이어지길 바랍니다.
 >
 > &ndash; [Ik-Jung (Joe) Kim](https://www.linkedin.com/in/ik-jung-kim-b68a4839/)
-
