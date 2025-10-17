@@ -7,8 +7,8 @@ main:
     url: /board
   - title: "TMKP"
     url: /kptm
-  - title: "I recommend ..."
-    url: /i-recommend
+#  - title: "I recommend ..."
+#    url: /i-recommend
   - title: "Posts"
     url: /posts
   - title: "Tags"
