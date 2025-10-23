@@ -3,7 +3,7 @@ layout: single
 title: To Me, K-PAI is &hellip;
 permalink: /kptm/
 date: Mon Oct 13 03:59:43 PDT 2025
-last_modified_at: Thu Oct 23 15:45:25 KST 2025
+last_modified_at: Thu Oct 23 16:55:02 KST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -28,7 +28,7 @@ toc_sticky: true
 >
 > &ndash; [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
 
-## Gordon finds the Community (K-PAI) that speaks both Bio &amp; Tech
+## Gordon finds the community (K-PAI) that speaks both Bio &amp; Tech
 
 > Only 바이오 전공인 제게, 바이오에서 만들어지는 데이터들은 어느 순간부터 핸들링하기 어려울 정도로 쌓여만 갔습니다. 이를 해결하기 위해 배우기 시작한 Stanford Sherlock system은 저에게 새로운 분야의 문을 열어주었습니다. 하지만 전공의 깊이 차이를 여실히 느끼며 좌절하던 중, K-PAI 모임을 알게 되었지요. 만나서 이야기해보고 싶었던 사람들이 한자리에 모여 있는 것이 너무 좋았습니다. 그분들이 넌지시 던지는 기본적인 이야기조차 이해하지 못했던 적도 있었지만, 듣고 찾아 공부하다 보니 조금씩 이해할 수 있었습니다. 대표적인게 RAG라는 알고리즘을 이용해 데이터 분석에 Hallucination을 줄일 수 있다는..
 >
