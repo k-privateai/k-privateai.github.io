@@ -16,7 +16,7 @@
 
 repository: k-privateai/k-privateai.github.io
 
-title: "Silicon Valley Private AI Forum"
+title: "Silicon Valley Privacy-Preserving AI Forum"
 email: k.prvaite.ai@gmail.com
 description: K-PAI Homepage
 twitter_username: username
@@ -63,7 +63,7 @@ plugins:
 author:
   name             : "K-PAI"
   avatar           : "/assets/images/k-on-pie.png"
-  bio              : "Silicon Valley Private AI Forum"
+  bio              : "Silicon Valley Privacy-Preserving AI Forum"
 #  location         : "Silicon Valley, CA, USA"
 #  email            : k.private.ai@gmail.com
   links:
