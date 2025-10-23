@@ -1,12 +1,12 @@
 main:
+  - title: "TMKP"
+    url: /kptm
   - title: "About"
     url: /about
 #  - title: "Meetings"
 #    url: /meetings
   - title: "Board"
     url: /board
-  - title: "TMKP"
-    url: /kptm
 #  - title: "I recommend ..."
 #    url: /i-recommend
   - title: "Posts"

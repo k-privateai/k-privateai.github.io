@@ -3,12 +3,30 @@ layout: single
 title: To Me, K-PAI is &hellip;
 permalink: /kptm/
 date: Mon Oct 13 03:59:43 PDT 2025
-last_modified_at: Thu Oct 16 06:24:12 KST 2025
+last_modified_at: Thu Oct 23 15:45:25 KST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
 toc_sticky: true
 ---
+
+<!--
+## To MiSook, K-PAI is a community where curiosity meets conscience and conversations about AI are those about humanity!
+-->
+
+## MiSook envisions K-PAI as a community advancing humanity through AI!
+
+> **What an Advanced AI Society Means &hellip;**
+>
+> As I read and hear stories of how K-PAI has inspired discovery and innovation, I’m reminded of what true advancement means — not just in technology, but in civilization itself.
+>
+> When a student once asked anthropologist Margaret Mead what she considered the first sign of civilization, she didn’t point to tools, fire, or pottery. She spoke instead of a healed femur — the thigh bone. In the wild, she explained, if an animal breaks its leg, it dies. But a healed human femur shows that someone stopped to care for another, stayed behind, and nurtured them until they recovered. That act of compassion, she said, marks the beginning of civilization.
+>
+> In the same spirit, an advanced AI society is not defined by how intelligent our machines become, but by how responsibly and compassionately we use technology to serve humanity. It is one where innovation goes hand in hand with empathy — where we harness data and algorithms not just for efficiency or productivity, but to create opportunity, fairness, and dignity for all. Progress means designing AI systems that extend human kindness, equity, and shared prosperity. When we do, we build not just smarter tools — we build a wiser and more humane world.
+>
+> This is the vision that K-PAI embodies — a community where curiosity meets conscience, and where conversations about AI are ultimately conversations about humanity. It reminds us that the future of AI is not just about advancing technology, but about advancing civilization itself.
+>
+> &ndash; [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
 
 ## Gordon finds the Community (K-PAI) that speaks both Bio &amp; Tech
 
@@ -16,7 +34,7 @@ toc_sticky: true
 >
 > 바이오는 CS 분야의 도움을 통해 이해해야 하는 시대가 이미 왔다고 생각합니다. 아니, 데이터의 정확도를 높이고 인간의 편견에 의해 데이터 편향성을 줄이기 위해 CS는 꼭 접목되어야한다고 생각합니다. K-PAI는 이런 시대에 바이오 연구자들에게 큰 도움이 될 것이라 기대합니다. 여러 분야 중에 특별히 Bio-AI의 융합 학문을 많이 배울 수 있는 자리가 되어지길 소망합니다.
 >
-> &ndash; [Gordon Park](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"}
+> &ndash; [Gordon Park](https://profiles.stanford.edu/goonho-park/){:target="_blank"}
 
 ## Joe transforms a Blank Field into a Startup Journey via K-PAI
 
@@ -28,4 +46,4 @@ toc_sticky: true
 >
 >바쁘신 일정 속에서도 이런 귀한 자리를 만들어주신 윤 대표님께 진심으로 감사드리며, 앞으로도 K-PAI를 통해 더 많은 소중한 인연들이 이어지길 바랍니다.
 >
-> &ndash; [Ik-Jung (Joe) Kim](https://www.linkedin.com/in/ik-jung-kim-b68a4839/)
+> &ndash; [Ik-Jung (Joe) Kim](https://www.linkedin.com/in/ik-jung-kim-b68a4839/){:target="_blank"}
