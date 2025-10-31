@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Activities
 permalink: /activities/
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Fri Oct 31 05:49:30 PDT 2025
+last_modified_at: Fri Oct 31 06:13:49 PDT 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -11,6 +11,13 @@ toc_sticky: true
 ---
 
 [K-PAI](/)'s impact extends beyond our monthly forums through strategic partnerships and collaborative initiatives. Here are our key activities that demonstrate our commitment to bridging Silicon Valley's AI expertise with global stakeholders.
+
+# At a Glance ⭐
+
+|Item|Owner(s)|Status|
+|[Silicon Valley Expert Roundtable with Korean National Assembly Members](#silicon-valley-expert-roundtable-with-korean-national-assembly-members--07-oct-2025)|[Sunghee](https://sungheeyun.github.io)|Completed on 07-Oct-2025|
+|[Korea University Business School (KUBS) Center for Digital Transformation &amp; Business (CDTB) Partnership Initiative](#korea-university-business-school-kubs-center-for-digital-transformation--business-cdtb-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|Under development|
+|[Joint Hackathon with Krafton (PUBG Developers)](#joint-hackathon-with-krafton-pubg-developers)|[Sunghee](https://sungheeyun.github.io) + [Peter](https://www.linkedin.com/in/peter-bae-551b1b1/){:target="_blank"}|Under development|
 
 # Silicon Valley Expert Roundtable with Korean National Assembly Members @ 07-Oct-2025
 
@@ -23,6 +30,7 @@ This collaboration demonstrates **<span style="color:red;">[K-PAI](/)'s ability 
 
 [Read more about this event on Facebook](https://www.facebook.com/sunghee.yun1/posts/pfbid0KZpBnPQYJec4KX88yDMK49JKurCfR2CGbxhoJ7AzrL4RiQp3CWyLJQ97zj4qfwTSl){:target="_blank"}
 
+**Owner**: [Sunghee](https://sungheeyun.github.io)
 **Status**: Completed (October 2025)
 
 <div class="img-container">
@@ -93,7 +101,7 @@ This partnership represents a significant opportunity for [K-PAI](/) members to 
 
 **Status**: Under development by [Sunghee, K-PAI Leader](https://sungheeyun.github.io) &amp; KUBS CDTB Professors
 
-# Joint Hackathon with Krafton (PUBG Developer)
+# Joint Hackathon with Krafton (PUBG Developers)
 
 [K-PAI](/) is exploring an innovative collaboration with Krafton, the renowned game developer behind PlayerUnknown's Battlegrounds (PUBG). This opportunity emerged from a serendipitous meeting with a talented AI leader at Krafton during [Sunghee](https://sungheeyun.github.io)'s recent visit to Seoul.
 
@@ -117,7 +125,7 @@ The hackathon format would foster intensive collaboration, knowledge exchange, a
 &nbsp;
 </div>
 
-**Status**: In active development by [Sunghee, K-PAI Leader](https://sungheeyun.github.io) and [Peter, Executive Director of KICSV](https://www.linkedin.com/in/peter-bae-551b1b1/)
+**Status**: In active development by [Sunghee, K-PAI Leader](https://sungheeyun.github.io) and [Peter, Executive Director of KICSV](https://www.linkedin.com/in/peter-bae-551b1b1/){:target="_blank"}
 
 ---
 
