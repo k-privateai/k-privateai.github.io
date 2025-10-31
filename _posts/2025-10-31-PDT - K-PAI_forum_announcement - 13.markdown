@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
 date: Fri Oct 31 06:30:18 PDT 2025
-last_modified_at: Fri Oct 31 07:06:00 PDT 2025
+last_modified_at: Fri Oct 31 07:13:29 PDT 2025
 permalink: /event-announcements/13
 categories:
  - blog
@@ -64,9 +64,9 @@ and thought leaders who are shaping the future of intelligent computing at the s
 - <font color="red"><strong>Please RSVP via <a href="https://luma.com/XXXXX" target="_blank">this link</a>!</strong></font>
 -->
 
-- <span style="color:red;">RSVP page will be prepared soon as soon as some moving parts of fixed and confirmed!</span>
+- <span style="color:red;">RSVP page will be prepared as soon as some moving parts are fixed and confirmed!</span>
 - Please visit [K-PAI Membership](/membership) to learn about our K-PAI membership for the qualification and all exclusive perks you can enjoy!
-	and join us at K-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualifed)!
+	and join us at K-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualified)!
 
 ## K-PAI Leader's Perspectives
 
