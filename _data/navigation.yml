@@ -1,4 +1,6 @@
 main:
+  - title: "Activities"
+    url: /activities
   - title: "TMKP"
     url: /kptm
   - title: "About"
