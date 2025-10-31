@@ -1,10 +1,10 @@
 main:
+#  - title: "About"
+#    url: /about
   - title: "Activities"
     url: /activities
   - title: "TMKP"
     url: /kptm
-  - title: "About"
-    url: /about
 #  - title: "Meetings"
 #    url: /meetings
   - title: "Board"
