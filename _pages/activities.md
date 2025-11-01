@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Activities
 permalink: /activities/
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Sat Nov  1 15:47:14 PDT 2025
+last_modified_at: Sat Nov  1 16:34:34 PDT 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -49,12 +49,13 @@ From left
 [Senator Kim](https://namu.wiki/w/%EA%B9%80%EC%9A%A9%EB%AF%BC(1976)){:target="_blank"}
 /
 /
-[Jae H. Pyeong @ San Jose State University](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}
+[Jae H. Pyeon @ San Jose State University](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}
 /
+[Jaydn Yoon @ Google](https://www.linkedin.com/in/jaydnyoon/){:target="_blank"}
 /
 [Sunghee Yun @ Erudio Bio](https://sungheeyun.github.io)
 /
-[Jehwan Yoo @ OmicInsight](https://www.hankyung.com/article/2025051153031){:target="_blank"}
+[Jehwan Yoo @ OmicInsight](https://www.linkedin.com/in/josh-ryu/){:target="_blank"}
 /
 [Senator Lee](https://namu.wiki/w/%EC%9D%B4%EC%96%B8%EC%A3%BC){:target="_blank"}
 /
@@ -64,6 +65,7 @@ From left
 /
 [Sungwon Lim @ ImpriMed](https://www.linkedin.com/in/sungwon-lim/){:target="_blank"}
 /
+[Soo Jong Kwak @ LIEN Economic Research](https://ko.wikipedia.org/wiki/%EA%B3%BD%EC%88%98%EC%A2%85){:target="_blank"}
 /
 [Senator Jeon](https://namu.wiki/w/%EC%A0%84%EC%9A%A9%EA%B8%B0){:target="_blank"}
 /
