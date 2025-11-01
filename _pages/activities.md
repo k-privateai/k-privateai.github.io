@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Activities
 permalink: /activities/
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Fri Oct 31 06:13:49 PDT 2025
+last_modified_at: Sat Nov  1 15:47:14 PDT 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -23,6 +23,13 @@ toc_sticky: true
 
 On October 7, 2025, [K-PAI](/) played a pivotal role in organizing a high-level roundtable meeting titled "Silicon Valley Korean Expert Roundtable" in partnership with KOTRA Silicon Valley. This event brought together distinguished guests from South Korea, including four National Assembly members focused on AI policy, the AI-specialized consul from the Korean Consulate General, representatives from major tech companies, investors, and biotech startup executives.
 
+<div class="img-container-justified">
+&nbsp;
+<img width="35%" src="/assets/images/k-on-pie.png">
+<img width="35%" src="/resource/org-logos/kotra-silicon-valley-logo.jpeg">
+&nbsp;
+</div>
+
 As part of the [Perpetual Alliance between K-PAI and KOTRA Silicon Valley](/seminar-reflections/11#the-perpetual-alliance-between-k-pai-and-kotra-silicon-valley), [K-PAI](/) provided technical consultation by recruiting and recommending a diverse pool of Silicon Valley experts across multiple disciplines. This initiative exemplifies one of the core commitments of our strategic alliance: connecting Korean policymakers and business leaders with Silicon Valley's finest minds.
 
 The roundtable was a resounding success, with participating experts delivering decisive insights and leading productive discussions on AI policy and technology trends.
@@ -33,7 +40,7 @@ This collaboration demonstrates **<span style="color:red;">[K-PAI](/)'s ability 
 **Owner**: [Sunghee](https://sungheeyun.github.io)
 **Status**: Completed (October 2025)
 
-<div class="img-container">
+<div id="silicon-valley-expert-roundtable" class="img-container">
 <img style="max-width: 100%;" src="/resource/pages/activities/Screenshot 2025-10-31 at 5.06.12 AM.png">
 </div>
 
@@ -72,10 +79,17 @@ is developing an exciting partnership opportunity with one of Korea's most prest
 During discussions with CDTB professors after the [third AI seminar](https://sungheeyun.github.io/#cdtb-kubs-ai-seminar-oct-2025), an interesting challenge emerged -
 major business management journals often prioritize theoretical completeness over practical, innovative research. This creates a gap between cutting-edge industry practices and academic publications.
 
-<div class="img-container-justified">
+<!--div class="img-container-justified">
 &nbsp;
 <img width="36.12%" src="/assets/images/k-on-pie.png">
 <img width="43.87%" src="/resource/org-logos/kubs-logo-04.png">
+&nbsp;
+</div-->
+
+<div class="img-container-justified">
+&nbsp;
+<img width="35%" src="/assets/images/k-on-pie.png">
+<img width="42.51%" src="/resource/org-logos/kubs-logo-04.png">
 &nbsp;
 </div>
 
@@ -118,10 +132,17 @@ Krafton's AI team is planning a visit to Silicon Valley, and preliminary discuss
 
 The hackathon format would foster intensive collaboration, knowledge exchange, and potentially breakthrough solutions at the intersection of gaming, AI, and privacy technology. While still in early development stages, this partnership could create a unique bridge between entertainment technology and privacy-preserving AI applications.
 
-<div class="img-container-justified">
+<!--div class="img-container-justified">
 &nbsp;
 <img width="28.55%" src="/assets/images/k-on-pie.png">
 <img width="51.45%" src="/resource/org-logos/krafton-log-01.png">
+&nbsp;
+</div-->
+
+<div class="img-container-justified">
+&nbsp;
+<img width="35%" src="/assets/images/k-on-pie.png">
+<img width="63.07%" src="/resource/org-logos/krafton-log-01.png">
 &nbsp;
 </div>
 
@@ -129,4 +150,4 @@ The hackathon format would foster intensive collaboration, knowledge exchange, a
 
 ---
 
-<span style="color:red;">*These activities demonstrate [K-PAI](/)'s commitment to expanding our influence beyond monthly forums, creating **practical value** for our members, and **building meaningful bridges** between Silicon Valley's AI ecosystem and global partners. Stay tuned for updates as these initiatives evolve!*</span>
+*These activities demonstrate [K-PAI](/)'s commitment to expanding our influence beyond monthly forums, creating <span style="color:red;">**practical values**</span> for our members, and **<span style="color:red;">building tangible and meaningful bridges</span>** between Silicon Valley's AI ecosystem and global partners. Stay tuned for updates as these initiatives evolve!*
