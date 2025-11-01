@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Fri Oct 10 23:13:06 PDT 2025
+last_modified_at: Sat Nov  1 16:27:35 PDT 2025
 categories:
  - blog
 toc: true
@@ -20,6 +20,29 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 <!--
 # Meetings
 -->
+
+## 31-Oct-2025 Brunch
+
+### Participants
+
+- [Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/){:target="_blank"},
+[Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/){:target="_blank"},
+and
+[Sunghee](https://sungheeyun.github.io)
+
+### Food
+
+- [So Gong Dong Tofu House @ Palo Alto](https://maps.app.goo.gl/rzoZZ5AppJLb6UQS6){:target="_blank"}
+
+### Agenda
+
+- [2025 K-PAI Best Ownership Award](/i-recommend/)
+
+### Photos
+
+<div class="img-container">
+<img src="/resource/meetings/2025-1031/KakaoTalk_Photo_2025-11-01-16-14-57.jpeg">
+</div>
 
 ## 10-Oct-2025 Brunch
 
