@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Sat Nov  1 16:27:35 PDT 2025
+last_modified_at: Sat Nov  1 16:46:44 PDT 2025
 categories:
  - blog
 toc: true
@@ -38,7 +38,7 @@ and
 
 - [2025 K-PAI Best Ownership Award](/i-recommend/)
 
-### Photos
+### Photo
 
 <div class="img-container">
 <img src="/resource/meetings/2025-1031/KakaoTalk_Photo_2025-11-01-16-14-57.jpeg">
