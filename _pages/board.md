@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Thu Oct 30 10:25:14 PDT 2025
+last_modified_at: Sun Nov  2 10:12:19 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -14,16 +14,21 @@ toc_sticky: true
 
 ## Selected Posts
 
-### Asia Economy article mentions Erudio Bio receiving Million Annual Grant from Gates Foundation
+### Sunghee seeks for Sponsors for AI-BioX ConfEX Grand Summit 2025 @ COEX
 
 <div class="img-container">
-<img style="max-width: 100%;" src="/resource/board/2025103008310686966_1761780666.jpeg">
+<img style="max-width: 100%;" src="/resource/board/Screenshot 2025-11-02 at 10.09.59 AM.png">
 </div>
 
-> [Sunghee](https://sungheeyun.github.io) @ Wed Oct 29 17:03 PDT 2025
+> [Sunghee](https://sungheeyun.github.io) @ Sun Nov  2 10:00 PST 2025
 >
-> 저희 에루디오 바이오 Gates Foundation $1MM Grant 관련 기사가 아시아경제에 실렸습니다! :) -
-> [https://view.asiae.co.kr/article/2025103008554006190](https://view.asiae.co.kr/article/2025103008554006190)
+> [https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/](https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/)
+>
+> K-PAI 정회원 여러분! COEX 행사 관련 공지 하나 합니다! 저희 K-PAI 발표 session으로 계획되었던 부분은 K-PAI가 아니라 "Silicon Valley Chapter"정도의 주제가 될 듯 하고 저는 K-PAI Leader로서가 아니라 Silicon Valley AI Landscape를 간략하게 발표를 하고 K-PAI를 살짝 소개하는 정도가 될 듯 합니다. - 이런 행사의 nature상 어차피 계속 이렇게 바뀔 거라는 건 알고 있었습니다! ㅎㅎ 그래서 초반에 뭘 정하는 건 거의 의미가 없어요~ ㅎ
+>
+> 다름이 아니라 저 외에 발표하실 분을 모으는 데 지금의 기준은 "후원사" 입니다! 즉, COEX 행사에 후원을 해 주시면 제가 크게 광고를 해 드릴 거고, 발표할 기획도 드리려고요! 관심 있으신 정회원 분들 있으시면 제게 따로 연락주세요!! 또한 주위에 12/11~12/13에 마침 한국에 계실 분 중에 본 행사에 관심이 있으신 분이 있으면 0.0001초의 망설임도 없이! ㅎㅎㅎ 저랑 (카톡으로) 이어주세요! :)
+>
+> 감사합니다! :)
 {: .notice--warning}
 
 ### Gordon's seeking talents!
@@ -54,6 +59,18 @@ toc_sticky: true
 {: .notice--warning}
 
 ## Oct-2025
+
+### Asia Economy article mentions Erudio Bio receiving Million Annual Grant from Gates Foundation
+
+<div class="img-container">
+<img style="max-width: 100%;" src="/resource/board/2025103008310686966_1761780666.jpeg">
+</div>
+
+> [Sunghee](https://sungheeyun.github.io) @ Wed Oct 29 17:03 PDT 2025
+>
+> 저희 에루디오 바이오 Gates Foundation $1MM Grant 관련 기사가 아시아경제에 실렸습니다! :) -
+> [https://view.asiae.co.kr/article/2025103008554006190](https://view.asiae.co.kr/article/2025103008554006190)
+{: .notice--info}
 
 ### Sunghee proposes two external public engagement activities out of the 11 day business trip to Seoul
 
