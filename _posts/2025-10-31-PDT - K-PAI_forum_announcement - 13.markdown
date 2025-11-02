@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
 date: Fri Oct 31 06:30:18 PDT 2025
-last_modified_at: Fri Oct 31 07:13:29 PDT 2025
+last_modified_at: Sat Nov  1 19:44:06 PDT 2025
 permalink: /event-announcements/13
 categories:
  - blog
@@ -61,10 +61,10 @@ and thought leaders who are shaping the future of intelligent computing at the s
 <!--Check out [{{ reflection.title }}]({{ reflection.url }}) to see how our previous Ad Intelligence event brought together marketing AI leaders from KAIST and Toss USA for transformative discussions on AI-driven digital marketing!-->
 
 <!--
-- <font color="red"><strong>Please RSVP via <a href="https://luma.com/XXXXX" target="_blank">this link</a>!</strong></font>
+- <span style="color:red;">RSVP page will be prepared as soon as some moving parts are fixed and confirmed!</span>
 -->
 
-- <span style="color:red;">RSVP page will be prepared as soon as some moving parts are fixed and confirmed!</span>
+- <font color="red"><strong>Please RSVP via <a href="https://luma.com/1uwqnzua" target="_blank">this link</a>!</strong></font>
 - Please visit [K-PAI Membership](/membership) to learn about our K-PAI membership for the qualification and all exclusive perks you can enjoy!
 	and join us at K-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualified)!
 
