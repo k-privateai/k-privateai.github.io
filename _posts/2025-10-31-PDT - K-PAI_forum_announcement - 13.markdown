@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
 date: Fri Oct 31 06:30:18 PDT 2025
-last_modified_at: Mon Nov  3 17:05:34 PST 2025
+last_modified_at: Mon Nov  3 17:53:35 PST 2025
 permalink: /event-announcements/13
 categories:
  - blog
@@ -133,7 +133,7 @@ Richard will demonstrate how NPU architecture evolution is enabling sophisticate
 
 ### Sub-Session 2: Bridging Performance and Affordability in AI Silicon - AI 반도체 혁신, 성능과 비용의 균형을 잇다
 
-- **Speaker**: [Juntaek Oh](https://www.linkedin.com/in/juntaek-oh-643253349){:target="_blank"}, Compiler Engineer
+- **Speaker**: [Juntaek Oh](https://www.linkedin.com/in/juntaek-oh-643253349){:target="_blank"}, Compiler Engineer @ HyperAccel
 - **Time**: 6:55pm ~ 7:10pm
 - **Language**: Korean/English
 
