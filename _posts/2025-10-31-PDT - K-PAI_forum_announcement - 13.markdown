@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
 date: Fri Oct 31 06:30:18 PDT 2025
-last_modified_at: Mon Nov  3 17:03:09 PST 2025
+last_modified_at: Mon Nov  3 17:05:34 PST 2025
 permalink: /event-announcements/13
 categories:
  - blog
@@ -124,7 +124,7 @@ As an ACM Fellow, IEEE Fellow, and former Technical Program Chair of the prestig
 
 ### Sub-Session: AI Starts Here - 온디바이스 AI 시대, 경량화된 NPU 아키텍처의 진화
 
-- **Speaker**: [Richard Burroughs](http://linkedin.com/in/richardburroughs1), Vice President @ Mobilint, Inc.
+- **Speaker**: [Richard Burroughs](http://linkedin.com/in/richardburroughs1){:target="_blank"}, Vice President @ Mobilint, Inc.
 - **Time**: 6:40pm ~ 6:55pm
 
 Richard Burroughs will present an in-depth exploration of how Neural Processing Unit (NPU) architectures are evolving to meet the demands of the on-device AI era. As AI capabilities increasingly shift from the cloud to edge devices, the need for lightweight, power-efficient NPU designs has become critical. This presentation will examine the architectural innovations enabling efficient on-device AI inference—from quantization techniques and model compression to novel dataflow architectures and memory hierarchies optimized for neural network workloads.
@@ -133,7 +133,7 @@ Richard will demonstrate how NPU architecture evolution is enabling sophisticate
 
 ### Sub-Session 2: Bridging Performance and Affordability in AI Silicon - AI 반도체 혁신, 성능과 비용의 균형을 잇다
 
-- **Speaker**: [Juntaek Oh (오준택)](https://www.linkedin.com/in/juntaek-oh-643253349), Compiler Engineer
+- **Speaker**: [Juntaek Oh](https://www.linkedin.com/in/juntaek-oh-643253349){:target="_blank"}, Compiler Engineer
 - **Time**: 6:55pm ~ 7:10pm
 - **Language**: Korean/English
 
