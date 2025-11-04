@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
 date: Fri Oct 31 06:30:18 PDT 2025
-last_modified_at: Mon Nov  3 15:14:25 PST 2025
+last_modified_at: Mon Nov  3 16:30:30 PST 2025
 permalink: /event-announcements/13
 categories:
  - blog
@@ -142,7 +142,6 @@ Join us as we officially open this historic K-PAI x K•ASIC Joint Seminar, cele
 
 - **Speaker**: [Naehyuck Chang](https://www.linkedin.com/in/naehyuck/), Advisor and Former EVP of Samsung Electronics
 - **Time**: 5:40pm ~ 6:10pm
-- **Language**: Korean
 
 <!--[slides](/resource/seminars/13 - 12-Nov-2025/presentation slides/Chang-AI-Library-PhysicalAI.pdf)-->
 
@@ -158,7 +157,6 @@ This talk is essential viewing for anyone interested in the intersection of AI a
 
 - **Speaker**: *[Speaker TBD]*
 - **Time**: 6:10pm ~ 6:40pm
-- **Language**: Korean/English (TBD)
 
 *We are currently finalizing our second main keynote speaker who will provide complementary perspectives on AI silicon innovation. Details will be announced soon!*
 
@@ -166,7 +164,6 @@ This talk is essential viewing for anyone interested in the intersection of AI a
 
 - **Speaker**: [Richard Burroughs](http://linkedin.com/in/richardburroughs1), Vice President @ Mobilint, Inc.
 - **Time**: 6:40pm ~ 6:55pm
-- **Language**: English
 
 <!--[slides](/resource/seminars/13 - 12-Nov-2025/presentation slides/Burroughs-On-Device-AI-NPU.pdf)-->
 
@@ -176,14 +173,17 @@ This presentation will examine the architectural innovations enabling efficient 
 
 Attendees will gain insights into the design tradeoffs between computational throughput, power efficiency, and silicon area, understanding how next-generation NPUs are being architected to support increasingly complex AI models in resource-constrained environments. This talk provides essential knowledge for engineers and product managers working on edge AI solutions.
 
-### Sub-Session 2: [Speaker TBD]
+### Sub-Session 2: Bridging Performance and Affordability in AI Silicon - AI 반도체 혁신, 성능과 비용의 균형을 잇다
 
-- **Speaker**: *[Additional sub-session speaker to be announced]*
+- **Speaker**: [Juntaek Oh (오준택)](https://www.linkedin.com/in/juntaek-oh-643253349), Compiler Engineer
 - **Time**: 6:55pm ~ 7:10pm
+- **Language**: Korean/English
 
-*We are finalizing additional sub-session speakers who will share insights on AI semiconductor innovation. Stay tuned for updates!*
+<!--[slides](/resource/seminars/13 - 12-Nov-2025/presentation slides/Oh-AI-Silicon-Performance-Affordability.pdf)-->
 
-*K•ASIC is coordinating additional speakers from their extensive semiconductor industry network. Details will be announced soon!*
+Juntaek Oh will present insights on bridging the critical gap between performance and affordability in AI silicon design. As the AI semiconductor landscape rapidly evolves, balancing cutting-edge computational capabilities with cost-effective implementations has emerged as one of the industry's most pressing challenges.
+
+This presentation will explore innovative approaches to optimizing AI chip architectures that deliver high performance without prohibitive costs, examining compiler-level optimizations, hardware-software co-design strategies, and architectural innovations that maximize computational efficiency per dollar. Attendees will gain practical insights into the engineering tradeoffs and design decisions that enable scalable, economically viable AI silicon solutions for both edge devices and data center deployments.
 
 ## Networking Dinner &amp; Q&amp;A (7:10pm ~ 8pm)
 
