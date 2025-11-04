@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
 date: Fri Oct 31 06:30:18 PDT 2025
-last_modified_at: Mon Nov  3 16:30:30 PST 2025
+last_modified_at: Mon Nov  3 17:03:09 PST 2025
 permalink: /event-announcements/13
 categories:
  - blog
@@ -31,7 +31,6 @@ Use this link
 to share this event!
 
 {% assign prev_announcement = site.posts | where: "permalink", "/event-announcements/12" | first %}
-{% assign reflection = site.posts | where: "permalink", "/seminar-reflections/12" | first %}
 
 # Invitation
 
@@ -58,12 +57,6 @@ This special **K-PAI x K•ASIC Joint Seminar** represents a historic collaborat
 in Silicon Valley's tech community, bringing together semiconductor engineers, AI architects, chip designers, hardware entrepreneurs,
 and thought leaders who are shaping the future of intelligent computing at the silicon level.
 
-<!--Check out [{{ reflection.title }}]({{ reflection.url }}) to see how our previous Ad Intelligence event brought together marketing AI leaders from KAIST and Toss USA for transformative discussions on AI-driven digital marketing!-->
-
-<!--
-- <span style="color:red;">RSVP page will be prepared as soon as some moving parts are fixed and confirmed!</span>
--->
-
 - <font color="red"><strong>Please RSVP via <a href="https://luma.com/1uwqnzua" target="_blank">this link</a>!</strong></font>
 - Please visit [K-PAI Membership](/membership) to learn about our K-PAI membership for the qualification and all exclusive perks you can enjoy!
 	and join us at K-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualified)!
@@ -74,31 +67,6 @@ and thought leaders who are shaping the future of intelligent computing at the s
 Contemporary discourse on AI ecosystems tends to focus heavily on visible layers—software services, algorithms, and applications—while overlooking the foundational infrastructure. Even within technical domains, **semiconductor and hardware infrastructure constitute the essential pillars of the AI ecosystem**: GPUs (Nvidia's dominance), HBM (SK hynix's breakthroughs), specialized AI semiconductors (NPUs, DPUs), and custom accelerators from tech giants. This landscape is increasingly shaped by geopolitical dynamics including the US-China technology competition, CHIPS Act, export controls, and supply chain restructuring. To understand and lead sustainable AI development, deep knowledge of the AI semiconductor ecosystem is absolutely essential.
 
 The strategic partnership between K•ASIC and K-PAI transcends simple technical exchange—it illuminates the most foundational layer of the AI ecosystem while connecting Korea's and America's semiconductor innovation leadership. This is why we titled this forum **"The AI Silicon Race: Korea-US Innovation Leadership."** This event shares the core insight that AI's future is built not only on algorithms but on silicon, serving as a venue to explore sustainable development of the global AI ecosystem by consolidating the semiconductor capabilities of both nations.
-
-<!--
-### The Significance of the K-PAI × K•ASIC November Forum
-
-Contemporary discourse on AI ecosystems tends to concentrate heavily on visible layers—AI software services like ChatGPT and Claude, algorithms like GPT-4o, software toolchains such as MCP, and application domains including biotech, robotics, physical AI, mobility, and industrial AI. While these are undeniably important, a comprehensive understanding of AI's landscape demands a far more multi-layered approach.
-
-As the term "Artificial Intelligence" itself implies, properly understanding AI requires an interdisciplinary perspective that transcends pure technical domains. This necessarily includes humanistic and social science viewpoints—ethics, cognitive science, legal frameworks, and philosophical implications. AI is no longer the exclusive domain of technologists in specific fields, and indeed, it never could be.
-
-Even when we confine our discussion to the technical realm, **semiconductor and hardware infrastructure constitute the foundational pillars of the AI ecosystem**—a critical dimension that demands careful examination.
-
-The current AI hardware ecosystem comprises several essential components:
-
-- **GPUs (Graphics Processing Units)**: Parallel processing accelerators led by Nvidia's market dominance
-- **HBM (High Bandwidth Memory)**: Next-generation memory architectures that recently gained attention through SK hynix's remarkable 2,000% performance bonuses
-- **Specialized AI Semiconductors**: Domain-specific chips including NPUs and DPUs that are even more optimized than GPUs
-- **Custom AI Accelerators**: Domain-specific architectures designed in-house by major tech giants including Microsoft, OpenAI, Google, Amazon, Apple, and Meta
-
-Notably, most of these companies function as fabless design houses, with actual fabrication outsourced to specialized foundries like TSMC. Furthermore, the semiconductor industry is inextricably linked to geopolitical variables, exemplified by the US-China technology competition. The CHIPS Act, export controls, and supply chain restructuring are fundamentally reshaping the industry landscape.
-
-Therefore: **To understand and lead sustainable AI development, a deep understanding of hardware—particularly the AI semiconductor ecosystem—is absolutely essential.**
-
-With this recognition, the strategic partnership between K•ASIC and K-PAI transcends simple technical exchange. This forum illuminates the most foundational layer of the AI ecosystem—silicon and semiconductor architecture—while functioning as a strategic platform connecting Korea's and America's AI semiconductor innovation leadership.
-
-This is the fundamental reason we titled this forum **"The AI Silicon Race: Korea-US Innovation Leadership."** This event will share the core insight that AI's future is built not only on algorithms but on silicon, and will serve as a venue to explore sustainable development of the global AI ecosystem by consolidating the semiconductor capabilities of both Korea and the US.
--->
 
 ## Historic Partnership with K•ASIC
 
@@ -138,20 +106,14 @@ Join us as we officially open this historic K-PAI x K•ASIC Joint Seminar, cele
 
 ## Presentations (5:40pm ~ 7:10pm)
 
-### Main Keynote Session 1: AI 기반 반도체 라이브러리 개선과 피지컬AI
+### Main Keynote Session 1: From Semiconductor PPA Optimization to Physical AI - Library-Based Design Challenges and New Frontiers
 
-- **Speaker**: [Naehyuck Chang](https://www.linkedin.com/in/naehyuck/), Advisor and Former EVP of Samsung Electronics
+- **Speaker**: [Naehyuck Chang](https://www.linkedin.com/in/naehyuck/){:target="_blank"}, Advisor and Former EVP of Samsung Electronics
 - **Time**: 5:40pm ~ 6:10pm
 
-<!--[slides](/resource/seminars/13 - 12-Nov-2025/presentation slides/Chang-AI-Library-PhysicalAI.pdf)-->
+Semiconductor design optimization has been a major source of competitiveness in the chip industry and has often had more impact than improvements in architecture or software. Even after many years of progress, the conventional layered design process still leaves room for improvement within standard cell libraries, which play a crucial role in determining power, performance, and area (PPA). The first part of this talk introduces a practical approach that uses artificial intelligence to improve cell library design and enhance PPA efficiency. The second part presents a future-oriented view of Physical AI, which combines control intelligence with physical systems, and introduces the concept of pretrained libraries, revealing new opportunities and challenges in applying library-based design and optimization methods to the next generation of intelligent physical systems.
 
-Naehyuck will present groundbreaking insights into how artificial intelligence is revolutionizing semiconductor library optimization and physical AI implementations.
-As an ACM Fellow, IEEE Fellow, and former Technical Program Chair of the prestigious Design Automation Conference (DAC), he brings unparalleled expertise in power and energy optimization from embedded systems to large-scale AI systems.
-
-His presentation will explore cutting-edge approaches to AI-driven semiconductor library improvement, demonstrating how machine learning techniques can optimize the fundamental building blocks of chip design.
-He will also delve into the emerging field of Physical AI—examining how AI systems can be efficiently implemented at the silicon level to enable intelligent, energy-efficient computing for the next generation of applications from autonomous vehicles to IoT devices.
-
-This talk is essential viewing for anyone interested in the intersection of AI and semiconductor design, offering insights from one of the world's leading researchers in design automation and low-power system optimization.
+As an ACM Fellow, IEEE Fellow, and former Technical Program Chair of the prestigious Design Automation Conference (DAC), Naehyuck brings unparalleled expertise in power and energy optimization from embedded systems to large-scale AI systems.
 
 ### Main Keynote Session 2: [TBD]
 
@@ -165,21 +127,15 @@ This talk is essential viewing for anyone interested in the intersection of AI a
 - **Speaker**: [Richard Burroughs](http://linkedin.com/in/richardburroughs1), Vice President @ Mobilint, Inc.
 - **Time**: 6:40pm ~ 6:55pm
 
-<!--[slides](/resource/seminars/13 - 12-Nov-2025/presentation slides/Burroughs-On-Device-AI-NPU.pdf)-->
+Richard Burroughs will present an in-depth exploration of how Neural Processing Unit (NPU) architectures are evolving to meet the demands of the on-device AI era. As AI capabilities increasingly shift from the cloud to edge devices, the need for lightweight, power-efficient NPU designs has become critical. This presentation will examine the architectural innovations enabling efficient on-device AI inference—from quantization techniques and model compression to novel dataflow architectures and memory hierarchies optimized for neural network workloads.
 
-Richard Burroughs will present an in-depth exploration of how Neural Processing Unit (NPU) architectures are evolving to meet the demands of the on-device AI era. As AI capabilities increasingly shift from the cloud to edge devices, the need for lightweight, power-efficient NPU designs has become critical.
-
-This presentation will examine the architectural innovations enabling efficient on-device AI inference—from quantization techniques and model compression to novel dataflow architectures and memory hierarchies optimized for neural network workloads. Richard will demonstrate how NPU architecture evolution is enabling sophisticated AI capabilities in smartphones, IoT devices, and embedded systems while maintaining strict power budgets and thermal constraints.
-
-Attendees will gain insights into the design tradeoffs between computational throughput, power efficiency, and silicon area, understanding how next-generation NPUs are being architected to support increasingly complex AI models in resource-constrained environments. This talk provides essential knowledge for engineers and product managers working on edge AI solutions.
+Richard will demonstrate how NPU architecture evolution is enabling sophisticated AI capabilities in smartphones, IoT devices, and embedded systems while maintaining strict power budgets and thermal constraints. Attendees will gain insights into the design tradeoffs between computational throughput, power efficiency, and silicon area, understanding how next-generation NPUs are being architected to support increasingly complex AI models in resource-constrained environments.
 
 ### Sub-Session 2: Bridging Performance and Affordability in AI Silicon - AI 반도체 혁신, 성능과 비용의 균형을 잇다
 
 - **Speaker**: [Juntaek Oh (오준택)](https://www.linkedin.com/in/juntaek-oh-643253349), Compiler Engineer
 - **Time**: 6:55pm ~ 7:10pm
 - **Language**: Korean/English
-
-<!--[slides](/resource/seminars/13 - 12-Nov-2025/presentation slides/Oh-AI-Silicon-Performance-Affordability.pdf)-->
 
 Juntaek Oh will present insights on bridging the critical gap between performance and affordability in AI silicon design. As the AI semiconductor landscape rapidly evolves, balancing cutting-edge computational capabilities with cost-effective implementations has emerged as one of the industry's most pressing challenges.
 
