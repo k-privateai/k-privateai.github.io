@@ -9,6 +9,8 @@ main:
 #    url: /meetings
   - title: "Board"
     url: /board
+  - title: "Groups"
+    url: /groups
 #  - title: "I recommend ..."
 #    url: /i-recommend
   - title: "Posts"
