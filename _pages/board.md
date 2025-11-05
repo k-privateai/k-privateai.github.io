@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Tue Nov  4 09:13:58 PST 2025
+last_modified_at: Wed Nov  5 07:08:59 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -58,6 +58,31 @@ toc_sticky: true
 > 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
 {: .notice--warning}
 
+## Nov-2025
+
+### Minha recommends Stanford Causal Inference Course by Nobel Laureate Guido Imbens
+
+> [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Tue Nov  4 23:38 PST 2025
+>
+> Stanford Causal Inference Course Materials이 좋은데 참고하세요. Guido Imbens 교수님 (노벨상)
+>
+> [https://stanford-causal-inference-class.github.io/index.html](https://stanford-causal-inference-class.github.io/index.html)
+>
+> [Sunghee](https://sungheeyun.github.io) @ Wed Nov  5 06:52 PST 2025
+>
+> 더 정확한 ? url은 요거
+> https://stanford-causal-inference-class.github.io/syllabus.html
+> 랑 요거
+> https://stanford-causal-inference-class.github.io/materials.html 입니다! :)
+{: .notice--info}
+
+### Sunghee is seeking technical support from K-PAI Lovers!
+
+> [Sunghee](https://sungheeyun.github.io) @ Mon Nov  3 16:33 PST 2025
+>
+> I'M LOOKING FOR a volunteer who can provide her/his talent / technical savvy as to do korean -> english translation subtitle functionality. what i mean is .. i watn this! when Korean speakers, that is, those who speak Korean for their presentations, speak, I want "English subtitle" being generated automatically! :) Could ANYONE help me do this for 12-Nov-2025 Forum? :)
+{: .notice--info}
+
 ## Oct-2025
 
 ### Asia Economy article mentions Erudio Bio receiving Million Annual Grant from Gates Foundation
@@ -70,13 +95,6 @@ toc_sticky: true
 >
 > 저희 에루디오 바이오 Gates Foundation $1MM Grant 관련 기사가 아시아경제에 실렸습니다! :) -
 > [https://view.asiae.co.kr/article/2025103008554006190](https://view.asiae.co.kr/article/2025103008554006190)
-{: .notice--info}
-
-### Sunghee is seeking technical support from K-PAI Lovers!
-
-> [Sunghee](https://sungheeyun.github.io) @ Mon Nov  3 16:33 PST 2025
->
-> I'M LOOKING FOR a volunteer who can provide her/his talent / technical savvy as to do korean -> english translation subtitle functionality. what i mean is .. i watn this! when Korean speakers, that is, those who speak Korean for their presentations, speak, I want "English subtitle" being generated automatically! :) Could ANYONE help me do this for 12-Nov-2025 Forum? :)
 {: .notice--info}
 
 ### Sunghee proposes two external public engagement activities out of the 11 day business trip to Seoul
