@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Wed Nov  5 07:08:59 PST 2025
+last_modified_at: Wed Nov  5 08:10:04 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -60,20 +60,34 @@ toc_sticky: true
 
 ## Nov-2025
 
-### Minha recommends Stanford Causal Inference Course by Nobel Laureate Guido Imbens
+### Minha announces Bay K-AI Group Vibe Coding Seminar!
+
+<div class="img-container">
+<img src="/resource/board/KakaoTalk_Photo_2025-11-05-07-27-47.png">
+</div>
+
+> [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Wed Nov  5 04:43 PST 2025
+>
+> 11월 14일 (금요일)에 K-AI Group (K-Group AI 소그룹)에서 하는 Vibe Coding Seminar가 있어서 공지드립니다. 관심있으신 분들의 많은 참여 부탁드립니다. 세부 사항은 밑에 첨부 참고하시고, 인원 파악을 위한 Form에 Sign-up 해주시면, 감사하겠습니다.
+>
+> 참석 신청: [https://forms.gle/MBeq7tD5vYY4CDuR6](https://forms.gle/MBeq7tD5vYY4CDuR6){:target="_blank"}
+{: .notice--info}
+
+### Minha recommends Stanford Causal Inference Course by Nobel Laureate Guido Imbens!
 
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Tue Nov  4 23:38 PST 2025
 >
 > Stanford Causal Inference Course Materials이 좋은데 참고하세요. Guido Imbens 교수님 (노벨상)
 >
-> [https://stanford-causal-inference-class.github.io/index.html](https://stanford-causal-inference-class.github.io/index.html)
+> [https://stanford-causal-inference-class.github.io/index.html](https://stanford-causal-inference-class.github.io/index.html){:target="_blank"}
 >
 > [Sunghee](https://sungheeyun.github.io) @ Wed Nov  5 06:52 PST 2025
 >
 > 더 정확한 ? url은 요거
-> https://stanford-causal-inference-class.github.io/syllabus.html
+> [https://stanford-causal-inference-class.github.io/syllabus.html](https://stanford-causal-inference-class.github.io/syllabus.html){:target="_blank"}
 > 랑 요거
-> https://stanford-causal-inference-class.github.io/materials.html 입니다! :)
+> [https://stanford-causal-inference-class.github.io/materials.html](https://stanford-causal-inference-class.github.io/materials.html){:target="_blank"}
+> 입니다! :)
 {: .notice--info}
 
 ### Sunghee is seeking technical support from K-PAI Lovers!
