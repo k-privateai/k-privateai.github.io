@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Thu Nov  6 11:50:49 PST 2025
+last_modified_at: Fri Nov  7 07:15:51 KST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -59,6 +59,20 @@ toc_sticky: true
 {: .notice--warning}
 
 ## Nov-2025
+
+### Annie shares Korea Law Center IP Conference at Berkeley!
+
+> [Annie](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} @ Thu Nov  6 12:33 PST 2025
+>
+> 하나 홍보할 것도 있는데요. 코리아 로 센터에서 이번에 Asia IP & Competition Law Center 와 같이 "IP and Human Creativity in the AI Age" 라는 이름의 컨퍼런스를 코호스팅 하게 되었습니다.
+>
+> 11/14일 UC 버클리에서 진행되고 한국 서울대에서 박상철 교수님, 고등법원의 김광남 판사님, 그리고 지평에서 신용우 변호사님이 스피커로 참여하실 예정입니다.
+>
+> K-PAI에 관심있으신 분들 계실 것 같아 공유드립니다! 혹시 궁금하신 점 있으시면 언제든지 문의 주세요!
+>
+> [https://www.law.berkeley.edu/research/korea-law-center/ip-and-human-creativity-in-the-ai-age-a-global-conversation/](https://www.law.berkeley.edu/research/korea-law-center/ip-and-human-creativity-in-the-ai-age-a-global-conversation/){:target="_blank"}
+{: .notice--info}
+
 
 ### Minha announces Bay K-AI Group Vibe Coding Seminar!
 
