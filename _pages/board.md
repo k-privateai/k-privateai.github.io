@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Wed Nov  5 08:10:04 PST 2025
+last_modified_at: Thu Nov  6 11:50:49 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -71,6 +71,14 @@ toc_sticky: true
 > 11월 14일 (금요일)에 K-AI Group (K-Group AI 소그룹)에서 하는 Vibe Coding Seminar가 있어서 공지드립니다. 관심있으신 분들의 많은 참여 부탁드립니다. 세부 사항은 밑에 첨부 참고하시고, 인원 파악을 위한 Form에 Sign-up 해주시면, 감사하겠습니다.
 >
 > 참석 신청: [https://forms.gle/MBeq7tD5vYY4CDuR6](https://forms.gle/MBeq7tD5vYY4CDuR6){:target="_blank"}
+>
+> [Sunghee](https://sungheeyun.github.io) @ Wed Nov  5 06:46 PST 2025
+>
+> 혹시 황박사님이 하시는 거에요? :)
+>
+> [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Wed Nov  5 04:43 PST 2025
+>
+> Project Study Group 멤버들이 팀마다 짧은 데모와 프로젝트 경험 공유하구요. 30분 동안 short discussion / Q&A로 마무리할 계획입니다. 저희 팀도 발표해요 : )
 {: .notice--info}
 
 ### Minha recommends Stanford Causal Inference Course by Nobel Laureate Guido Imbens!
