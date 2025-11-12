@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Fri Nov  7 07:15:51 KST 2025
+last_modified_at: Tue Nov 11 22:04:48 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -36,7 +36,7 @@ toc_sticky: true
 > [Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"}
 > @ Sat Oct 11 17:20 PDT 2025
 >
->AI 개발 전문가를 찾습니다. GenAI를 이용해 생물정보학 (bioinformatics) 데이터 분석을 natural language로 할 수 있는 AI Agent를 개발하고 있습니다. 관심 있으신 분이나 팀 있으시면 개인톡 (neuorpa)이나 이메일 (neuropa@stanford.edu) 부탁드립니다. Ps. K-PAI 운영팀으로 허가 받아 공지합니다.
+> AI 개발 전문가를 찾습니다. GenAI를 이용해 생물정보학 (bioinformatics) 데이터 분석을 natural language로 할 수 있는 AI Agent를 개발하고 있습니다. 관심 있으신 분이나 팀 있으시면 개인톡 (neuorpa)이나 이메일 (neuropa@stanford.edu) 부탁드립니다. Ps. K-PAI 운영팀으로 허가 받아 공지합니다.
 >
 > [Sunghee](https://sungheeyun.github.io)
 >
@@ -46,7 +46,7 @@ toc_sticky: true
 >
 > [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 17:22 PDT 2025
 >
->제가 이해하기로는 CTO 급 or minimum senior 개발자를 찾고 계시다고 합니다. preferably bio 쪽 지식이 있으면 더 좋겠지만 (제 개인 생각에는) open-mind, learning intention and capability가 있으면 빨리 배우면서 할 수 있지 않을까 조심스럽게 생각해봅니다.
+> 제가 이해하기로는 CTO 급 or minimum senior 개발자를 찾고 계시다고 합니다. preferably bio 쪽 지식이 있으면 더 좋겠지만 (제 개인 생각에는) open-mind, learning intention and capability가 있으면 빨리 배우면서 할 수 있지 않을까 조심스럽게 생각해봅니다.
 >
 > [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 17:23 PDT 2025
 >
@@ -59,6 +59,25 @@ toc_sticky: true
 {: .notice--warning}
 
 ## Nov-2025
+
+### Sunghee announces K-PAI × KABANC Joint Forum for August 2026
+
+<div class="img-container">
+<img style="max-width: 60%;" src="/resource/board/KakaoTalk_Photo_2025-11-11-21-58-02.jpeg">
+</div>
+
+> [Sunghee](https://sungheeyun.github.io) @ Tue Nov 11 12:13 PST 2025
+>
+> 또 공지! 어제 Santa Clara County의 Deputy District Attorney이신 Daniel Chung 검사님과 우리 K-PAI 멤버이신 @송영욱 변호사님, 그리고 @이보형 변호사님과 함께 점심 식사를 했습니다. - 원래 @허예랑 대표님도 참석하려 하였으나 아쉽게도 급! LA 출장 건으로 요렇게 다섯명이 조촐히 모였습니다~ :)
+>
+> 이 자리에서 내년 8월 즈음에~ Daniel 검사님이 대표로 계신 Korean American Bar Association of Northern California (KABANC) - [https://www.kabanc.com/](https://www.kabanc.com/){:target="_blank"} - 와 저희 K-PAI가 (또 다시 한번) 공동 주최로 Forum을 하기로 했습니다. 이는 지난 8월에 저희가 Human-Centric AI Revolution이라는 주제로 @허나탈리 변호사님과 James Rhee를 모시고 했던 행사의 연장으로 생각할 수도 있을 것입니다! 즉, non-technical한 그러나 AI 시대에 어쩌면 그 어떤 technology보다 중요해진 주제를 다루는 자리를 저희 K-PAI에서 적어도 1년에 한번씩 마련하고저 합니다!
+>
+> 세 분 정도의 연사를 생각하고 있습니다! Litigation 등을 통해 현장에서 AI / legal issue를 몸소 체험하시는 분, 그리고 government 혹은 state의 policy에 직/간접적으로 관여하시거나 관련하여 살아있는! 지식과 경험이 있으신 분, 그리고 대가! 어제 Daniel께서 Michael Sandel 교수님께 연락을 해 보실 수 있다고 하여 다들 흥분했습니다! :) - [https://en.wikipedia.org/wiki/Michael_Sandel](https://en.wikipedia.org/wiki/Michael_Sandel){:target="_blank"}
+>
+> 개봉 박두! 많이 기대하셔도 좋습니다! 그리고! 언제나처럼 본 행사 organize하는데 직접 기여/참여하고 싶으신 분은 언제나! 말씀해 주십시오~ K-PAI는 여러분과 같이 만들어 가는 모임입니다! :)
+>
+> REMINDER 차원에서~ 8월 행사 후기를 다시 공유드립니다~ ㅎㅎ [https://k-privateai.github.io/seminar-reflections/10](https://k-privateai.github.io/seminar-reflections/10)
+{: .notice--info}
 
 ### Annie shares Korea Law Center IP Conference at Berkeley!
 
