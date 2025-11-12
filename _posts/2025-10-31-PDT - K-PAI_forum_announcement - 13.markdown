@@ -1,7 +1,7 @@
 ---
 title: "K-PAI's 13th Chapter: The AI Silicon Race - Korea-US Innovation Leadership"
 date: Fri Oct 31 06:30:18 PDT 2025
-last_modified_at: Mon Nov 10 17:15:10 PST 2025
+last_modified_at: Wed Nov 12 12:42:59 PST 2025
 permalink: /event-announcements/13
 categories:
  - blog
@@ -101,6 +101,7 @@ Experience our signature networking reception in K•ASIC's state-of-the-art fac
 
 - **Speakers**: K-PAI Leadership &amp; K•ASIC Leadership
 - **Time**: 5:30pm ~ 5:40pm
+- [slides](/resource/seminars/13 - 12-Nov-2025/K-PAI - The AI Silicon Race - Nov-2025.pdf){:target="_blank"}
 
 Join us as we officially open this historic K-PAI x K•ASIC Joint Seminar, celebrating the collaboration between two leading organizations in AI semiconductor innovation. This opening address will set the stage for an evening of cutting-edge insights into AI chip design, NPU architecture evolution, and the future of on-device AI.
 
