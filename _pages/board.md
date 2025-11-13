@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Tue Nov 11 22:04:48 PST 2025
+last_modified_at: Thu Nov 13 00:10:04 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -59,6 +59,19 @@ toc_sticky: true
 {: .notice--warning}
 
 ## Nov-2025
+
+### Jay organizes K-PAI Networking Dinner with IITP
+
+> [Sunghee](https://sungheeyun.github.io) @ Wed Nov 12 22:43 PST 2025
+>
+> @[이원표](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} 대표님께서 마련해 주신 자리인데 ~ 금주 토욜! 11/15 오후 7시!
+> 모건힐에서! (249 Palm Ave, Morgan Hill, CA) 한국정보통신기획평가원(IITP) 연구단 9명과 저희 K-PAI가 네트워킹 만찬晚餐의 시간을 갖습니다!
+> 근데 아직 K-PAI에서는 참석자가 @[Sunghee Yun](https://sungheeyun.github.io) & @[이원표](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} 두 명입니다. ㅎㅎ 선착순先着順~! 신청 받습니다. 참석을 희망하시는 분들은 제게 따로 카톡으로 연락 주세요!
+>
+> ([Sunghee Yun](https://sungheeyun.github.io),
+> [이은석](https://www.linkedin.com/in/eunseok-lee-b332a34a/){:target="_blank"},
+> [김수연](https://www.linkedin.com/in/suekimpr/){:target="_blank"})
+{: .notice--info}
 
 ### Sunghee announces K-PAI × KABANC Joint Forum for August 2026
 
