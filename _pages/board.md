@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Thu Nov 13 00:10:04 PST 2025
+last_modified_at: Thu Nov 13 14:48:43 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -13,6 +13,17 @@ toc_sticky: true
 # Conversations on [K-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
 ## Selected Posts
+
+### James Rhee speaking at Stanford - invitation from Misook
+
+> [정미숙](https://www.linkedin.com/in/misook-chung/){:target="_blank"} @ Thu Nov 13 13:57 PST 2025
+>
+> Hi Everyone!  James Rhee will be at Stanford University this coming Wednesday, 11/19th.  If you are interested in attending, here is the info!
+>
+> [https://events.stanford.edu/event/conversation-with-james-rhee-founder-author-red-helicopter-johnson-chair-of-entrepreneurship-and-professor-of-entrepreneurship-at-howard-university](https://events.stanford.edu/event/conversation-with-james-rhee-founder-author-red-helicopter-johnson-chair-of-entrepreneurship-and-professor-of-entrepreneurship-at-howard-university){:target="_blank"}
+>
+> Btw, if you want to attend, please connect with me separately.  There may be limited space.
+{: .notice--warning}
 
 ### Sunghee seeks for Sponsors for AI-BioX ConfEX Grand Summit 2025 @ COEX
 
