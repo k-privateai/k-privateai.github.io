@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Thu Nov 13 14:48:43 PST 2025
+last_modified_at: Thu Nov 13 15:14:32 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -81,7 +81,8 @@ toc_sticky: true
 >
 > ([Sunghee Yun](https://sungheeyun.github.io),
 > [이은석](https://www.linkedin.com/in/eunseok-lee-b332a34a/){:target="_blank"},
-> [김수연](https://www.linkedin.com/in/suekimpr/){:target="_blank"})
+> [김수연](https://www.linkedin.com/in/suekimpr/){:target="_blank"},
+> [선우동훈](https://www.linkedin.com/in/sunwoodonghoon/){:target="_blank"})
 {: .notice--info}
 
 ### Sunghee announces K-PAI × KABANC Joint Forum for August 2026
