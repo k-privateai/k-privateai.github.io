@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Wed Oct 29 21:18:19 PDT 2025
+last_modified_at: Sun Nov 16 14:42:26 PST 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -231,6 +231,16 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	선우동훈
+</td>
+<td class="eng-name">
+	<a href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
 </td>
 </tr>
 </table>
