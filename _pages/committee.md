@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Sun Nov 16 14:42:26 PST 2025
+last_modified_at: Sun Nov 16 16:12:07 PST 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -58,7 +58,7 @@ author_profile: false
 	천정희
 </td>
 <td>
-	<a href="https://www.linkedin.com/in/jungheecheon/">Jung Hee Cheon</a>
+	<a target="_blank" href="https://www.linkedin.com/in/jungheecheon/">Jung Hee Cheon</a>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ author_profile: false
 	박찬익
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/chanik-park-14878b32">Chanik Park</a>
+	<a target="_blank" href="https://www.linkedin.com/in/chanik-park-14878b32">Chanik Park</a>
 </td>
 </tr>
 <tr>
@@ -88,7 +88,7 @@ author_profile: false
 	박대준
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/daejunpark/">Daejun Park</a>
+	<a target="_blank" href="https://www.linkedin.com/in/daejunpark/">Daejun Park</a>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ author_profile: false
 	장준영
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/junyeongjang/">Jun Yeong Jang</a>
+	<a target="_blank" href="https://www.linkedin.com/in/junyeongjang/">Jun Yeong Jang</a>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ author_profile: false
 	노현정
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/%EB%85%B8%ED%98%84%EC%A0%95/">Hyun Jung Noh</a>
+	<a target="_blank" href="https://www.linkedin.com/in/%EB%85%B8%ED%98%84%EC%A0%95/">Hyun Jung Noh</a>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ author_profile: false
 	조민선
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/christine-c-5b8b4b168/">Christine Cho</a>
+	<a target="_blank" href="https://www.linkedin.com/in/christine-c-5b8b4b168/">Christine Cho</a>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ author_profile: false
 	문호근
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/alex-moon/">Alex Moon</a>
+	<a target="_blank" href="https://www.linkedin.com/in/alex-moon/">Alex Moon</a>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ author_profile: false
 	배재혁
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/jaehyeok-bae-57b866218/">Jaehyeok Bae</a>
+	<a target="_blank" href="https://www.linkedin.com/in/jaehyeok-bae-57b866218/">Jaehyeok Bae</a>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ author_profile: false
 	정세희
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
+	<a target="_blank" href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
 </td>
 </tr>
 <tr>
@@ -159,7 +159,7 @@ author_profile: false
 	장하군
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/hagoon-jang-79766a54/">Hagoon Jang</a>
+	<a target="_blank" href="https://www.linkedin.com/in/hagoon-jang-79766a54/">Hagoon Jang</a>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ author_profile: false
 	이시연
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/siyeon-rhee-39449642/">Siyeon Rhee</a>
+	<a target="_blank" href="https://www.linkedin.com/in/siyeon-rhee-39449642/">Siyeon Rhee</a>
 </td>
 </tr>
 <tr>
@@ -180,7 +180,7 @@ author_profile: false
 	정미숙
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
+	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
 </td>
 </tr>
 <tr>
@@ -190,7 +190,7 @@ author_profile: false
 	허예랑
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
+	<a target="_blank" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
 </td>
 </tr>
 <tr>
@@ -200,7 +200,7 @@ author_profile: false
 	진재현
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/austinnnjin/">Austin Jin</a>
+	<a target="_blank" href="https://www.linkedin.com/in/austinnnjin/">Austin Jin</a>
 </td>
 </tr>
 <tr>
@@ -210,7 +210,7 @@ author_profile: false
 	김해윤
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/haeyunkimsv/">Haeyun Kim</a>
+	<a target="_blank" href="https://www.linkedin.com/in/haeyunkimsv/">Haeyun Kim</a>
 </td>
 </tr>
 <tr>
@@ -220,7 +220,7 @@ author_profile: false
 	최세영
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
+	<a target="_blank" href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ author_profile: false
 	김수연
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
+	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
 </td>
 </tr>
 <tr>
@@ -240,7 +240,7 @@ author_profile: false
 	선우동훈
 </td>
 <td class="eng-name">
-	<a href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
+	<a target="_blank" href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
 </td>
 </tr>
 </table>
