@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Sun Nov 16 16:12:07 PST 2025
+last_modified_at: Sun Dec  7 22:02:43 PST 2025
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -241,6 +241,16 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	이주현
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/joohyeun-julia-yi/">Joohyeun Yi</a>
 </td>
 </tr>
 </table>
