@@ -3,7 +3,7 @@ layout: single
 title: To Me, K-PAI is &hellip;
 permalink: /kptm/
 date: Mon Oct 13 03:59:43 PDT 2025
-last_modified_at: Thu Oct 23 16:55:02 KST 2025
+last_modified_at: Mon Dec 15 09:53:27 KST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -13,6 +13,17 @@ toc_sticky: true
 <!--
 ## To MiSook, K-PAI is a community where curiosity meets conscience and conversations about AI are those about humanity!
 -->
+
+## Visiting Student finds K-PAI transforms a semester into lasting opportunities
+
+> As a visiting student spending one semester in San Francisco, I had the chance to attend a K-PAI event and it quickly became one of the most meaningful experiences of my time here. Through K-PAI, I met inspiring professionals who generously shared their insights and opened new opportunities for me. Thanks to connections I made there, I was even invited to the Plug and Play event, which broadened my understanding of the local tech ecosystem.
+>
+> I also met people who offered valuable guidance for a project I’m currently preparing: the Korea–America Student Conference (KASC), a three-week student diplomacy program between Korean and U.S. university students. One of the attendees encouraged me to reach out as I build partnerships for next summer’s conference, especially for sessions related to semiconductors and AI collaboration.
+>
+> K-PAI truly made my semester in San Francisco more meaningful, connected, and exciting. I will be returning next summer for the conference, and I’m currently looking for professionals or companies interested in sharing their expertise or hosting a short visit for our delegates. If you’re interested, I would love to connect.
+>
+> &ndash; [Hyein Kim](https://www.linkedin.com/in/hyein-kim-korea2022/){:target="_blank"}
+
 
 ## MiSook envisions K-PAI as a community advancing humanity through AI!
 
