@@ -1,7 +1,7 @@
 ---
 title: "Silicon Foundations - The Strategic Alliance That Illuminates AI's Most Essential Layer"
 date: Tue Dec 23 19:39:52 PST 2025
-last_modified_at: Wed Dec 24 01:45:31 PST 2025
+last_modified_at: Wed Dec 24 04:27:37 PST 2025
 permalink: /seminar-reflections/13
 categories:
  - blog
@@ -97,7 +97,7 @@ This hardware landscape is increasingly shaped by geopolitical dynamics—**US-C
 
 ## Korea-US Innovation Leadership - Complementary Strengths
 
-The strategic framing emphasized why we titled this forum **"The AI Silicon Race: Korea-US Innovation Leadership."** This partnership transcends simple technical exchange—it recognizes and leverages **complementary asymmetric strengths**:
+The strategic framing emphasized why we titled this forum **"The AI Silicon Race - Korea-US Innovation Leadership."** This partnership transcends simple technical exchange—it recognizes and leverages **complementary asymmetric strengths**:
 - **Korea's Semiconductor Excellence**
 	- world-leading memory technology (Samsung, SK hynix dominance in DRAM and HBM)
 	- advanced manufacturing capabilities (cutting-edge process nodes)
@@ -147,7 +147,7 @@ This participatory ethos **<span style="color:red;">distinguishes <a href="/">K-
 
 # The Foundation - Library-based Design meets AI Innovation
 
-## Naehyuck Chang's Vision: From Standard Cells to Physical AI
+## Naehyuck Chang's Vision - From Standard Cells to Physical AI
 
 [Naehyuck Chang](https://www.linkedin.com/in/naehyuck/)'s keynote presentation, "From Semiconductor PPA Optimization to Physical AI - Library-based Design Challenges and New Frontiers," provided the intellectual foundation for understanding how AI is transforming chip design while simultaneously exploring how chip design principles are transforming AI deployment in physical systems.
 
@@ -239,7 +239,7 @@ Future K-PAI forums might explore this edge AI dimension more deeply, potentiall
 
 # The Economics - Bridging Performance and Affordability
 
-## Juntaek Oh's Market Reality: HyperAccel's Pragmatic Approach
+## Juntaek Oh's Market Reality - HyperAccel's Pragmatic Approach
 
 Juntaek Oh, Compiler Engineer at HyperAccel, brought a complementary perspective grounded in stark market realities and entrepreneurial pragmatism. His presentation, "Bridging Performance and Affordability in AI Silicon," addressed the critical tension between cutting-edge computational capabilities and cost-effective implementations.
 
@@ -492,7 +492,7 @@ As we look toward the H1 2026 second K-PAI x K•ASIC joint forum, the foundatio
 
 The energy pervading the networking session—semiconductor engineers, AI architects, hardware entrepreneurs, and researchers engaged in animated technical discussions extending well beyond scheduled conclusion—reflected genuine community enthusiasm about both the specific insights shared and the broader vision of Korea-US semiconductor cooperation enabling sustainable AI innovation.
 
-<span style="color: red;">The 13th K-PAI Forum proved that innovation thrives at intersections: between disciplines (EE and CS), between nations (Korea and US), between domains (digital and physical), and between organizations (K-PAI and K•ASIC).</span> By illuminating the foundational silicon layer, the evening demonstrated that AI's future will be built not only on elegant algorithms but on sophisticated semiconductor engineering—requiring deep cross-disciplinary understanding and sustained international collaboration to realize technology's full potential while serving humanity's broader interests.
+<span style="color: red;"><a href="{{ page.url }}">The 13th K-PAI Forum</a> proved that innovation thrives at intersections: between disciplines (EE and CS), between nations (Korea and US), between domains (digital and physical), and between organizations (K-PAI and K•ASIC).</span> By illuminating the foundational silicon layer, the evening demonstrated that AI's future will be built not only on elegant algorithms but on sophisticated semiconductor engineering—requiring deep cross-disciplinary understanding and sustained international collaboration to realize technology's full potential while serving humanity's broader interests.
 
 [Sunghee
 <br>
