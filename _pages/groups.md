@@ -3,21 +3,91 @@ layout: single
 title: K-PAI Groups
 permalink: /groups/
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Tue Nov  4 14:32:51 PST 2025
+last_modified_at: Tue Dec 23 17:55:22 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
 toc_sticky: true
 ---
 
-[K-PAI](/) encourages organically growing small group meetings!
+[K-PAI](/) encourages organically growing group meetings!
 
-# 04-Nov-2025
+# 2025
+
+## Dec-2025
+
+### 05-Dec-2025
+
+Flash meetup with
+[Jae Chul](https://www.linkedin.com/in/jae-chul-koh-4967a69b/){:target="_blank"},
+[Goonho](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank},
+[Wonpyo](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"},
+and
+[Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container">
-<img src="/resource/groups/2025-11/KakaoTalk_Photo_2025-11-04-14-30-30 001.jpeg">
+<img src="/resource/groups/2025-12/2025-12-05 PST - Ttongbong Meeting.jpg">
+</div>
+
+## Nov-2025
+
+### 27-Nov-2025 KST
+
+Early morning breakfast in Seoul;
+[June Hee](https://www.linkedin.com/in/jungheecheon/){:target="_blank"},
+[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"},
+and
+[Sunghee](https://sungheeyun.github.io).
+
+<div class="img-container">
+<img src="/resource/groups/2025-11/2025-11-27 0824 KST - June Hee, CI, and Sunghee.JPG">
+</div>
+
+### 15-Nov-2025
+
+K-PAI + Institute for Information communication Technology Planning and Evaluation (정보통신기획평가원, IITP)
+
+<div class="img-container-justified">
+<img src="/resource/groups/2025-11/2025-11-15 PST - IITP - 01.JPG">
+<img src="/resource/groups/2025-11/2025-11-15 PST - IITP - 02.JPG">
+</div>
+
+<div class="img-container-justified">
+<img src="/resource/groups/2025-11/2025-11-15 PST - IITP - 03.JPG">
+<img src="/resource/groups/2025-11/2025-11-15 PST - IITP - 04.jpg">
 </div>
 
 <div class="img-container">
+<img src="/resource/groups/2025-11/2025-11-15 PST - IITP - 05.jpg">
+</div>
+
+### 14-Nov-2025
+
+Lawyers, Judges, Engineers, Scientists, and Entrepreneurs!
+
+<div class="img-container">
+<img src="/resource/groups/2025-11/2025-11-14 - Berkeley.jpg">
+</div>
+
+### 10-Nov-2025
+
+K-PAI meets KABANC!
+We were
+[Daniel](https://www.linkedin.com/in/chungforchange/){:target="_blank"},
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
+and
+[Sunghee](https://sungheeyun.github.io)!
+
+<div class="img-container">
+<img src="/resource/groups/2025-11/2025-11-10 PST - KABANC.jpg">
+</div>
+
+### 04-Nov-2025
+
+Bio / Medical / Data Group!
+
+<div class="img-container-justified">
+<img src="/resource/groups/2025-11/KakaoTalk_Photo_2025-11-04-14-30-30 001.jpeg">
 <img src="/resource/groups/2025-11/KakaoTalk_Photo_2025-11-04-14-30-30 002.jpeg">
 </div>
