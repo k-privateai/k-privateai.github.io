@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Groups
 permalink: /groups/
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Tue Dec 23 17:55:22 PST 2025
+last_modified_at: Tue Dec 23 18:11:00 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -85,7 +85,14 @@ and
 
 ### 04-Nov-2025
 
-Bio / Medical / Data Group!
+The **<span style="color: red;">first</span>** K-PAI's (organically created) group meeting; Bio / Medical / Data Group!
+We were
+[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"},
+[Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"},
+[Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"},
+[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"},
+and
+[Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container-justified">
 <img src="/resource/groups/2025-11/KakaoTalk_Photo_2025-11-04-14-30-30 001.jpeg">
