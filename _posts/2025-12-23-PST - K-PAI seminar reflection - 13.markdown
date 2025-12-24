@@ -1,7 +1,7 @@
 ---
 title: "Silicon Foundations - The Strategic Alliance That Illuminates AI's Most Essential Layer"
 date: Tue Dec 23 19:39:52 PST 2025
-last_modified_at: Tue Dec 23 23:53:46 PST 2025
+last_modified_at: Wed Dec 24 01:45:31 PST 2025
 permalink: /seminar-reflections/13
 categories:
  - blog
@@ -73,7 +73,7 @@ The evening's opening remarks (5:30pm - 5:40pm) by K-PAI and K•ASIC leadership
 established the intellectual framework for understanding why this forum represents more than another technical presentation—it illuminates **the most foundational yet frequently overlooked layer of the entire AI ecosystem**.
 
 <div class="img-container">
-<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/intro/DSC02604-50-reduced.JPG">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/intro/DSC02604-50-reduced.JPG">
 </div>
 
 ## The Overlooked Foundation
@@ -85,12 +85,15 @@ As articulated in the opening presentation, contemporary AI discourse exhibits a
 - **Specialized AI Semiconductors** - NPUs, DPUs, and domain-specific accelerators
 - **Custom Accelerators** - Tech giants' proprietary silicon (Google TPU, Apple Neural Engine)
 
-<div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/intro/DSC02607-50-reduced.JPG">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/intro/DSC03047-50-reduced.JPG">
+<div class="img-container">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/intro/DSC02607-50-reduced.JPG">
 </div>
 
 This hardware landscape is increasingly shaped by geopolitical dynamics—**US-China technology competition, CHIPS Act implementation, export controls tightening, and supply chain restructuring**. Understanding and leading sustainable AI development requires **deep knowledge of the AI semiconductor ecosystem** as absolutely essential rather than optional context.
+
+<div class="img-container">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/intro/DSC03047-50-reduced.JPG">
+</div>
 
 ## Korea-US Innovation Leadership - Complementary Strengths
 
@@ -124,8 +127,8 @@ The evening's presentations would explore these dimensions through three complem
 The opening concluded with an explicit invitation to **<span style="color:red;">active participation</span>** rather than passive attendance—five specific imperatives that reflect K-PAI's community-building philosophy:
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/audience/DSC02724-50-reduced.JPG">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/audience/DSC02780-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/audience/DSC02724-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/audience/DSC02780-50-reduced.JPG">
 </div>
 
 - **Engage Deeply** - Ask questions, challenge assumptions, share insights. The forum's value multiplies when attendees contribute perspectives rather than merely absorbing content.
@@ -135,9 +138,9 @@ The opening concluded with an explicit invitation to **<span style="color:red;">
 - **Shape the Future** - <font color="red">Your participation tonight influences our H1 2026 forum direction!</font> The partnership's flexibility enables responsive topic selection based on community needs and industry evolution.
 
 <div class="img-container-justified">
-<img style="width: 32%;" src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/member-intro/DSC02871-50-reduced.JPG">
-<img style="width: 32%;" src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/member-intro/DSC02898-50-reduced.JPG">
-<img style="width: 32%;" src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/member-intro/DSC02921-50-reduced.JPG">
+<img style="width: 32%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/member-intro/DSC02871-50-reduced.JPG">
+<img style="width: 32%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/member-intro/DSC02898-50-reduced.JPG">
+<img style="width: 32%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/member-intro/DSC02921-50-reduced.JPG">
 </div>
 
 This participatory ethos **<span style="color:red;">distinguishes <a href="/">K-PAI</a> from conventional seminar series</span>**. Rather than treating attendees as consumers of expert knowledge, the forums position community members as **<span style="color:red;">co-authors and co-creators of an evolving discourse about AI's responsible development</span>**—with semiconductor infrastructure now recognized as equally essential as algorithms, ethics, or applications in that comprehensive understanding.
@@ -149,7 +152,7 @@ This participatory ethos **<span style="color:red;">distinguishes <a href="/">K-
 [Naehyuck Chang](https://www.linkedin.com/in/naehyuck/)'s keynote presentation, "From Semiconductor PPA Optimization to Physical AI - Library-based Design Challenges and New Frontiers," provided the intellectual foundation for understanding how AI is transforming chip design while simultaneously exploring how chip design principles are transforming AI deployment in physical systems.
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/presentation/DSC02688-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/presentation/DSC02688-50-reduced.JPG">
 </div>
 
 Chang brings unparalleled credentials to this discussion—ACM Fellow, IEEE Fellow, former Executive Vice President at Samsung Electronics, and former Technical Program Chair of the prestigious Design Automation Conference (DAC). His career trajectory from Seoul National University through KAIST to Samsung's highest technical ranks, combined with his extensive experience spanning low-power systems, design automation, battery technology, renewable energy, electric vehicles, and AI algorithms, positions him uniquely to bridge semiconductor design and AI innovation.
@@ -225,7 +228,7 @@ Richard Burroughs, Vice President at Mobilint, Inc., presented "AI Starts Here -
 Burroughs' presentation explored how **Neural Processing Unit (NPU) architectures are evolving to meet on-device AI demands**—examining architectural innovations enabling efficient inference from quantization techniques and model compression to novel dataflow architectures and memory hierarchies optimized for neural network workloads.
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/presentation/DSC02788-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/presentation/DSC02788-50-reduced.JPG">
 </div>
 
 The presentation demonstrated how NPU evolution enables sophisticated AI capabilities in smartphones, IoT devices, and embedded systems while maintaining strict power budgets and thermal constraints—providing insights into design tradeoffs between computational throughput, power efficiency, and silicon area.
@@ -241,7 +244,7 @@ Future K-PAI forums might explore this edge AI dimension more deeply, potentiall
 Juntaek Oh, Compiler Engineer at HyperAccel, brought a complementary perspective grounded in stark market realities and entrepreneurial pragmatism. His presentation, "Bridging Performance and Affordability in AI Silicon," addressed the critical tension between cutting-edge computational capabilities and cost-effective implementations.
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/presentation/DSC02816-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/presentation/DSC02816-50-reduced.JPG">
 </div>
 
 ### The Trillion-Dollar Context
@@ -382,29 +385,29 @@ The convergence of AI optimization (learning optimal policies), physical constra
 ## The Networking Imperative
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/networking/DSC02940-50-reduced.JPG">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/networking/DSC02946-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/networking/DSC02940-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/networking/DSC02946-50-reduced.JPG">
 </div>
 
 The extended networking dinner and Q&A session (7pm - 8pm) provided what many attendees described as the forum's highest-value component. <font color="red">K-PAI members are encouraged to introduce themselves and their companies</font>, creating opportunities for meaningful business connections and potential collaborations in the rapidly evolving AI hardware space.
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/networking/DSC02565-50-reduced.JPG">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/networking/DSC02937-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/networking/DSC02565-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/networking/DSC02937-50-reduced.JPG">
 </div>
 
 Previous forums have seen transformative partnerships emerge during these dynamic discussions, where hardware engineers, AI researchers, chip designers, and entrepreneurs bridge technical challenges with innovative solutions in real-time conversations. The semiconductor focus attracted a particularly rich attendee mix—architects from leading chip companies, startup founders developing novel accelerators, investors evaluating AI hardware opportunities, and researchers exploring new computational paradigms.
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/networking/DSC02551-50-reduced.JPG">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/networking/DSC02552-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/networking/DSC02551-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/networking/DSC02552-50-reduced.JPG">
 </div>
 
 The conversations that continued well past the scheduled conclusion revealed genuine enthusiasm about both the specific technical insights shared and the broader implications for participants' work. Semiconductor engineers discovered how AI optimization techniques could improve their chip design workflows. AI researchers gained appreciation for the hardware constraints shaping what's architecturally possible. Entrepreneurs identified specific technical bottlenecks where novel solutions might create differentiated value.
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/food/DSC02783-50-reduced.JPG">
-<img src="https://sungheeyun-photos-01.github.io/k-pai/resource/seminars/13 - 12-Nov-2025/food/DSC02785-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/food/DSC02783-50-reduced.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/13 - 12-Nov-2025/food/DSC02785-50-reduced.JPG">
 </div>
 
 ## The Partnership Model in Action
