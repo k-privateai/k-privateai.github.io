@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Groups
 permalink: /groups/
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Wed Dec 24 07:29:38 PST 2025
+last_modified_at: Wed Dec 24 07:33:06 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -63,7 +63,7 @@ K-PAI + Institute for Information communication Technology Planning and Evaluati
 
 <div class="img-container-justified">
 <img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 06.JPG">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 07.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 07.JPG">
 </div>
 
 ### 14-Nov-2025 @ Berkeley
