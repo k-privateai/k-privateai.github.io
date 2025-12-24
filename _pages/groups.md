@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Groups
 permalink: /groups/
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Tue Dec 23 18:11:00 PST 2025
+last_modified_at: Tue Dec 23 18:30:17 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -16,7 +16,7 @@ toc_sticky: true
 
 ## Dec-2025
 
-### 05-Dec-2025
+### 05-Dec-2025 @ TTobongee, Santa Clara
 
 Flash meetup with
 [Jae Chul](https://www.linkedin.com/in/jae-chul-koh-4967a69b/){:target="_blank"},
@@ -31,7 +31,7 @@ and
 
 ## Nov-2025
 
-### 27-Nov-2025 KST
+### 27-Nov-2025 KST @ Sadang
 
 Early morning breakfast in Seoul;
 [June Hee](https://www.linkedin.com/in/jungheecheon/){:target="_blank"},
@@ -43,7 +43,7 @@ and
 <img src="/resource/groups/2025-11/2025-11-27 0824 KST - June Hee, CI, and Sunghee.JPG">
 </div>
 
-### 15-Nov-2025
+### 15-Nov-2025 @ Morgan Hill
 
 K-PAI + Institute for Information communication Technology Planning and Evaluation (정보통신기획평가원, IITP)
 
@@ -61,7 +61,7 @@ K-PAI + Institute for Information communication Technology Planning and Evaluati
 <img src="/resource/groups/2025-11/2025-11-15 PST - IITP - 05.jpg">
 </div>
 
-### 14-Nov-2025
+### 14-Nov-2025 @ Berkeley
 
 Lawyers, Judges, Engineers, Scientists, and Entrepreneurs!
 
@@ -69,7 +69,7 @@ Lawyers, Judges, Engineers, Scientists, and Entrepreneurs!
 <img src="/resource/groups/2025-11/2025-11-14 - Berkeley.jpg">
 </div>
 
-### 10-Nov-2025
+### 10-Nov-2025 @ Palo Alto
 
 K-PAI meets KABANC!
 We were
@@ -83,7 +83,7 @@ and
 <img src="/resource/groups/2025-11/2025-11-10 PST - KABANC.jpg">
 </div>
 
-### 04-Nov-2025
+### 04-Nov-2025 @ Mountain View
 
 The **<span style="color: red;">first</span>** K-PAI's (organically created) group meeting; Bio / Medical / Data Group!
 We were
