@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Wed Dec 24 02:31:18 PST 2025
+last_modified_at: Wed Dec 24 02:48:00 PST 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -87,8 +87,6 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 	Your browser does not support this longest audio element.
 </audio>
 
-
-
 # Where Speed Meets Sophistication
 
 [The 12th Silicon Valley Private AI Forum (K-PAI)](/event-announcements/12), held on October 8, 2025, at [KOTRA Silicon Valley's Alaska venue](https://maps.app.goo.gl/rodukzZGtDmz2XZM9), marked a unique moment in K-PAI's evolution—<font color="red">the first forum to occur in rapid succession following the previous month's historic event</font>. This compressed timeline, far from diminishing the forum's impact, actually amplified the community's energy and demonstrated K-PAI's capacity to deliver exceptional value at an accelerated pace. The evening brought together marketing professionals, AI researchers, and adtech entrepreneurs to explore how artificial intelligence is revolutionizing digital advertising through sophisticated video analysis, mathematical budget optimization, and intelligent programmatic systems.
@@ -96,7 +94,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 The forum's theme—"Ad Intelligence - AI Revolution in Digital Marketing"—proved remarkably timely as the digital advertising industry grapples with fundamental transformations driven by privacy regulations, cookie deprecation, and the explosive capabilities of modern AI systems. The combination of Dr. Sunghyuk Park's practical entrepreneurial insights from building ADOASIS and Diko Ko's comprehensive engineering perspective from extensive relevant industry experience created a compelling narrative arc from specific applications to systemic architecture.
 
 <div class="img-container">
-<img style="max-width: 100%;" src="/resource/seminars/12 - 08-Oct-2025/photos/Screenshot 2025-10-10 at 11.38.56 PM.png">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/photos/Screenshot 2025-10-10 at 11.38.56 PM-60-reduced.png">
 </div>
 
 # The <span style="color:red;">Double-Forum Dynamic</span> - Innovation at Velocity
@@ -107,8 +105,8 @@ Yet this "accidental" acceleration revealed <span style="color:red;">important i
 
 <div class="img-container-justified">
 &nbsp;
-<img style="max-width: 45%;" src="/resource/seminars/12 - 08-Oct-2025/images/u1564158738_The_forum_also_reinforced_K-PAIs_community-buildi_57e3ab6c-ed5a-4576-81a5-19be4095cfda_1.gif">
-<img style="max-width: 45%;" src="/resource/seminars/12 - 08-Oct-2025/images/u1564158738_The_forum_also_reinforced_K-PAIs_community-buildi_cfda564c-bc95-403c-a71b-69668021874d_3.gif">
+<img style="max-width: 45%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/images/u1564158738_The_forum_also_reinforced_K-PAIs_community-buildi_57e3ab6c-ed5a-4576-81a5-19be4095cfda_1.gif">
+<img style="max-width: 45%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/images/u1564158738_The_forum_also_reinforced_K-PAIs_community-buildi_cfda564c-bc95-403c-a71b-69668021874d_3.gif">
 &nbsp;
 </div>
 
@@ -171,7 +169,7 @@ Beyond video-level targeting, Park introduced ADOASIS's approach to **Marketing 
 Park's innovation involves applying **AI-powered optimization** that continuously learns from campaign performance data to recommend budget reallocations. The system addresses the fundamental question: "Given 100,000 videos across multiple platforms with different performance characteristics, and a fixed budget, how should we allocate spend to maximize conversions, minimize cost per acquisition, or achieve other campaign objectives?"
 
 <div id="example-contextual-targeting-by-adoasis" class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/1st presentation screen shots/Screenshot 2025-10-10 at 6.29.03 PM.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/1st presentation screen shots/Screenshot 2025-10-10 at 6.29.03 PM.png">
 </div>
 
 The presentation showed how ADOASIS's MMM achieved **25% average performance improvement** across diverse campaigns by dynamically shifting budget toward higher-performing channels and video categories. Critically, these optimizations occur **within existing campaign structures**—advertisers don't need to redesign creative, change targeting parameters, or modify landing pages. The AI simply directs budget more intelligently across available inventory.
@@ -223,7 +221,7 @@ Ko provided essential context about digital advertising's economic scale: **~$74
 This market segmentation matters because **each segment employs AI differently**. Search advertising (Google's original business model) pioneered using ML for keyword relevance and quality scoring. Retail media networks (Amazon, Walmart, Target) leverage first-party purchase data for highly accurate conversion prediction. Display and social advertising rely heavily on behavioral targeting through user modeling and lookalike audience expansion.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/images/u1564158738_The_Market_Landscape_Following_the_MoneyPermalink_f3c6e53a-bb8a-4689-81f1-06cf9f8e59bd_3.gif">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/images/u1564158738_The_Market_Landscape_Following_the_MoneyPermalink_f3c6e53a-bb8a-4689-81f1-06cf9f8e59bd_3.gif">
 </div>
 
 The sheer scale—nearly three-quarters of a trillion dollars annually—explains why incremental AI improvements translate to massive value. If ADOASIS's 25% performance improvement applied across even a fraction of this market, the economic impact would measure in tens of billions of dollars. These economics drive relentless investment in AI advertising research and platform development.
@@ -263,7 +261,7 @@ Ko's most valuable contribution was **systematically mapping AI applications acr
 **Latency Optimization** - Meeting <100ms total latency requirements across bid request distribution, bid collection, auction execution, and creative delivery demands sophisticated optimization.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/images/u1564158738_The_Market_Landscape_Following_the_MoneyPermalink_a0c021bf-b127-41c7-8cce-61af9ae88ea8_0.gif">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/images/u1564158738_The_Market_Landscape_Following_the_MoneyPermalink_a0c021bf-b127-41c7-8cce-61af9ae88ea8_0.gif">
 </div>
 
 ### DSPs - Maximizing ROI Through Intelligence
@@ -383,7 +381,7 @@ Traditional advertising metrics—impressions, clicks, click-through rates—inc
 Park's case studies demonstrated CPC reduction and conversion lift—outcome metrics that directly affect advertiser economics. Ko's discussion of CVR and ROI prediction in ranking models reflects the same evolution. The industry consensus: **optimizing for business outcomes rather than engagement metrics** represents AI advertising's future.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/images/u1564158738_The_Market_Landscape_Following_the_MoneyPermalink_ef541fa4-b0e7-4691-becb-0e13bb0a31b2_0.gif">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/images/u1564158738_The_Market_Landscape_Following_the_MoneyPermalink_ef541fa4-b0e7-4691-becb-0e13bb0a31b2_0.gif">
 </div>
 
 This has profound implications for creative strategy. If systems optimize for conversions, creatives that generate clicks but not conversions get deprioritized. Clickbait tactics that worked when CTR was the primary metric become counterproductive. Advertisers must align creative messaging with actual conversion pathways rather than attention-grabbing but misleading hooks.
@@ -496,7 +494,7 @@ The AI hardware ecosystem's critical components include:
 **Custom AI Accelerators** - Domain-specific architectures designed by Microsoft, OpenAI, Google, Amazon, Apple, and Meta to optimize for their particular AI applications and escape dependence on commodity GPU markets.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/images/u1564158738_The_Geopolitical_Semiconductor_LandscapePermalink_70c4c47f-335e-4839-9505-18d2cc5e479d_1.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/images/u1564158738_The_Geopolitical_Semiconductor_LandscapePermalink_70c4c47f-335e-4839-9505-18d2cc5e479d_1.png">
 </div>
 
 A crucial observation - most of these companies function as **fabless design houses**, creating chip architectures but outsourcing actual fabrication to specialized foundries like [TSMC](https://www.tsmc.com/). This separation between design and manufacturing creates complex dependencies and strategic vulnerabilities that became painfully apparent during recent supply chain disruptions.
@@ -508,7 +506,7 @@ The semiconductor industry exists inseparably from geopolitical competition, par
 <span style="color:red;">Korea occupies a unique strategic position in this landscape</span>: Samsung and SK hynix lead in memory technologies essential for AI, while TSMC's Taiwan location creates dependencies that both the US and China seek to mitigate through domestic manufacturing investments. The semiconductor supply chain's fragmentation across Korea, Taiwan, the United States, Japan, and the Netherlands creates both resilience through diversification and vulnerability through coordination requirements.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/images/u1564158738_The_Geopolitical_Semiconductor_LandscapePermalink_70c4c47f-335e-4839-9505-18d2cc5e479d_2.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/images/u1564158738_The_Geopolitical_Semiconductor_LandscapePermalink_70c4c47f-335e-4839-9505-18d2cc5e479d_2.png">
 </div>
 
 Understanding AI's sustainable development therefore requires deep comprehension of semiconductor ecosystems, manufacturing capabilities, supply chain dynamics, and geopolitical constraints. Software innovations mean little if constrained by silicon shortages or access restrictions.
