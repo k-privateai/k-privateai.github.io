@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Sun Oct 12 23:25:46 PDT 2025
+last_modified_at: Wed Dec 24 02:31:18 PST 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -121,7 +121,7 @@ Perhaps most remarkably, the compressed timeline not only maintained but actuall
 **<font color="#ee0000">The Perpetual Partnership as a form of Strategic Alliances between <a href="/">K-PAI</a> and <a href="https://www.connectkotrasv.org/">KOTRA Silicon Valley</a></font>**, announced at September's Forum, demonstrated its tangible value through this event's exceptional execution. The **<font color="#ee0000">premium luxury dinner experience</font>** that opened the evening—featuring carefully curated cuisine and world-class hospitality—established a welcoming atmosphere that facilitated the meaningful professional connections K-PAI forums have become known for generating.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/photos/Screenshot 2025-10-11 at 12.01.31 AM.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/photos/Screenshot 2025-10-11 at 12.01.31 AM-60-reduced.png">
 </div>
 
 The partnership's value extends beyond hospitality. <strong><span style="color:#ee0000;">KOTRA SV's commitment to providing premium venue access</span></strong> solved one of the most persistent challenges facing community organizations in Silicon Valley—securing professional spaces that match the caliber of the content and speakers. The Alaska venue's elegant setting and technical capabilities enabled seamless presentation delivery while reinforcing K-PAI's positioning as a premier forum for serious AI discourse.
@@ -133,7 +133,7 @@ Most significantly, the partnership enables <strong><span style="color:#ee0000">
 Dr. Sunghyuk Park's presentation on "The Future of Advertising Revolutionized by AI" provided a masterclass in how academic research translates into commercial impact. As CEO of Impact AI and Assistant Professor at KAIST, Park bridges the worlds of rigorous scholarship and entrepreneurial execution—a combination that produced genuinely novel insights into AI-driven advertising optimization.
 
 <div class="img-container">
-<img style="max-width: 100%;" src="/resource/seminars/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-23-02-52 005.jpeg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-23-02-52 005-60-reduced.jpeg">
 </div>
 
 ## The ADOASIS Platform - Intelligence at the Video Level
@@ -143,7 +143,7 @@ Park's central contribution lies in recognizing that **video content itself repr
 The ADOASIS platform addresses this gap through AI-powered video analysis that enables both **"on-targeting"** (identifying the best 10% of videos aligned with brand values and campaign objectives) and **"de-targeting"** (blocking the worst 20% of inappropriate videos). This dual approach—simultaneously pursuing positive alignment and avoiding negative associations—represents a more sophisticated framework than traditional binary inclusion/exclusion targeting.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-23-02-47 002.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-23-02-47 002-60-reduced.jpeg">
 </div>
 
 Park's technical explanation revealed that ADOASIS analyzes video content across multiple dimensions:
@@ -191,7 +191,7 @@ This creative-level optimization addresses one of advertising's persistent chall
 If Park's presentation zoomed into specific AI applications revolutionizing advertising practice, Diko Ko's talk provided the essential wide-angle perspective—mapping the entire digital advertising ecosystem and identifying where AI/ML creates value across each component. As Director of Engineering at Toss USA, Ko brings deep technical expertise in building scalable advertising platforms, and his presentation revealed both the complexity and the elegant systematization that modern programmatic advertising has achieved.
 
 <div id="example-contextual-targeting-by-adoasis" class="img-container">
-<img style="max-width: 100%;" src="/resource/seminars/12 - 08-Oct-2025/photos/Screenshot 2025-10-12 at 6.00.12 PM.png">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/photos/Screenshot 2025-10-12 at 6.00.12 PM-60-reduced.png">
 </div>
 
 ## The Historical Evolution - From Manual to Intelligent
@@ -209,7 +209,7 @@ Ko's historical framing proved invaluable for understanding why AI has become es
 Ko's key insight: <span style="color: red;">Each evolutionary phase increased complexity while demanding faster decision-making, creating inexorable pressure toward AI/ML automation</span>. When auctions occur in <100 milliseconds and involve thousands of potential bidders evaluating millions of impressions, human decision-making becomes impossible. AI isn't optional; it's the only viable operating model.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-22-58-28 005.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-22-58-28 005-60-reduced.jpeg">
 </div>
 
 ## The Market Landscape - Following the Money
@@ -582,13 +582,13 @@ Ko's comprehensive architectural mapping revealed how intelligence distributes t
 The convergence between these perspectives—specific applications and systemic architecture, entrepreneurial execution and engineering discipline, optimization techniques and operational constraints—created a rich tapestry of insights that attendees can apply across their diverse roles in marketing, technology, and business strategy.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-22-58-50 010.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-22-58-50 010-60-reduced.jpeg">
 </div>
 
 <span style="color: red;">The forum also reinforced K-PAI's community-building ethos through the member introduction session</span>, where K-PAI members had the opportunity to introduce themselves and their work to the full assembly. This practice—now becoming a cherished tradition at K-PAI forums—transforms attendees from passive audience members into active community participants. Hearing fellow members describe their companies, research, and professional interests created immediate connection points for subsequent networking conversations. The introductions revealed the remarkable diversity within K-PAI's community - CEOs of AI startups, university professors, corporate engineers, financial advisors, and technology entrepreneurs spanning domains from parking AI to medical documentation to global talent acquisition. <font color="red">This visible demonstration of community breadth reinforces that K-PAI has evolved beyond a lecture series into a genuine professional network</font> where members actively engage with and learn from one another.
 
 <div class="img-container">
-<img src="/resource/seminars/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-22-58-56 011.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/12 - 08-Oct-2025/photos/KakaoTalk_Photo_2025-10-10-22-58-56 011-60-reduced.jpeg">
 </div>
 
 Most fundamentally, the forum reinforced that **AI advertising isn't about replacing human judgment but augmenting it**—enabling marketers to make better decisions by providing data-driven insights, automating repetitive optimization tasks, and revealing patterns invisible to human analysis alone. The most successful advertising organizations will combine AI's computational advantages with human creativity, strategic thinking, and domain expertise rather than viewing these capabilities as mutually exclusive alternatives.
