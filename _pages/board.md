@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Thu Nov 13 15:14:32 PST 2025
+last_modified_at: Tue Dec 23 18:14:27 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -13,34 +13,6 @@ toc_sticky: true
 # Conversations on [K-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
 ## Selected Posts
-
-### James Rhee speaking at Stanford - invitation from Misook
-
-> [정미숙](https://www.linkedin.com/in/misook-chung/){:target="_blank"} @ Thu Nov 13 13:57 PST 2025
->
-> Hi Everyone!  James Rhee will be at Stanford University this coming Wednesday, 11/19th.  If you are interested in attending, here is the info!
->
-> [https://events.stanford.edu/event/conversation-with-james-rhee-founder-author-red-helicopter-johnson-chair-of-entrepreneurship-and-professor-of-entrepreneurship-at-howard-university](https://events.stanford.edu/event/conversation-with-james-rhee-founder-author-red-helicopter-johnson-chair-of-entrepreneurship-and-professor-of-entrepreneurship-at-howard-university){:target="_blank"}
->
-> Btw, if you want to attend, please connect with me separately.  There may be limited space.
-{: .notice--warning}
-
-### Sunghee seeks for Sponsors for AI-BioX ConfEX Grand Summit 2025 @ COEX
-
-<div class="img-container">
-<img style="max-width: 100%;" src="/resource/board/Screenshot 2025-11-02 at 10.09.59 AM.png">
-</div>
-
-> [Sunghee](https://sungheeyun.github.io) @ Sun Nov  2 10:00 PST 2025
->
-> [https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/](https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/)
->
-> K-PAI 정회원 여러분! COEX 행사 관련 공지 하나 합니다! 저희 K-PAI 발표 session으로 계획되었던 부분은 K-PAI가 아니라 "Silicon Valley Chapter"정도의 주제가 될 듯 하고 저는 K-PAI Leader로서가 아니라 Silicon Valley AI Landscape를 간략하게 발표를 하고 K-PAI를 살짝 소개하는 정도가 될 듯 합니다. - 이런 행사의 nature상 어차피 계속 이렇게 바뀔 거라는 건 알고 있었습니다! ㅎㅎ 그래서 초반에 뭘 정하는 건 거의 의미가 없어요~ ㅎ
->
-> 다름이 아니라 저 외에 발표하실 분을 모으는 데 지금의 기준은 "후원사" 입니다! 즉, COEX 행사에 후원을 해 주시면 제가 크게 광고를 해 드릴 거고, 발표할 기획도 드리려고요! 관심 있으신 정회원 분들 있으시면 제게 따로 연락주세요!! 또한 주위에 12/11~12/13에 마침 한국에 계실 분 중에 본 행사에 관심이 있으신 분이 있으면 0.0001초의 망설임도 없이! ㅎㅎㅎ 저랑 (카톡으로) 이어주세요! :)
->
-> 감사합니다! :)
-{: .notice--warning}
 
 ### Gordon's seeking talents!
 
@@ -70,6 +42,17 @@ toc_sticky: true
 {: .notice--warning}
 
 ## Nov-2025
+
+### James Rhee speaking at Stanford - invitation from Misook
+
+> [정미숙](https://www.linkedin.com/in/misook-chung/){:target="_blank"} @ Thu Nov 13 13:57 PST 2025
+>
+> Hi Everyone!  James Rhee will be at Stanford University this coming Wednesday, 11/19th.  If you are interested in attending, here is the info!
+>
+> [https://events.stanford.edu/event/conversation-with-james-rhee-founder-author-red-helicopter-johnson-chair-of-entrepreneurship-and-professor-of-entrepreneurship-at-howard-university](https://events.stanford.edu/event/conversation-with-james-rhee-founder-author-red-helicopter-johnson-chair-of-entrepreneurship-and-professor-of-entrepreneurship-at-howard-university){:target="_blank"}
+>
+> Btw, if you want to attend, please connect with me separately.  There may be limited space.
+{: .notice--info}
 
 ### Jay organizes K-PAI Networking Dinner with IITP
 
@@ -161,6 +144,23 @@ toc_sticky: true
 > [Sunghee](https://sungheeyun.github.io) @ Mon Nov  3 16:33 PST 2025
 >
 > I'M LOOKING FOR a volunteer who can provide her/his talent / technical savvy as to do korean -> english translation subtitle functionality. what i mean is .. i watn this! when Korean speakers, that is, those who speak Korean for their presentations, speak, I want "English subtitle" being generated automatically! :) Could ANYONE help me do this for 12-Nov-2025 Forum? :)
+{: .notice--info}
+
+### Sunghee seeks for Sponsors for AI-BioX ConfEX Grand Summit 2025 @ COEX
+
+<div class="img-container">
+<img style="max-width: 100%;" src="/resource/board/Screenshot 2025-11-02 at 10.09.59 AM.png">
+</div>
+
+> [Sunghee](https://sungheeyun.github.io) @ Sun Nov  2 10:00 PST 2025
+>
+> [https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/](https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/)
+>
+> K-PAI 정회원 여러분! COEX 행사 관련 공지 하나 합니다! 저희 K-PAI 발표 session으로 계획되었던 부분은 K-PAI가 아니라 "Silicon Valley Chapter"정도의 주제가 될 듯 하고 저는 K-PAI Leader로서가 아니라 Silicon Valley AI Landscape를 간략하게 발표를 하고 K-PAI를 살짝 소개하는 정도가 될 듯 합니다. - 이런 행사의 nature상 어차피 계속 이렇게 바뀔 거라는 건 알고 있었습니다! ㅎㅎ 그래서 초반에 뭘 정하는 건 거의 의미가 없어요~ ㅎ
+>
+> 다름이 아니라 저 외에 발표하실 분을 모으는 데 지금의 기준은 "후원사" 입니다! 즉, COEX 행사에 후원을 해 주시면 제가 크게 광고를 해 드릴 거고, 발표할 기획도 드리려고요! 관심 있으신 정회원 분들 있으시면 제게 따로 연락주세요!! 또한 주위에 12/11~12/13에 마침 한국에 계실 분 중에 본 행사에 관심이 있으신 분이 있으면 0.0001초의 망설임도 없이! ㅎㅎㅎ 저랑 (카톡으로) 이어주세요! :)
+>
+> 감사합니다! :)
 {: .notice--info}
 
 ## Oct-2025
