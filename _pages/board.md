@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Fri Dec 26 02:45:18 PST 2025
+last_modified_at: Fri Dec 26 05:46:25 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -13,6 +13,172 @@ toc_sticky: true
 # Conversations on [K-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
 ## Selected Posts
+
+### Sunghee announces SNU Engineering Faculty Networking Dinner
+
+> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 04:00 PST 2025
+>
+> 👨‍🏫 서울대 공대 교수 채용 관심자 간담회
+>
+> 서울대학교 공과대학 김영오 학장님께서 실리콘밸리 방문 중 서울대 교수직에 관심 있으신 분들을 위한 간담회를 개최합니다.
+>
+> 일시: 2026년 1월 8일 (목) 저녁
+>
+> 대상: 서울대 공대 교수 자리에 관심 있으신 분들
+>
+> - Big Tech에서 근무하시다가 교수직 전환을 고려하시는 분
+> - Fresh PhD 혹은 PostDoc으로 학계 진출을 희망하시는 분
+> - 5-10년 회사 경력을 쌓으신 후 academia로의 커리어 전환을 생각하시는 분
+> - 그 외 서울대 공대 교수직에 관심이 있으신 분
+>
+> 본인에 해당하시거나 주위에 이런 분들이 계시면 추천도 부탁드립니다!
+>
+> 학장님께서 직접 서울대 교수 채용 절차, 연구 환경, 지원 사항 등에 대해 구체적으로 말씀해 주실 예정입니다.
+>
+> 참석을 원하시거나 추천하실 분이 계시면 댓글이나 개인 메시지 부탁드립니다.
+>
+> —
+>
+> 👨‍🏫 SNU Engineering Faculty Position - Networking Dinner
+>
+> Professor Young-Oh Kim, Dean of Seoul National University College of Engineering, is hosting a dinner meeting for those interested in faculty positions at SNU Engineering during his visit to Silicon Valley.
+>
+> Date: January 8, 2026 (Thursday) Evening
+>
+> Target Audience: Those interested in faculty positions at SNU School of Engineering
+>
+> We are looking for:
+>
+> - Professionals from Big Tech considering transition to academia
+> - Fresh PhDs or Postdocs seeking academic careers
+> - Those with 5-10 years of industry experience considering a career shift to academia
+> - Anyone else interested in faculty positions at SNU College of Engineering
+>
+> If this applies to you or if you know someone who might be interested, please feel free to refer them!
+>
+> Dean Kim will discuss SNU faculty recruitment process, research environment, support systems, and more in detail.
+>
+> If you're interested in attending or would like to refer someone, please leave a comment or send a personal message.
+{: .notice--warning}
+
+### Sunghee organizes KAIST Roundtable with Silicon Valley Professionals
+
+> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 03:12 PST 2025
+>
+> 🤝 KAIST 간담회 참석자 모집
+>
+> KAIST 임채권 교수님(과기부 서기관 출신, 현 KAIST 전기및전자공학부 초빙교수)께서 실리콘밸리 한인 과학기술인 간담회를 요청하셨습니다.
+>
+> 일시: 2026년 1월 22일 (목요일)
+>
+> 참석 인원: 5~6명 (산업계 한인 과학기술인)
+>
+> 형식: 저녁 만찬
+>
+> 간담회 목적: 이번 간담회는 과기정통부의 "성과 도출형 해외우수인재유치사업" 기획의 일환으로 진행됩니다.
+>
+> - 실리콘밸리 현장에서 활동하시는 한인 과학기술인 분들의 생생한 목소리 청취
+> - AI를 비롯한 첨단 기술 분야의 최신 동향과 산업 흐름 파악
+> - 실리콘밸리에서 일하시면서 겪으시는 어려움이나 한국과의 협력에서 개선이 필요한 부분 공유
+> - KAIST와 실리콘밸리 간 실질적인 협업 가능성 모색
+> - 양방향 교류를 통한 한국 과학기술 생태계와 글로벌 혁신 중심의 긴밀한 연결 방안 논의
+>
+> 참석을 원하시는 분들은 댓글이나 개인 메시지 주시기 바랍니다.
+>
+> —
+>
+> 🤝 KAIST Roundtable - Participant Recruitment
+>
+> Professor Chaegwon Lim from KAIST (former Ministry of Science and ICT official, current visiting professor at KAIST School of Electrical Engineering) has requested a roundtable discussion with Korean scientists and engineers in Silicon Valley.
+>
+> Date: January 22, 2026 (Thursday)
+>
+> Participants: 5-6 people (Korean scientists/engineers in industry)
+>
+> Format: Dinner meeting
+>
+> Meeting Objectives: This roundtable is part of the Ministry of Science and ICT's "Performance-Driven Overseas Talent Attraction Program."
+>
+> - Listen to authentic voices from Korean scientists and engineers actively working in Silicon Valley
+> - Understand the latest trends and industry dynamics in AI and cutting-edge technologies
+> - Share challenges faced while working in Silicon Valley and areas where Korea-US collaboration could be improved
+> - Explore concrete collaboration opportunities between KAIST and Silicon Valley
+> - Discuss ways to more closely connect Korea's science and technology ecosystem with global innovation hubs through meaningful bilateral exchange
+>
+> If you would like to participate, please leave a comment or send a personal message.
+{: .notice--warning}
+
+### Sunghee introduces and invites members to Solar Society of Pohang (SSP) Interdisciplinary Intellectual Forum
+
+> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 04:10 PST 2025
+>
+> 🌅 Solar Society of Pohang 소개 & 참여 안내
+>
+> 안녕하세요!
+>
+> 제가 운영하고 있는 **Solar Society of Pohang (SSP)**를 소개하고 싶습니다.
+>
+> [https://solar-society.github.io/](https://solar-society.github.io/){:target="_blank"}
+>
+> Solar Society란?
+>
+> Solar Society는 18세기 영국의 Lunar Society of Birmingham에서 영감을 받아 만든 학제간 지적 교류의 장입니다. 과학자, 엔지니어, 예술가, 기업가, 법률가, 철학자 등 다양한 분야의 호기심 많은 사람들이 모여 새로운 아이디어를 발화시키고, 협업을 촉진하며, 우리 사회가 직면한 복잡한 문제들을 함께 고민합니다.
+>
+> 특히 인공지능의 변혁적 잠재력과 그것이 산업, 경제, 예술, 윤리 등 인간 삶의 다양한 측면에 미치는 영향에 관심을 두고 있습니다.
+>
+> 왜 Pohang인가요?
+>
+> 울산, 포항, 경주는 한국 동해안에 위치한 도시들로 "해 뜨는 동맹(Sun Rising Alliance)"을 맺고 있습니다. 우리나라에서 해가 가장 먼저 뜨는 이 지역의 상징성에서 Solar Society라는 이름을 가져왔습니다!
+>
+> 우리의 활동:
+>
+> 2025년 3월 3일 첫 번째 onsite meeting을 가졌으며, 반년에 한 번씩 정기 모임을 갖고 (싶어 하고) 있습니다. 흥미로운 발표, 활발한 토론, 인터랙티브 워크샵을 통해 지식을 공유하고 서로에게서 배우며 더 나은 미래에 기여하고자 합니다.
+>
+> 누가 참여하고 있나요?
+>
+> 현재 10-15명의 핵심 멤버들이 활동 중이며, 그야말로 다양한 배경을 가진 분들이 모여 있습니다! 멤버 구성을 보시면 - [https://solar-society.github.io/members/](https://solar-society.github.io/members/){:target="_blank"} - AI, 물리학, 음악, 공학, 경제학, 금융, 법학, 예술, 철학, 문학, 역사, 윤리, 사회과학 등 정말 다채롭습니다.
+>
+> 중요한 점!
+>
+> AI 전문가일 필요가 절대! 없습니다. 오히려 다양한 관점과 전문성이 만날 때 가장 흥미로운 대화와 통찰이 생깁니다. 지적 호기심과 열린 마음만 있으시면 충분합니다!
+>
+> 참여를 원하시나요?
+>
+> Solar Society 멤버로 참여하고 싶으시거나, 더 자세한 정보가 궁금하신 분들은 언제든지 개인적으로 연락 주세요! ㅎㅎㅎ
+>
+> 🌅 Solar Society of Pohang - Introduction & Invitation
+>
+> Hello!
+>
+> I'd like to introduce Solar Society of Pohang (SSP), which I'm running.
+>
+> [https://solar-society.github.io/](https://solar-society.github.io/){:target="_blank"}
+>
+> What is Solar Society?
+>
+> Solar Society is an interdisciplinary intellectual forum inspired by the 18th century Lunar Society of Birmingham. We bring together curious minds from diverse fields—scientists, engineers, artists, entrepreneurs, lawyers, philosophers, and more—to spark new ideas, foster collaboration, and address the complex challenges facing our world today.
+> We're particularly interested in exploring the transformative potential of artificial intelligence and its impact on various aspects of human life, from industry and economy to art and ethics.
+>
+> Why Pohang?
+>
+> Ulsan, Pohang, and Gyeongju are coastal cities along Korea's eastern seaboard that have formed the "Sun Rising Alliance." We took our name from the symbolic significance of this region where the sun rises first in Korea!
+>
+> Our Activities:
+>
+> We held our first onsite meeting on March 3, 2025, and we (hope to) gather bi-annually. Through engaging presentations, lively discussions, and interactive workshops, we share knowledge, learn from one another, and contribute to a brighter future.
+>
+> Who's Involved?
+>
+> We currently have 10-15 core members with truly diverse backgrounds! You can see our member composition at [https://solar-society.github.io/members/](https://solar-society.github.io/members/){:target="_blank"} - including AI, physics, music, engineering, economics, finance, law, arts, philosophy, literature, history, ethics, and social sciences.
+>
+> Important Note!
+>
+> You absolutely don't need to be an AI expert! In fact, the most fascinating conversations and insights emerge when diverse perspectives and expertise meet. All you need is intellectual curiosity and an open mind!
+>
+> Interested in Joining?
+>
+> If you'd like to participate as a Solar Society member or want more information, please feel free to reach out to me personally anytime! ㅎㅎㅎ
+{: .notice--warning}
 
 ### Gordon's seeking talents!
 
