@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Tue Dec 23 18:14:27 PST 2025
+last_modified_at: Fri Dec 26 02:45:18 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -40,6 +40,95 @@ toc_sticky: true
 >
 > 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
 {: .notice--warning}
+
+## Dec-2025
+
+### Sunghee highlights Board Page Message Archive
+
+> [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 21:00 PST 2025
+>
+> 📌 Board 페이지 - 중요 메시지 아카이브
+>
+> 그리고 언제나처럼! 이 단톡방에 올라온 여러분들의 공지글 중 (혹은 개인 메시지 중 ㅎㅎ) 중요한 내용들은 영원히 박제剝製하기 위해 여기에 따로 정리해 놓고 있습니다!
+>
+> 🔗 Board 페이지: [https://k-privateai.github.io/board/](https://k-privateai.github.io/board/)
+>
+> 분 단위(초 단위까지는 아니더라도 ㅎㅎ) timestamp까지 남겨서 현장감을 제대로 살리고 있습니다! :)
+>
+> 📌 Board Page - Important Messages Archive
+>
+> And as always! Important announcements from this group chat (or even personal messages ㅎㅎ) are being preserved forever on our Board page!
+>
+> 🔗 Board page: [https://k-privateai.github.io/board/](https://k-privateai.github.io/board/)
+>
+> I'm documenting them with timestamps down to the minute (if not the second ㅎㅎ) to capture that real-time feel! :)
+{: .notice--info}
+
+### Sunghee updates Groups Page with More Photos
+
+> [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 20:53 PST 2025
+>
+> 📷 Groups 페이지 업데이트
+>
+> 그리고 우리 Groups 페이지에 더 많은 사진들을 올려 놨습니다!
+>
+> 🔗 Groups 페이지: [https://k-privateai.github.io/groups/](https://k-privateai.github.io/groups/)
+>
+> 사실 여기에 글을 좀 더 붙이고 싶은데… 시간이 여의치 않네요 ㅎㅎ 혹시 각 사진이나 모임에 대한 설명을 적어서 보내 주시면 제가 이 페이지에 올리겠습니다! 자유형태로 편하게 써 주세요!! :)
+>
+> 📷 Groups Page Updated
+>
+> I've also uploaded more photos to our Groups page!
+>
+> 🔗 Groups page: [https://k-privateai.github.io/groups/](https://k-privateai.github.io/groups/)
+>
+> I'd love to add more descriptions and context, but haven't had the time yet! ㅎㅎ If anyone would like to write descriptions for the photos or gatherings and send them my way, I'll happily add them to the page! Feel free to write in any style you like—completely free-form!! :)
+{: .notice--info}
+
+### Sunghee shares K-PAI × K•ASIC Forum Photos & Videos
+
+> [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 20:48 PST 2025
+>
+> 📸 행사 사진 및 영상 공유
+>
+> 그리고 이메일과 블로그에 나와있는 대로, 행사 당일 촬영된 고퀄리티 사진들과 영상들을 Google Drive에서 보실 수 있습니다!
+>
+> 🔗 사진/영상 보기: [https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG](https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG){:target="_blank"}
+>
+> 행사 현장의 생생한 순간들을 다시 만나보세요! :)
+>
+> 📸 Event Photos & Videos
+>
+> As mentioned in the email and blog post, you can view high-quality photos and videos from the event on our Google Drive!
+>
+> 🔗 View photos/videos: [https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG](https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG){:target="_blank"}
+>
+> Relive the memorable moments from the forum! :)
+{: .notice--info}
+
+### Sunghee shares K-PAI × K•ASIC Forum Reflection
+
+> [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 20:30 PST 2025
+> 📧 행사 후기 발송 안내
+>
+> (이미 모두들 받으셨겠지만) 지난 11월 K-PAI x K•ASIC 공동 포럼 후기가 오늘 아침 이메일로 발송되었습니다!
+>
+> 이메일 버전은 바쁘신 분들을 위한 compact한 요약본이고, 원문은 훨씬~! 더 깁니다 ㅎㅎ :)
+>
+> 🔗 전체 원문 보기: [https://k-privateai.github.io/seminar-reflections/13](https://k-privateai.github.io/seminar-reflections/13)
+>
+> 기술적 이해도를 더 높이고 싶으신 분들, 또는 행사의 의미와 맥락을 깊이 있게 살펴보고 싶으신 분들은 위 링크의 원문을 참고해 주시면 좋겠습니다!
+>
+> 📧 Event Reflection Announcement
+>
+> As (hopefully) all of you have received by now, the reflection on our November K-PAI x K•ASIC joint forum was sent out this morning via email!
+>
+> The email version is a compact summary for those with busy schedules, while the full article is much more comprehensive. :)
+>
+> 🔗 Read the full reflection: [https://k-privateai.github.io/seminar-reflections/13](https://k-privateai.github.io/seminar-reflections/13)
+>
+> For those who want to deepen your technical understanding or explore the broader context and significance of the event, I highly recommend checking out the complete article!
+{: .notice--info}
 
 ## Nov-2025
 
