@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Fri Dec 26 04:47:19 PST 2025
+last_modified_at: Fri Dec 26 05:05:47 PST 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -37,55 +37,151 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 
 > <span class="emph">The 12th K-PAI Forum demonstrated how Artificial Intelligence is fundamentally transforming digital marketing from intuitive guesswork into precision science—while simultaneously showcasing the tangible benefits of the historic KOTRA Silicon Valley partnership through exceptional hospitality and world-class content delivery.</span>
 
+<!--
 # AI generates Podcasts
+-->
 
+<!--
 ## Videos
+-->
 
-<div id="podcast-video-01" style="text-align: center; margin-bottom: 1em;">
-<!--video width="320" height="240" controls-->
+<!--div id="podcast-video-01" style="text-align: center; margin-bottom: 1em;">
 <video width="100%" controls>
     <source src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Revolution_in_Marketing.mp4" type="video/mp4">
 </video>
-</div>
+</div-->
 
-<div id="podcast-video-02" style="text-align: center; margin-bottom: 1em;">
-<!--video width="320" height="240" controls-->
+<!--div id="podcast-video-02" style="text-align: center; margin-bottom: 1em;">
 <video width="100%" controls>
     <source src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740B_Ad_Revolution.mp4" type="video/mp4">
 </video>
+</div-->
+
+<div class="img-container-justified">
+	<div id="podcast-video-01" style="width:49%; text-align: center; margin-bottom: 1em;">
+	<!--video width="320" height="240" controls-->
+	<video width="100%" controls>
+		<source src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Revolution_in_Marketing.mp4" type="video/mp4">
+	</video>
+	</div>
+	<div id="podcast-video-02" style="width:49%; text-align: center; margin-bottom: 1em;">
+	<!--video width="320" height="240" controls-->
+	<video width="100%" controls>
+		<source src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740B_Ad_Revolution.mp4" type="video/mp4">
+	</video>
+	</div>
 </div>
 
+<!--
 ## Audios
+-->
 
-<audio id="podcast-audio-01" controls>
+<!--audio id="podcast-audio-01" controls>
 	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/65__CPC_Drop_and_the_100-Millisecond_Wall__How_AI_is_Re-Enginee.m4a">
 	Your browser does not support this longest audio element.
-</audio>
+</audio-->
 
-<audio id="podcast-audio-02" controls>
+<!--audio id="podcast-audio-02" controls>
 	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Ad_Intelligence_Unleashed__How_AI_Is_Turning_Digital_Marketing_.m4a">
 	Your browser does not support this longest audio element.
-</audio>
+</audio-->
 
-<audio id="podcast-audio-03" controls>
+<!--audio id="podcast-audio-03" controls>
 	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Advertising_Revolution__Decoding_the_Programmatic_Blueprint_.m4a">
 	Your browser does not support this longest audio element.
-</audio>
+</audio-->
 
-<audio id="podcast-audio-04" controls>
+<!--audio id="podcast-audio-04" controls>
 	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740_Billion_Pivot__Why_Optimizing_Video_Content,_Not_Just.m4a">
 	Your browser does not support this longest audio element.
-</audio>
+</audio-->
 
-<audio id="podcast-audio-05" controls>
+<!--audio id="podcast-audio-05" controls>
 	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_vs.m4a">
 	Your browser does not support this longest audio element.
-</audio>
+</audio-->
 
-<audio id="podcast-audio-06" controls>
+<!--audio id="podcast-audio-06" controls>
 	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Decoding_the_Ad_Intelligence_Revolution__How_AI_Slashes_Costs_b.m4a">
 	Your browser does not support this longest audio element.
-</audio>
+</audio-->
+
+<div class="img-container-justified">
+	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>CPC Drop and the 100-Millisecond Wall - How AI is Re-Engineering Advertising</strong>
+			<span style="opacity: 0.8;">(12:08)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-01" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/65__CPC_Drop_and_the_100-Millisecond_Wall__How_AI_is_Re-Enginee.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Ad Intelligence Unleashed - How AI Is Turning Digital Marketing Into a Precision Science</strong>
+			<span style="opacity: 0.8;">(16:28)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-02" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Ad_Intelligence_Unleashed__How_AI_Is_Turning_Digital_Marketing_.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>AI Advertising Revolution - Decoding the Programmatic Blueprint</strong>
+			<span style="opacity: 0.8;">(14:22)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-03" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Advertising_Revolution__Decoding_the_Programmatic_Blueprint_.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+</div>
+
+<div class="img-container-justified">
+	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>AI's $740 Billion Pivot - Optimizing Video Content, Not Just Users</strong>
+			<span style="opacity: 0.8;">(15:00)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-04" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740_Billion_Pivot__Why_Optimizing_Video_Content,_Not_Just.m4a">
+			</audio>
+		</div>
+	</div>
+	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>AI vs. Traditional Marketing - The Intelligent Decision-Making Revolution</strong>
+			<span style="opacity: 0.8;">(11:25)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-05" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_vs.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Decoding the Ad Intelligence Revolution - How AI Slashes Costs by 65%</strong>
+			<span style="opacity: 0.8;">(11:38)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-06" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-pai/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Decoding_the_Ad_Intelligence_Revolution__How_AI_Slashes_Costs_b.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+</div>
 
 # Where Speed Meets Sophistication
 
