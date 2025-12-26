@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Fri Dec 26 05:05:47 PST 2025
+last_modified_at: Fri Dec 26 05:19:11 PST 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -107,7 +107,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 </audio-->
 
 <div class="img-container-justified">
-	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
 		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
 			<strong>CPC Drop and the 100-Millisecond Wall - How AI is Re-Engineering Advertising</strong>
 			<span style="opacity: 0.8;">(12:08)</span>
@@ -119,7 +119,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 			</audio>
 		</div>
 	</div>
-	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
 		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
 			<strong>Ad Intelligence Unleashed - How AI Is Turning Digital Marketing Into a Precision Science</strong>
 			<span style="opacity: 0.8;">(16:28)</span>
@@ -131,7 +131,10 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 			</audio>
 		</div>
 	</div>
-	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+</div>
+
+<div class="img-container-justified">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
 		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
 			<strong>AI Advertising Revolution - Decoding the Programmatic Blueprint</strong>
 			<span style="opacity: 0.8;">(14:22)</span>
@@ -143,10 +146,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 			</audio>
 		</div>
 	</div>
-</div>
-
-<div class="img-container-justified">
-	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
 		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
 			<strong>AI's $740 Billion Pivot - Optimizing Video Content, Not Just Users</strong>
 			<span style="opacity: 0.8;">(15:00)</span>
@@ -157,7 +157,10 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 			</audio>
 		</div>
 	</div>
-	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+</div>
+
+<div class="img-container-justified">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
 		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
 			<strong>AI vs. Traditional Marketing - The Intelligent Decision-Making Revolution</strong>
 			<span style="opacity: 0.8;">(11:25)</span>
@@ -169,7 +172,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 			</audio>
 		</div>
 	</div>
-	<div style="width: 32%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+	<div style="width: 49%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
 		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
 			<strong>Decoding the Ad Intelligence Revolution - How AI Slashes Costs by 65%</strong>
 			<span style="opacity: 0.8;">(11:38)</span>
