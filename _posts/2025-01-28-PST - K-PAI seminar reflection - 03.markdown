@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley Private AI Forum Hits New Heights - 100 Leaders Gather for AI's Holistic Discussion"
 date: Tue Jan 28 17:28:49 PST 2025
-last_modified_at: Fri Jan 31 02:54:47 PST 2025
+last_modified_at: Fri Dec 26 01:03:59 PST 2025
 permalink: /seminar-reflections/03
 categories:
  - blog
@@ -37,15 +37,15 @@ drew an impressive turnout of nearly 100 participants,
 showcasing the growing interest in AI's multifaceted impact across industries and academia.
 
 <!--div class="img-container">
-<img src="/resource/seminars/03/photos/KakaoTalk_Photo_2025-01-26-02-00-57 004.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/photos/KakaoTalk_Photo_2025-01-26-02-00-57 004.jpeg">
 </div-->
 
 <div class="img-container">
-<img src="/resource/seminars/03/photos/Screenshot 2025-01-29 at 1.22.23 AM.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/photos/Screenshot 2025-01-29 at 1.22.23 AM-50-reduced.png">
 </div>
 
 <!--div class="img-container">
-<img src="/resource/seminars/03/photos/Screenshot 2025-01-29 at 1.19.59 AM.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/photos/Screenshot 2025-01-29 at 1.19.59 AM.png">
 </div-->
 
 The evening kicked off with <a href="https://sungheeyun.github.io">Sunghee</a>'s comprehensive keynote on
@@ -63,7 +63,7 @@ but on leveraging this powerful commodity through clear and differentiated domai
 with AI agents powered by advanced LLMs and multimodal generative AI playing pivotal roles in the years ahead.
 
 <div class="img-container">
-<img style="max-width: 90%;" src="/resource/seminars/03/photos/sunghee-talk/KakaoTalk_Photo_2025-01-26-02-01-00 006.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/photos/sunghee-talk/KakaoTalk_Photo_2025-01-26-02-01-00 006-50-reduced.jpeg">
 </div>
 
 After the main keynote,
@@ -80,7 +80,7 @@ The presentation sparked particular interest among attendees working at the inte
 generating thoughtful questions about the practical implications for future AI systems.
 
 <div class="img-container">
-<img src="/resource/seminars/03/photos/irc-intro/KakaoTalk_Photo_2025-01-26-01-53-41 014.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/photos/irc-intro/KakaoTalk_Photo_2025-01-26-01-53-41 014-50-reduced.jpeg">
 </div>
 
 The highlight of the evening was the panel discussion &ldquo;AI at the Inflection Point,&rdquo;
@@ -100,11 +100,11 @@ The diverse backgrounds of the panelists - spanning venture capital, academia, b
 societal and economic impacts.
 
 <!--div class="img-container">
-<img src="/resource/seminars/03/photos/panel-discussion/KakaoTalk_Photo_2025-01-26-02-07-41 015.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/photos/panel-discussion/KakaoTalk_Photo_2025-01-26-02-07-41 015-50-reduced.jpeg">
 </div-->
 
 <div class="img-container">
-<img src="/resource/seminars/03/photos/panel-discussion/KakaoTalk_Photo_2025-01-26-02-07-33 011.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/photos/panel-discussion/KakaoTalk_Photo_2025-01-26-02-07-33 011-50-reduced.jpeg">
 </div>
 
 The feedback from attendees was overwhelmingly positive,
@@ -116,7 +116,7 @@ as attendees remained thoroughly absorbed in their exchanges
 long after the scheduled end time after taking the final photos (below). &#x2605;^^&#x2605;
 
 <div class="img-container">
-<img style="max-width: 90%;" src="/resource/seminars/03/photos/KakaoTalk_Photo_2025-01-26-01-51-01 011.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/photos/KakaoTalk_Photo_2025-01-26-01-51-01 011-50-reduced.jpeg">
 </div>
 
 <a href="/seminar-announcements/03">The third K-PAI seminar</a>

@@ -2,7 +2,7 @@
 #title: The 3rd K-PAI Seminar Invitation
 title: "The AI Knight Rises - Join Silicon Valley's Premier AI Forum, Networking, and Premium Korean Dining Experience @ Stanford University!"
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Mon Jan 20 23:42:19 PST 2025
+last_modified_at: Fri Dec 26 01:00:38 PST 2025
 permalink: /seminar-announcements/03
 categories:
  - blog
@@ -52,10 +52,9 @@ Join us for Silicon Valley's premier AI seminar, panel discussion, and networkin
 featuring a lavish Korean buffet from the Bay Area's finest restaurants.
 Savor an endless array of authentic Korean delicacies, including freshly prepared gimbap and traditional rice cakes.
 
-<div class="img-container">
-<img style="max-width: 39.5%;" src="/resource/seminars/03/gimbaps.png">
-&nbsp;
-<img style="max-width: 45%;" src="/resource/seminars/03/rice-cakes.webp">
+<div class="img-container-justified">
+<img style="max-width: 45.85%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/gimbaps.png">
+<img style="max-width: 52.15%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/rice-cakes.webp">
 </div>
 
 Please RSVP via [Registration &amp; Membership](https://forms.gle/aZgU4A5uxVBmUwa79)!
