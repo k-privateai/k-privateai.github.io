@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Sat Nov  1 16:46:44 PDT 2025
+last_modified_at: Sat Dec 27 15:57:22 PST 2025
 categories:
  - blog
 toc: true
@@ -17,9 +17,88 @@ posted: {{ page.date| date: "%d-%b-%Y" }}
 updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 {: .notice--primary}
 
-<!--
-# Meetings
--->
+# Committee meetings
+
+## 27-Dec-2025 - 2026 New Year Party Planning Meeting (Hybrid)
+
+### Participants
+
+- **Onsite** -
+[Sunghee Yun](https://sungheeyun.github.io)
+[MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
+[Sue Kim](https://www.linkedin.com/in/suekimpr/){:target="_blank"}
+- **Remote** -
+[Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"}
+[Jun Yeong Jang](https://www.linkedin.com/in/junyeongjang/){:target="_blank"}
+[Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
+[Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+[Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee){:target="_blank"}
+[Daejun Park](https://www.linkedin.com/in/daejunpark/){:target="_blank"}
+[Alex Moon](https://www.linkedin.com/in/alex-moon/){:target="_blank"}
+
+### Agenda
+
+Planning for K-PAI's 2026 New Year Celebration (14-Jan-2026) covering performance coordination, donation mechanisms, auction logistics, interactive games, and community awards.
+
+### Decisions Made
+
+#### 1. Performance Program
+- **Recruitment approach**: Voluntary participation from community members
+- **Incentive**: Performers will receive priority acquisition rights in the auction
+
+#### 2. Donation Framework
+- **Donation categories**:
+  - Game prizes (noted by [K-PAI](/) members)
+  - Auction items ([K-PAI](/) members donate items for auction)
+  - Direct monetary contributions (voluntary, *e.g.*, using venmo QR code)
+- **Implementation for January event**:
+  - QR code will be embedded somewhere every can see while entering Alaska and in presentation slides for one-time monetary donations
+  - After non-profit organization registration: establish corporate donation account for ongoing contributions
+- **Transparency**: All donation mechanisms will be clearly communicated to attendees
+
+#### 3. Auction Program
+- **Target goal**: $10,000 (example fundraising target)
+- **Item donation rule**:
+  - income will be donated to [K-PAI](/)
+
+#### 4. Interactive Games
+- **Format**: Quiz utilizing presentation materials, *etc.*
+- **Purpose**: Educational engagement + networking facilitation
+
+#### 5. Community Awards
+- **Selection method**: Committee-based selection (voting deemed inappropriate due to insufficient candidate information across full membership)
+- **Award philosophy**:
+  - Pre-ceremony statement explaining award purpose and selection criteria
+  - Statement will be delivered by [Sunghee](https://sungheeyun.github.io) and [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
+  - Emphasis on celebrating community spirit and diverse contributions
+- **Categories**: Multiple awards recognizing different dimensions of community participation (up to 3 awards)
+
+### Action Items
+
+| Item | Owner(s) | Deadline | Priority |
+|------|----------|----------|----------|
+| **Auction coordination & execution** | [Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} [Jun Yeong](https://www.linkedin.com/in/junyeongjang/){:target="_blank"} | 14-Jan-2026 | H |
+| **Game design & facilitation** | [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee){:target="_blank"} | 14-Jan-2026 | H |
+| **Award philosophy statement preparation** | [Sunghee](https://sungheeyun.github.io) [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"} | 10-Jan-2026 | H |
+| **Donation QR code design & integration in presentation** | [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"} | 10-Jan-2026 | H |
+| **Solicit auction items from members** | [Sunghee](https://sungheeyun.github.io) [Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} [Jun Yeong](https://www.linkedin.com/in/junyeongjang/){:target="_blank"} | 07-Jan-2026 | H |
+| **Finalize award categories & recipients** | [Sunghee](https://sungheeyun.github.io) [Daejun](https://www.linkedin.com/in/daejunpark){:target="_blank"} | 07-Jan-2026 | H |
+| **Performance logistics coordination** | [Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} [Sunghee](https://sungheeyun.github.io) | 10-Jan-2026 | H |
+| **Make proper announcement with what is discussed in the meeting** | [Sunghee](https://sungheeyun.github.io) | 27-Dec-2025 | H |
+
+### Key Principles Established
+
+1. **Community-driven**: All programs emphasize voluntary participation and community ownership
+2. **Transparency**: Clear communication about donation mechanisms and fund usage
+3. **Celebration-focused**: Awards and recognition celebrate diverse contributions rather than creating competitive dynamics
+4. **Engagement-oriented**: Games and activities designed to facilitate meaningful networking alongside entertainment
+
+### Next Steps
+
+- Committee to finalize specific award categories
+- Begin soliciting auction item donations from members on 27-Dec-2025
+- Prepare award philosophy statement articulating K-PAI's values and community spirit
+- Design quiz content leveraging 2025 forum highlights
 
 ## 31-Oct-2025 Brunch
 
