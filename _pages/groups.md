@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Groups
 permalink: /groups/
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Wed Dec 24 07:33:06 PST 2025
+last_modified_at: Fri Dec 26 23:21:40 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -16,6 +16,29 @@ toc_sticky: true
 
 ## Dec-2025
 
+### 26-Dec-2025 @ Camino Karaoke, Santa Clara
+
+The 1st K-PAI Karaoke Group!
+We were
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
+Yeseul,
+and
+[Sunghee](https://sungheeyun.github.io)!
+
+<div class="img-container-justified">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-26 PST - Camino Karaoke - 01-50-reduced.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-26 PST - Camino Karaoke - 02-50-reduced.jpeg">
+</div>
+
+<!--div class="img-container">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-26 PST - Camino Karaoke - 01-50-reduced.jpeg">
+</div>
+
+<div class="img-container">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-26 PST - Camino Karaoke - 02-50-reduced.jpeg">
+</div-->
+
 ### 05-Dec-2025 @ TTobongee, Santa Clara
 
 Flash meetup with
@@ -26,7 +49,7 @@ and
 [Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-05 PST - Ttongbong Meeting.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-05 PST - Ttongbong Meeting-50-reduced.jpg">
 </div>
 
 ## Nov-2025
