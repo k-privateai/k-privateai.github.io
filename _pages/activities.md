@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Activities
 permalink: /activities/
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Sat Dec 27 08:33:52 PST 2025
+last_modified_at: Sat Dec 27 09:39:53 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -80,7 +80,8 @@ From left
 
 <div class="img-container-justified">
 &nbsp;
-<img width="35%" src="/assets/images/k-on-pie.png">
+<!--img width="35%" src="/assets/images/k-on-pie.png"-->
+<img width="35%" src="/assets/images/k-logo-red.svg">
 <img width="35%" src="/resource/org-logos/kaist-logo-02.png">
 &nbsp;
 </div>
@@ -115,7 +116,8 @@ This roundtable exemplifies [K-PAI](/)'s expanding role as a strategic connector
 
 <div class="img-container-justified">
 &nbsp;
-<img width="35%" src="/assets/images/k-on-pie.png">
+<!--img width="35%" src="/assets/images/k-on-pie.png"-->
+<img width="35%" src="/assets/images/k-logo-red.svg">
 <img width="35%" src="/resource/org-logos/snu-logo-01.svg">
 &nbsp;
 </div>
