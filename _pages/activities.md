@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Activities
 permalink: /activities/
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Fri Dec 26 10:11:13 PST 2025
+last_modified_at: Sat Dec 27 08:33:52 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -17,7 +17,7 @@ toc_sticky: true
 |Item|Owner(s)|Status|
 |[Silicon Valley Expert Roundtable with Korean National Assembly Members](#silicon-valley-expert-roundtable-with-korean-national-assembly-members--07-oct-2025)|[Sunghee](https://sungheeyun.github.io)|Completed on 07-Oct-2025|
 |[KAIST Silicon Valley Talent Attraction Roundtable](#kaist-silicon-valley-talent-attraction-roundtable--22-jan-2026)|[Sunghee](https://sungheeyun.github.io)|Scheduled for 22-Jan-2026|
-|[SNU School of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|MOU development in progress|
+|[SNU College of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|MOU development in progress|
 |[Korea University Business School (KUBS) Center for Digital Transformation &amp; Business (CDTB) Partnership Initiative](#korea-university-business-school-kubs-center-for-digital-transformation--business-cdtb-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|Under development|
 |[Joint Hackathon with Krafton (PUBG Developers)](#joint-hackathon-with-krafton-pubg-developers)|[Sunghee](https://sungheeyun.github.io) + [Peter](https://www.linkedin.com/in/peter-bae-551b1b1/){:target="_blank"}|Under development|
 
@@ -109,9 +109,9 @@ This roundtable exemplifies [K-PAI](/)'s expanding role as a strategic connector
 <br>
 **Status**: Scheduled for 22-Jan-2026 (thu)
 
-# SNU School of Engineering Strategic Partnership Initiative
+# SNU College of Engineering Strategic Partnership Initiative
 
-[K-PAI](/) is developing a formal strategic partnership with Seoul National University School of Engineering, one of Korea's most prestigious engineering institutions. This initiative aims to establish a Memorandum of Understanding (MOU) that will create systematic pathways for collaboration between [K-PAI](/)'s Silicon Valley community and SNU's academic ecosystem.
+[K-PAI](/) is developing a formal strategic partnership with Seoul National University College of Engineering, one of Korea's most prestigious engineering institutions. This initiative aims to establish a Memorandum of Understanding (MOU) that will create systematic pathways for collaboration between [K-PAI](/)'s Silicon Valley community and SNU's academic ecosystem.
 
 <div class="img-container-justified">
 &nbsp;
