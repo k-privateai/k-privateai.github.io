@@ -2,7 +2,7 @@
 layout: single
 title: "K-PAI's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
 date: Wed Dec 24 01:11:38 PST 2025
-last_modified_at: Sun Dec 28 11:00:30 PST 2025
+last_modified_at: Sun Dec 28 14:20:53 PST 2025
 permalink: /event-announcements/14
 categories:
  - blog
@@ -56,9 +56,20 @@ This is not just another seminar; this is **<span style="color: red;">OUR celebr
 
 Join us for an evening of **music, reflection, inspiration, recognition, fun, and meaningful connections** as we transition from an extraordinary 2025 into what promises to be an even more transformative 2026!
 
-- <font color="red"><strong>Please RSVP via <a href="TBD" target="_blank">this link</a>!</strong></font>
+- <font color="red"><strong>Please RSVP via <a href="https://luma.com/9xuuhnpq" target="_blank">this link</a>!</strong></font>
 - Please visit [K-PAI Membership](/membership) to learn about our K-PAI membership for the qualification and all exclusive perks you can enjoy!
 	and join us at K-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualified)!
+
+<span id="sponsors">
+Special thanks to [KSWAN](https://kswan.muv.kr/){:target="_blank"} and [LikeLion](https://us.likelion.net/){:target="_blank"} for graciously sponsoring our celebration dinner! Your generosity enables our community to gather, connect, and celebrate together.
+</span>
+
+<div class="img-container-justified">
+&nbsp;
+<img style="max-width: 40%" src="/resource/org-logos/kswan-logo-02.png">
+<img style="max-width: 40%" src="/resource/org-logos/likelion-logo-01.png">
+&nbsp;
+</div>
 
 > Donate Your Items For The Auction! 🎁
 {: .notice--warning}
