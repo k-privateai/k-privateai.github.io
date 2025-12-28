@@ -3,7 +3,7 @@ layout: single
 title: 2026 K-PAI New Year Party Auction
 permalink: /auction-2026-new-year-party/
 date: Sun Dec 28 09:57:32 PST 2025
-last_modified_at: Sun Dec 28 10:37:12 PST 2025
+last_modified_at: Sun Dec 28 12:00:35 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -45,6 +45,9 @@ Northstar Condo Website: [https://www.vrbo.com/637620?unitId=1185401](https://ww
 
 <h3>Fair Market Value</h3>
 $1,890
+
+<h3>Starting Bid</h3>
+$1,000
 
 <h3>Expiration Date</h3>
 
