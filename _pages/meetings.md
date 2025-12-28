@@ -3,7 +3,7 @@ layout: single
 permalink: /meetings/
 title: Meetings
 date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Sat Dec 27 15:57:22 PST 2025
+last_modified_at: Sat Dec 27 19:13:52 PST 2025
 categories:
  - blog
 toc: true
@@ -24,17 +24,19 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 ### Participants
 
 - **Onsite** -
-[Sunghee Yun](https://sungheeyun.github.io)
 [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
 [Sue Kim](https://www.linkedin.com/in/suekimpr/){:target="_blank"}
+[Sunghee Yun](https://sungheeyun.github.io)
 - **Remote** -
-[Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"}
-[Jun Yeong Jang](https://www.linkedin.com/in/junyeongjang/){:target="_blank"}
-[Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
-[Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
-[Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee){:target="_blank"}
-[Daejun Park](https://www.linkedin.com/in/daejunpark/){:target="_blank"}
 [Alex Moon](https://www.linkedin.com/in/alex-moon/){:target="_blank"}
+[Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee){:target="_blank"}
+[Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"}
+[Daejun Park](https://www.linkedin.com/in/daejunpark/){:target="_blank"}
+[Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
+[Jun Yeong Jang](https://www.linkedin.com/in/junyeongjang/){:target="_blank"}
+[Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+
+(alphabetical order by first names for each)
 
 ### Agenda
 
