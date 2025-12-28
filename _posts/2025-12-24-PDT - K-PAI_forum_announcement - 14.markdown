@@ -2,7 +2,7 @@
 layout: single
 title: "K-PAI's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
 date: Wed Dec 24 01:11:38 PST 2025
-last_modified_at: Sun Dec 28 10:43:32 PST 2025
+last_modified_at: Sun Dec 28 11:00:30 PST 2025
 permalink: /event-announcements/14
 categories:
  - blog
@@ -60,7 +60,10 @@ Join us for an evening of **music, reflection, inspiration, recognition, fun, an
 - Please visit [K-PAI Membership](/membership) to learn about our K-PAI membership for the qualification and all exclusive perks you can enjoy!
 	and join us at K-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualified)!
 
-## DONATE YOUR ITEMS FOR THE AUCTION! 🎁
+> Donate Your Items For The Auction! 🎁
+{: .notice--warning}
+
+## DONATE YOUR ITEMS FOR THE AUCTION!
 
 **We need YOUR treasures!** Help make our first K-PAI auction spectacular by donating items for bidding!
 
@@ -68,8 +71,8 @@ Join us for an evening of **music, reflection, inspiration, recognition, fun, an
 
 **What we need from you:**
 1. **Item name and description**
-2. **Suggested starting bid** (we want fair value for your generous contribution!)
-3. **High-quality PHOTO** of the item
+1. **Suggested starting bid** (we want fair value for your generous contribution!)
+1. **High-quality PHOTO** of the item
 
 **Where it goes:** All donated items will be posted at **[Auction Page](/auction-2026-new-year-party)** as soon as we receive them—giving attendees advance notice to plan their bidding strategy!
 
@@ -77,7 +80,10 @@ Join us for an evening of **music, reflection, inspiration, recognition, fun, an
 
 *Both K-PAI members and non-members are warmly invited to donate! This is your chance to support our community while sharing something special.*
 
-## DONATE PRIZES FOR AWARDS & GAMES! 🏆
+> Donate Prizes For Awards & Games! 🏆
+{: .notice--warning}
+
+## DONATE PRIZES FOR AWARDS & GAMES!
 
 **We also need prizes!** Help us celebrate our award winners and game participants with awesome gifts!
 
@@ -85,7 +91,7 @@ Join us for an evening of **music, reflection, inspiration, recognition, fun, an
 
 **What we need from you:**
 1. **Item name and description**
-2. **High-quality PHOTO** of the item
+1. **High-quality PHOTO** of the item
 
 **Where it goes:** All donated prizes will be posted at **[Prizes Page](/prizes-2026-new-year-party)** so everyone can see the amazing contributions our community is making!
 
@@ -131,14 +137,21 @@ examining semiconductor foundations—he'll weave together the threads connectin
 
 ## Community Voice (Part 1) - What We Want from K-PAI! (6:15pm ~ 6:30pm)
 
-**Aspirations and Dreams for Our Community**
-
-What does the [K-PAI](/) community want? What should we do more of? What could we improve? What dreams do members harbor for what [K-PAI](/) might become?
+**The Immigrant Paradox: Why Korean Engineers Win the Job but Lose the Leadership Story**
 
 [Sue Kim](https://www.linkedin.com/in/suekimpr/){:target="_blank"}
-will channel the community's collective voice—speaking not as an individual but as representative of the diverse hopes, expectations, and aspirations our members hold for [K-PAI](/)'s future. This segment provides structured opportunity for community feedback, ensuring [K-PAI](/)'s leadership remains responsive to member needs and desires.
+will address a critical challenge facing our community: why many Korean engineers remain underrecognized in leadership tracks—not due to capability, but due to narrative, visibility, and cultural communication gaps.
 
-<span class="emph">Your voice matters! Sue's presentation will be informed by pre-event community input, and the Q&A provides space for additional perspectives. Let's collectively shape what K-PAI becomes.</span>
+Drawing from her 25+ years of experience working closely with U.S. CEOs and executive teams in Silicon Valley's semiconductor industry, Sue will explore
+• how technical excellence alone doesn't guarantee leadership recognition
+• the role of narrative, storytelling, and executive communication in career advancement
+• cultural communication gaps that hinder visibility and sponsorship
+• practical strategies for self-advocacy and building executive presence
+• the importance of broadening diverse voices within our community.
+
+<span class="emph">Sue's presentation bridges individual career development with K-PAI's community aspirations—reminding us that our collective success depends on creating pathways where Korean engineers not only excel technically but also lead strategically, shaping the future of technology with their unique perspectives and voices.</span>
+
+This segment naturally flows into broader community aspirations: What does [K-PAI](/) need to do to support members' professional growth? How can we collectively address systemic barriers? What dreams do members harbor for what [K-PAI](/) might become?
 
 ## Community Voice (Part 2) - The Philosophy of Community Recognition (6:30pm ~ 6:45pm)
 
@@ -313,16 +326,27 @@ While our 13 forums provided the intellectual foundation, **the real magic of 20
 
 ### Strategic Activities &amp; Partnerships
 
-**[K-PAI Activities](/activities)** demonstrates our expanding influence beyond monthly forums.
+**[K-PAI Activities](/activities)** demonstrates our expanding influence beyond monthly forums:
 
-[**🏛️ Silicon Valley Expert Roundtable with Korean National Assembly Members (October 7, 2025)**](/activities/#silicon-valley-expert-roundtable-with-korean-national-assembly-members--07-oct-2025)
+**🏛️ Silicon Valley Expert Roundtable with Korean National Assembly Members** (October 7, 2025) - **COMPLETED**
+
 [K-PAI](/) mobilized our community's expertise for high-level policy dialogue! As part of our strategic alliance with KOTRA Silicon Valley, we recruited and coordinated Silicon Valley experts across multiple disciplines to engage with four National Assembly members focused on AI policy, the AI-specialized consul, and representatives from major tech companies. <span class="emph">This exemplifies [K-PAI](/)'s unique ability to bridge Silicon Valley technical excellence with Korean policymaking—creating tangible impact beyond academic discourse.</span>
 
-[**🎓 Korea University Business School (KUBS) Partnership Initiative (Under Development)**](/activities/#korea-university-business-school-kubs-center-for-digital-transformation--business-cdtb-partnership-initiative)
+**🤝 SNU College of Engineering Strategic Partnership Initiative** (Kick-off: January 9, 2026) - **IN PROGRESS**
+
+[K-PAI](/) is developing a formal strategic partnership with Seoul National University College of Engineering through a Memorandum of Understanding (MOU). Dean Young-Oh Kim will meet with K-PAI members during his Silicon Valley visit to discuss comprehensive collaboration across faculty recruitment & exchange, student exchange programs, startup ecosystem connection, joint research initiatives, and professional development programs. This represents [K-PAI](/)'s evolution from event organizer to institutional partner capable of creating systematic pathways between Silicon Valley's Korean professional community and Korea's premier academic institutions.
+
+**🔬 KAIST Silicon Valley Roundtable** (January 22, 2026) - **SCHEDULED**
+
+Professor Sungwon Lim, former Ministry of Science and ICT official and current visiting professor at KAIST School of Electrical Engineering, is conducting field research to understand the real needs and challenges faced by Korean scientists and engineers in Silicon Valley. [K-PAI](/) will facilitate an intimate roundtable connecting 5-6 highly qualified Korean professionals from industry with KAIST leadership, enabling candid dialogue that will directly inform government programs supporting overseas Korean talent and strengthening bilateral collaboration. This exemplifies [K-PAI](/)'s expanding role as strategic connector between practitioners and policymakers.
+
+**🎓 Korea University Business School (KUBS) Partnership Initiative** - **UNDER DEVELOPMENT**
+
 Following [Sunghee](https://sungheeyun.github.io)'s AI seminar series at KUBS, we're developing an innovative online roundtable series connecting KUBS professors with [K-PAI](/) members. The opportunity: bridging academic rigor with Silicon Valley's practical AI implementation know-how. KUBS brings theoretical frameworks and organizational studies; [K-PAI](/) brings data-driven methodologies and real-world applications. This interdisciplinary collaboration opens doors for members to engage meaningfully in industry-academia joint projects!
 
-[**🎮 Joint Hackathon with Krafton (PUBG Developers) (Under Development)**](/activities/#joint-hackathon-with-krafton-pubg-developers)
-An exciting collaboration emerging from serendipitous connections! Krafton's AI/ML PhD team is planning a Silicon Valley visit, and preliminary discussions point toward a co-hosted hackathon. Imagine: Krafton's game development AI expertise + [K-PAI](/)'s AI knowledge + Silicon Valley's collaborative innovation culture = breakthrough solutions at the intersection of gaming, AI, and privacy technology!
+**🎮 Joint Hackathon with Krafton (PUBG Developers)** - **UNDER DEVELOPMENT**
+
+An exciting collaboration emerging from serendipitous connections! Krafton's 100+ AI/ML PhD team is planning a Silicon Valley visit, and preliminary discussions point toward a co-hosted hackathon. Imagine: Krafton's game development AI expertise + [K-PAI](/)'s AI knowledge + Silicon Valley's collaborative innovation culture = breakthrough solutions at the intersection of gaming, AI, and technology innovation!
 
 ### Organic Group Meetings - Community Self-Organization
 
@@ -421,4 +445,4 @@ Best regards,<br>
 
 ---
 
-**P.S.** — Seriously, don't miss this. When's the last time you attended a New Year celebration featuring kids' orchestra, strategic vision presentations, community awards, AND a fun auction? Plus, you know [K-PAI](/)'s networking is legendary. This is where you want to be on January 14th.
+**P.S.** — Seriously, don't miss this. When's the last time you attended a New Year celebration featuring kids' orchestra, strategic vision presentations, community awards, AND a fun auction? Plus, you know [K-PAI](/)'s networking is legendary. This is where you want to be on January 14th. - [Sunghee](https://sungheeyun.github.io)
