@@ -7,6 +7,10 @@ main:
     url: /kptm
 #  - title: "Meetings"
 #    url: /meetings
+  - title: "Auction"
+    url: /auction-2026-new-year-party
+  - title: "Prizes"
+    url: /prizes-2026-new-year-party
   - title: "Board"
     url: /board
   - title: "Groups"
