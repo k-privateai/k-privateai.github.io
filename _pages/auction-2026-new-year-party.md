@@ -3,7 +3,7 @@ layout: single
 title: 2026 K-PAI New Year Party Auction
 permalink: /auction-2026-new-year-party/
 date: Sun Dec 28 09:57:32 PST 2025
-last_modified_at: Sun Dec 28 12:00:35 PST 2025
+last_modified_at: Mon Dec 29 07:08:33 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -13,12 +13,7 @@ toc_sticky: true
 
 # Auction Items
 
-## Escape to Lake Tahoe by MiSook
-
-<h3>Donor Info</h3>
-
-- Donor: [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
-- Email: [misookchung1226@gmail.com](mailto:misookchung1226@gmail.com)
+## Escape to Lake Tahoe
 
 <h3>Description of Item / Service</h3>
 
@@ -61,3 +56,7 @@ Blackout dates and holidays are not included during this period.
 
 Cleaning fee of $275 not included.
 
+<h3>Donor Info</h3>
+
+- Donor: [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
+- Email: [misookchung1226@gmail.com](mailto:misookchung1226@gmail.com)
