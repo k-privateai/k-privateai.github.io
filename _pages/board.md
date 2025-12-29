@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Board
 permalink: /board/
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Fri Dec 26 05:46:25 PST 2025
+last_modified_at: Mon Dec 29 05:29:40 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -13,6 +13,73 @@ toc_sticky: true
 # Conversations on [K-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
 ## Selected Posts
+
+### Sunghee announces 2026 New Year Party and Seeks Community Contributions!
+
+> [Sunghee](https://sungheeyun.github.io) @ Mon Dec 29 05:21 PST 2025
+>
+> 🎊 K-PAI 2026 신년회 - 공지 사항
+>
+> 안녕하세요, K-PAI 정회원 여러분!
+>
+> 1월 14일 K-PAI 2026 신년회 관련 공식 이메일이 발송되었습니다! 혹시 이메일을 받지 못하신 분들은 개인 카톡으로 연락 주세요.
+>
+> 주요 링크:
+>
+> - 📋 행사 공지 페이지: https://k-privateai.github.io/event-announcements/14
+> - ✅ RSVP 등록: https://luma.com/9xuuhnpq
+> - 🎁 Auction 페이지: https://k-privateai.github.io/auction-2026-new-year-party/
+> - 🏆 Prizes 페이지: https://k-privateai.github.io/prizes-2026-new-year-party/
+>
+> (언제나처럼) 각자가 속한 단톡방 or network 등을 통해 널리널리 알려 주세요~ :)
+>
+> Auction & Prize 아이템 기부 제안 🎁
+>
+> 이번 신년회에서 특별히 Auction과 Award/Game Prize를 준비하고 있습니다. 이미 몇 분께서 기부해 주셔서 정말 감사드립니다!
+>
+> 혹시 여유가 되시고 의향이 있으신 분들은 아이템 기부를 고려해 주시면 감사하겠습니다! 비싼 것일 필요 전혀 없습니다! 어떤 아이템이든 K-PAI 커뮤니티에게는 정말 큰 의미가 있고 엄청나게 감사하게 받겠습니다! (물론 부담 갖지 마시고, 가능하신 분들만요~ ^^)
+>
+> 기부 가능한 아이템: 전자제품, 예술 작품, 컬렉터블, 서비스(컨설팅, 코칭, 레슨), 체험(디너, 와인 테이스팅), 사인된 책, 빈티지 아이템, 수제 공예품 등
+>
+> 제출 방법: 제 카톡(ID: shoptyun)으로 1/7까지 아이템 이름, 설명, 사진을 보내주세요!
+>
+> 음악 공연 추천 요청 🎵
+>
+> 6시 메인 이벤트 전에 짧은 음악 공연을 준비하고 싶은데, 원래 고려했던 kids orchestra가 일정이 안 된다고 하네요 ㅠㅠ
+>
+> 혹시 음악 공연을 할 수 있는 분이나 그룹/오케스트라를 아시는 분 계신가요? 완벽하게 프로페셔널할 필요는 없습니다! 노래를 부를 수 있고 듣기 편한 정도면 환영합니다 ㅎㅎ 아이디어나 추천 있으시면 언제든 연락 주세요!
+>
+> —
+>
+> 🎊 K-PAI 2026 New Year Party - Announcements
+>
+> Hello K-PAI Full Members!
+>
+> Official emails for the January 14th K-PAI 2026 New Year Party have been sent out! If you haven't received the email, please send me a personal Kakaotalk message.
+>
+> Key Links:
+>
+> - 📋 Event Announcement: https://k-privateai.github.io/event-announcements/14
+> - ✅ RSVP Registration: https://luma.com/9xuuhnpq
+> - 🎁 Auction Page: https://k-privateai.github.io/auction-2026-new-year-party/
+> - 🏆 Prizes Page: https://k-privateai.github.io/prizes-2026-new-year-party/
+>
+> Auction & Prize Item Donations 🎁
+>
+> We're organizing a special Auction and Awards/Game Prizes for this year's celebration. We've already received some generous donations—thank you so much!
+>
+> If you're interested and able, we'd be grateful if you could consider donating items! It doesn't have to be expensive at all! Any item would be extremely greatly appreciated by K-PAI and our community! (No pressure at all—only if it works for you~ ^^)
+>
+> Possible donation items: Tech gadgets, art pieces, collectibles, services (consulting, coaching, lessons), experiences (dinner, wine tasting), signed books, vintage items, handmade crafts, etc.
+>
+> How to submit: Send item name, description, and photo to my Kakaotalk (ID: shoptyun) by 1/7!
+>
+> Musical Performance Recommendation Needed 🎵
+>
+> We'd like to have a short musical performance before the main event at 6pm, but the kids orchestra I was considering can't make it ㅠㅠ
+>
+> Does anyone know someone or a group/orchestra who could perform? It doesn't have to be perfectly professional! If you can sing and people would enjoy listening, you're welcome ㅎㅎ If you have any ideas or recommendations, please reach out anytime!
+{: .notice--warning}
 
 ### Sunghee announces SNU Engineering Faculty Networking Dinner
 
@@ -108,6 +175,35 @@ toc_sticky: true
 > If you would like to participate, please leave a comment or send a personal message.
 {: .notice--warning}
 
+### Gordon's seeking talents!
+
+> [Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"}
+> @ Sat Oct 11 17:20 PDT 2025
+>
+> AI 개발 전문가를 찾습니다. GenAI를 이용해 생물정보학 (bioinformatics) 데이터 분석을 natural language로 할 수 있는 AI Agent를 개발하고 있습니다. 관심 있으신 분이나 팀 있으시면 개인톡 (neuorpa)이나 이메일 (neuropa@stanford.edu) 부탁드립니다. Ps. K-PAI 운영팀으로 허가 받아 공지합니다.
+>
+> [Sunghee](https://sungheeyun.github.io)
+>
+> :) 앞으로는 운영진의 허가를 받지 않고도 이렇게 이 공간을 십분 활용하시기 바랍니다! :)
+>
+> 모두들요!
+>
+> [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 17:22 PDT 2025
+>
+> 제가 이해하기로는 CTO 급 or minimum senior 개발자를 찾고 계시다고 합니다. preferably bio 쪽 지식이 있으면 더 좋겠지만 (제 개인 생각에는) open-mind, learning intention and capability가 있으면 빨리 배우면서 할 수 있지 않을까 조심스럽게 생각해봅니다.
+>
+> [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 17:23 PDT 2025
+>
+> @[Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} 대표님! 혹시 confidential information이 아니라면.. 살~짝! context를 더 설명해 주셔도 될 것 같아요. AI를 떠나 biology / biotech / medical 쪽에서 어떤 의미 있는 일을 하는 company가 이런 분을 찾고 계신지? :)
+> [Sat Oct 11 17:23 PDT 2025] @[Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} 대표님! 혹시 confidential information이 아니라면.. 살~짝! context를 더 설명해 주셔도 될 것 같아요. AI를 떠나 biology / biotech / medical 쪽에서 어떤 의미 있는 일을 하는 company가 이런 분을 찾고 계신지? :)
+>
+> [Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} @ Sat Oct 11 17:30 PDT 2025
+>
+> 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
+{: .notice--warning}
+
+## Dec-2025
+
 ### Sunghee introduces and invites members to Solar Society of Pohang (SSP) Interdisciplinary Intellectual Forum
 
 > [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 04:10 PST 2025
@@ -178,36 +274,7 @@ toc_sticky: true
 > Interested in Joining?
 >
 > If you'd like to participate as a Solar Society member or want more information, please feel free to reach out to me personally anytime! ㅎㅎㅎ
-{: .notice--warning}
-
-### Gordon's seeking talents!
-
-> [Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"}
-> @ Sat Oct 11 17:20 PDT 2025
->
-> AI 개발 전문가를 찾습니다. GenAI를 이용해 생물정보학 (bioinformatics) 데이터 분석을 natural language로 할 수 있는 AI Agent를 개발하고 있습니다. 관심 있으신 분이나 팀 있으시면 개인톡 (neuorpa)이나 이메일 (neuropa@stanford.edu) 부탁드립니다. Ps. K-PAI 운영팀으로 허가 받아 공지합니다.
->
-> [Sunghee](https://sungheeyun.github.io)
->
-> :) 앞으로는 운영진의 허가를 받지 않고도 이렇게 이 공간을 십분 활용하시기 바랍니다! :)
->
-> 모두들요!
->
-> [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 17:22 PDT 2025
->
-> 제가 이해하기로는 CTO 급 or minimum senior 개발자를 찾고 계시다고 합니다. preferably bio 쪽 지식이 있으면 더 좋겠지만 (제 개인 생각에는) open-mind, learning intention and capability가 있으면 빨리 배우면서 할 수 있지 않을까 조심스럽게 생각해봅니다.
->
-> [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 17:23 PDT 2025
->
-> @[Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} 대표님! 혹시 confidential information이 아니라면.. 살~짝! context를 더 설명해 주셔도 될 것 같아요. AI를 떠나 biology / biotech / medical 쪽에서 어떤 의미 있는 일을 하는 company가 이런 분을 찾고 계신지? :)
-> [Sat Oct 11 17:23 PDT 2025] @[Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} 대표님! 혹시 confidential information이 아니라면.. 살~짝! context를 더 설명해 주셔도 될 것 같아요. AI를 떠나 biology / biotech / medical 쪽에서 어떤 의미 있는 일을 하는 company가 이런 분을 찾고 계신지? :)
->
-> [Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} @ Sat Oct 11 17:30 PDT 2025
->
-> 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
-{: .notice--warning}
-
-## Dec-2025
+{: .notice--info}
 
 ### Sunghee highlights Board Page Message Archive
 
