@@ -2,7 +2,7 @@
 layout: single
 title: "K-PAI's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
 date: Wed Dec 24 01:11:38 PST 2025
-last_modified_at: Sun Dec 28 14:20:53 PST 2025
+last_modified_at: Mon Dec 29 07:22:32 PST 2025
 permalink: /event-announcements/14
 categories:
  - blog
@@ -146,9 +146,9 @@ examining semiconductor foundations—he'll weave together the threads connectin
 
 <span class="emph">This isn't just a chronological recap; it's a meditation on how K-PAI has matured from technical education into strategic discourse, from event series into genuine community, from local gathering into international bridge between Korean and Silicon Valley AI ecosystems.</span>
 
-## Community Voice (Part 1) - What We Want from K-PAI! (6:15pm ~ 6:30pm)
+## Community Voice (Part 1) - Immigrants Paradox! (6:15pm ~ 6:30pm)
 
-**The Immigrant Paradox: Why Korean Engineers Win the Job but Lose the Leadership Story**
+**Why Korean Engineers Win the Job but Lose the Leadership Story**
 
 [Sue Kim](https://www.linkedin.com/in/suekimpr/){:target="_blank"}
 will address a critical challenge facing our community: why many Korean engineers remain underrecognized in leadership tracks—not due to capability, but due to narrative, visibility, and cultural communication gaps.
