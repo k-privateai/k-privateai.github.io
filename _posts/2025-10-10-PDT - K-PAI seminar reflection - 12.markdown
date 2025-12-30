@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Twelfth Forum - The Marketing Intelligence Revolution and the Perpetual Partnership in Action"
 date: Fri Oct 10 23:18:59 PDT 2025
-last_modified_at: Tue Dec 30 05:58:30 PST 2025
+last_modified_at: Tue Dec 30 06:09:51 PST 2025
 permalink: /seminar-reflections/12
 categories:
  - blog
@@ -47,13 +47,13 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 
 <!--div id="podcast-video-01" style="text-align: center; margin-bottom: 1em;">
 <video width="100%" controls>
-    <source src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Revolution_in_Marketing.mp4" type="video/mp4">
+    <source src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_Revolution_in_Marketing.mp4" type="video/mp4">
 </video>
 </div-->
 
 <!--div id="podcast-video-02" style="text-align: center; margin-bottom: 1em;">
 <video width="100%" controls>
-    <source src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740B_Ad_Revolution.mp4" type="video/mp4">
+    <source src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_s_$740B_Ad_Revolution.mp4" type="video/mp4">
 </video>
 </div-->
 
@@ -61,13 +61,13 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 	<div id="podcast-video-01" style="width:49%; text-align: center; margin-bottom: 1em;">
 	<!--video width="320" height="240" controls-->
 	<video width="100%" controls>
-		<source src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Revolution_in_Marketing.mp4" type="video/mp4">
+		<source src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_Revolution_in_Marketing.mp4" type="video/mp4">
 	</video>
 	</div>
 	<div id="podcast-video-02" style="width:49%; text-align: center; margin-bottom: 1em;">
 	<!--video width="320" height="240" controls-->
 	<video width="100%" controls>
-		<source src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740B_Ad_Revolution.mp4" type="video/mp4">
+		<source src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_s_$740B_Ad_Revolution.mp4" type="video/mp4">
 	</video>
 	</div>
 </div>
@@ -77,32 +77,32 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 -->
 
 <!--audio id="podcast-audio-01" controls>
-	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/65__CPC_Drop_and_the_100-Millisecond_Wall__How_AI_is_Re-Enginee.m4a">
+	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/65__CPC_Drop_and_the_100-Millisecond_Wall__How_AI_is_Re-Enginee.m4a">
 	Your browser does not support this longest audio element.
 </audio-->
 
 <!--audio id="podcast-audio-02" controls>
-	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Ad_Intelligence_Unleashed__How_AI_Is_Turning_Digital_Marketing_.m4a">
+	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/Ad_Intelligence_Unleashed__How_AI_Is_Turning_Digital_Marketing_.m4a">
 	Your browser does not support this longest audio element.
 </audio-->
 
 <!--audio id="podcast-audio-03" controls>
-	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Advertising_Revolution__Decoding_the_Programmatic_Blueprint_.m4a">
+	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_Advertising_Revolution__Decoding_the_Programmatic_Blueprint_.m4a">
 	Your browser does not support this longest audio element.
 </audio-->
 
 <!--audio id="podcast-audio-04" controls>
-	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740_Billion_Pivot__Why_Optimizing_Video_Content,_Not_Just.m4a">
+	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_s_$740_Billion_Pivot__Why_Optimizing_Video_Content,_Not_Just.m4a">
 	Your browser does not support this longest audio element.
 </audio-->
 
 <!--audio id="podcast-audio-05" controls>
-	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_vs.m4a">
+	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_vs.m4a">
 	Your browser does not support this longest audio element.
 </audio-->
 
 <!--audio id="podcast-audio-06" controls>
-	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Decoding_the_Ad_Intelligence_Revolution__How_AI_Slashes_Costs_b.m4a">
+	<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/Decoding_the_Ad_Intelligence_Revolution__How_AI_Slashes_Costs_b.m4a">
 	Your browser does not support this longest audio element.
 </audio-->
 
@@ -114,7 +114,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-01" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/65__CPC_Drop_and_the_100-Millisecond_Wall__How_AI_is_Re-Enginee.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/65__CPC_Drop_and_the_100-Millisecond_Wall__How_AI_is_Re-Enginee.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -126,7 +126,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-02" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Ad_Intelligence_Unleashed__How_AI_Is_Turning_Digital_Marketing_.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/Ad_Intelligence_Unleashed__How_AI_Is_Turning_Digital_Marketing_.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -141,7 +141,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-03" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_Advertising_Revolution__Decoding_the_Programmatic_Blueprint_.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_Advertising_Revolution__Decoding_the_Programmatic_Blueprint_.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -153,7 +153,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-04" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_s_$740_Billion_Pivot__Why_Optimizing_Video_Content,_Not_Just.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_s_$740_Billion_Pivot__Why_Optimizing_Video_Content,_Not_Just.m4a">
 			</audio>
 		</div>
 	</div>
@@ -167,7 +167,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-05" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/AI_vs.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/AI_vs.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
@@ -179,7 +179,7 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 		</div>
 		<div style="padding: 10px; background-color: #ecf0f1;">
 			<audio id="podcast-audio-06" controls style="width: 100%;">
-				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/NotebookLM/Decoding_the_Ad_Intelligence_Revolution__How_AI_Slashes_Costs_b.m4a">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-10-10-PDT - K-PAI seminar reflection - 12/Decoding_the_Ad_Intelligence_Revolution__How_AI_Slashes_Costs_b.m4a">
 				Your browser does not support this audio element.
 			</audio>
 		</div>
