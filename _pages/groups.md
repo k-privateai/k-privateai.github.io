@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Groups
 permalink: /groups/
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Fri Dec 26 23:21:40 PST 2025
+last_modified_at: Tue Dec 30 06:02:44 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -27,16 +27,16 @@ and
 [Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-26 PST - Camino Karaoke - 01-50-reduced.jpeg">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-26 PST - Camino Karaoke - 02-50-reduced.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-12/2025-12-26 PST - Camino Karaoke - 01-50-reduced.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-12/2025-12-26 PST - Camino Karaoke - 02-50-reduced.jpeg">
 </div>
 
 <!--div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-26 PST - Camino Karaoke - 01-50-reduced.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-12/2025-12-26 PST - Camino Karaoke - 01-50-reduced.jpeg">
 </div>
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-26 PST - Camino Karaoke - 02-50-reduced.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-12/2025-12-26 PST - Camino Karaoke - 02-50-reduced.jpeg">
 </div-->
 
 ### 05-Dec-2025 @ TTobongee, Santa Clara
@@ -49,7 +49,7 @@ and
 [Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-12/2025-12-05 PST - Ttongbong Meeting-50-reduced.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-12/2025-12-05 PST - Ttongbong Meeting-50-reduced.jpg">
 </div>
 
 ## Nov-2025
@@ -63,7 +63,7 @@ and
 [Sunghee](https://sungheeyun.github.io).
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-27 0824 KST - June Hee, CI, and Sunghee.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-27 0824 KST - June Hee, CI, and Sunghee.JPG">
 </div>
 
 ### 15-Nov-2025 @ Morgan Hill
@@ -71,22 +71,22 @@ and
 K-PAI + Institute for Information communication Technology Planning and Evaluation (정보통신기획평가원, IITP)
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 01.JPG">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 02.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 01.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 02.JPG">
 </div>
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 03.JPG">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 04.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 03.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 04.jpg">
 </div>
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 05.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 05.jpg">
 </div>
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 06.JPG">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-15 PST - IITP - 07.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 06.JPG">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 07.JPG">
 </div>
 
 ### 14-Nov-2025 @ Berkeley
@@ -94,7 +94,7 @@ K-PAI + Institute for Information communication Technology Planning and Evaluati
 Lawyers, Judges, Engineers, Scientists, and Entrepreneurs!
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-14 - Berkeley.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-14 - Berkeley.jpg">
 </div>
 
 ### 10-Nov-2025 @ Palo Alto
@@ -108,7 +108,7 @@ and
 [Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/2025-11-10 PST - KABANC.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-10 PST - KABANC.jpg">
 </div>
 
 ### 04-Nov-2025 @ Mountain View
@@ -123,6 +123,6 @@ and
 [Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/KakaoTalk_Photo_2025-11-04-14-30-30 001.jpeg">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/groups/2025-11/KakaoTalk_Photo_2025-11-04-14-30-30 002.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/KakaoTalk_Photo_2025-11-04-14-30-30 001.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/KakaoTalk_Photo_2025-11-04-14-30-30 002.jpeg">
 </div>

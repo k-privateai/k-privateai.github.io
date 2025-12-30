@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Sixth Forum: Advancing Humanity - Bio and Medical Technology's AI Revolution"
 date: Wed Apr 23 16:25:07 PDT 2025
-last_modified_at: Fri Dec 26 02:22:54 PST 2025
+last_modified_at: Tue Dec 30 06:03:21 PST 2025
 permalink: /seminar-reflections/06
 categories:
  - blog
@@ -37,7 +37,7 @@ This unique collaboration brought together privacy-first AI expertise and biomed
 creating a dynamic environment for exploring how AI is transforming healthcare while maintaining critical privacy standards.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/Screenshot 2025-04-23 at 11.07.02 PM-50-reduced.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/Screenshot 2025-04-23 at 11.07.02 PM-50-reduced.png">
 </div>
 
 # Event Overview and Partnership Significance
@@ -64,7 +64,7 @@ This diversity of backgrounds created a particularly fertile ground for discussi
 about the technical, ethical, and practical challenges of implementing AI in healthcare settings.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-01-43 002-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-01-43 002-50-reduced.jpeg">
 </div>
 
 Once again!
@@ -81,7 +81,7 @@ Introducing the newly forged partnership,
 an instructor and postdoctoral researcher at Stanford University School of Medicine, eloquently presented K-BioX. He detailed its origins during the COVID-19 pandemic and highlighted its significant contributions to life and medical science researchers, underscoring the tangible benefits it has provided to numerous scientists and students. Dr. Rhee further emphasized K-BioX's impressive reach, noting its ability to attract over 1,000 participants to certain events, demonstrating its strong influence within the biomedical community. Finally, he articulated the profound implications of the collaboration between K-PAI and K-BioX, painting a compelling vision for their future joint endeavors and the lasting potential of this synergistic relationship between the two non-profit organizations.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-01-27 002-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-01-27 002-50-reduced.jpeg">
 </div>
 
 # Transformative Presentations on AI in Biomedicine
@@ -101,7 +101,7 @@ delivered a compelling presentation on the integration of AI-driven genomics and
 Particularly illuminating was Dr. Lee's explanation of how various types of biomedical data—genomic, proteomic, electronic health records, medical images, and wearable device data—are being integrated through AI to provide unprecedented insights. The presentation highlighted how The Cancer Genome Atlas, with its comprehensive data on over 11,000 samples across 33 cancer types, has become a cornerstone resource for training AI models to identify patterns invisible to human researchers.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-01-27 003-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-01-27 003-50-reduced.jpeg">
 </div>
 
 Dr. Lee's case study on colon cancer treatment was especially impactful. He demonstrated how AI analysis of tumor infiltrating lymphocytes (TILs) could predict which patients would respond to immunotherapy, addressing the critical challenge that only about 20% of patients currently benefit from immune checkpoint inhibitors. By using deep learning to identify neoantigens from genomic data and assess TILs from histopathological images, his team has developed models that significantly improve treatment selection for individual patients.
@@ -124,7 +124,7 @@ Most impressive were the practical applications Dr. Kim demonstrated, including:
 - Vision-language models that can predict amyloid and tau status in Alzheimer's patients from standard MRI scans, offering a non-invasive alternative to specialized PET scans that are often inaccessible outside major medical centers
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-02-34 022-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-02-34 022-50-reduced.jpeg">
 </div>
 
 Dr. Kim's work exemplified how AI is not only enhancing existing imaging capabilities but enabling entirely new diagnostic approaches that were previously impossible. His emphasis on foundation models that can be fine-tuned for specific tasks demonstrated the field's evolution toward more generalized AI systems that can handle multiple healthcare applications.
@@ -139,15 +139,15 @@ This sparked a three-way conversation highlighting the practical tensions betwee
 This spontaneous exchange exemplified the value of bringing together specialists from different fields who rarely have opportunities to directly engage with each other's perspectives. The conversation revealed how solutions developed in isolation often fail to account for the full complexity of healthcare delivery systems.
 
 <div class="img-container-justified">
-	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-41 022-50-reduced.jpeg">
-	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-15 007-50-reduced.jpeg">
-	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-24 012-50-reduced.jpeg">
+	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-41 022-50-reduced.jpeg">
+	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-15 007-50-reduced.jpeg">
+	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-24 012-50-reduced.jpeg">
 </div>
 
 <div class="img-container-justified">
-	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-13 006-50-reduced.jpeg">
-	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-17 008-50-reduced.jpeg">
-	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-49 027-50-reduced.jpeg">
+	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-13 006-50-reduced.jpeg">
+	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-17 008-50-reduced.jpeg">
+	<img width="32%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/KakaoTalk_Photo_2025-04-23-22-03-49 027-50-reduced.jpeg">
 </div>
 
 # Key Takeaways
@@ -188,6 +188,6 @@ and
 this model of cross-domain knowledge exchange will remain essential for developing technologies that are both powerful and responsible.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/06 - 22-Apr-2025/photos/Screenshot 2025-04-23 at 11.08.27 PM-50-reduced.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/Screenshot 2025-04-23 at 11.08.27 PM-50-reduced.png">
 </div>
 

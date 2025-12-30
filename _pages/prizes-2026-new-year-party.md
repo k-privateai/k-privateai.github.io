@@ -3,7 +3,7 @@ layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Mon Dec 29 07:18:17 PST 2025
+last_modified_at: Tue Dec 30 06:02:55 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -20,8 +20,8 @@ A red wine - Porta Cabernet Gran Reserva
 
 <div class="img-container-justified">
 &nbsp;
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2025-12-28-10-19-53-40-reduced.jpeg">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/pages/prizes-2026-new-year-party/large.webp">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2025-12-28-10-19-53-40-reduced.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/large.webp">
 &nbsp;
 </div>
 

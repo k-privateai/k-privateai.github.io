@@ -1,7 +1,7 @@
 ---
 title: "The Perpetual Partnership and the Paradigm Shift - Institutional Alliance Meets Architectural Innovation"
 date: Tue Sep 30 13:35:24 PDT 2025
-last_modified_at: Thu Oct  2 01:45:44 PDT 2025
+last_modified_at: Tue Dec 30 06:03:33 PST 2025
 permalink: /seminar-reflections/11
 categories:
  - blog
@@ -40,7 +40,7 @@ drawing close to <font color="red">one hundred</font> participants eager to expl
 represented far more than another successful Technical Forum. The evening began with a groundbreaking announcement that will *<font color="red">fundamentally reshape K-PAI's institutional foundation</font>*, followed by four exceptional presentations addressing one of AI's most existential challenges: the growing chasm between computational demand and energy supply. The palpable energy in the room&mdash;from the opening partnership ceremony through the extended networking session that refused to end &#x2605;^^&#x2605;&mdash;reflected the community's recognition that they were witnessing something genuinely historic.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-45-19 006-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-45-19 006-50-reduced.jpeg">
 </div>
 
 # A Historic Partnership for a New Era
@@ -74,7 +74,7 @@ Jae-Won Chung, a Ph.D. student from the University of Michigan and leader of the
 Chung outlined the three challenges present today in the context of AI, power, and energy. First is getting the power to supply to large capacity datacenters, which takes multiple years of planning, approval, and construction. The second challenge is managing the energy cost, which presents complex dynamics based on the electricity supply and sustainability committment structure of the said company. Finally, with extremely large scale AI training, properly managing the power consumption of such jobs lead to grid infrastructure stability challenges.
 
 <div class="img-container">
-	<img style="max-width:100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-37-22 002-50-reduced.jpeg">
+	<img style="max-width:100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-37-22 002-50-reduced.jpeg">
 </div>
 
 The presentation's practical contributions included detailed demonstrations of the Zeus framework for measuring and optimizing AI energy consumption, along with compelling visualizations of where energy actually goes during large model training. Chung revealed that significant "energy bloat" exists in current AI training pipelines—with his research showing potential for 30% energy reduction through better pipeline scheduling and power management. His work on the ML.ENERGY Leaderboard, which systematically measures inference energy consumption across models and hardware, provides the community with essential tools for making energy-aware architectural decisions.
@@ -86,7 +86,7 @@ Jieul Jang, Senior Director at Hanwha Qcells, argued that the AI industry faces 
 Jang’s presentation excelled at making abstract energy numbers visceral and comprehensible. He demonstrated that a single AI server rack consuming 120kW equals 38 Tesla Model Y charges per day, providing attendees with an intuitive grasp of the energy scale involved. He then showed that even with Nvidia Blackwell’s impressive 2.5x efficiency improvement, AI energy consumption will still grow from 176 TWh today to 400-450 TWh by 2028—an increase roughly equivalent to adding Texas-sized electricity demand to the grid. The brutal math: efficiency growing 2-3x while demand grows 10x means we still need at least 2x grid capacity expansion even under optimistic scenarios.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-44-32 003-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-44-32 003-50-reduced.jpeg">
 </div>
 
 The most compelling aspect of Jang’s argument centered on deployment speed. He systematically demonstrated that natural gas plants require 7-10 years from decision to operation, with current gas turbine delivery times alone stretching 5-7 years due to manufacturing constraints. Nuclear plants require 10+ years. In stark contrast, solar plus storage projects can achieve 18-month deployment timelines from decision to grid connection—the only technology that matches AI’s 2-3 year development cycles. Combined with cost advantages (new solar is now cheaper than running existing coal plants), Jang presented renewables not as an idealistic preference but as the pragmatic solution to an existential constraint.
@@ -98,7 +98,7 @@ Brian Shin from PG&E provided a comprehensive examination of the operational cha
 A particularly illuminating aspect of Shin's presentation was his analysis of the 2025 Iberia Peninsula blackout, which he attributed to inverter control failures and the absence of Grid Forming (GFM) inverters. His discussion of power market operations distinguished between ancillary service markets focused on power balance and frequency regulation versus energy service markets concerned with transmission congestion and price volatility. The dramatic transformation of California's energy landscape was evident in his data showing battery storage output increasing tenfold from 500MW in April 2021 to over 5,000MW in April 2024, demonstrating how Battery Energy Storage Systems (BESS) are fundamentally reshaping grid operations.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-44-32 004-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-44-32 004-50-reduced.jpeg">
 </div>
 
 Shin's presentation examined real-world security events, including Australia's Hornsdale BESS response to a "Large System Security Event" on August 25, 2018, where the battery system responded within 5 seconds to stabilize grid frequency. He detailed how California's August 14, 2020 Stage 3 emergency, which resulted in two load shedding events, could potentially have been avoided through strategic peak shaving using battery storage. His technical discussion of BESS operations explored optimal transformer sizing (1.5 to 2 times BESS capacity) and the dual revenue opportunities from both load balancing during high ramping periods and Frequency Control Ancillary Services (FCAS) for grid disturbances, positioning battery storage as potentially the main business opportunity for modern grid operators.
@@ -110,7 +110,7 @@ Seong Choi from the National Renewable Energy Laboratory (NREL) presented a visi
 Choi's historical analysis of cascading outages—from the 1965 Northeast blackout affecting 30 million people that collapsed in 13 minutes to the 2011 Western US event affecting 2.7 million customers—illustrated the persistent vulnerability of interconnected systems. His presentation distinguished between planned outages for vegetation management and equipment maintenance versus forced outages from faults, tornadoes, and lightning, noting that California ISO alone processes 15,000-20,000 outage records annually. The outage coordination process he described—from transmission operator submission through ISO review, equipment mapping, and contingency analysis—demonstrates the complex manual workflows that AI and digital twins could potentially automate and optimize.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-44-14 009-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-44-14 009-50-reduced.jpeg">
 </div>
 
 The centerpiece of Choi's presentation was NREL's eGridGPT platform, which integrates generative AI with digital twin technology to create what he termed "trustworthy AI" for grid operations. His vision traced the evolution from past analog control rooms through present digital systems to a future of comprehensive digital transformation, with eGridGPT designed to be cyber-secure, NERC compliant, and capable of running on-premise to satisfy critical infrastructure protection requirements. Choi demonstrated specific use cases including automated outage studies that can evaluate multiple scenarios in 30 minutes, integration of disparate tools to reduce display complexity, and processing of alarm floods exceeding 1,000 alarms per hour—showcasing how AI can transform previously manual or impossible analytical tasks into routine operations while maintaining the essential role of human operators in final decision-making.
@@ -120,13 +120,13 @@ The centerpiece of Choi's presentation was NREL's eGridGPT platform, which integ
 Throughout the evening, *<font color="red">the Alaska conference room buzzed with extraordinary energy and engagement</font>*. The historic partnership announcement generated immediate and sustained discussion among attendees, who recognized they were witnessing K-PAI's evolution into something larger and more enduring than a periodic gathering. <span style="color: red;">The generosity of UClone and MangoBoost</span> in sponsoring the reception created a welcoming atmosphere that encouraged meaningful connections during the networking hour, with premium refreshments facilitating conversations that would continue throughout the evening.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/midjourney/u1564158738_Most_remarkably_the_networking_session_following__16a15fa2-db25-422e-b1aa-1a1773d7e981_0.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/midjourney/u1564158738_Most_remarkably_the_networking_session_following__16a15fa2-db25-422e-b1aa-1a1773d7e981_0.png">
 </div>
 
 The technical presentations maintained intense audience focus, with attendees asking sophisticated questions that demonstrated deep engagement with the material. The diversity of perspectives—spanning academic research, renewable energy industry, utility operations, and national laboratory research—created a comprehensive view of the AI-energy challenge from multiple angles. Attendees repeatedly noted the exceptional quality of the speaker lineup and the practical applicability of the insights shared.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/midjourney/u1564158738_Most_remarkably_the_networking_session_following__2a94d2a4-b016-4da1-8879-a29c2027f686_1.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/midjourney/u1564158738_Most_remarkably_the_networking_session_following__2a94d2a4-b016-4da1-8879-a29c2027f686_1.png">
 </div>
 
 Most remarkably, the networking session following the formal presentations refused to end. Small groups clustered throughout the venue, with animated discussions continuing well past the scheduled 8pm conclusion. Energy professionals engaged with AI researchers about workload scheduling possibilities. Entrepreneurs explored potential collaborations in energy storage. Utility engineers discussed AI implementation strategies with software developers. The conversations were so intense and productive that, <span style="color: red;">as has become a recurring pattern at K-PAI forums</span>, [the organizers](/committee) once again had to actively encourage attendees to leave the conference room—a task made more difficult by the fact that nobody wanted to miss out on the valuable connections being forged.
@@ -140,7 +140,7 @@ A central theme emerging from the evening's presentations was the inescapable re
 This realization aligns perfectly with concerns I raised in my recent blog post, ["MIT-Invented Liquid Neural Networks - A Game-Changer for the Future of LLMs"](https://sungheeyun.github.io/ai/llm/energy-challenge), where I explored the unsustainable trajectory of AI's energy consumption. The forum's discussions validated my observation that even with optimistic projections for technologies like nuclear fusion becoming commercially viable by 2035-2050, we cannot wait for future energy breakthroughs. The mathematical reality presented by both Chung and Jang—that demand grows 10x while efficiency improves only 2-3x—demands immediate action on both fronts.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/midjourney/u1564158738_The_Two-Front_War_RealityPermalink_A_central_them_f6cf6771-e983-4269-a195-aaabc37100a8_0.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/midjourney/u1564158738_The_Two-Front_War_RealityPermalink_A_central_them_f6cf6771-e983-4269-a195-aaabc37100a8_0.png">
 </div>
 
 The two-front war has profound implications for how organizations approach energy strategy. Technology companies cannot assume that next-generation chips will solve the energy problem without also securing long-term power supply. Energy companies cannot assume that traditional deployment timelines are adequate for AI's accelerating demand. The companies and communities that will succeed in the AI era are those that develop integrated strategies addressing both optimization and capacity expansion with equal seriousness.
@@ -170,7 +170,7 @@ Shin's operational perspective and Choi's AI-enhanced control room vision togeth
 This grid modernization requirement creates both challenges and opportunities. The challenge lies in coordinating improvements across generation, transmission, distribution, and demand management—requiring collaboration between technology companies, utilities, regulators, and grid operators. The opportunity lies in deploying AI and advanced software systems to make existing grid infrastructure more capable and efficient while new physical infrastructure is built. Choi's eGridGPT demonstration suggested how AI can help extract more capability from current infrastructure during the extended period required for physical upgrades.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/midjourney/u1564158738_The_Grid_as_BottleneckPermalink_Shins_operational_5a4e78d1-d46e-4056-8d9c-df98e62b9428_0.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/midjourney/u1564158738_The_Grid_as_BottleneckPermalink_Shins_operational_5a4e78d1-d46e-4056-8d9c-df98e62b9428_0.png">
 </div>
 
 Interestingly, architectural innovations like [Liquid Neural Networks](https://sungheeyun.github.io/ai/llm/energy-challenge) could ease grid pressure by reducing peak power demands. If LNNs can deliver comparable results with significantly lower instantaneous power draw, data centers using these architectures would place less strain on local grid infrastructure. This creates a virtuous cycle: more efficient architectures reduce grid stress, enabling faster deployment of AI capacity within existing infrastructure constraints while new grid capacity comes online.
@@ -182,7 +182,7 @@ The perpetual K-PAI–KOTRA partnership announced at the Forum's opening represe
 This partnership model has implications beyond K-PAI's specific collaboration with KOTRA SV. It suggests how professional communities, trade organizations, research institutions, and private sector companies might create more effective collaboration mechanisms. The perpetual nature of the partnership—with concrete commitments around event co-hosting, industrial and academic collaboration, consultation, network sharing, and venue access—provides a template for how organizations can move beyond informal cooperation toward genuine institutional integration.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/midjourney/u1564158738_The_Partnership_ModelPermalink_The_perpetual_K-PA_d2713f04-bf51-4501-a273-b326ff8a509a_2.png">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/midjourney/u1564158738_The_Partnership_ModelPermalink_The_perpetual_K-PA_d2713f04-bf51-4501-a273-b326ff8a509a_2.png">
 </div>
 
 The collaboration between MIT research ([Liquid AI](https://sungheeyun.github.io/ai/llm/energy-challenge)), hardware manufacturers (Nvidia, AMD), renewable energy companies (Hanwha Qcells), utilities (PG&E), and national laboratories (NREL) exemplifies this partnership imperative. No single organization possesses all the expertise required to solve AI's energy challenge. Success requires bridging academic research, commercial deployment, infrastructure development, and operational excellence—exactly the kind of cross-sector collaboration that K-PAI's partnership with KOTRA SV is designed to facilitate.
@@ -262,7 +262,7 @@ The 11th K-PAI Forum successfully combined institutional advancement with techni
 The upcoming October 8th forum on "Ad Intelligence - AI Revolution in Digital Marketing" will explore how AI is transforming another critical application domain, with speakers from Impact AI, KAIST, and Viva Republica. The November 12th forum on "The AI Silicon Race - Korea-US Innovation Leadership," to be held at the Korea AI & IC Innovation Center (K•ASIC) through K-PAI's new partnership with that organization, will examine the semiconductor innovations enabling AI advancement. These future forums will build on the energy-focused insights from the 11th forum, recognizing that AI's practical deployment depends on solving infrastructure challenges alongside algorithmic advances.
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-46-10 016-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/11 - 29-Sep-2025/photos/KakaoTalk_Photo_2025-09-30-07-46-10 016-50-reduced.jpeg">
 </div>
 
 The extraordinary enthusiasm demonstrated by attendees—manifested in the extended networking session that organizers had to actively end—reflects the community's recognition that K-PAI provides something genuinely valuable and increasingly rare: a venue for substantive, cross-disciplinary dialogue about AI's real challenges rather than superficial hype. The combination of rigorous technical content, diverse industry perspectives, and genuine community connection creates an environment where meaningful insights emerge and lasting professional relationships form.

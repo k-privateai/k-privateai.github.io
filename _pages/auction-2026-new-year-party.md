@@ -3,7 +3,7 @@ layout: single
 title: 2026 K-PAI New Year Party Auction
 permalink: /auction-2026-new-year-party/
 date: Sun Dec 28 09:57:32 PST 2025
-last_modified_at: Mon Dec 29 07:12:59 PST 2025
+last_modified_at: Tue Dec 30 05:59:08 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -26,13 +26,13 @@ for a memorable mountain getaway.
 - Sleeps four comfortably and max six.
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/pages/auction-2026-new-year-party/Screenshot 2025-12-28 at 10.14.38 AM.png">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/pages/auction-2026-new-year-party/Screenshot 2025-12-28 at 10.14.54 AM.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Screenshot 2025-12-28 at 10.14.38 AM.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Screenshot 2025-12-28 at 10.14.54 AM.png">
 </div>
 
 <div class="img-container-justified">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/pages/auction-2026-new-year-party/Screenshot 2025-12-28 at 10.15.13 AM.png">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-pai/pages/auction-2026-new-year-party/Screenshot 2025-12-28 at 10.15.20 AM.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Screenshot 2025-12-28 at 10.15.13 AM.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Screenshot 2025-12-28 at 10.15.20 AM.png">
 </div>
 
 More info and photos can be found at
