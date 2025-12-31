@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Groups
 permalink: /groups/
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Tue Dec 30 06:02:44 PST 2025
+last_modified_at: Tue Dec 30 18:28:09 PST 2025
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -12,13 +12,43 @@ toc_sticky: true
 
 [K-PAI](/) encourages organically growing group meetings!
 
+# Official Groups
+
+## Bio/Medical/Data Group {#bmd-group}
+
+**Members** -
+[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
+[Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"}
+[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
+[Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"}
+[Sunghee](https://sungheeyun.github.io)
+(alphabetically ordered)
+
+## Karaoke Group {#karaoke-group}
+
+**Members** -
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
+[Sunghee](https://sungheeyun.github.io)
+Yeseul
+(alphabetically ordered)
+
+## AI Hands-on Group {#ai-hands-on-group}
+
+**Members** -
+[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
+James
+[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
+[Sunghee](https://sungheeyun.github.io)
+(alphabetically ordered)
+
 # 2025
 
 ## Dec-2025
 
 ### 26-Dec-2025 @ Camino Karaoke, Santa Clara
 
-The 1st K-PAI Karaoke Group!
+The 1st [K-PAI Karaoke Group](#karaoke-group) Gathering!
 We were
 [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
 [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
@@ -113,7 +143,7 @@ and
 
 ### 04-Nov-2025 @ Mountain View
 
-The **<span style="color: red;">first</span>** K-PAI's (organically created) group meeting; Bio / Medical / Data Group!
+The **<span style="color: red;">first</span>** K-PAI's (organically created) group meeting; [Bio / Medical / Data Group](#bmd-group)!
 We were
 [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"},
 [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"},
