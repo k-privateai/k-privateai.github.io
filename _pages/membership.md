@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Membership
 permalink: /membership/
 date: Sun Nov 24 09:48:08 PST 2024
-last_modified_at: Sat Oct 11 23:00:58 PDT 2025
+last_modified_at: Sun Jan  4 08:34:13 PST 2026
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -25,7 +25,7 @@ To become a **K-PAI member**, you must:
 
 1. Attend at least **two K-PAI forums**.
 2. Express your interest in membership through the forum registration form, <i>e.g.</i>,
-   <a target="_blank" href="https://lu.ma/fgzqg9ou">Registration &amp; Membership</a>.
+   <a target="_blank" href="https://luma.com/9xuuhnpq">Registration &amp; Membership</a>.
 
 Once approved, you’ll gain access to an exclusive network of Korean professionals and leaders in AI, technology, investment, and academia.
 
