@@ -3,7 +3,7 @@ layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Tue Dec 30 06:02:55 PST 2025
+last_modified_at: Tue Jan  6 22:04:33 PST 2026
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -11,6 +11,24 @@ toc_sticky: true
 ---
 
 # Prizes
+
+## Topgolf Gift Cards (4 x $50)
+
+<h3>Description of Item</h3>
+
+Four $50 Topgolf gift cards - perfect for an exciting outing with friends, colleagues, or family! Topgolf combines golf, entertainment, food, and fun in a unique experience suitable for all skill levels.
+
+Total value: $200
+
+<div class="img-container">
+&nbsp;
+<img style="max-width: 50%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/topgolf - gitf card.png">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Insuk Song](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"}
 
 ## Porta Cabernet Gran Reserva
 

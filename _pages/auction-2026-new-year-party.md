@@ -1,9 +1,9 @@
 ---
+date: Sun Dec 28 09:57:32 PST 2025
+last_modified_at: Tue Jan  6 21:40:59 PST 2026
 layout: single
 title: 2026 K-PAI New Year Party Auction
 permalink: /auction-2026-new-year-party/
-date: Sun Dec 28 09:57:32 PST 2025
-last_modified_at: Tue Dec 30 05:59:08 PST 2025
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -12,6 +12,66 @@ toc_sticky: true
 
 
 # Auction Items
+
+## Yoo Jae-ha 60th Anniversary Memorial LP Collection
+
+<h3>Description of Item / Service</h3>
+
+A rare collection commemorating the 60th anniversary of Yoo Jae-ha, a legendary Korean singer-songwriter and cornerstone of Korean popular music. This special bundle includes:
+
+1. **Yoo Jae-ha 1st Album "Because I Love You" 60th Anniversary Special Edition LP (Emerald Color Edition)**
+- Rarity: Limited edition 180g heavyweight vinyl remastered from original analog master reel tapes
+- Features stunning emerald green color pressing
+- Bonus content: Includes the legendary "Cigarette Smoke" jacket art (originally banned by censorship at release), plus special liner notes with Yoo Jae-ha's childhood photos and musical scores
+- Condition: Brand new, sealed
+
+<div class="img-container-justified">
+&nbsp;
+&nbsp;
+<img width="40%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Jae Ha Yu - LP - 1.jpg">
+<img width="40%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Jae Ha Yu - LP - 2.jpg">
+&nbsp;
+&nbsp;
+</div>
+
+1. **Yoo Jae-ha Music Competition Memorial Albums (29th & 32nd Edition CDs)**
+- Commemorative CDs featuring finalists from the prestigious Yoo Jae-ha Music Competition, which has launched many celebrated singer-songwriters
+- Never sold commercially - exclusive competition memorabilia
+- The 29th edition features "Complaint" by Choi Yuri, a currently rising singer-songwriter, from her early career
+- Condition: Unplayed, but unsealed (produced without plastic wrap)
+
+<div class="img-container">
+<img width="85%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Jae Ha Yu - CD - front.jpg">
+</div>
+
+<div class="img-container">
+<img width="85%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Jae Ha Yu - CD - back.jpg">
+</div>
+
+1. **Yoo Jae-ha "Because I Love You" Sheet Music Masking Tape**
+- Special merchandise produced by the Yoo Jae-ha Music Scholarship Foundation
+- Features printed sheet music and lyrics from "Because I Love You"
+- A unique collectible bringing Yoo Jae-ha's musical legacy into everyday life
+- Condition: Previously used
+
+This collection represents a piece of Korean music history, celebrating an artist whose influence continues to inspire generations of musicians.
+
+<h3>Fair Market Value</h3>
+$110 (includes sealed LP market value, CDs, merchandise, and estimated shipping from Korea)
+
+<h3>Starting Bid</h3>
+$50
+
+<h3>Expiration Date</h3>
+N/A
+
+<h3>Restrictions</h3>
+LP is in sealed condition; masking tape shows previous use; Yoo Jae-ha Music Competition CDs are unplayed but unsealed (produced without plastic wrap).
+
+<h3>Donor Info</h3>
+
+- Donor: [Jun Yeong Jang](https://www.linkedin.com/in/junyeongjang/){:target="_blank"}
+- Email: [jedychen@gmail.com](mailto:jedychen@gmail.com)
 
 ## Escape to Lake Tahoe
 
