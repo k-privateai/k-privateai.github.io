@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Activities
 permalink: /activities/
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Sat Dec 27 09:39:53 PST 2025
+last_modified_at: Tue Jan  6 21:30:27 PST 2026
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -44,7 +44,7 @@ This collaboration demonstrates **<span style="color:red;">[K-PAI](/)'s ability 
 **Status**: Completed (07-Oct-2025)
 
 <div id="silicon-valley-expert-roundtable" class="img-container">
-<img style="max-width: 100%;" src="/resource/pages/activities/Screenshot 2025-10-31 at 5.06.12 AM.png">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/activities/Screenshot 2025-10-31 at 5.06.12 AM.png">
 </div>
 
 From left
