@@ -1,7 +1,7 @@
 ---
+layout: single
 date: Sun Dec 28 09:57:32 PST 2025
 last_modified_at: Tue Jan  6 21:40:59 PST 2026
-layout: single
 title: 2026 K-PAI New Year Party Auction
 permalink: /auction-2026-new-year-party/
 toc: true

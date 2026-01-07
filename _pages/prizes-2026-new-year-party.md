@@ -1,9 +1,9 @@
 ---
 layout: single
+date: Sun Dec 28 09:58:38 PST 2025
+last_modified_at: Tue Jan  6 22:59:35 PST 2026
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
-date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Tue Jan  6 22:04:33 PST 2026
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -22,7 +22,7 @@ Total value: $200
 
 <div class="img-container">
 &nbsp;
-<img style="max-width: 50%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/topgolf - gitf card.png">
+<img style="max-width: 50%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/topgolf - gift card.png">
 &nbsp;
 </div>
 
