@@ -1,7 +1,7 @@
 ---
 layout: single
 date: Sun Dec 28 09:57:32 PST 2025
-last_modified_at: Tue Jan  6 21:40:59 PST 2026
+last_modified_at: Wed Jan  7 17:00:15 PST 2026
 title: 2026 K-PAI New Year Party Auction
 permalink: /auction-2026-new-year-party/
 toc: true
@@ -19,12 +19,11 @@ toc_sticky: true
 
 A rare collection commemorating the 60th anniversary of Yoo Jae-ha, a legendary Korean singer-songwriter and cornerstone of Korean popular music. This special bundle includes:
 
-1. **Yoo Jae-ha 1st Album "Because I Love You" 60th Anniversary Special Edition LP (Emerald Color Edition)**
+**1. Yoo Jae-ha 1st Album "Because I Love You" 60th Anniversary Special Edition LP (Emerald Color Edition)**
 - Rarity: Limited edition 180g heavyweight vinyl remastered from original analog master reel tapes
 - Features stunning emerald green color pressing
 - Bonus content: Includes the legendary "Cigarette Smoke" jacket art (originally banned by censorship at release), plus special liner notes with Yoo Jae-ha's childhood photos and musical scores
 - Condition: Brand new, sealed
-
 <div class="img-container-justified">
 &nbsp;
 &nbsp;
@@ -34,7 +33,7 @@ A rare collection commemorating the 60th anniversary of Yoo Jae-ha, a legendary 
 &nbsp;
 </div>
 
-1. **Yoo Jae-ha Music Competition Memorial Albums (29th & 32nd Edition CDs)**
+**2. Yoo Jaerha Music Competition Memorial Albums (29th & 32nd Edition CDs)**
 - Commemorative CDs featuring finalists from the prestigious Yoo Jae-ha Music Competition, which has launched many celebrated singer-songwriters
 - Never sold commercially - exclusive competition memorabilia
 - The 29th edition features "Complaint" by Choi Yuri, a currently rising singer-songwriter, from her early career
@@ -48,7 +47,7 @@ A rare collection commemorating the 60th anniversary of Yoo Jae-ha, a legendary 
 <img width="85%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/auction-2026-new-year-party/Jae Ha Yu - CD - back.jpg">
 </div>
 
-1. **Yoo Jae-ha "Because I Love You" Sheet Music Masking Tape**
+**3. Yoo Jae-ha "Because I Love You" Sheet Music Masking Tape**
 - Special merchandise produced by the Yoo Jae-ha Music Scholarship Foundation
 - Features printed sheet music and lyrics from "Because I Love You"
 - A unique collectible bringing Yoo Jae-ha's musical legacy into everyday life
