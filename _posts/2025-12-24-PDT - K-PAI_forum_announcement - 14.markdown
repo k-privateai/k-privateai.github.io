@@ -1,6 +1,6 @@
 ---
 date: Wed Dec 24 01:11:38 PST 2025
-last_modified_at: Thu Jan  8 23:42:40 PST 2026
+last_modified_at: Fri Jan  9 00:31:20 PST 2026
 layout: single
 title: "K-PAI's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
 permalink: /event-announcements/14
@@ -89,7 +89,7 @@ Special thanks to [KSWAN](https://kswan.muv.kr/){:target="_blank"} and [LikeLion
 
 **Where it goes:** All donated items will be posted at **[Auction Page](/auction-2026-new-year-party)** as soon as we receive them—giving attendees advance notice to plan their bidding strategy!
 
-<font color="red"><strong>Submit your auction donations to <a href="https://sungheeyun.github.io">Sunghee</a> via Kakaotalk (Kakao ID: shoptyun) by 07-Jan-2026!</strong></font>
+<font color="red"><strong>Submit your auction donations to <a href="https://sungheeyun.github.io">Sunghee</a> via Kakaotalk (Kakao ID: shoptyun) by 13-Jan-2026!</strong></font>
 
 *Both K-PAI members and non-members are warmly invited to donate! This is your chance to support our community while sharing something special.*
 
@@ -108,7 +108,7 @@ Special thanks to [KSWAN](https://kswan.muv.kr/){:target="_blank"} and [LikeLion
 
 **Where it goes:** All donated prizes will be posted at **[Prizes Page](/prizes-2026-new-year-party)** so everyone can see the amazing contributions our community is making!
 
-<font color="red"><strong>Submit your auction donations to <a href="https://sungheeyun.github.io">Sunghee</a> via Kakaotalk (Kakao ID: shoptyun) by 07-Jan-2026!</strong></font>
+<font color="red"><strong>Submit your auction donations to <a href="https://sungheeyun.github.io">Sunghee</a> via Kakaotalk (Kakao ID: shoptyun) by 13-Jan-2026!</strong></font>
 
 *These prizes will honor our outstanding community members and add excitement to our interactive games—your generosity directly enhances everyone's celebration experience!*
 
