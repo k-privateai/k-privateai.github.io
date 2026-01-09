@@ -1,9 +1,9 @@
 ---
+date: Sat Oct 11 22:27:55 PDT 2025
+last_modified_at: Thu Jan  8 23:30:52 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
-date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Tue Jan  6 23:52:31 PST 2026
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -103,53 +103,6 @@ toc_sticky: true
 > Promo Codes:<br>
 > 	•	UKF2026DAY_Startup50<br>
 > 	•	UKF2026DAY_Student50
-{: .notice--warning}
-
-### Sunghee announces SNU Engineering Faculty Networking Dinner
-
-> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 04:00 PST 2025
->
-> 👨‍🏫 서울대 공대 교수 채용 관심자 간담회
->
-> 서울대학교 공과대학 김영오 학장님께서 실리콘밸리 방문 중 서울대 교수직에 관심 있으신 분들을 위한 간담회를 개최합니다.
->
-> 일시: 2026년 1월 8일 (목) 저녁
->
-> 대상: 서울대 공대 교수 자리에 관심 있으신 분들
->
-> - Big Tech에서 근무하시다가 교수직 전환을 고려하시는 분
-> - Fresh PhD 혹은 PostDoc으로 학계 진출을 희망하시는 분
-> - 5-10년 회사 경력을 쌓으신 후 academia로의 커리어 전환을 생각하시는 분
-> - 그 외 서울대 공대 교수직에 관심이 있으신 분
->
-> 본인에 해당하시거나 주위에 이런 분들이 계시면 추천도 부탁드립니다!
->
-> 학장님께서 직접 서울대 교수 채용 절차, 연구 환경, 지원 사항 등에 대해 구체적으로 말씀해 주실 예정입니다.
->
-> 참석을 원하시거나 추천하실 분이 계시면 댓글이나 개인 메시지 부탁드립니다.
->
-> —
->
-> 👨‍🏫 SNU Engineering Faculty Position - Networking Dinner
->
-> Professor Young-Oh Kim, Dean of Seoul National University College of Engineering, is hosting a dinner meeting for those interested in faculty positions at SNU Engineering during his visit to Silicon Valley.
->
-> Date: January 8, 2026 (Thursday) Evening
->
-> Target Audience: Those interested in faculty positions at SNU School of Engineering
->
-> We are looking for:
->
-> - Professionals from Big Tech considering transition to academia
-> - Fresh PhDs or Postdocs seeking academic careers
-> - Those with 5-10 years of industry experience considering a career shift to academia
-> - Anyone else interested in faculty positions at SNU College of Engineering
->
-> If this applies to you or if you know someone who might be interested, please feel free to refer them!
->
-> Dean Kim will discuss SNU faculty recruitment process, research environment, support systems, and more in detail.
->
-> If you're interested in attending or would like to refer someone, please leave a comment or send a personal message.
 {: .notice--warning}
 
 ### Sunghee organizes KAIST Roundtable with Silicon Valley Professionals
@@ -298,6 +251,53 @@ toc_sticky: true
 > Interested in Joining?
 >
 > If you'd like to participate as a Solar Society member or want more information, please feel free to reach out to me personally anytime! ㅎㅎㅎ
+{: .notice--info}
+
+### Sunghee announces SNU Engineering Faculty Networking Dinner
+
+> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 04:00 PST 2025
+>
+> 👨‍🏫 서울대 공대 교수 채용 관심자 간담회
+>
+> 서울대학교 공과대학 김영오 학장님께서 실리콘밸리 방문 중 서울대 교수직에 관심 있으신 분들을 위한 간담회를 개최합니다.
+>
+> 일시: 2026년 1월 8일 (목) 저녁
+>
+> 대상: 서울대 공대 교수 자리에 관심 있으신 분들
+>
+> - Big Tech에서 근무하시다가 교수직 전환을 고려하시는 분
+> - Fresh PhD 혹은 PostDoc으로 학계 진출을 희망하시는 분
+> - 5-10년 회사 경력을 쌓으신 후 academia로의 커리어 전환을 생각하시는 분
+> - 그 외 서울대 공대 교수직에 관심이 있으신 분
+>
+> 본인에 해당하시거나 주위에 이런 분들이 계시면 추천도 부탁드립니다!
+>
+> 학장님께서 직접 서울대 교수 채용 절차, 연구 환경, 지원 사항 등에 대해 구체적으로 말씀해 주실 예정입니다.
+>
+> 참석을 원하시거나 추천하실 분이 계시면 댓글이나 개인 메시지 부탁드립니다.
+>
+> —
+>
+> 👨‍🏫 SNU Engineering Faculty Position - Networking Dinner
+>
+> Professor Young-Oh Kim, Dean of Seoul National University College of Engineering, is hosting a dinner meeting for those interested in faculty positions at SNU Engineering during his visit to Silicon Valley.
+>
+> Date: January 8, 2026 (Thursday) Evening
+>
+> Target Audience: Those interested in faculty positions at SNU School of Engineering
+>
+> We are looking for:
+>
+> - Professionals from Big Tech considering transition to academia
+> - Fresh PhDs or Postdocs seeking academic careers
+> - Those with 5-10 years of industry experience considering a career shift to academia
+> - Anyone else interested in faculty positions at SNU College of Engineering
+>
+> If this applies to you or if you know someone who might be interested, please feel free to refer them!
+>
+> Dean Kim will discuss SNU faculty recruitment process, research environment, support systems, and more in detail.
+>
+> If you're interested in attending or would like to refer someone, please leave a comment or send a personal message.
 {: .notice--info}
 
 ### Sunghee highlights Board Page Message Archive
