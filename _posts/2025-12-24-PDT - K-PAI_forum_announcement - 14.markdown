@@ -1,6 +1,6 @@
 ---
 date: Wed Dec 24 01:11:38 PST 2025
-last_modified_at: Fri Jan  9 00:31:20 PST 2026
+last_modified_at: Fri Jan  9 11:35:59 PST 2026
 layout: single
 title: "K-PAI's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
 permalink: /event-announcements/14
@@ -30,6 +30,44 @@ updated: {{ page.last_modified_at | date: "%d-%b-%Y" }}
 Use this link
 &ndash; <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a> &ndash;
 to share this celebration!
+
+<h1>Posts on SNS</h1>
+
+- [Sunghee's Instagram](https://www.instagram.com/p/DTTQ1U9ksWx/){:target="_blank"}
+- [K-PAI Instagram Page](https://www.instagram.com/p/DTTQ_BrEkUa/){:target="_blank"}
+- [Sunghee's Facebook](https://www.facebook.com/sunghee.yun1/posts/pfbid0ZFzijrbXgsCnjR23n8JjB7y2Nw68ioo3YR58zFDoVPLqmnCSeP4YaK3qRDu7EAEl){:target="_blank"}
+- [K-PAI Facebook Page](https://www.facebook.com/groups/1341495107592328/permalink/1441523834256121/){:target="_blank"}
+- [Sunghee's X](https://x.com/sunghee14/status/2009703223268122654){:target="_blank"}
+
+<div class="img-container-justified">
+	<div id="podcast-video-01" style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px auto; display: block; max-width: fit-content;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Party to Powerhouse - K-PAI</strong>
+			<span style="opacity: 0.8;">(05:24)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<video width="100%" controls>
+				<source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-12-24-PDT - K-PAI_forum_announcement - 14/Party_to_Powerhouse__K-PAI.mp4">
+				Your browser does not support this video element.
+			</video>
+		</div>
+	</div>
+</div>
+
+<div class="img-container-justified">
+	<div style="width: 96%; border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px 0;">
+		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
+			<strong>Deep Dive - K-PAI's Strategic Shift Chips and Policy</strong>
+			<span style="opacity: 0.8;">(14:49)</span>
+		</div>
+		<div style="padding: 10px; background-color: #ecf0f1;">
+			<audio id="podcast-audio-deep-dive-01" controls style="width: 100%;">
+				<source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/posts/2025-12-24-PDT - K-PAI_forum_announcement - 14/Deep Dive - K-PAI_s_Strategic_Shift_Chips_and_Policy.m4a">
+				Your browser does not support this audio element.
+			</audio>
+		</div>
+	</div>
+</div>
 
 {% assign prev_announcement = site.posts | where: "permalink", "/event-announcements/13" | first %}
 
