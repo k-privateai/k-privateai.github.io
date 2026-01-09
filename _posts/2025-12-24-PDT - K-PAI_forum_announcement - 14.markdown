@@ -1,8 +1,8 @@
 ---
+date: Wed Dec 24 01:11:38 PST 2025
+last_modified_at: Thu Jan  8 23:42:40 PST 2026
 layout: single
 title: "K-PAI's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
-date: Wed Dec 24 01:11:38 PST 2025
-last_modified_at: Mon Dec 29 07:29:39 PST 2025
 permalink: /event-announcements/14
 categories:
  - blog
@@ -77,6 +77,8 @@ Special thanks to [KSWAN](https://kswan.muv.kr/){:target="_blank"} and [LikeLion
 ## DONATE YOUR ITEMS FOR THE AUCTION!
 
 **We need YOUR treasures!** Help make our first K-PAI auction spectacular by donating items for bidding!
+
+**Why we're doing this:** The auction serves a meaningful purpose—funds raised will support K-PAI's sustainability through three pillars: (1) basic non-profit operations (tax filing, bookkeeping), (2) enhanced member value (travel stipends for world-class speakers, mentorship programs), and (3) broader societal impact (*e.g.*, K-PAI scholarships, partnerships addressing AI-era inequality and equitable technology access). Your donations don't need to be expensive—every contribution, regardless of value, helps build our community's collective resources!
 
 **What to donate:** Technology gadgets, art pieces, collectibles, services (consulting, coaching, lessons), experiences (dinner for two, wine tasting), signed books, vintage items, handmade crafts—anything of value to our community!
 
@@ -266,19 +268,35 @@ While we can't recognize everyone deserving acknowledgment, these awards represe
 
 Here's something completely new and exciting—**a community auction** featuring items donated by [K-PAI](/) members themselves!
 
+<h3>Why We're Holding This Auction</h3>
+
+This auction represents more than fundraising—it's a strategic initiative to ensure [K-PAI](/)'s long-term sustainability and expanding impact. The funds raised will be allocated across three essential pillars:
+
+**1. Organizational Sustainability**
+Basic non-profit operations including tax filing, bookkeeping, and administrative infrastructure that keep [K-PAI](/) running professionally and compliantly.
+
+**2. Enhanced Member Value**
+Travel stipends to bring world-class speakers we couldn't otherwise afford, mentorship programs for entrepreneurship and career development, and resources that directly benefit our community members.
+
+**3. Societal Impact**
+Establishing the "K-PAI Scholarship" and collaborating with organizations focused on gender equality, equitable technology access, and addressing AI-era inequality challenges—extending [K-PAI](/)'s positive influence beyond our immediate community.
+
+By participating in this auction—whether as donor or bidder—you're directly investing in [K-PAI](/)'s ability to serve not just our members, but the broader cause of responsible, humanistic, and inclusive AI development.
+
 <h3>How It Works</h3>
 
 **For Donors**
 - Members contribute items (technology, art, experiences, services, collectibles—anything!)
 - All donations support [K-PAI](/)'s operations, events, and community initiatives
+- Items don't need to be expensive—every contribution matters and is deeply appreciated
 
 **For Bidders**
 - Discover unique items you won't find elsewhere
 - Support fellow community members
-- Contribute to [K-PAI](/)'s sustainability
+- Contribute to [K-PAI](/)'s sustainability across all three pillars
 - Have fun competing for interesting offerings!
 
-<span class="emph">This auction embodies [K-PAI](/)'s communal spirit—members supporting each other while building our collective resources. It's fundraising, but it's also community building through playful interaction and shared generosity.</span>
+<span class="emph">This auction embodies [K-PAI](/)'s communal spirit—members supporting each other while building our collective resources. It's fundraising, but it's also community building through playful interaction and shared generosity. More fundamentally, it's about ensuring [K-PAI](/) can continue growing as a force for responsible AI development that serves humanity.</span>
 
 ## Games, Networking & Closing Reception 🎮 (8pm ~ 8:30pm)
 
