@@ -1,7 +1,7 @@
 ---
-layout: single
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Fri Jan  9 22:35:43 PST 2026
+last_modified_at: Fri Jan  9 22:41:55 PST 2026
+layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
 toc: true
@@ -11,6 +11,8 @@ toc_sticky: true
 ---
 
 # Prizes
+
+So far <strong>19</strong> items have been donated kindly! Thank you, EVERYONE!!!
 
 ## LAMY Logo Brushed Steel BPs (2 ball pens)
 
@@ -87,9 +89,6 @@ This exclusive Samsung Classic collection represents a unique piece of corporate
 
 - Donor: [Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"}
 
-## Porta Cabernet Gran Reserva
-
-<h3>Description of Item</h3>
 ## Topgolf Gift Cards (4 x $50)
 
 <h3>Description of Item</h3>
