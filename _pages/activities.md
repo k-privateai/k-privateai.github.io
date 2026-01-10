@@ -1,9 +1,9 @@
 ---
+date: Fri Oct 31 04:13:49 PDT 2025
+last_modified_at: Sat Jan 10 00:24:39 PST 2026
 layout: single
 title: K-PAI Activities
 permalink: /activities/
-date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Fri Jan  9 21:39:05 PST 2026
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -16,8 +16,9 @@ toc_sticky: true
 
 |Item|Owner(s)|Status|
 |[Silicon Valley Expert Roundtable with Korean National Assembly Members](#silicon-valley-expert-roundtable-with-korean-national-assembly-members--07-oct-2025)|[Sunghee](https://sungheeyun.github.io)|Completed on 07-Oct-2025|
+|[SNU Engineering Faculty Networking Dinner & Coffee Chat](#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026)|[Sunghee](https://sungheeyun.github.io) [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} |Completed on 08-09 Jan 2026|
 |[KAIST Silicon Valley Talent Attraction Roundtable](#kaist-silicon-valley-talent-attraction-roundtable--22-jan-2026)|[Sunghee](https://sungheeyun.github.io)|Scheduled for 22-Jan-2026|
-|[SNU College of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|MOU development in progress|
+|[SNU College of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|MOU development in progress|
 |[Korea University Business School (KUBS) Center for Digital Transformation &amp; Business (CDTB) Partnership Initiative](#korea-university-business-school-kubs-center-for-digital-transformation--business-cdtb-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|Under development|
 |[Joint Hackathon with Krafton (PUBG Developers)](#joint-hackathon-with-krafton-pubg-developers)|[Sunghee](https://sungheeyun.github.io) + [Peter](https://www.linkedin.com/in/peter-bae-551b1b1/){:target="_blank"}|Under development|
 
@@ -73,6 +74,71 @@ From left
 [Senator Jeon](https://namu.wiki/w/%EC%A0%84%EC%9A%A9%EA%B8%B0){:target="_blank"}
 /
 [Consul Lee @ Consulate General of the Republic of Korea in San Francisco](https://www.linkedin.com/in/jayhlee930/){:target="_blank"}
+
+# SNU Engineering Faculty Networking Dinner & Coffee Chat @ 08-09 Jan 2026
+
+On January 8-9, 2026, [K-PAI](/) facilitated two exceptional networking events connecting Stanford's graduate community with [Seoul National University (SNU) College of Engineering](https://k-privateai.github.io/kptm/){:target="_blank"} leadership—creating meaningful pathways for aspiring academics to explore faculty careers at one of Korea's most prestigious institutions.
+These valuable connections were made possible by [Nathan](https://www.linkedin.com/in/naehyuck/){:target="_blank"},
+an enthusiastic new K-PAI member who also delivered an excellent presentation at [our 13th Forum](/seminar-reflections/13#naehyuck-changs-vision---from-standard-cells-to-physical-ai){:target="_blank"}.
+
+<div class="img-container-justified">
+&nbsp;
+<img width="35%" src="/assets/images/k-logo-red.svg">
+<img width="35%" src="/resource/org-logos/snu-logo-01.svg">
+&nbsp;
+</div>
+
+**January 8, 2026 - Faculty Networking Dinner**
+
+Professor Young-Oh Kim, Dean of [Seoul National University College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}, hosted an intimate dinner at an outstanding Chinese restaurant in Palo Alto during his Silicon Valley visit. The event was designed to provide candid, practical guidance about academic careers to Silicon Valley-based Korean scholars considering faculty positions.
+
+The response from Stanford's graduate community was overwhelming—**so many PhD students and postdoctoral scholars wanted to participate that [K-PAI](/) regretfully had to limit attendance to 8 students** to ensure quality dialogue. The final group included 8 Stanford PhD students and postdocs across diverse engineering disciplines, plus one industry professional, creating the perfect environment for deep, meaningful conversations.
+
+<div class="img-container">
+	<img
+		style="max-width: 100%;"
+		width="100%"
+		src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/activities/2026_0108 - SNU Engineering Faculty Networking Dinner 01-50-reduced.jpeg">
+</div>
+
+The dinner conversation ranged widely across critical topics facing academic careers today.
+
+- **Faculty Recruitment Strategies** - How universities should attract exceptional scholars from both academia and industry, competing with lucrative Silicon Valley opportunities while building world-class research programs
+- **VISA & Immigration Challenges** - Navigating complex visa processes for international scholars—a crucial practical barrier affecting talent mobility between Silicon Valley and Korea
+- **Research Areas vs. Industry Dynamics** - Balancing specialized academic research with rapidly evolving industry needs, particularly in fast-moving fields like AI, semiconductors, and biotechnology
+- **Building Research Groups** - Concrete strategies for attracting talented graduate students and postdocs once becoming faculty, establishing successful research programs from scratch
+- **Practical Career Concerns** - Honest, candid discussions about realistic considerations including age expectations for new faculty appointments, tenure timelines, research funding realities, and work-life balance in academia
+
+**The dialogue was remarkably candid and practical—exactly the kind of real-world guidance that prospective faculty need but rarely receive in formal settings.** Dean Kim's openness about SNU's recruitment process, research environment, and support systems created an atmosphere where students felt comfortable asking the questions that truly matter when considering academic careers.
+
+**January 9, 2026 - Spontaneous Coffee Chat Follow-up**
+
+The dinner conversation was so engaging and valuable that [Sunghee](https://sungheeyun.github.io) immediately proposed and arranged a follow-up coffee chat the very next afternoon!
+This spontaneous continuation demonstrated <span style="color: red; font-weight: bold; font-style: italic;">K-PAI's responsiveness to community needs and commitment to maximizing value from Dean Kim's Silicon Valley visit</span>.
+
+<div class="img-container">
+	<img
+		style="max-width: 100%;"
+		width="100%"
+		src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/activities/2026_0109 - SNU Engineering Faculty Networking Coffee Chat - 02-50-reduced.jpeg">
+</div>
+
+The coffee chat brought Dean Kim together with another group of 18!! Stanford PhD students and postdoctoral scholars in a casual campus coffee shop setting, extending the meaningful exchange to scholars who couldn't attend the dinner. The informal atmosphere encouraged even more candid discussions about career transitions, research opportunities, and the practical realities of academic life at SNU.
+
+**Community Impact**
+
+These back-to-back networking events accomplished multiple strategic objectives.
+
+- **Direct Personal Connections** - Created authentic relationships between Dean Kim and promising Silicon Valley-based Korean scholars, moving beyond transactional recruitment to genuine mentorship conversations
+- **Validated Strong Demand** - Overwhelming interest from Stanford community confirmed significant appetite for Korea-US academic exchange opportunities and information about faculty careers at premier Korean institutions
+- **Demonstrated [K-PAI](/) Value** - <span style="color: red;">Showcased K-PAI's ability to facilitate meaningful career development opportunities for members, connecting Silicon Valley scholars with Korean academic leadership</span>
+- **Pragmatic Career Guidance** - Provided rare access to candid, practical information about academic careers that's difficult to obtain through formal channels—helping scholars make informed decisions about their futures
+
+**The spontaneous organization of the second event perfectly exemplifies [K-PAI](/)'s agility and member-centric approach—when we saw value and demand, we acted immediately to maximize the opportunity.**
+
+**Owner**: [Sunghee Yun, K-PAI Leader](https://sungheeyun.github.io)
+<br>
+**Status**: Completed (08-09 Jan 2026) ✅
 
 # KAIST Silicon Valley Talent Attraction Roundtable @ 22-Jan-2026
 
