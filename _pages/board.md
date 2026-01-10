@@ -1,6 +1,6 @@
 ---
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Sat Jan 10 13:54:26 PST 2026
+last_modified_at: Sat Jan 10 14:39:05 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
@@ -13,6 +13,27 @@ toc_sticky: true
 # Conversations on [K-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
 ## Selected Posts
+
+### Sunghee announces SNU Networking Success and Strategic Partnership Progress!
+
+{: .notice--warning}
+> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 01:02 PST 2026
+>
+> <span>1.</span> 일단 어제 (목) 저녁부터 오늘 (금) 오후까지 이어진 서울대 공대 학장님과 Stanford 학생/포닥과의 만남에 대한 report 입니다 -
+> [https://k-privateai.github.io/activities/#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026](/activities/#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026){:target="_blank"}
+> :)
+>
+> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 01:35 PST 2026
+>
+> <span>2.</span> 오늘 (금) 저녁 서울대 공대와 K-PAI와의 협력 모델에 대한 논의 내용을 상세히 업데이트 했습니다!
+> [https://k-privateai.github.io/activities/#snu-college-of-engineering-strategic-partnership-initiative](/activities/#snu-college-of-engineering-strategic-partnership-initiative){:target="_blank"}
+> 자리를 마련해 주신 @[Nathan](https://www.linkedin.com/in/naehyuck/){:target="_blank"} 교수님과 @[박찬익](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} 부사장님께 다시 한번 큰 감사를 드립니다! 함께 이렇게 큰 성과를 이끌어 낼 수 있게 해 주신
+> [K-PAI](/) 멤버 여러분들께도 감사의 마음을 전합니다! - 이 collaboration model을 통해 우리 K-PAI 멤버 모두에게 많은 기회가 주어지게 되었습니다! 십분 활용하시기 바랍니다! :)
+>
+> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 12:18 PST 2026
+>
+> 어제 하나 빠져 먹은 게 있어서 더했습니다! :) -
+> [https://k-privateai.github.io/activities/#startx](/activities/#startx){:target="_blank"}
 
 ### Sunghee announces 2026 New Year Party and Seeks Community Contributions!
 
