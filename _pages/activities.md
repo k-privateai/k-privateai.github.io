@@ -1,6 +1,6 @@
 ---
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Sat Jan 10 00:24:39 PST 2026
+last_modified_at: Sat Jan 10 01:29:03 PST 2026
 layout: single
 title: K-PAI Activities
 permalink: /activities/
@@ -18,7 +18,7 @@ toc_sticky: true
 |[Silicon Valley Expert Roundtable with Korean National Assembly Members](#silicon-valley-expert-roundtable-with-korean-national-assembly-members--07-oct-2025)|[Sunghee](https://sungheeyun.github.io)|Completed on 07-Oct-2025|
 |[SNU Engineering Faculty Networking Dinner & Coffee Chat](#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026)|[Sunghee](https://sungheeyun.github.io) [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} |Completed on 08-09 Jan 2026|
 |[KAIST Silicon Valley Talent Attraction Roundtable](#kaist-silicon-valley-talent-attraction-roundtable--22-jan-2026)|[Sunghee](https://sungheeyun.github.io)|Scheduled for 22-Jan-2026|
-|[SNU College of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|MOU development in progress|
+|[SNU College of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|Kick-off dinner completed; MOU signing & execution in progress|
 |[Korea University Business School (KUBS) Center for Digital Transformation &amp; Business (CDTB) Partnership Initiative](#korea-university-business-school-kubs-center-for-digital-transformation--business-cdtb-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|Under development|
 |[Joint Hackathon with Krafton (PUBG Developers)](#joint-hackathon-with-krafton-pubg-developers)|[Sunghee](https://sungheeyun.github.io) + [Peter](https://www.linkedin.com/in/peter-bae-551b1b1/){:target="_blank"}|Under development|
 
@@ -188,49 +188,95 @@ This roundtable exemplifies [K-PAI](/)'s expanding role as a strategic connector
 &nbsp;
 </div>
 
-**The Partnership Vision**
+## The Partnership Vision
 
 Dean Young-Oh Kim is visiting Silicon Valley to explore comprehensive Korea-US academic and professional exchange opportunities. Rather than a one-time event, this represents [K-PAI](/)'s evolution toward institutionalized partnerships with leading Korean universities. The deliverable is a signed MOU that will formalize ongoing collaboration across multiple dimensions.
 
-**Kick-off Meeting: January 9, 2026**
+## Kick-off Strategic Partnership Dinner: January 9, 2026 - COMPLETED ✅
 
-The partnership initiative launches with a strategic dinner meeting where Dean Kim and selected [K-PAI](/) members will
-- Discuss the framework and scope of the partnership
-- Identify mutual priorities and collaboration opportunities
-- Outline the structure and commitments for the MOU
-- Establish working groups and timeline for MOU development
+The partnership initiative launched with tremendous success! Dean Young-Oh Kim hosted an elegant strategic dinner at a luxury restaurant in Palo Alto, bringing together [K-PAI](/) leadership and selected members to discuss and formalize the collaboration framework. This wasn't just a networking dinner—it was a working session that produced **concrete, actionable commitments** transforming the partnership from concept to reality.
 
-**Proposed Partnership Pillars**
+<div class="img-container-justified">
+<img style="max-width: 49%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/activities/2026_0109 - SNU College of Engineering Strategic Partnership Initiatiative Diner - 03-25-reduced.jpeg">
+<img style="max-width: 49%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/activities/2026_0109 - SNU College of Engineering Strategic Partnership Initiatiative Diner - 06-25-reduced.jpeg">
+</div>
 
-The MOU under development will encompass
+## Concrete Agreements & Action Items
 
-- **Faculty Recruitment & Exchange**: Creating pathways for Silicon Valley professionals (Big Tech scientists, fresh PhDs/postdocs, experienced engineers) to join SNU faculty, with [K-PAI](/) serving as a talent identification and networking bridge
-- **Student Exchange Programs**: Facilitating Korean-American students to study at SNU for academic year programs, experiencing Korea's innovation ecosystem while maintaining Silicon Valley connections
-- **Startup Ecosystem Connection**: Supporting SNU startup founders' Silicon Valley market entry through [K-PAI](/) member mentorship, investor introductions, and network access
-- **Joint Research Initiatives**: Establishing collaborative research projects between SNU faculty and [K-PAI](/) members in AI, semiconductors, and emerging technologies
-- **Professional Development Programs**: Creating internship and short-term training opportunities for SNU students with Silicon Valley companies represented in [K-PAI](/)
-- **Knowledge Exchange Forums**: Organizing regular seminars, workshops, and technical talks connecting SNU researchers with Silicon Valley practitioners
+The dinner yielded specific, time-bound commitments across multiple collaboration dimensions:
 
-**What This Partnership Represents**
+<h3>1. Immediate Actions - Launching NOW</h3>
 
-This MOU initiative demonstrates [K-PAI](/)'s maturation from event organizer to institutional partner:
-- **Sustained Impact**: Moving beyond one-time interactions to ongoing, structured collaboration
-- **Tangible Deliverables**: Creating formal frameworks that outlive individual initiatives
-- **Member Value**: Providing [K-PAI](/) members with concrete opportunities for academic collaboration, talent development, and cross-border innovation
-- **Strategic Positioning**: Establishing [K-PAI](/) as a trusted bridge institution between Silicon Valley and Korea's premier universities
+✅ **SNU Student Internship Pipeline**: [K-PAI](/) will IMMEDIATELY initiate connections between SNU entrepreneur students and Silicon Valley companies (including startups) for internship opportunities. This addresses the critical gap where talented Korean students struggle to access Silicon Valley industry experience.
+
+✅ **VISA Support System**: [K-PAI](/) will examine the feasibility of establishing a system to help people coming from Korea navigate complex VISA challenges—a practical barrier repeatedly identified as hindering talent mobility.
+
+<h3>2. [Sunghee](https://sungheeyun.github.io)'s Next Korea Visit - Multi-faceted Engagement</h3>
+
+During [Sunghee](https://sungheeyun.github.io)'s (very) next business trip to Korea, the following activities are confirmed:
+
+📢 **AI + K-PAI Special Seminar** - [Sunghee](https://sungheeyun.github.io) will deliver a comprehensive seminar to SNU Engineering School (potentially extended to Natural Sciences, Humanities and Social Science schools) conveying differentiated knowledge, experience, and insights around AI that ONLY K-PAI can deliver—covering technology, industry dynamics, market evolution, entrepreneurship, investment horizons across both software, product, service, and hardware, and Silicon Valley's unique perspective on AI development.
+
+🤝 **Professor Roundtable** - [Sunghee](https://sungheeyun.github.io) (and possibly other [K-PAI](/) members) will conduct an intimate roundtable with SNU engineering professors, potentially including faculty from business school, natural sciences, humanities, and social sciences.
+&ndash;
+Topics: technology trends, entrepreneurship pathways, industry dynamics, and concrete opportunities for ongoing collaboration.
+
+📝 **MOU Signing Ceremony** - [K-PAI](/) and [SNU College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"} will formally sign the Memorandum of Understanding, with media coverage (journalists/newspaper reporters invited) to publicly announce this strategic partnership and its tangible deliverables!
+
+<h3>3. Sustained Collaboration Models - Framework Established</h3>
+
+The dinner established frameworks for ongoing, structured collaboration:
+
+🎓 **K-PAI Expert Mentorship Program** - [K-PAI](/) will provide experts and mentors delivering advice and insights that only Silicon Valley practitioners can offer—supporting SNU students, faculty, and researchers with real-world guidance on technology, startups, and industry careers.
+
+📚 **SNU Business Insight Exchange** - Complementing [K-PAI](/)'s practitioner expertise, SNU will provide specialized, discipline-based business insights for entrepreneurs—the kind of rigorously grounded academic knowledge that only professionally trained professors can deliver. <span style="color:red; font-weight: bold;">This represents the complementary strengths of K-PAI (real builders in Silicon Valley) and SNU College of Engineering (scholars with deep academic knowledge and theory).</span>
+
+🌏 **Student Exchange Programs** - Facilitating Korean-American students to study at SNU for academic year programs, experiencing Korea's innovation ecosystem while maintaining Silicon Valley connections—creating bicultural, bilingual talent pipelines.
+
+🎤 **Knowledge Exchange Forums** - Organizing regular seminars, workshops, and technical talks connecting SNU researchers with Silicon Valley practitioners—systematic knowledge transfer between academia and industry.
+
+🚀 **Startup Ecosystem Connection** - Supporting SNU startup founders' Silicon Valley market entry through [K-PAI](/) member mentorship, investor introductions, and network access—helping Korean founders navigate Silicon Valley's unique startup ecosystem.
+
+## The MEGA Vision! 🎯
+
+Dean Young-Oh Kim proposed an inspiring slogan capturing the partnership's ambitious spirit!
+
+> MEGA - Make Engineers Great Again!
+
+While the phrasing may evolve, the sentiment perfectly captures our shared mission: <span style="color:red; font-weight: bold;">empowering engineers to not just build technology, but to lead industries, shape societies, and create meaningful impact</span>. This isn't just about technical excellence—it's about <span class="emph">cultivating engineers who can bridge cultures, connect ecosystems, and drive innovation at the intersection of Korea and Silicon Valley</span>.
+
+> When you think of K-PAI × SNU College of Engineering collaboration, think <span style="color: red;">MEGA</span>! 🚀
+
+## What Makes This Partnership Unique
+
+This collaboration exemplifies [K-PAI](/)'s distinctive value proposition:
+
+- <span style="color: red;">**Actionable from Day One**</span> - Moving immediately from agreements to execution (internship pipeline launching NOW)
+- **Complementary Strengths** - Combining Silicon Valley's practical builder expertise with SNU's rigorous academic foundation
+- **Bidirectional Value** - Not just [K-PAI](/) helping SNU, but genuine mutual benefit and knowledge exchange
+- **Media Visibility** - MOU signing with press coverage establishes this as significant institutional partnership
+- <span style="color: red;">**Member Engagement** - Creating concrete opportunities for [K-PAI](/) members to contribute expertise and build Korean connections</span>
+
+## What This Partnership Represents
+
+This MOU initiative demonstrates [K-PAI](/)'s maturation from event organizer to <span style="color:red; font-weight: bold;">institutional partner!</span>
+- **Sustained Impact** - Moving beyond one-time interactions to ongoing, structured collaboration
+- **Tangible Deliverables** - Creating formal frameworks that outlive individual initiatives
+- **Member Value** - Providing [K-PAI](/) members with concrete opportunities for academic collaboration, talent development, and cross-border innovation
+- **Strategic Positioning** - Establishing [K-PAI](/) as a trusted bridge institution between Silicon Valley and Korea's premier universities
 
 **For [K-PAI](/) Members**
 
 This partnership offers multiple engagement opportunities:
-- Serve as guest lecturers or research collaborators at SNU
+- Host SNU interns and exchange students
 - Mentor SNU startup founders entering Silicon Valley
 - Access SNU's research capabilities and talent pipeline
 - Participate in joint research projects bridging industry and academia
-- Host SNU interns and exchange students
+- Serve as guest lecturers or research collaborators at SNU
 
-**Owner**: [Chanik Park, K-PAI Leader](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} &amp; [Sunghee, K-PAI Leader](https://sungheeyun.github.io)
+**Owner**: [Chanik Park, K-PAI Leader](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} &amp; [Sunghee Yun, K-PAI Leader](https://sungheeyun.github.io)
 <br>
-**Status**: MOU development initiated with kick-off dinner scheduled for 09-Jan-2026
+**Status**: Kick-off strategic dinner completed (09-Jan-2026) ✅; MOU signing scheduled for Sunghee's next Korea visit; internship pipeline launching immediately
 
 # Korea University Business School (KUBS) Center for Digital Transformation &amp; Business (CDTB) Partnership Initiative
 
