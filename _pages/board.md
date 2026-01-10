@@ -1,6 +1,6 @@
 ---
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Thu Jan  8 23:30:52 PST 2026
+last_modified_at: Sat Jan 10 13:54:26 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
@@ -81,30 +81,6 @@ toc_sticky: true
 > Does anyone know someone or a group/orchestra who could perform? It doesn't have to be perfectly professional! If you can sing and people would enjoy listening, you're welcome ㅎㅎ If you have any ideas or recommendations, please reach out anytime!
 {: .notice--warning}
 
-### Insuk promotes UKF 82 Three-Day Startup Summit with Member Discounts!
-
-> [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} @ Mon Jan  5 18:42 PST 2026
->
-> K-PAI 회원여러분 안녕하세요! 새해 복 많이 받으시기바랍니다, 1/9,1/10,1/12일 개최되는 UKF 82 Start up Summit 행사 관련 안내를 드립니다. Start up/Student Promo code도 있으니,  관심있는 분들 참고하세요!
->
-> 🔗 UKF 행사 등록<br>
-> 1월 9일 (금), 1:00 PM - 10:00 PM - Korean + English<br>
-> 스타트업 피칭 및 VC-LP 네트워킹<br>
-> [https://ukf82sp2026.eventbrite.com](https://ukf82sp2026.eventbrite.com){:target="_blank"}
->
-> 1월 10일 (토), 9:00 AM - 10:00 PM - Korean + English<br>
-> UKF 82 Startup Summit 2026<br>
-> [https://ukf822026.eventbrite.com](https://ukf822026.eventbrite.com){:target="_blank"}
->
-> 1월 12일 (월), 9:00 AM - 10:00 PM - English Only<br>
-> East Meets West – Building the Future Beyond Borders<br>
-> [https://luma.com/ra7ba3kr](https://luma.com/ra7ba3kr){:target="_blank"}
->
-> Promo Codes:<br>
-> 	•	UKF2026DAY_Startup50<br>
-> 	•	UKF2026DAY_Student50
-{: .notice--warning}
-
 ### Sunghee organizes KAIST Roundtable with Silicon Valley Professionals
 
 > [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 03:12 PST 2025
@@ -178,6 +154,32 @@ toc_sticky: true
 >
 > 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
 {: .notice--warning}
+
+## Jan-2026
+
+### Insuk promotes UKF 82 Three-Day Startup Summit with Member Discounts!
+
+> [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} @ Mon Jan  5 18:42 PST 2026
+>
+> K-PAI 회원여러분 안녕하세요! 새해 복 많이 받으시기바랍니다, 1/9,1/10,1/12일 개최되는 UKF 82 Start up Summit 행사 관련 안내를 드립니다. Start up/Student Promo code도 있으니,  관심있는 분들 참고하세요!
+>
+> 🔗 UKF 행사 등록<br>
+> 1월 9일 (금), 1:00 PM - 10:00 PM - Korean + English<br>
+> 스타트업 피칭 및 VC-LP 네트워킹<br>
+> [https://ukf82sp2026.eventbrite.com](https://ukf82sp2026.eventbrite.com){:target="_blank"}
+>
+> 1월 10일 (토), 9:00 AM - 10:00 PM - Korean + English<br>
+> UKF 82 Startup Summit 2026<br>
+> [https://ukf822026.eventbrite.com](https://ukf822026.eventbrite.com){:target="_blank"}
+>
+> 1월 12일 (월), 9:00 AM - 10:00 PM - English Only<br>
+> East Meets West – Building the Future Beyond Borders<br>
+> [https://luma.com/ra7ba3kr](https://luma.com/ra7ba3kr){:target="_blank"}
+>
+> Promo Codes:<br>
+> 	•	UKF2026DAY_Startup50<br>
+> 	•	UKF2026DAY_Student50
+{: .notice--info}
 
 ## Dec-2025
 
