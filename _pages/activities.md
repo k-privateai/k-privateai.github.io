@@ -3,7 +3,7 @@ layout: single
 title: K-PAI Activities
 permalink: /activities/
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Tue Jan  6 21:30:27 PST 2026
+last_modified_at: Fri Jan  9 21:39:05 PST 2026
 toc: true
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -112,7 +112,7 @@ This roundtable exemplifies [K-PAI](/)'s expanding role as a strategic connector
 
 # SNU College of Engineering Strategic Partnership Initiative
 
-[K-PAI](/) is developing a formal strategic partnership with Seoul National University College of Engineering, one of Korea's most prestigious engineering institutions. This initiative aims to establish a Memorandum of Understanding (MOU) that will create systematic pathways for collaboration between [K-PAI](/)'s Silicon Valley community and SNU's academic ecosystem.
+[K-PAI](/) is developing a formal strategic partnership with [Seoul National University College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}, one of Korea's most prestigious engineering institutions. This initiative aims to establish a Memorandum of Understanding (MOU) that will create systematic pathways for collaboration between [K-PAI](/)'s Silicon Valley community and SNU's academic ecosystem.
 
 <div class="img-container-justified">
 &nbsp;
