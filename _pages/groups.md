@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sat Jan 10 18:24:02 PST 2026
+last_modified_at: Mon Jan 12 14:33:32 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -46,7 +46,13 @@ James
 
 ## Jan-2026
 
-### Incredible K-PAI Showing - 23 Members Gather Strong at UKF 82 Summit!
+### Incredible K-PAI Stands Strong again at UKF 82 Summit!! (12-Jan-2026)
+
+<div class="img-container">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/2026 0102 UKF-25-reduced.jpeg">
+</div>
+
+### Incredible K-PAI Showing - 23 Members Gather Strong at UKF 82 Summit! (10-Jan-2026)
 
 > We, [K-PAI](/), are Everywhere!
 
