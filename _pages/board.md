@@ -1,6 +1,6 @@
 ---
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Sat Jan 10 14:39:05 PST 2026
+last_modified_at: Tue Jan 13 15:26:08 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
@@ -533,18 +533,6 @@ toc_sticky: true
 {: .notice--info}
 
 ## Oct-2025
-
-### Asia Economy article mentions Erudio Bio receiving Million Annual Grant from Gates Foundation
-
-<div class="img-container">
-<img style="max-width: 100%;" src="/resource/board/2025103008310686966_1761780666.jpeg">
-</div>
-
-> [Sunghee](https://sungheeyun.github.io) @ Wed Oct 29 17:03 PDT 2025
->
-> 저희 에루디오 바이오 Gates Foundation $1MM Grant 관련 기사가 아시아경제에 실렸습니다! :) -
-> [https://view.asiae.co.kr/article/2025103008554006190](https://view.asiae.co.kr/article/2025103008554006190)
-{: .notice--info}
 
 ### Sunghee proposes two external public engagement activities out of the 11 day business trip to Seoul
 

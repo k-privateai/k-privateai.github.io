@@ -3,7 +3,7 @@ layout: single
 title: I recommend ...
 permalink: /i-recommend/
 date: Mon Oct 13 19:59:56 PDT 2025
-last_modified_at: Fri Oct 17 14:36:54 KST 2025
+last_modified_at: Tue Jan 13 15:26:23 PST 2026
 toc: true
 toc_label: "ToC"
 toc_icon: "cog"
@@ -74,7 +74,7 @@ Proper recognition and appreciation should follow outstanding devotion and sacri
 > including Jennifer introducing the Red Helicopter platform to attendees at the K-PAI Forum.
 > MiSook then followed up with countless details.
 > Coincidentally, I was going through the busiest time ever with Erudio Bio, Inc. and founding a new company,
-> Erudio Bio Korea, Inc., while traveling back and forth between the US and Korea and appealing to the Gates Foundation at the same time.
+> Erudio Bio Korea, Inc., while traveling back and forth between the US and Korea.
 > I couldn't dedicate much time to the planning,
 > so without MiSook's enthusiastic devotion, her belief and confidence in humanity,
 > and her conviction that technology should exist for humans—not the other way around—

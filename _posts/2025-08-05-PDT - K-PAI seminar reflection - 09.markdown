@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Ninth Forum: Fortress Code - The New Frontier of AI Security"
 date: Tue Aug  5 23:59:48 PDT 2025
-last_modified_at: Wed Aug  6 01:08:10 PDT 2025
+last_modified_at: Tue Jan 13 15:26:23 PST 2026
 permalink: /seminar-reflections/09
 categories:
  - blog
@@ -52,6 +52,7 @@ this 9th edition demonstrated K-PAI's continued evolution as the premier venue f
 The collaboration with [Erudio Bio, Inc.](https://www.erudio.bio/) and [KIC Silicon Valley](https://www.kicsv.org/)
 highlighted the critical importance of securing AI systems across all sectors,
 from healthcare diagnostics to enterprise security infrastructure.
+<!--
 The significance of this collaboration was particularly underscored
 by Erudio Bio's recent achievement in securing a prestigious $1M annual grant
 from the Bill & Melinda Gates Foundation—a renewable funding commitment
@@ -59,6 +60,7 @@ that validates both their innovative AI diagnostic technology
 and the critical need for robust security frameworks in global health applications.
 This sustained Gates Foundation support positions Erudio Bio at the forefront of AI-powered healthcare solutions
 while simultaneously highlighting the security imperatives that the evening's discussions would thoroughly explore.
+-->
 
 # Transformative Presentations on AI Security
 
@@ -88,7 +90,7 @@ Particularly illuminating was the framework for building robust AI security syst
 
 ## Dr. Sunghee Yun's Healthcare AI Security Perspective
 
-Dr. Sunghee Yun from Erudio Bio provided a compelling conclusion to the evening's presentations with insights into securing AI systems in healthcare applications. As co-founder and CTO of a company that recently received a $1M Gates Foundation Grant, Dr. Yun offered unique perspectives on protecting sensitive medical data while leveraging AI for diagnostic breakthroughs.
+Dr. Sunghee Yun from Erudio Bio provided a compelling conclusion to the evening's presentations with insights into securing AI systems in healthcare applications. As co-founder and CTO, <!-- of a company that recently received a $1M Gates Foundation Grant--> Dr. Yun offered unique perspectives on protecting sensitive medical data while leveraging AI for diagnostic breakthroughs.
 
 His presentation on Erudio Bio's Versatile Smart Assay (VSA) platform illustrated the complex security challenges inherent in AI-powered medical devices. His discussion of their semiconductor-based diagnostic technology revealed how hardware-level security features can protect against both traditional cyber attacks and novel AI-specific threats like model poisoning or adversarial examples designed to compromise diagnostic accuracy.
 
