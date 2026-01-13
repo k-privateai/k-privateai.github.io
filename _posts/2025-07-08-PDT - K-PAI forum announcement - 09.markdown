@@ -1,7 +1,7 @@
 ---
 title: "Fortress Code - The New Frontier of AI Security"
 date: Tue Jul  8 20:59:32 PDT 2025
-last_modified_at: Wed Jul 16 13:18:54 PDT 2025
+last_modified_at: Tue Jan 13 14:57:05 PST 2026
 permalink: /event-announcements/09
 categories:
  - blog
@@ -58,7 +58,7 @@ Check out [{{ post.title }}]({{ post.url }}) to see how our previous Silicon Com
 
 We extend our sincere gratitude to [Erudio Bio, Inc.](https://www.erudio.bio/) and [KIC Silicon Valley](https://www.kicsv.org/) who make this valuable networking and knowledge-sharing opportunity possible, and who will be providing an exceptional networking experience with premium refreshments and hors d'oeuvres throughout the evening!
 
-**Erudio Bio**, fresh from receiving a $1M grant from the [Gates Foundation](https://www.gatesfoundation.org/),
+**Erudio Bio**
 is transforming healthcare through their innovative semiconductor-based diagnostic technology and AI-driven data analytics, perfectly embodying the convergence of AI and cutting-edge technology that defines tonight's forum. **KIC Silicon Valley** continues to be a cornerstone of innovation in the Bay Area, fostering entrepreneurship and technological advancement that drives our community forward.
 
 <div class="img-container-justified">
@@ -115,7 +115,7 @@ Kyeyeon will provide an accessible overview of the current cybersecurity landsca
 - **Speaker**: [Sunghee Yun](https://sungheeyun.github.io/) - Co-Founder &amp; CTO @ [Erudio Bio, Inc.](https://www.erudio.bio/)
 - **Time**: 7:20pm ~ 7:30pm
 
-We conclude our evening with a fascinating presentation from [Erudio Bio, Inc.](https://www.erudio.bio/), one of our generous sponsors whose innovative work exemplifies the intersection of AI, semiconductor technology, and healthcare—perfectly aligned with tonight's theme of "Fortress Code." **Fresh from receiving a $1M grant from [the Gates Foundation](https://en.wikipedia.org/wiki/Gates_Foundation)**, Erudio is revolutionizing medical diagnostics through their groundbreaking Versatile Smart Assay (VSA), a cutting-edge semiconductor-based multiplexed instrument platform that enables comprehensive biomarker testing from a single biological sample. Learn about their patented dynamic force spectroscopy technology that significantly reduces false positives and achieves unprecedented accuracy in disease detection.
+We conclude our evening with a fascinating presentation from [Erudio Bio, Inc.](https://www.erudio.bio/), one of our generous sponsors whose innovative work exemplifies the intersection of AI, semiconductor technology, and healthcare—perfectly aligned with tonight's theme of "Fortress Code." Erudio is revolutionizing medical diagnostics through their groundbreaking Versatile Smart Assay (VSA), a cutting-edge semiconductor-based multiplexed instrument platform that enables comprehensive biomarker testing from a single biological sample. Learn about their patented dynamic force spectroscopy technology that significantly reduces false positives and achieves unprecedented accuracy in disease detection.
 With their expanding partnerships
 with [Bundang Seoul Nation University General Hospital](https://www.snubh.org/index.do)
 and Shanghai General Hospital,
