@@ -1,6 +1,6 @@
 ---
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Tue Jan 13 01:05:10 PST 2026
+last_modified_at: Tue Jan 13 01:34:59 PST 2026
 layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
@@ -12,9 +12,28 @@ toc_sticky: true
 
 # Prizes
 
-So far <strong>21</strong> items have been donated kindly! Thank you, EVERYONE!!!
+So far <strong>25</strong> items have been donated kindly! Thank you, EVERYONE!!!
 
-## Stanford Goods - 2 Stanford Mug Cubs &amp; 1 Stanford Tumbler
+## 2 Stanford Medicine Mugs &amp; 2 Stanford Law School Mugs
+
+<h3>Description of Item</h3>
+
+Four premium Stanford graduate school mugs in signature cardinal red: two Stanford Medicine mugs featuring the distinctive shield logo ($15 each) and two Stanford Law School mugs with classic wordmark ($15 each). Celebrate Stanford's academic excellence in medicine and law with every sip!
+
+Total value: $60
+
+<div class="img-container-justified">
+&nbsp;
+<img style="max-width: 44.52%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-13-01-19-00 001-50-reduced.jpeg">
+<img style="max-width: 45.48%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-13-01-19-01 002-50-reduced.jpeg">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
+
+## 2 Stanford Mugs &amp; 1 Stanford Tumbler
 
 <h3>Description of Item</h3>
 
@@ -50,9 +69,6 @@ Total value: $200
 <h3>Donor Info</h3>
 
 - Donor: [Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
-
-## Samsung Classic 50th Anniversary Collection (5 CDs)
-
 
 ## LAMY Logo Brushed Steel BPs (2 ball pens)
 
