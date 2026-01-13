@@ -1,6 +1,6 @@
 ---
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Mon Jan 12 23:13:28 PST 2026
+last_modified_at: Tue Jan 13 01:05:10 PST 2026
 layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
@@ -12,7 +12,47 @@ toc_sticky: true
 
 # Prizes
 
-So far <strong>14</strong> items have been donated kindly! Thank you, EVERYONE!!!
+So far <strong>21</strong> items have been donated kindly! Thank you, EVERYONE!!!
+
+## Stanford Goods - 2 Stanford Mug Cubs &amp; 1 Stanford Tumbler
+
+<h3>Description of Item</h3>
+
+A Stanford Cardinal collection in signature cardinal red: two ceramic mugs ($15 each) featuring the iconic Stanford "S" and tree logo, plus one insulated tumbler ($20) with bold Stanford lettering. Perfect for any Stanford alum, student, or fan to show Cardinal pride with every sip!
+
+Total value: $50
+
+<div class="img-container-justified">
+&nbsp;
+<img style="max-width: 57.54%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-12-23-53-29-50-reduced.png">
+<img style="max-width: 22.46%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-12-23-53-39-50-reduced.png">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+
+## Amazon Gift Cards (4 x $50)
+
+<h3>Description of Item</h3>
+
+Four $50 Amazon gift cards offering the freedom to choose from the world's largest online marketplace. Whether it's books, electronics, home goods, or any of millions of other products, these cards provide ultimate shopping flexibility for any need or interest.
+
+Total value: $200
+
+<div class="img-container">
+&nbsp;
+<img style="max-width: 50%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/b7006b1c-dbee-4660-a684-75b3f03dc146-50-reduced.png">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
+
+## Samsung Classic 50th Anniversary Collection (5 CDs)
+
 
 ## LAMY Logo Brushed Steel BPs (2 ball pens)
 
