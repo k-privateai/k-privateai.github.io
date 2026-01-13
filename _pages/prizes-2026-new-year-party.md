@@ -1,6 +1,6 @@
 ---
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Fri Jan  9 22:41:55 PST 2026
+last_modified_at: Mon Jan 12 23:07:14 PST 2026
 layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
@@ -12,7 +12,7 @@ toc_sticky: true
 
 # Prizes
 
-So far <strong>19</strong> items have been donated kindly! Thank you, EVERYONE!!!
+So far <strong>15</strong> items have been donated kindly! Thank you, EVERYONE!!!
 
 ## LAMY Logo Brushed Steel BPs (2 ball pens)
 
