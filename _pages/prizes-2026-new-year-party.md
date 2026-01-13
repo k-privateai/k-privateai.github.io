@@ -1,6 +1,6 @@
 ---
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Mon Jan 12 23:07:14 PST 2026
+last_modified_at: Mon Jan 12 23:13:28 PST 2026
 layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
@@ -12,7 +12,7 @@ toc_sticky: true
 
 # Prizes
 
-So far <strong>15</strong> items have been donated kindly! Thank you, EVERYONE!!!
+So far <strong>14</strong> items have been donated kindly! Thank you, EVERYONE!!!
 
 ## LAMY Logo Brushed Steel BPs (2 ball pens)
 
@@ -61,33 +61,6 @@ An elegant 2026 desk calendar from Seoul National University featuring a strikin
 <h3>Donor Info</h3>
 
 - Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}
-
-## Samsung Classic 50th Anniversary Collection (5 CDs)
-
-<h3>Description of Item</h3>
-
-A rare collection of 5 classical music CDs from Samsung's 50th Anniversary commemorative series "The First Movement." These albums were produced only once for this historic milestone, making them highly collectible items.
-
-The collection includes:
-- **THE RED** - Passion Concert
-- **THE GREEN** - Healing Concert
-- **THE BLUE** - Celebration Concert
-
-<!--
-- Plus 2 additional albums from the series
--->
-
-This exclusive Samsung Classic collection represents a unique piece of corporate cultural heritage, combining world-class classical music with commemorative significance.
-
-<div class="img-container">
-&nbsp;
-<img style="max-width: 70%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/samsung-classic-50th-anniversary-50-reduced.jpeg">
-&nbsp;
-</div>
-
-<h3>Donor Info</h3>
-
-- Donor: [Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"}
 
 ## Topgolf Gift Cards (4 x $50)
 
