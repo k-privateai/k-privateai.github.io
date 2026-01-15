@@ -15,6 +15,8 @@ toc_sticky: true
 
 ## Stanford 골프장 골프 회동권 w/ 법조인 (Stanford 재학 송영욱/이보형 변호사, 현직 검사 1분) + 무료 법률 상담 포함
 
+<span style="color: red; font-weight: bold;">$400 !!</span>
+
 <h3>Fair Market Value</h3>
 &gt; $200
 
