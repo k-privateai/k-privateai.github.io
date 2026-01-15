@@ -15,7 +15,7 @@ toc_sticky: true
 
 ## Stanford 골프장 골프 회동권 w/ 법조인 (Stanford 재학 송영욱/이보형 변호사, 현직 검사 1분) + 무료 법률 상담 포함
 
-<span style="color: red; font-weight: bold;">$400 !!</span>
+<span style="color: red; font-weight: bold;">$400 !!</span> to Grace
 
 <h3>Fair Market Value</h3>
 &gt; $200
@@ -24,6 +24,8 @@ toc_sticky: true
 $100
 
 ## Absolute Watch
+
+<span style="color: red; font-weight: bold;">$250 !!</span> to Kevin
 
 [https://namu.wiki/w/%EC%A0%88%EB%8C%80%EC%8B%9C%EA%B3%84](https://namu.wiki/w/%EC%A0%88%EB%8C%80%EC%8B%9C%EA%B3%84){:target="_blank"}
 
