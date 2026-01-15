@@ -1,7 +1,7 @@
 ---
 layout: single
 date: Sun Dec 28 09:57:32 PST 2025
-last_modified_at: Wed Jan 14 18:52:26 PST 2026
+last_modified_at: Wed Jan 14 20:07:59 PST 2026
 title: 2026 K-PAI New Year Party Auction
 permalink: /auction-2026-new-year-party/
 toc: true
@@ -37,6 +37,8 @@ $30
 - Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
 
 ## Yoo Jae-ha 60th Anniversary Memorial LP Collection
+
+<span style="color: red; font-weight: bold;">$400 !!</span> to Prof. Pyeon
 
 <h3>Description of Item / Service</h3>
 
@@ -96,6 +98,8 @@ LP is in sealed condition; masking tape shows previous use; Yoo Jae-ha Music Com
 - Email: [jedychen@gmail.com](mailto:jedychen@gmail.com)
 
 ## Escape to Lake Tahoe
+
+<span style="color: red; font-weight: bold;">$1,000 !!</span> to Insuk
 
 <h3>Description of Item / Service</h3>
 
