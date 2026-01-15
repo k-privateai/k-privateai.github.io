@@ -1,6 +1,6 @@
 ---
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Tue Jan 13 01:34:59 PST 2026
+last_modified_at: Wed Jan 14 16:16:44 PST 2026
 layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
@@ -12,7 +12,41 @@ toc_sticky: true
 
 # Prizes
 
-So far <strong>25</strong> items have been donated kindly! Thank you, EVERYONE!!!
+So far <strong>46</strong> items have been donated kindly! Thank you, EVERYONE!!!
+
+## 두바이 쫀득 쿠키 x 5
+
+<h3>Donor Info</h3>
+
+- Donor: [Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+
+## 에코백 x 10
+
+<h3>Donor Info</h3>
+
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
+
+## 무선충전기
+
+<h3>Donor Info</h3>
+
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
+
+## 명함지갑/펜 세트
+
+<h3>Donor Info</h3>
+
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
+
+## 서울 자개소반 무선충전기 x 2
+
+<h3>Donor Info</h3>
+
+- Donor: Jane @ SK hynix America
+
+## SDI 배터리가 들어간 미니 손 선풍기 x 2
+
+- Donor: 최종록 @ Samsung SDI America
 
 ## 2 Stanford Medicine Mugs &amp; 2 Stanford Law School Mugs
 

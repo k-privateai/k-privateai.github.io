@@ -1,7 +1,7 @@
 ---
 layout: single
 date: Sun Dec 28 09:57:32 PST 2025
-last_modified_at: Wed Jan  7 17:00:15 PST 2026
+last_modified_at: Wed Jan 14 16:10:14 PST 2026
 title: 2026 K-PAI New Year Party Auction
 permalink: /auction-2026-new-year-party/
 toc: true
@@ -12,6 +12,15 @@ toc_sticky: true
 
 
 # Auction Items
+
+## Absolute Watch
+
+[https://namu.wiki/w/%EC%A0%88%EB%8C%80%EC%8B%9C%EA%B3%84](https://namu.wiki/w/%EC%A0%88%EB%8C%80%EC%8B%9C%EA%B3%84){:target="_blank"}
+
+<h3>Donor Info</h3>
+
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
+
 
 ## Yoo Jae-ha 60th Anniversary Memorial LP Collection
 
