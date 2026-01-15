@@ -1,6 +1,6 @@
 ---
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Wed Jan 14 16:16:44 PST 2026
+last_modified_at: Wed Jan 14 16:51:45 PST 2026
 layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
@@ -12,7 +12,7 @@ toc_sticky: true
 
 # Prizes
 
-So far <strong>46</strong> items have been donated kindly! Thank you, EVERYONE!!!
+So far <strong>47</strong> items have been donated kindly! Thank you, EVERYONE!!!
 
 ## 두바이 쫀득 쿠키 x 5
 
