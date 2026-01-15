@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Mon Jan 12 14:33:32 PST 2026
+last_modified_at: Thu Jan 15 10:45:50 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -38,6 +38,7 @@ Yeseul
 **Members** -
 [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
 James
+[Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"}
 [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
 [Sunghee](https://sungheeyun.github.io)
 (alphabetically ordered)
