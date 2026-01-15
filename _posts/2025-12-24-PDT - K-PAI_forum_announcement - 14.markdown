@@ -1,6 +1,6 @@
 ---
 date: Wed Dec 24 01:11:38 PST 2025
-last_modified_at: Wed Jan 14 16:04:25 PST 2026
+last_modified_at: Wed Jan 14 17:49:03 PST 2026
 layout: single
 title: "K-PAI's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
 permalink: /event-announcements/14
@@ -264,14 +264,17 @@ For the first time in [K-PAI](/) history, we're instituting **community awards**
 <!--As exemplified in our [I Recommend initiative](/i-recommend/),-->
 [K-PAI](/) members who take ownership—recommending readings, sharing resources, contributing expertise—elevate the entire community;
 This award honors the member demonstrating exceptional ownership of [K-PAI](/)'s collective success through sustained, meaningful participation.
-- **The Bridge Builder Award** 🌉 recognizing Outstanding Networking and Community Connection
-&ndash;
-[K-PAI](/) thrives on genuine connections between diverse professionals. This award honors the member who most exemplifies the spirit of bringing people together—introducing connections, facilitating collaborations, and strengthening community bonds;
-The recipient has made [K-PAI](/) warmer, more connected, and more collaborative through their networking excellence.
 - **The "Always There" Award** 💪 recognizing Most Consistent and Reliable Community Presence
 &ndash;
 Consistency matters. This award honors the member who has reliably attended forums, consistently engaged with content, and dependably contributed to discussions—providing the stable foundation upon which vibrant communities are built;
 The recipient embodies commitment and reliability.
+
+<!--
+- **The Bridge Builder Award** 🌉 recognizing Outstanding Networking and Community Connection
+&ndash;
+[K-PAI](/) thrives on genuine connections between diverse professionals. This award honors the member who most exemplifies the spirit of bringing people together—introducing connections, facilitating collaborations, and strengthening community bonds;
+The recipient has made [K-PAI](/) warmer, more connected, and more collaborative through their networking excellence.
+-->
 
 <!--
 - **The Golden Question Award** 🌟 recognizing Most Insightful Question or Discussion Contribution
