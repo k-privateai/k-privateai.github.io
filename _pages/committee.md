@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Thu Jan 15 10:20:28 PST 2026
+last_modified_at: Thu Jan 15 14:24:41 PST 2026
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -57,7 +57,7 @@ author_profile: false
 <td class="kor-name">
 	천정희
 </td>
-<td>
+<td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/jungheecheon/">Jung Hee Cheon</a>
 </td>
 </tr>
@@ -110,16 +110,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/%EB%85%B8%ED%98%84%EC%A0%95/">Hyun Jung Noh</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	조민선
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/christine-c-5b8b4b168/">Christine Cho</a>
 </td>
 </tr>
 <tr>
@@ -261,6 +251,26 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/kywch/">Kyoung Whan Choe</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	송영욱
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	이보형
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
 </td>
 </tr>
 </table>
