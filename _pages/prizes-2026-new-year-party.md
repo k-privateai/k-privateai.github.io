@@ -1,6 +1,6 @@
 ---
 date: Sun Dec 28 09:58:38 PST 2025
-last_modified_at: Wed Jan 14 16:51:45 PST 2026
+last_modified_at: Wed Jan 14 16:55:41 PST 2026
 layout: single
 title: 2026 K-PAI New Year Party Prizes
 permalink: /prizes-2026-new-year-party/
@@ -38,7 +38,7 @@ So far <strong>47</strong> items have been donated kindly! Thank you, EVERYONE!!
 
 - Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
 
-## 서울 자개소반 무선충전기 x 2
+## 서울 자개소반 무선충전기 x 3
 
 <h3>Donor Info</h3>
 
