@@ -1,6 +1,6 @@
 ---
 date: Wed Dec 24 01:11:38 PST 2025
-last_modified_at: Fri Jan  9 11:35:59 PST 2026
+last_modified_at: Wed Jan 14 16:04:25 PST 2026
 layout: single
 title: "K-PAI's 14th Chapter: 2026 New Year Celebration - Reflecting, Connecting, and Celebrating!"
 permalink: /event-announcements/14
@@ -234,6 +234,8 @@ Expect insights into
 ## Holistic Synthesis - The AI Landscape through [K-PAI](/)'s Lens (7pm ~ 7:15pm)
 
 **13 Forums, One Coherent Vision - Connecting the Dots**
+
+<a target="_blank" href="https://sungheeyun-seminars-01.github.io/resource/seminars/2026_0114 PST - K-PAI - Holistic Synthesis - The AI Landscape through K-PAI's Lens/K-PAI - Holistic Synthesis - The AI Landscape through K-PAI's Lens - Sunghee Yun.pdf">slides</a>
 
 What insights emerge when we synthesize 13 forums spanning security, ethics, law, energy, marketing, semiconductors, and more? How do these apparently diverse topics actually interconnect into a coherent understanding of responsible AI development? What patterns become visible when we step back and view the complete landscape?
 
