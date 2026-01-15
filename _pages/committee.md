@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Thu Jan 15 14:24:41 PST 2026
+last_modified_at: Thu Jan 15 14:54:25 PST 2026
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -92,8 +92,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role">
-	Operating Committee
+<td>
 </td>
 <td class="kor-name">
 	장준영
@@ -103,7 +102,8 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role">
+	Operating Committee
 </td>
 <td class="kor-name">
 	노현정
