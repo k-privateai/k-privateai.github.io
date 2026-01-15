@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Thu Jan 15 10:45:50 PST 2026
+last_modified_at: Thu Jan 15 10:52:52 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -16,7 +16,8 @@ toc_sticky: true
 
 ## Bio/Medical/Data Group {#bmd-group}
 
-**Members** -
+**Members**
+&ndash;
 [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
 [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"}
 [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
@@ -26,7 +27,8 @@ toc_sticky: true
 
 ## Karaoke Group {#karaoke-group}
 
-**Members** -
+**Members**
+&ndash;
 [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
 [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
 [Sunghee](https://sungheeyun.github.io)
@@ -35,7 +37,8 @@ Yeseul
 
 ## AI Hands-on Group {#ai-hands-on-group}
 
-**Members** -
+**Members**
+&ndash;
 [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
 James
 [Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"}
