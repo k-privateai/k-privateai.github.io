@@ -1,6 +1,6 @@
 ---
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Fri Jan 16 01:05:14 PST 2026
+last_modified_at: Fri Jan 16 01:23:23 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
@@ -13,94 +13,6 @@ toc_sticky: true
 # Conversations on [K-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
 ## Selected Posts
-
-### Sunghee announces SNU Networking Success and Strategic Partnership Progress!
-
-{: .notice--warning}
-> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 01:02 PST 2026
->
-> <span>1.</span> 일단 어제 (목) 저녁부터 오늘 (금) 오후까지 이어진 서울대 공대 학장님과 Stanford 학생/포닥과의 만남에 대한 report 입니다 -
-> [https://k-privateai.github.io/activities/#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026](/activities/#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026){:target="_blank"}
-> :)
->
-> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 01:35 PST 2026
->
-> <span>2.</span> 오늘 (금) 저녁 서울대 공대와 K-PAI와의 협력 모델에 대한 논의 내용을 상세히 업데이트 했습니다!
-> [https://k-privateai.github.io/activities/#snu-college-of-engineering-strategic-partnership-initiative](/activities/#snu-college-of-engineering-strategic-partnership-initiative){:target="_blank"}
-> 자리를 마련해 주신 @[Nathan](https://www.linkedin.com/in/naehyuck/){:target="_blank"} 교수님과 @[박찬익](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} 부사장님께 다시 한번 큰 감사를 드립니다! 함께 이렇게 큰 성과를 이끌어 낼 수 있게 해 주신
-> [K-PAI](/) 멤버 여러분들께도 감사의 마음을 전합니다! - 이 collaboration model을 통해 우리 K-PAI 멤버 모두에게 많은 기회가 주어지게 되었습니다! 십분 활용하시기 바랍니다! :)
->
-> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 12:18 PST 2026
->
-> 어제 하나 빠져 먹은 게 있어서 더했습니다! :) -
-> [https://k-privateai.github.io/activities/#startx](/activities/#startx){:target="_blank"}
-
-### Sunghee announces 2026 New Year Party and Seeks Community Contributions!
-
-> [Sunghee](https://sungheeyun.github.io) @ Mon Dec 29 05:21 PST 2025
->
-> 🎊 K-PAI 2026 신년회 - 공지 사항
->
-> 안녕하세요, K-PAI 정회원 여러분!
->
-> 1월 14일 K-PAI 2026 신년회 관련 공식 이메일이 발송되었습니다! 혹시 이메일을 받지 못하신 분들은 개인 카톡으로 연락 주세요.
->
-> 주요 링크:
->
-> - 📋 행사 공지 페이지: https://k-privateai.github.io/event-announcements/14
-> - ✅ RSVP 등록: https://luma.com/9xuuhnpq
-> - 🎁 Auction 페이지: https://k-privateai.github.io/auction-2026-new-year-party/
-> - 🏆 Prizes 페이지: https://k-privateai.github.io/prizes-2026-new-year-party/
->
-> (언제나처럼) 각자가 속한 단톡방 or network 등을 통해 널리널리 알려 주세요~ :)
->
-> Auction & Prize 아이템 기부 제안 🎁
->
-> 이번 신년회에서 특별히 Auction과 Award/Game Prize를 준비하고 있습니다. 이미 몇 분께서 기부해 주셔서 정말 감사드립니다!
->
-> 혹시 여유가 되시고 의향이 있으신 분들은 아이템 기부를 고려해 주시면 감사하겠습니다! 비싼 것일 필요 전혀 없습니다! 어떤 아이템이든 K-PAI 커뮤니티에게는 정말 큰 의미가 있고 엄청나게 감사하게 받겠습니다! (물론 부담 갖지 마시고, 가능하신 분들만요~ ^^)
->
-> 기부 가능한 아이템: 전자제품, 예술 작품, 컬렉터블, 서비스(컨설팅, 코칭, 레슨), 체험(디너, 와인 테이스팅), 사인된 책, 빈티지 아이템, 수제 공예품 등
->
-> 제출 방법: 제 카톡(ID: shoptyun)으로 1/7까지 아이템 이름, 설명, 사진을 보내주세요!
->
-> 음악 공연 추천 요청 🎵
->
-> 6시 메인 이벤트 전에 짧은 음악 공연을 준비하고 싶은데, 원래 고려했던 kids orchestra가 일정이 안 된다고 하네요 ㅠㅠ
->
-> 혹시 음악 공연을 할 수 있는 분이나 그룹/오케스트라를 아시는 분 계신가요? 완벽하게 프로페셔널할 필요는 없습니다! 노래를 부를 수 있고 듣기 편한 정도면 환영합니다 ㅎㅎ 아이디어나 추천 있으시면 언제든 연락 주세요!
->
-> —
->
-> 🎊 K-PAI 2026 New Year Party - Announcements
->
-> Hello K-PAI Full Members!
->
-> Official emails for the January 14th K-PAI 2026 New Year Party have been sent out! If you haven't received the email, please send me a personal Kakaotalk message.
->
-> Key Links:
->
-> - 📋 Event Announcement: https://k-privateai.github.io/event-announcements/14
-> - ✅ RSVP Registration: https://luma.com/9xuuhnpq
-> - 🎁 Auction Page: https://k-privateai.github.io/auction-2026-new-year-party/
-> - 🏆 Prizes Page: https://k-privateai.github.io/prizes-2026-new-year-party/
->
-> Auction & Prize Item Donations 🎁
->
-> We're organizing a special Auction and Awards/Game Prizes for this year's celebration. We've already received some generous donations—thank you so much!
->
-> If you're interested and able, we'd be grateful if you could consider donating items! It doesn't have to be expensive at all! Any item would be extremely greatly appreciated by K-PAI and our community! (No pressure at all—only if it works for you~ ^^)
->
-> Possible donation items: Tech gadgets, art pieces, collectibles, services (consulting, coaching, lessons), experiences (dinner, wine tasting), signed books, vintage items, handmade crafts, etc.
->
-> How to submit: Send item name, description, and photo to my Kakaotalk (ID: shoptyun) by 1/7!
->
-> Musical Performance Recommendation Needed 🎵
->
-> We'd like to have a short musical performance before the main event at 6pm, but the kids orchestra I was considering can't make it ㅠㅠ
->
-> Does anyone know someone or a group/orchestra who could perform? It doesn't have to be perfectly professional! If you can sing and people would enjoy listening, you're welcome ㅎㅎ If you have any ideas or recommendations, please reach out anytime!
-{: .notice--warning}
 
 ### Sunghee organizes KAIST Roundtable with Silicon Valley Professionals
 
@@ -178,8 +90,30 @@ toc_sticky: true
 
 ## Jan-2026
 
+### Sunghee announces SNU Networking Success and Strategic Partnership Progress!
+
+{: .notice--info}
+> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 01:02 PST 2026
+>
+> <span>1.</span> 일단 어제 (목) 저녁부터 오늘 (금) 오후까지 이어진 서울대 공대 학장님과 Stanford 학생/포닥과의 만남에 대한 report 입니다 -
+> [https://k-privateai.github.io/activities/#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026](/activities/#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026){:target="_blank"}
+> :)
+>
+> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 01:35 PST 2026
+>
+> <span>2.</span> 오늘 (금) 저녁 서울대 공대와 K-PAI와의 협력 모델에 대한 논의 내용을 상세히 업데이트 했습니다!
+> [https://k-privateai.github.io/activities/#snu-college-of-engineering-strategic-partnership-initiative](/activities/#snu-college-of-engineering-strategic-partnership-initiative){:target="_blank"}
+> 자리를 마련해 주신 @[Nathan](https://www.linkedin.com/in/naehyuck/){:target="_blank"} 교수님과 @[박찬익](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} 부사장님께 다시 한번 큰 감사를 드립니다! 함께 이렇게 큰 성과를 이끌어 낼 수 있게 해 주신
+> [K-PAI](/) 멤버 여러분들께도 감사의 마음을 전합니다! - 이 collaboration model을 통해 우리 K-PAI 멤버 모두에게 많은 기회가 주어지게 되었습니다! 십분 활용하시기 바랍니다! :)
+>
+> [Sunghee](https://sungheeyun.github.io) @ Sat Jan 10 12:18 PST 2026
+>
+> 어제 하나 빠져 먹은 게 있어서 더했습니다! :) -
+> [https://k-privateai.github.io/activities/#startx](/activities/#startx){:target="_blank"}
+
 ### Insuk promotes UKF 82 Three-Day Startup Summit with Member Discounts!
 
+{: .notice--info}
 > [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} @ Mon Jan  5 18:42 PST 2026
 >
 > K-PAI 회원여러분 안녕하세요! 새해 복 많이 받으시기바랍니다, 1/9,1/10,1/12일 개최되는 UKF 82 Start up Summit 행사 관련 안내를 드립니다. Start up/Student Promo code도 있으니,  관심있는 분들 참고하세요!
@@ -200,12 +134,79 @@ toc_sticky: true
 > Promo Codes:<br>
 > 	•	UKF2026DAY_Startup50<br>
 > 	•	UKF2026DAY_Student50
-{: .notice--info}
 
 ## Dec-2025
 
+### Sunghee announces 2026 New Year Party and Seeks Community Contributions!
+
+{: .notice--info}
+> [Sunghee](https://sungheeyun.github.io) @ Mon Dec 29 05:21 PST 2025
+>
+> 🎊 K-PAI 2026 신년회 - 공지 사항
+>
+> 안녕하세요, K-PAI 정회원 여러분!
+>
+> 1월 14일 K-PAI 2026 신년회 관련 공식 이메일이 발송되었습니다! 혹시 이메일을 받지 못하신 분들은 개인 카톡으로 연락 주세요.
+>
+> 주요 링크:
+>
+> - 📋 행사 공지 페이지: https://k-privateai.github.io/event-announcements/14
+> - ✅ RSVP 등록: https://luma.com/9xuuhnpq
+> - 🎁 Auction 페이지: https://k-privateai.github.io/auction-2026-new-year-party/
+> - 🏆 Prizes 페이지: https://k-privateai.github.io/prizes-2026-new-year-party/
+>
+> (언제나처럼) 각자가 속한 단톡방 or network 등을 통해 널리널리 알려 주세요~ :)
+>
+> Auction & Prize 아이템 기부 제안 🎁
+>
+> 이번 신년회에서 특별히 Auction과 Award/Game Prize를 준비하고 있습니다. 이미 몇 분께서 기부해 주셔서 정말 감사드립니다!
+>
+> 혹시 여유가 되시고 의향이 있으신 분들은 아이템 기부를 고려해 주시면 감사하겠습니다! 비싼 것일 필요 전혀 없습니다! 어떤 아이템이든 K-PAI 커뮤니티에게는 정말 큰 의미가 있고 엄청나게 감사하게 받겠습니다! (물론 부담 갖지 마시고, 가능하신 분들만요~ ^^)
+>
+> 기부 가능한 아이템: 전자제품, 예술 작품, 컬렉터블, 서비스(컨설팅, 코칭, 레슨), 체험(디너, 와인 테이스팅), 사인된 책, 빈티지 아이템, 수제 공예품 등
+>
+> 제출 방법: 제 카톡(ID: shoptyun)으로 1/7까지 아이템 이름, 설명, 사진을 보내주세요!
+>
+> 음악 공연 추천 요청 🎵
+>
+> 6시 메인 이벤트 전에 짧은 음악 공연을 준비하고 싶은데, 원래 고려했던 kids orchestra가 일정이 안 된다고 하네요 ㅠㅠ
+>
+> 혹시 음악 공연을 할 수 있는 분이나 그룹/오케스트라를 아시는 분 계신가요? 완벽하게 프로페셔널할 필요는 없습니다! 노래를 부를 수 있고 듣기 편한 정도면 환영합니다 ㅎㅎ 아이디어나 추천 있으시면 언제든 연락 주세요!
+>
+> —
+>
+> 🎊 K-PAI 2026 New Year Party - Announcements
+>
+> Hello K-PAI Full Members!
+>
+> Official emails for the January 14th K-PAI 2026 New Year Party have been sent out! If you haven't received the email, please send me a personal Kakaotalk message.
+>
+> Key Links:
+>
+> - 📋 Event Announcement: https://k-privateai.github.io/event-announcements/14
+> - ✅ RSVP Registration: https://luma.com/9xuuhnpq
+> - 🎁 Auction Page: https://k-privateai.github.io/auction-2026-new-year-party/
+> - 🏆 Prizes Page: https://k-privateai.github.io/prizes-2026-new-year-party/
+>
+> Auction & Prize Item Donations 🎁
+>
+> We're organizing a special Auction and Awards/Game Prizes for this year's celebration. We've already received some generous donations—thank you so much!
+>
+> If you're interested and able, we'd be grateful if you could consider donating items! It doesn't have to be expensive at all! Any item would be extremely greatly appreciated by K-PAI and our community! (No pressure at all—only if it works for you~ ^^)
+>
+> Possible donation items: Tech gadgets, art pieces, collectibles, services (consulting, coaching, lessons), experiences (dinner, wine tasting), signed books, vintage items, handmade crafts, etc.
+>
+> How to submit: Send item name, description, and photo to my Kakaotalk (ID: shoptyun) by 1/7!
+>
+> Musical Performance Recommendation Needed 🎵
+>
+> We'd like to have a short musical performance before the main event at 6pm, but the kids orchestra I was considering can't make it ㅠㅠ
+>
+> Does anyone know someone or a group/orchestra who could perform? It doesn't have to be perfectly professional! If you can sing and people would enjoy listening, you're welcome ㅎㅎ If you have any ideas or recommendations, please reach out anytime!
+
 ### Sunghee introduces and invites members to Solar Society of Pohang (SSP) Interdisciplinary Intellectual Forum
 
+{: .notice--info}
 > [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 04:10 PST 2025
 >
 > 🌅 Solar Society of Pohang 소개 & 참여 안내
@@ -274,7 +275,6 @@ toc_sticky: true
 > Interested in Joining?
 >
 > If you'd like to participate as a Solar Society member or want more information, please feel free to reach out to me personally anytime! ㅎㅎㅎ
-{: .notice--info}
 
 ### Sunghee announces SNU Engineering Faculty Networking Dinner
 
