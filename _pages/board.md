@@ -1,6 +1,6 @@
 ---
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Tue Jan 13 15:26:08 PST 2026
+last_modified_at: Fri Jan 16 01:05:14 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
@@ -151,7 +151,7 @@ toc_sticky: true
 
 ### Gordon's seeking talents!
 
-> [Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"}
+> [Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
 > @ Sat Oct 11 17:20 PDT 2025
 >
 > AI 개발 전문가를 찾습니다. GenAI를 이용해 생물정보학 (bioinformatics) 데이터 분석을 natural language로 할 수 있는 AI Agent를 개발하고 있습니다. 관심 있으신 분이나 팀 있으시면 개인톡 (neuorpa)이나 이메일 (neuropa@stanford.edu) 부탁드립니다. Ps. K-PAI 운영팀으로 허가 받아 공지합니다.
@@ -168,10 +168,10 @@ toc_sticky: true
 >
 > [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 17:23 PDT 2025
 >
-> @[Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} 대표님! 혹시 confidential information이 아니라면.. 살~짝! context를 더 설명해 주셔도 될 것 같아요. AI를 떠나 biology / biotech / medical 쪽에서 어떤 의미 있는 일을 하는 company가 이런 분을 찾고 계신지? :)
-> [Sat Oct 11 17:23 PDT 2025] @[Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} 대표님! 혹시 confidential information이 아니라면.. 살~짝! context를 더 설명해 주셔도 될 것 같아요. AI를 떠나 biology / biotech / medical 쪽에서 어떤 의미 있는 일을 하는 company가 이런 분을 찾고 계신지? :)
+> @[Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"} 대표님! 혹시 confidential information이 아니라면.. 살~짝! context를 더 설명해 주셔도 될 것 같아요. AI를 떠나 biology / biotech / medical 쪽에서 어떤 의미 있는 일을 하는 company가 이런 분을 찾고 계신지? :)
+> [Sat Oct 11 17:23 PDT 2025] @[Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"} 대표님! 혹시 confidential information이 아니라면.. 살~짝! context를 더 설명해 주셔도 될 것 같아요. AI를 떠나 biology / biotech / medical 쪽에서 어떤 의미 있는 일을 하는 company가 이런 분을 찾고 계신지? :)
 >
-> [Gordon](https://www.linkedin.com/in/gordon-%EA%B5%B0%ED%98%B8-park-452bab26/){:target="_blank"} @ Sat Oct 11 17:30 PDT 2025
+> [Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"} @ Sat Oct 11 17:30 PDT 2025
 >
 > 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
 {: .notice--warning}

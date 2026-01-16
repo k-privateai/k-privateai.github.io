@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Thu Jan 15 10:52:52 PST 2026
+last_modified_at: Fri Jan 16 01:11:53 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -50,10 +50,43 @@ James
 
 ## Jan-2026
 
-### Incredible K-PAI Stands Strong again at UKF 82 Summit!! (12-Jan-2026)
+### Incredible K-PAI Stands Strong again at UKF 82 Summit!!! (12-Jan-2026)
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/2026 0102 UKF-25-reduced.jpeg">
+</div>
+
+### Incredible K-PAI Stands Strong at K-BioX ABDD Summit 2026 @ Stanford!! (11-Jan-2026)
+
+Below
+&ndash;
+[Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"},
+[Sunghee](https://sungheeyun.github.io),
+Prof. JongHyuk Kim,
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
+[Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"},
+[Siyeon](https://www.linkedin.com/in/siyeon-rhee-39449642/){:target="_blank"},
+and
+[Don](https://www.linkedin.com/in/don-kim-b541b862/){:target="_blank"}
+(from left)
+@ [K-BioX ABDD Summit 2026 @ Stanford](https://sites.google.com/kbiox.net/2026k-bioxsiliconvalley/home?authuser=0){:target="_blank"}
+
+<div class="img-container">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg">
+<!--img src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg"-->
+</div>
+
+Below
+&ndash;
+[Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"}
+moderating a panel discussions
+where two of the panelists are K-PAI;
+[Sunghee](https://sungheeyun.github.io)
+&amp;
+[Jae Ho](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}!
+
+<div class="img-container">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-27-40 005-25-reduced.jpeg">
 </div>
 
 ### Incredible K-PAI Showing - 23 Members Gather Strong at UKF 82 Summit! (10-Jan-2026)
