@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Thu Jan 15 14:54:25 PST 2026
+last_modified_at: Fri Jan 16 17:00:30 PST 2026
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -271,6 +271,26 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	박수민
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	정주영
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung (Dominick) Jeong</a>
 </td>
 </tr>
 </table>
