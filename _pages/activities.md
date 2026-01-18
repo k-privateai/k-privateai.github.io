@@ -1,6 +1,6 @@
 ---
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Sat Jan 10 12:20:26 PST 2026
+last_modified_at: Sat Jan 17 16:28:44 PST 2026
 layout: single
 title: K-PAI Activities
 permalink: /activities/
@@ -211,7 +211,7 @@ The dinner yielded specific, time-bound commitments across multiple collaboratio
 
 ✅ **VISA Support System**: [K-PAI](/) will examine the feasibility of establishing a system to help people coming from Korea navigate complex VISA challenges—a practical barrier repeatedly identified as hindering talent mobility.
 
-<h3>2. [Sunghee](https://sungheeyun.github.io)'s Next Korea Visit - Multi-faceted Engagement</h3>
+<h3>2. Sunghee's Next Korea Visit - Multi-faceted Engagement</h3>
 
 During [Sunghee](https://sungheeyun.github.io)'s (very) next business trip to Korea, the following activities are confirmed:
 
