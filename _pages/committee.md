@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Fri Jan 16 20:30:33 PST 2026
+last_modified_at: Sat Jan 17 18:50:47 PST 2026
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -130,6 +130,27 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung (Dominick) Jeong</a>
+</td>
+</tr>
+<tr>
+<td class="role">
+	Social Media Committee
+</td>
+<td class="kor-name">
+	윤성희
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	이가은
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun (Kelly) Lee</a>
 </td>
 </tr>
 <tr>
