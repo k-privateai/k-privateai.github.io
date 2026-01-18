@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sun Jan 18 02:17:09 PST 2026
+last_modified_at: Sun Jan 18 15:20:43 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -20,6 +20,7 @@ toc_sticky: true
 &ndash;
 [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
 [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"}
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
 [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
 [Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"}
 [Sunghee](https://sungheeyun.github.io)
