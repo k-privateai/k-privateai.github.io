@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sun Jan 18 15:20:43 PST 2026
+last_modified_at: Sun Jan 18 21:49:14 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -52,6 +52,10 @@ James
 ## Jan-2026
 
 ### K-PAI 2026 New Year Party Retro &amp; Planning 2026!
+
+<div class="img-container">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-21-41-20-50-reduced.jpeg">
+</div>
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-01-47-24 001-25-reduced.jpeg">
