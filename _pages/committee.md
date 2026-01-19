@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Sun Jan 18 02:17:43 PST 2026
+last_modified_at: Mon Jan 19 14:36:46 PST 2026
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -79,16 +79,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	박대준
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/daejunpark/">Daejun Park</a>
 </td>
 </tr>
 <tr>
