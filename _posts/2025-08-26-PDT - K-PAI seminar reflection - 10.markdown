@@ -1,7 +1,7 @@
 ---
 title: "Reflection on K-PAI's Tenth Forum: The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 date: Tue Aug 26 13:13:36 PDT 2025
-last_modified_at: Sun Aug 31 22:35:00 PDT 2025
+last_modified_at: Sun Jan 18 16:22:19 PST 2026
 permalink: /seminar-reflections/10
 categories:
  - blog
@@ -48,7 +48,7 @@ Natalie Huh's presentation on "From Intellectual Property to Data Scraping and P
 Particularly valuable were her insights into data scraping regulations and the practical implications. The distinction between publicly accessible data and legally permissible use represents a critical understanding gap that can have severe consequences for AI companies. <span class="emph">Her emphasis on the growing importance of trade secrets as an alternative to patent protection for AI innovations reflects the pragmatic realities of current intellectual property law.</span>
 
 <div class="img-container">
-<img src="/resource/seminars/10 - 20-Aug-2025/sfkoera photos/20250821120829_1_24436_l.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/sfkoera photos/20250821120829_1_24436_l.jpg">
 </div>
 
 The presentation's focus on practical implementation tips—from ensuring meaningful human contribution to inventive processes to establishing robust data governance frameworks—provided actionable guidance that bridges the gap between legal theory and engineering practice. This practical orientation exemplifies the kind of cross-disciplinary knowledge transfer that makes K-PAI forums uniquely valuable.
@@ -60,7 +60,7 @@ James Rhee's presentation on "Agency in a New World Order - AI and Humanism in M
 The concept of "Agency" (주도성) provided a framework for understanding how human agency can be preserved and enhanced rather than diminished by AI systems. Rhee's emphasis on agency as comprising intentionality, ownership of choices, competence, and adaptability offers concrete dimensions for evaluating human-AI interactions. The critical role of connectedness in preventing what he termed "warped agency" (narcissism, social isolation) highlights the importance of designing AI systems that enhance rather than undermine human relationships.
 
 <div class="img-container">
-<img src="/resource/seminars/10 - 20-Aug-2025/sfkoera photos/20250821140801_6_24437_l.jpg">
+<img src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/sfkoera photos/20250821140801_6_24437_l.jpg">
 </div>
 
 The red helicopter methodology's integration of systems dynamics with creative processes presents an intriguing approach to organizational transformation. The emphasis on measurement, connectedness, and balance across dimensions of life, money, and joy suggests a holistic framework that could inform both AI system design and organizational implementation strategies.
@@ -72,7 +72,7 @@ The demonstration of Jennifer Kim Lin's practical applications made these humani
 The forum's most significant contribution was demonstrating how legal compliance and humanistic leadership can work synergistically rather than in tension. The Q&A session revealed sophisticated understanding among attendees of the practical challenges involved in implementing both regulatory requirements and ethical principles simultaneously.
 
 <div class="img-container">
-<img src="/resource/seminars/10 - 20-Aug-2025/photos/Screenshot 2025-08-27 at 4.04.14 PM.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/Screenshot 2025-08-27 at 4.04.14 PM.png">
 </div>
 
 The discussion highlighted several key integration points:
