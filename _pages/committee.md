@@ -2,7 +2,7 @@
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Mon Jan 19 14:36:46 PST 2026
+last_modified_at: Mon Jan 19 15:21:34 PST 2026
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -92,7 +92,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role">
+<td class="role" id="tech-and-social-media-committee">
 	Tech &amp; Social Media Committee
 </td>
 <td class="kor-name">
