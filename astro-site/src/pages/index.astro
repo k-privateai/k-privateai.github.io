@@ -1,0 +1,113 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const posts = await getCollection("posts");
+const recentPosts = posts
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 5);
+---
+
+<BaseLayout
+  title="Home"
+  description="Silicon Valley Privacy-Preserving AI Forum - K-PAI"
+>
+  <div class="max-w-6xl mx-auto">
+    <!-- Hero Section -->
+    <div class="text-center py-12 mb-12 border-b">
+      <img
+        src="/assets/images/k-on-pie.png"
+        alt="K-PAI Logo"
+        class="w-32 h-32 mx-auto mb-6"
+      />
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">
+        Silicon Valley Privacy-Preserving AI Forum
+      </h1>
+      <p class="text-xl text-gray-600 mb-6">K-PAI</p>
+      <div class="flex flex-wrap justify-center gap-4">
+        <a
+          href="/about/"
+          class="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
+        >
+          About Us
+        </a>
+        <a
+          href="/membership/"
+          class="px-6 py-3 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 transition-colors"
+        >
+          Join K-PAI
+        </a>
+      </div>
+    </div>
+
+    <!-- Recent Posts -->
+    <div class="mb-12">
+      <h2 class="text-3xl font-bold mb-6">Recent Posts</h2>
+      <div class="space-y-6">
+        {
+          recentPosts.map((post) => (
+            <article class="border-b pb-6">
+              <h3 class="text-2xl font-semibold mb-2">
+                <a
+                  href={`/posts/${post.slug}/`}
+                  class="text-gray-900 hover:text-blue-600 transition-colors"
+                >
+                  {post.data.title}
+                </a>
+              </h3>
+              <time class="text-gray-600 text-sm">
+                {post.data.date.toLocaleDateString("en-US", {
+                  year: "numeric",
+                  month: "long",
+                  day: "numeric",
+                })}
+              </time>
+              {post.data.excerpt && (
+                <p class="mt-2 text-gray-700">{post.data.excerpt}</p>
+              )}
+            </article>
+          ))
+        }
+      </div>
+      <div class="mt-6 text-center">
+        <a
+          href="/posts/1/"
+          class="text-blue-600 hover:text-blue-800 hover:underline font-medium"
+        >
+          View all posts →
+        </a>
+      </div>
+    </div>
+
+    <!-- Quick Links -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <a
+        href="/activities/"
+        class="block p-6 bg-white border rounded-lg hover:shadow-md transition-shadow"
+      >
+        <h3 class="text-xl font-semibold mb-2">Activities</h3>
+        <p class="text-gray-600 text-sm">
+          View our events, seminars, and community activities
+        </p>
+      </a>
+      <a
+        href="/committee/"
+        class="block p-6 bg-white border rounded-lg hover:shadow-md transition-shadow"
+      >
+        <h3 class="text-xl font-semibold mb-2">Committee</h3>
+        <p class="text-gray-600 text-sm">
+          Meet the K-PAI committee members
+        </p>
+      </a>
+      <a
+        href="/board/"
+        class="block p-6 bg-white border rounded-lg hover:shadow-md transition-shadow"
+      >
+        <h3 class="text-xl font-semibold mb-2">Board</h3>
+        <p class="text-gray-600 text-sm">
+          Community messages and announcements
+        </p>
+      </a>
+    </div>
+  </div>
+</BaseLayout>

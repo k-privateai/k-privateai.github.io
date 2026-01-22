@@ -1,0 +1,35 @@
+/* Styles from committee */
+body {
+		text-align: center;
+	}
+
+	.borderless-table {
+		border-collapse: separate;
+		border-spacing: 0;
+		display: grid;
+		justify-content: center;
+	}
+
+	.borderless-table td, .borderless-table th {
+		padding: 8px 10px;
+		border: none;
+	}
+
+	/* Optional: Add a subtle visual separator without borders */
+	/*
+	.borderless-table tr:not(:last-child) td {
+		border-bottom: 1px solid #f0f0f0;
+	}
+	*/
+
+	.role {
+		text-align: right;
+	}
+
+	.kor-name {
+		text-align: center;
+	}
+
+	.eng-name {
+		text-align: left;
+	}

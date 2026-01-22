@@ -1,0 +1,123 @@
+---
+// Load navigation data - will be populated after migration script runs
+let navData: { main?: Array<{ title: string; url: string }> } = { main: [] };
+
+try {
+  navData = await import("../data/navigation.json");
+} catch (error) {
+  // Fallback navigation if data file doesn't exist yet
+  navData = {
+    main: [
+      { title: "Activities", url: "/activities/" },
+      { title: "Board", url: "/board/" },
+      { title: "Posts", url: "/posts/1/" },
+      { title: "Tags", url: "/tags/" },
+      { title: "Membership", url: "/membership/" },
+      { title: "Committee", url: "/committee/" },
+    ],
+  };
+}
+
+const currentPath = Astro.url.pathname;
+
+function isActive(url: string): boolean {
+  if (url === "/") return currentPath === "/";
+  return currentPath.startsWith(url);
+}
+---
+
+<nav class="bg-white shadow-sm border-b">
+  <div class="container mx-auto px-4">
+    <div class="flex items-center justify-between h-16">
+      <!-- Logo -->
+      <div class="flex items-center">
+        <a href="/" class="flex items-center space-x-3">
+          <img
+            src="/assets/images/k-on-pie.png"
+            alt="K-PAI Logo"
+            class="h-10 w-10"
+          />
+          <span class="text-xl font-bold text-gray-900">K-PAI</span>
+        </a>
+      </div>
+
+      <!-- Desktop Navigation -->
+      <div class="hidden md:flex items-center space-x-1">
+        {
+          navData.main && navData.main.map((item) => (
+            <a
+              href={item.url}
+              class={`px-3 py-2 rounded-md text-sm font-medium transition-colors ${
+                isActive(item.url)
+                  ? "bg-gray-100 text-gray-900"
+                  : "text-gray-700 hover:bg-gray-50 hover:text-gray-900"
+              }`}
+            >
+              {item.title}
+            </a>
+          ))
+        }
+      </div>
+
+      <!-- Mobile menu button -->
+      <div class="md:hidden">
+        <button
+          id="mobile-menu-button"
+          type="button"
+          class="inline-flex items-center justify-center p-2 rounded-md text-gray-700 hover:text-gray-900 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-blue-500"
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+        >
+          <span class="sr-only">Open main menu</span>
+          <!-- Hamburger icon -->
+          <svg
+            class="block h-6 w-6"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 24 24"
+            stroke="currentColor"
+            aria-hidden="true"
+          >
+            <path
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M4 6h16M4 12h16M4 18h16"></path>
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile menu -->
+  <div class="md:hidden hidden" id="mobile-menu">
+    <div class="px-2 pt-2 pb-3 space-y-1">
+      {
+        navData.main && navData.main.map((item) => (
+          <a
+            href={item.url}
+            class={`block px-3 py-2 rounded-md text-base font-medium ${
+              isActive(item.url)
+                ? "bg-gray-100 text-gray-900"
+                : "text-gray-700 hover:bg-gray-50 hover:text-gray-900"
+            }`}
+          >
+            {item.title}
+          </a>
+        ))
+      }
+    </div>
+  </div>
+</nav>
+
+<script>
+  // Mobile menu toggle
+  const button = document.getElementById("mobile-menu-button");
+  const menu = document.getElementById("mobile-menu");
+
+  button?.addEventListener("click", () => {
+    const expanded = button.getAttribute("aria-expanded") === "true";
+    button.setAttribute("aria-expanded", String(!expanded));
+    menu?.classList.toggle("hidden");
+  });
+</script>

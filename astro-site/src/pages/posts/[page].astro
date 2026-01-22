@@ -1,0 +1,91 @@
+---
+import { getCollection } from "astro:content";
+import type { Page } from "astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths({ paginate }) {
+  const posts = await getCollection("posts");
+  // Sort by date descending (newest first)
+  posts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  return paginate(posts, { pageSize: 5 }); // Match Jekyll's pagination: 5 per page
+}
+
+const { page } = Astro.props as { page: Page };
+---
+
+<BaseLayout title="Posts" description="All blog posts from K-PAI">
+  <div class="max-w-4xl mx-auto">
+    <h1 class="text-4xl font-bold mb-8">Posts</h1>
+
+    <div class="space-y-8">
+      {
+        page.data.map((post) => (
+          <article class="border-b pb-6 last:border-b-0">
+            <h2 class="text-2xl font-bold mb-2">
+              <a
+                href={`/posts/${post.slug}/`}
+                class="text-gray-900 hover:text-blue-600 transition-colors"
+              >
+                {post.data.title}
+              </a>
+            </h2>
+            <time class="text-gray-600 text-sm">
+              {post.data.date.toLocaleDateString("en-US", {
+                year: "numeric",
+                month: "long",
+                day: "numeric",
+              })}
+            </time>
+            {post.data.excerpt && (
+              <p class="mt-2 text-gray-700">{post.data.excerpt}</p>
+            )}
+            {post.data.tags && post.data.tags.length > 0 && (
+              <div class="mt-3 flex flex-wrap gap-2">
+                {post.data.tags.map((tag) => (
+                  <a
+                    href={`/tags/${tag}/`}
+                    class="text-xs px-2 py-1 bg-gray-200 text-gray-700 rounded hover:bg-gray-300"
+                  >
+                    #{tag}
+                  </a>
+                ))}
+              </div>
+            )}
+          </article>
+        ))
+      }
+    </div>
+
+    <nav class="flex justify-between items-center mt-8 pt-8 border-t">
+      {
+        page.url.prev ? (
+          <a
+            href={page.url.prev}
+            class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition-colors"
+          >
+            ← Previous
+          </a>
+        ) : (
+          <div />
+        )
+      }
+
+      <span class="text-gray-600">
+        Page {page.currentPage} of {page.lastPage}
+      </span>
+
+      {
+        page.url.next ? (
+          <a
+            href={page.url.next}
+            class="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition-colors"
+          >
+            Next →
+          </a>
+        ) : (
+          <div />
+        )
+      }
+    </nav>
+  </div>
+</BaseLayout>

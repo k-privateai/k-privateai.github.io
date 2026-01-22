@@ -1,0 +1,39 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const posts = await getCollection("posts");
+const tagCounts = new Map<string, number>();
+
+posts.forEach((post) => {
+  (post.data.tags || []).forEach((tag) => {
+    tagCounts.set(tag, (tagCounts.get(tag) || 0) + 1);
+  });
+});
+
+const sortedTags = [...tagCounts.entries()].sort((a, b) => b[1] - a[1]);
+---
+
+<BaseLayout title="Tags" description="All tags from K-PAI posts">
+  <div class="max-w-4xl mx-auto">
+    <h1 class="text-4xl font-bold mb-8">Tags</h1>
+
+    {
+      sortedTags.length > 0 ? (
+        <div class="flex flex-wrap gap-3">
+          {sortedTags.map(([tag, count]) => (
+            <a
+              href={`/tags/${tag}/`}
+              class="inline-flex items-center gap-2 px-4 py-2 bg-gray-100 hover:bg-gray-200 rounded-lg transition-colors"
+            >
+              <span class="font-medium">#{tag}</span>
+              <span class="text-sm text-gray-600">({count})</span>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <p class="text-gray-600">No tags found.</p>
+      )
+    }
+  </div>
+</BaseLayout>

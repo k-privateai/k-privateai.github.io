@@ -1,0 +1,160 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import TableOfContents from "../components/TableOfContents.astro";
+import PostMeta from "../components/PostMeta.astro";
+import Taxonomy from "../components/Taxonomy.astro";
+
+interface Props {
+  frontmatter: {
+    title: string;
+    date: Date;
+    last_modified_at?: Date;
+    categories?: string[];
+    tags?: string[];
+    toc?: boolean;
+    toc_label?: string;
+    excerpt?: string;
+  };
+  headings?: Array<{ depth: number; text: string; slug: string }>;
+}
+
+const { frontmatter, headings = [] } = Astro.props;
+---
+
+<BaseLayout title={frontmatter.title} description={frontmatter.excerpt}>
+  <article class="max-w-4xl mx-auto">
+    <header class="mb-8">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
+        {frontmatter.title}
+      </h1>
+      <PostMeta
+        date={frontmatter.date}
+        lastModified={frontmatter.last_modified_at}
+      />
+    </header>
+
+    {
+      frontmatter.toc && headings.length > 0 && (
+        <TableOfContents
+          headings={headings}
+          label={frontmatter.toc_label}
+        />
+      )
+    }
+
+    <div class="prose prose-lg max-w-none">
+      <slot />
+    </div>
+
+    <footer class="mt-12">
+      <Taxonomy
+        categories={frontmatter.categories}
+        tags={frontmatter.tags}
+      />
+    </footer>
+  </article>
+</BaseLayout>
+
+<style is:global>
+  /* Prose styling for Markdown content */
+  .prose {
+    color: #374151;
+  }
+
+  .prose h2 {
+    font-size: 1.875rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #111827;
+  }
+
+  .prose h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #111827;
+  }
+
+  .prose p {
+    margin-bottom: 1.25rem;
+    line-height: 1.75;
+  }
+
+  .prose a {
+    color: #2563eb;
+    text-decoration: underline;
+  }
+
+  .prose a:hover {
+    color: #1d4ed8;
+  }
+
+  .prose ul,
+  .prose ol {
+    margin-bottom: 1.25rem;
+    padding-left: 1.5rem;
+  }
+
+  .prose li {
+    margin-bottom: 0.5rem;
+  }
+
+  .prose code {
+    background-color: #f3f4f6;
+    padding: 0.125rem 0.25rem;
+    border-radius: 0.25rem;
+    font-size: 0.875em;
+    font-family: ui-monospace, monospace;
+  }
+
+  .prose pre {
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    overflow-x: auto;
+    margin-bottom: 1.25rem;
+  }
+
+  .prose pre code {
+    background-color: transparent;
+    padding: 0;
+    color: inherit;
+  }
+
+  .prose blockquote {
+    border-left: 4px solid #e5e7eb;
+    padding-left: 1rem;
+    font-style: italic;
+    color: #6b7280;
+    margin: 1.5rem 0;
+  }
+
+  .prose img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    margin: 1.5rem 0;
+  }
+
+  .prose table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+  }
+
+  .prose th {
+    background-color: #f9fafb;
+    font-weight: 600;
+    text-align: left;
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
+  }
+
+  .prose td {
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
+  }
+</style>

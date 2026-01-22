@@ -1,0 +1,215 @@
+---
+layout: ../layouts/PageLayout.astro
+date: 'Sun Dec 28 09:58:38 PST 2025'
+last_modified_at: 'Wed Jan 14 16:55:41 PST 2026'
+title: 2026 K-PAI New Year Party Prizes
+toc: true
+toc_label: ToC
+toc_icon: cog
+toc_sticky: true
+_originalPermalink: /prizes-2026-new-year-party/
+---
+
+# Prizes
+
+So far <strong>47</strong> items have been donated kindly! Thank you, EVERYONE!!!
+
+## 두바이 쫀득 쿠키 x 5
+
+<h3>Donor Info</h3>
+
+- Donor: [Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+
+## 에코백 x 10
+
+<h3>Donor Info</h3>
+
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
+
+## 무선충전기
+
+<h3>Donor Info</h3>
+
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
+
+## 명함지갑/펜 세트
+
+<h3>Donor Info</h3>
+
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
+
+## 서울 자개소반 무선충전기 x 3
+
+<h3>Donor Info</h3>
+
+- Donor: Jane @ SK hynix America
+
+## SDI 배터리가 들어간 미니 손 선풍기 x 2
+
+- Donor: 최종록 @ Samsung SDI America
+
+## 2 Stanford Medicine Mugs &amp; 2 Stanford Law School Mugs
+
+<h3>Description of Item</h3>
+
+Four premium Stanford graduate school mugs in signature cardinal red: two Stanford Medicine mugs featuring the distinctive shield logo ($15 each) and two Stanford Law School mugs with classic wordmark ($15 each). Celebrate Stanford's academic excellence in medicine and law with every sip!
+
+Total value: $60
+
+<div class="img-container-justified">
+&nbsp;
+<img style="max-width: 44.52%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-13-01-19-00 001-50-reduced.jpeg">
+<img style="max-width: 45.48%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-13-01-19-01 002-50-reduced.jpeg">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
+
+## 2 Stanford Mugs &amp; 1 Stanford Tumbler
+
+<h3>Description of Item</h3>
+
+A Stanford Cardinal collection in signature cardinal red: two ceramic mugs ($15 each) featuring the iconic Stanford "S" and tree logo, plus one insulated tumbler ($20) with bold Stanford lettering. Perfect for any Stanford alum, student, or fan to show Cardinal pride with every sip!
+
+Total value: $50
+
+<div class="img-container-justified">
+&nbsp;
+<img style="max-width: 57.54%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-12-23-53-29-50-reduced.png">
+<img style="max-width: 22.46%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-12-23-53-39-50-reduced.png">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+
+## Amazon Gift Cards (4 x $50)
+
+<h3>Description of Item</h3>
+
+Four $50 Amazon gift cards offering the freedom to choose from the world's largest online marketplace. Whether it's books, electronics, home goods, or any of millions of other products, these cards provide ultimate shopping flexibility for any need or interest.
+
+Total value: $200
+
+<div class="img-container">
+&nbsp;
+<img style="max-width: 50%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/b7006b1c-dbee-4660-a684-75b3f03dc146-50-reduced.png">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
+
+## LAMY Logo Brushed Steel BPs (2 ball pens)
+
+<h3>Description of Item</h3>
+
+Classic German writing instruments from LAMY's Logo series, featuring brushed stainless steel construction with timeless Bauhaus-inspired design. Created by Wolfgang Fabian, these ball pens embody the principle of "form follows function" with their sleek, balanced bodies and smooth writing performance. The lightweight steel construction offers elegance and durability, making them ideal everyday companions for writing. Each pen uses M16 M Black refills and represents LAMY's commitment to quality German craftsmanship.
+(Model: LM206,  Made in Germany)
+
+<div class="img-container-justified">
+	<img width="41.40%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-09-21-02-12 001-25-reduced.jpeg">
+	<img width="41.40%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-09-21-02-20 002-25-reduced.jpeg">
+	<img width="07.20%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/Screenshot 2026-01-09 at 9.29.34 PM.png">
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}
+
+## H-Heritage nubim handbag
+
+<h3>Description of Item</h3>
+
+A handcrafted traditional Korean nubim (quilted) handbag that celebrates Korea's world-first reusable packaging initiative. Made with 100% pure cotton, this bag showcases the centuries-old nubim quilting technique enhanced with pigment dyeing for sophisticated color depth. Each piece features meticulous hand-stitching that creates distinctive texture while enhancing durability for daily use. The charming handmade tassel keyring adds a playful touch to this heritage craft piece. This bag beautifully bridges traditional Korean artisanship with modern sustainable living, offering both practical functionality and cultural significance.
+
+<div class="img-container-justified">
+	&nbsp;
+	<img width="44.26%" style="max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-09-21-02-27 003-25-reduced.jpeg">
+	<img width="35.74%" style="max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/Screenshot 2026-01-09 at 9.27.51 PM.png">
+	&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}
+
+## 2026 Seoul National University Calendar
+
+<h3>Description of Item</h3>
+
+An elegant 2026 desk calendar from Seoul National University featuring a striking modern design. The cover showcases SNU's iconic architectural gateway rendered in bold gold lines against a starlit night sky, symbolizing the university's role as a gateway to knowledge and excellence. This practical spiral-bound calendar provides year-round functionality while celebrating one of Asia's most prestigious universities. Perfect for anyone with connections to SNU or those who appreciate minimalist Korean design aesthetics.
+
+<div class="img-container">
+	<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2026-01-09-21-02-35 004-50-reduced.jpeg">
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}
+
+## Topgolf Gift Cards (4 x $50)
+
+<h3>Description of Item</h3>
+
+Four $50 Topgolf gift cards - perfect for an exciting outing with friends, colleagues, or family! Topgolf combines golf, entertainment, food, and fun in a unique experience suitable for all skill levels.
+
+Total value: $200
+
+<div class="img-container">
+&nbsp;
+<img style="max-width: 50%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/topgolf - gift card.png">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Insuk Song](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"}
+
+## Samsung Classic 50th Anniversary Collection (5 CDs)
+
+<h3>Description of Item</h3>
+
+A rare collection of 5 classical music CDs from Samsung's 50th Anniversary commemorative series "The First Movement." These albums were produced only once for this historic milestone, making them highly collectible items.
+
+The collection includes:
+- **THE RED** - Passion Concert
+- **THE GREEN** - Healing Concert
+- **THE BLUE** - Celebration Concert
+
+<!--
+- Plus 2 additional albums from the series
+-->
+
+This exclusive Samsung Classic collection represents a unique piece of corporate cultural heritage, combining world-class classical music with commemorative significance.
+
+<div class="img-container">
+&nbsp;
+<img style="max-width: 70%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/samsung-classic-50th-anniversary-50-reduced.jpeg">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"}
+
+## Porta Cabernet Gran Reserva
+
+<h3>Description of Item</h3>
+
+A red wine - Porta Cabernet Gran Reserva
+
+<div class="img-container-justified">
+&nbsp;
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/KakaoTalk_Photo_2025-12-28-10-19-53-40-reduced.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/prizes-2026-new-year-party/large.webp">
+&nbsp;
+</div>
+
+<h3>Donor Info</h3>
+
+- Donor: [Sunghee Yun](https://sungheeyun.github.io)

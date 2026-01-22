@@ -1,0 +1,44 @@
+{
+  "main": [
+    {
+      "title": "Activities",
+      "url": "/activities/"
+    },
+    {
+      "title": "TMKP",
+      "url": "/tmkp/"
+    },
+    {
+      "title": "AUCTION",
+      "url": "/auction-2026-new-year-party/"
+    },
+    {
+      "title": "PRIZES",
+      "url": "/prizes-2026-new-year-party/"
+    },
+    {
+      "title": "Board",
+      "url": "/board/"
+    },
+    {
+      "title": "Groups",
+      "url": "/groups/"
+    },
+    {
+      "title": "Posts",
+      "url": "/posts/1/"
+    },
+    {
+      "title": "Tags",
+      "url": "/tags/"
+    },
+    {
+      "title": "Membership",
+      "url": "/membership/"
+    },
+    {
+      "title": "Committee",
+      "url": "/committee/"
+    }
+  ]
+}

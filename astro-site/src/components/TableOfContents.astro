@@ -1,0 +1,31 @@
+---
+interface Props {
+  headings: Array<{ depth: number; text: string; slug: string }>;
+  label?: string;
+}
+
+const { headings, label = "Table of Contents" } = Astro.props;
+
+// Filter to only show h2 and h3 headings
+const tocHeadings = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
+---
+
+{
+  tocHeadings.length > 0 && (
+    <nav class="toc my-8 p-6 bg-gray-50 rounded-lg border">
+      <h2 class="text-lg font-semibold mb-4">{label}</h2>
+      <ul class="space-y-2">
+        {tocHeadings.map((heading) => (
+          <li class={heading.depth === 3 ? "ml-4" : ""}>
+            <a
+              href={`#${heading.slug}`}
+              class="text-blue-600 hover:text-blue-800 hover:underline text-sm"
+            >
+              {heading.text}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </nav>
+  )
+}
