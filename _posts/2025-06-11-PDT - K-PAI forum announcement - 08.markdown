@@ -1,7 +1,7 @@
 ---
-title: "Silicon Companions - Robots and Smart Devices in Daily Life"
 date: Wed Jun 11 16:29:04 PDT 2025
-last_modified_at: Fri Jun 13 14:31:47 PDT 2025
+last_modified_at: Thu Jan 22 01:23:27 PST 2026
+title: "Silicon Companions - Robots and Smart Devices in Daily Life"
 permalink: /event-announcements/08
 categories:
  - blog
@@ -29,8 +29,6 @@ Use this link
 to share this event!
 
 # Invitation
-
----
 
 Innovators, Technologists, and AI Enthusiasts!
 

@@ -1,7 +1,7 @@
 ---
-title: "The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 date: Wed Aug  6 02:50:41 PDT 2025
-last_modified_at: Fri Aug  8 13:20:41 KST 2025
+last_modified_at: Thu Jan 22 01:33:44 PST 2026
+title: "The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 permalink: /event-announcements/10
 categories:
  - blog
@@ -87,7 +87,7 @@ Experience our signature networking reception featuring a carefully curated sele
 
 - **Speaker**: [K-PAI Organizing Committee](/committee)
 - **Time**: 6pm ~ 6:10pm
-- [slides](/resource/seminars/10 - 20-Aug-2025/K-PAI - Biotech - Aug-2025.pdf)
+- [slides](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/K-PAI - Biotech - Aug-2025.pdf){:target="_blank"}
 
 Join us as we open this landmark forum exploring the evolution from technical AI compliance to humanistic leadership. This opening address will set the stage for an evening of transformative discussions about how we can build AI systems that truly serve humanity while navigating the complex landscape of regulations, ethics, and human agency.
 
@@ -98,7 +98,7 @@ Join us as we open this landmark forum exploring the evolution from technical AI
 - **Speaker**: [Natalie Huh](https://www.linkedin.com/in/natalie-huh-03b2221b7/), Associate / Trial Attorney @ [Quinn Emanuel](https://www.quinnemanuel.com/)
 - **Language**: Korean
 - **Time**: 6:10pm ~ 6:40pm
-- [slides](/resource/seminars/10 - 20-Aug-2025/NH_Presentation_KPAI_Aug2025.pdf)
+- [slides](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/NH_Presentation_KPAI_Aug2025.pdf)
 
 Natalie will provide essential regulatory insights for AI and semiconductor engineers navigating today's complex legal landscape.
 This presentation will cover critical areas including intellectual property protection in AI systems

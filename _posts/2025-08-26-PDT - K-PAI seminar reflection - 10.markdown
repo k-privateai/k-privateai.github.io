@@ -1,7 +1,7 @@
 ---
-title: "Reflection on K-PAI's Tenth Forum: The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 date: Tue Aug 26 13:13:36 PDT 2025
-last_modified_at: Sun Jan 18 16:22:19 PST 2026
+last_modified_at: Thu Jan 22 01:45:29 PST 2026
+title: "Reflection on K-PAI's Tenth Forum: The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership"
 permalink: /seminar-reflections/10
 categories:
  - blog
@@ -35,6 +35,11 @@ Use this link — <a href="{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ pa
 
 [The 10th Silicon Valley Private AI Forum (K-PAI)](/event-announcements/10), held on August 20, 2025, at [Stanford University's EVGR Theater](https://maps.app.goo.gl/W3qRPoNthuNzsjG5A), represented a landmark achievement for the K-PAI community. This milestone event, themed "The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership," brought together legal experts, AI developers, and visionary leaders to address one of the most pressing challenges of our time: how to build AI systems that are both legally compliant and genuinely human-centered.
 
+# Some media outlets
+
+- [허 나탈리, 삼성 vs BOE..기술 탈취에 맞선 역사적 판결](https://www.sfkorean.com/subs/news_detail.php?news_id=24436&kind=B)
+- [『레드 헬리콥터』 저자 제임스 리, 스탠퍼드서 ‘AI와 휴머니즘’ 강연](https://www.sfkorean.com/subs/news_detail.php?news_id=24437&kind=B)
+
 # A Milestone Achievement
 
 Reaching the <span class="emph">tenth</span> forum represents a significant achievement for K-PAI's mission of fostering privacy-first AI innovation. The choice to focus on the intersection of legal compliance and humanistic leadership proved remarkably prescient, addressing the growing recognition that technical excellence alone is insufficient for responsible AI development. The collaboration between legal expertise from Quinn Emanuel and transformative leadership insights demonstrated K-PAI's unique ability to bridge traditionally separate domains.
@@ -48,7 +53,7 @@ Natalie Huh's presentation on "From Intellectual Property to Data Scraping and P
 Particularly valuable were her insights into data scraping regulations and the practical implications. The distinction between publicly accessible data and legally permissible use represents a critical understanding gap that can have severe consequences for AI companies. <span class="emph">Her emphasis on the growing importance of trade secrets as an alternative to patent protection for AI innovations reflects the pragmatic realities of current intellectual property law.</span>
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/sfkoera photos/20250821120829_1_24436_l.jpg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/sfkoera photos/20250821120829_1_24436_l.jpg">
 </div>
 
 The presentation's focus on practical implementation tips—from ensuring meaningful human contribution to inventive processes to establishing robust data governance frameworks—provided actionable guidance that bridges the gap between legal theory and engineering practice. This practical orientation exemplifies the kind of cross-disciplinary knowledge transfer that makes K-PAI forums uniquely valuable.
@@ -60,7 +65,7 @@ James Rhee's presentation on "Agency in a New World Order - AI and Humanism in M
 The concept of "Agency" (주도성) provided a framework for understanding how human agency can be preserved and enhanced rather than diminished by AI systems. Rhee's emphasis on agency as comprising intentionality, ownership of choices, competence, and adaptability offers concrete dimensions for evaluating human-AI interactions. The critical role of connectedness in preventing what he termed "warped agency" (narcissism, social isolation) highlights the importance of designing AI systems that enhance rather than undermine human relationships.
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/sfkoera photos/20250821140801_6_24437_l.jpg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/sfkoera photos/20250821140801_6_24437_l.jpg">
 </div>
 
 The red helicopter methodology's integration of systems dynamics with creative processes presents an intriguing approach to organizational transformation. The emphasis on measurement, connectedness, and balance across dimensions of life, money, and joy suggests a holistic framework that could inform both AI system design and organizational implementation strategies.
@@ -72,7 +77,7 @@ The demonstration of Jennifer Kim Lin's practical applications made these humani
 The forum's most significant contribution was demonstrating how legal compliance and humanistic leadership can work synergistically rather than in tension. The Q&A session revealed sophisticated understanding among attendees of the practical challenges involved in implementing both regulatory requirements and ethical principles simultaneously.
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/Screenshot 2025-08-27 at 4.04.14 PM.png">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/2025/08/20 - K-PAI - Human-Centric AI Revolution/Screenshot 2025-08-27 at 4.04.14 PM.png">
 </div>
 
 The discussion highlighted several key integration points:
@@ -86,7 +91,7 @@ The discussion revealed how federated learning architectures satisfy both GDPR r
 -->
 
 <div class="img-container">
-<img style="max-width: 55%;" src="/resource/seminars/10 - 20-Aug-2025/hihc_a_2153320_f0002_c.jpg">
+<img style="max-width: 55%;" src="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/hihc_a_2153320_f0002_c.jpg">
 </div>
 
 **Agency-Preserving Design** &ndash; The concept of preserving human agency while leveraging AI capabilities provides practical design criteria that can satisfy both regulatory requirements and ethical imperatives. This emerged as a design philosophy where AI systems are evaluated not just for accuracy and efficiency, but for their impact on human competence, autonomy, and meaningful choice. Attendees discussed specific implementation approaches such as "explanatory interfaces" that meet legal transparency requirements while genuinely empowering users to understand and influence AI decisions.
@@ -96,7 +101,8 @@ The discussion revealed how federated learning architectures satisfy both GDPR r
 **Value Alignment Through Law** &ndash; The presentations revealed how legal frameworks can serve as practical mechanisms for embedding humanistic values in AI systems. Rather than viewing regulation as external constraint, attendees explored how legal requirements for fairness, transparency, and human oversight can be implemented through technical architectures that inherently respect human dignity and agency.
 
 <div class="img-container">
-<img src="/resource/seminars/10 - 20-Aug-2025/u1564158738_Value_Alignment_Through_Law_The_presentations_rev_874f2c14-6622-470e-82a4-58f9325702b4_1.png">
+<!--img src="/resource/seminars/10 - 20-Aug-2025/u1564158738_Value_Alignment_Through_Law_The_presentations_rev_874f2c14-6622-470e-82a4-58f9325702b4_1.png"-->
+<img src="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/u1564158738_Value_Alignment_Through_Law_The_presentations_rev_874f2c14-6622-470e-82a4-58f9325702b4_1.png">
 </div>
 
 # Emerging Themes and Industry Implications
@@ -120,7 +126,7 @@ Industry implications include the emergence of new roles such as "AI Constitutio
 The presentations moved ethical AI discourse from philosophical abstraction toward operational concreteness. James Rhee's agency framework and Natalie Huh's compliance roadmaps provided what participants described as "ethics with implementation pathways" - specific practices that organizations can adopt immediately.
 
 <div class="img-container">
-<img src="/resource/seminars/10 - 20-Aug-2025/ethics.webp">
+<img src="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/ethics.webp">
 </div>
 
 This practical turn has several industry implications:
@@ -142,7 +148,7 @@ The successful integration of legal expertise and humanistic leadership insights
 **Partnership Evolution** &ndash; The industry is seeing the emergence of new partnership models between technology companies, law firms, and humanistic organizations. These partnerships go beyond traditional client-service relationships toward genuine collaborative development of AI systems that satisfy technical, legal, and ethical requirements simultaneously.
 
 <div class="img-container">
-<img src="/resource/seminars/10 - 20-Aug-2025/Cross-Disciplinary_Collaboration_as_Strategic_Nec.png">
+<img src="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/Cross-Disciplinary_Collaboration_as_Strategic_Nec.png">
 </div>
 
 ## Human-Centric Design as Market Differentiator
@@ -156,7 +162,7 @@ The emphasis on preserving and enhancing human agency is beginning to emerge as 
 **Talent Attraction and Retention** &ndash; Top AI talent increasingly wants to work on projects that align with humanistic values. Organizations that can demonstrate genuine commitment to human-centric AI development are finding significant advantages in recruiting and retaining the best technical professionals.
 
 <div class="img-container">
-<img src="/resource/seminars/10 - 20-Aug-2025/human-centered-design-1.webp">
+<img src="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/human-centered-design-1.webp">
 </div>
 
 ## The Convergence of Privacy and Agency
@@ -180,7 +186,7 @@ The sophistication of the forum's discussions reflected the ongoing institutiona
 **Supply Chain Integration** &ndash; Large technology companies are beginning to require human-centric AI practices from their suppliers and partners, creating market incentives that extend ethical AI practices throughout the technology ecosystem.
 
 <div class="img-container">
-<img src="/resource/seminars/10 - 20-Aug-2025/ethical-ai.webp">
+<img src="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/ethical-ai.webp">
 </div>
 
 ## Global Implications and Cultural Translation
@@ -234,11 +240,6 @@ The musical counterpoint metaphor offers a particularly powerful framework for t
 As K-PAI continues to evolve, the foundations established by this tenth forum will undoubtedly inform future discussions about privacy-preserving AI, regulatory compliance, and human-centered design. The success of this milestone event reinforces K-PAI's position as Silicon Valley's premier forum for responsible AI innovation.
 
 The human-centric AI revolution is not about choosing between technological advancement and human values—it is about creating systems where both can flourish together in counterpoint, each maintaining their essential characteristics while creating something greater than either could achieve alone.
-
-# Some media outlets
-
-- [허 나탈리, 삼성 vs BOE..기술 탈취에 맞선 역사적 판결](https://www.sfkorean.com/subs/news_detail.php?news_id=24436&kind=B)
-- [『레드 헬리콥터』 저자 제임스 리, 스탠퍼드서 ‘AI와 휴머니즘’ 강연](https://www.sfkorean.com/subs/news_detail.php?news_id=24437&kind=B)
 
 ---
 

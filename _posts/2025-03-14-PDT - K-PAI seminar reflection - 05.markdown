@@ -1,7 +1,7 @@
 ---
-title: Unlocking Innovation - Blockchain and AI at K-PAI 5
 date: Fri Mar 14 17:43:50 PDT 2025
-last_modified_at: Sat Mar 15 06:21:20 PDT 2025
+last_modified_at: Thu Jan 22 00:58:54 PST 2026
+title: Unlocking Innovation - Blockchain and AI at K-PAI 5
 permalink: /seminar-reflections/05
 categories:
  - blog
@@ -52,43 +52,37 @@ Daejun Park @ a16z crypto delivered the keynote address, shedding light on the i
 </div-->
 
 <div class="img-container">
-<img src="/resource/seminars/05/KakaoTalk_Photo_2025-03-14-17-17-57 003.jpeg">
+<!--img src="/resource/seminars/05/KakaoTalk_Photo_2025-03-14-17-17-57 003.jpeg"-->
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/KakaoTalk_Photo_2025-03-14-17-17-57 003-25-reduced.jpeg">
 </div>
 
 # Spotlight Sessions
 
 The forum featured several spotlight sessions, each highlighting innovative intersections of blockchain and AI:
 
-- <b>Homomorphic Iris Code Verification</b>
-&ndash; Prof. Jung Hee Cheon, CEO @ CryptoLab, Inc., presented advancements in homomorphic encryption for secure biometric verification. His insights underscored the potential of privacy-preserving techniques in enhancing security without compromising user privacy.
-
-<div class="img-container">
-<img style="max-width: 80%;" src="/resource/seminars/05/KakaoTalk_Photo_2025-03-14-17-21-22 002.jpeg">
-</div>
-
 - <b>Ownership Revolution of Real-World Assets with Blockchain Technology</b>
 &ndash; Soon Kon Kim, CEO @ EQBR US, discussed how blockchain is redefining asset ownership models. He illustrated how tokenization and smart contracts are making asset transactions more efficient and accessible.​
 
 <div class="img-container">
-<img style="max-width: 80%;" src="/resource/seminars/05/Screenshot 2025-03-14 at 11.06.55 PM.png">
+<img style="max-width: 80%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/Screenshot 2025-03-14 at 11.06.55 PM.png">
 </div>
 
 - <b>Privacy and Scaling Explorations at Ethereum Foundation</b>
 &ndash; Keewoo Lee, a researcher @ the Ethereum Foundation and PostDoc @ UC Berkeley, explored cutting-edge privacy-preserving techniques essential for blockchain scaling. His discussion addressed pressing challenges in the field and potential solutions.​
 
 <div class="img-container">
-<img style="max-width: 80%;" src="/resource/seminars/05/Screenshot 2025-03-15 at 6.19.34 AM.png">
+<img style="max-width: 80%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/Screenshot 2025-03-15 at 6.19.34 AM.png">
 </div>
 
 - <b>R&D Initiatives at LG Electronics</b>
 &ndash; Jacob Song, Head of Emerging Technology at LG Electronics, shared the company's research and development initiatives at the intersection of blockchain and AI. His presentation highlighted LG's commitment to integrating these technologies into consumer electronics to enhance user experiences.
 
 <div class="img-container">
-<img style="max-width: 80%;" src="/resource/seminars/05/KakaoTalk_Photo_2025-03-14-17-17-54 002.jpeg">
+<img style="max-width: 80%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/KakaoTalk_Photo_2025-03-14-17-17-54 002-25-reduced.jpeg">
 </div>
 
 <div class="img-container">
-<img style="max-width: 80%;" src="/resource/seminars/05/Screenshot 2025-03-14 at 10.28.04 PM.png">
+<img style="max-width: 80%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/Screenshot 2025-03-14 at 10.28.04 PM.png">
 </div>
 
 # Q&amp;A and Closing
@@ -98,11 +92,6 @@ The event concluded with an interactive Q&A session, allowing attendees to engag
 -->
 
 The evening culminated in a dynamic Q&A session where attendees posed thoughtful challenges to the speakers' key assertions. What began as formal questions quickly evolved into a spirited exchange of ideas, with audience members building upon each other's inquiries and speakers occasionally turning questions back to the crowd. Several participants exchanged contact information on the spot as conversation revealed shared research interests and complementary expertise. This organic dialogue not only deepened everyone's grasp of private AI's nuances but also sparked several potential collaborations that extended beyond the forum's official conclusion as small groups continued their discussions well into the evening.
-
-<div class="img-container">
-<img src="/resource/seminars/05/Screenshot 2025-03-14 at 10.26.14 PM.png">
-</div>
-
 
 # Key Takeaways
 

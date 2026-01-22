@@ -1,7 +1,7 @@
 ---
-title: "Silicon Valley Private AI Forum Hits New Heights - 100 Leaders Gather for AI's Holistic Discussion"
 date: Tue Jan 28 17:28:49 PST 2025
 last_modified_at: Tue Dec 30 06:03:09 PST 2025
+title: "Silicon Valley Private AI Forum Hits New Heights - 100 Leaders Gather for AI's Holistic Discussion"
 permalink: /seminar-reflections/03
 categories:
  - blog
