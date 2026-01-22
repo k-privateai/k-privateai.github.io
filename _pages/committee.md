@@ -1,5 +1,5 @@
 ---
-last_modified_at: Thu Jan 22 01:38:19 PST 2026
+last_modified_at: Thu Jan 22 02:34:44 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
@@ -134,7 +134,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role">
-	Operating Committee
+	Program &amp; Content Committee
 </td>
 <td class="kor-name">
 	문호근
@@ -174,8 +174,7 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td class="role">
-	Program Committee
+<td>
 </td>
 <td class="kor-name">
 	이시연
