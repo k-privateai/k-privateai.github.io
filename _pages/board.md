@@ -1,6 +1,6 @@
 ---
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Fri Jan 16 01:23:23 PST 2026
+last_modified_at: Thu Jan 22 08:59:14 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
@@ -13,53 +13,6 @@ toc_sticky: true
 # Conversations on [K-PAI Members Kakaotalk Group Chat Room](/#join-us-at-kakaotalk)
 
 ## Selected Posts
-
-### Sunghee organizes KAIST Roundtable with Silicon Valley Professionals
-
-> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 03:12 PST 2025
->
-> 🤝 KAIST 간담회 참석자 모집
->
-> KAIST 임채권 교수님(과기부 서기관 출신, 현 KAIST 전기및전자공학부 초빙교수)께서 실리콘밸리 한인 과학기술인 간담회를 요청하셨습니다.
->
-> 일시: 2026년 1월 22일 (목요일)
->
-> 참석 인원: 5~6명 (산업계 한인 과학기술인)
->
-> 형식: 저녁 만찬
->
-> 간담회 목적: 이번 간담회는 과기정통부의 "성과 도출형 해외우수인재유치사업" 기획의 일환으로 진행됩니다.
->
-> - 실리콘밸리 현장에서 활동하시는 한인 과학기술인 분들의 생생한 목소리 청취
-> - AI를 비롯한 첨단 기술 분야의 최신 동향과 산업 흐름 파악
-> - 실리콘밸리에서 일하시면서 겪으시는 어려움이나 한국과의 협력에서 개선이 필요한 부분 공유
-> - KAIST와 실리콘밸리 간 실질적인 협업 가능성 모색
-> - 양방향 교류를 통한 한국 과학기술 생태계와 글로벌 혁신 중심의 긴밀한 연결 방안 논의
->
-> 참석을 원하시는 분들은 댓글이나 개인 메시지 주시기 바랍니다.
->
-> —
->
-> 🤝 KAIST Roundtable - Participant Recruitment
->
-> Professor Chaegwon Lim from KAIST (former Ministry of Science and ICT official, current visiting professor at KAIST School of Electrical Engineering) has requested a roundtable discussion with Korean scientists and engineers in Silicon Valley.
->
-> Date: January 22, 2026 (Thursday)
->
-> Participants: 5-6 people (Korean scientists/engineers in industry)
->
-> Format: Dinner meeting
->
-> Meeting Objectives: This roundtable is part of the Ministry of Science and ICT's "Performance-Driven Overseas Talent Attraction Program."
->
-> - Listen to authentic voices from Korean scientists and engineers actively working in Silicon Valley
-> - Understand the latest trends and industry dynamics in AI and cutting-edge technologies
-> - Share challenges faced while working in Silicon Valley and areas where Korea-US collaboration could be improved
-> - Explore concrete collaboration opportunities between KAIST and Silicon Valley
-> - Discuss ways to more closely connect Korea's science and technology ecosystem with global innovation hubs through meaningful bilateral exchange
->
-> If you would like to participate, please leave a comment or send a personal message.
-{: .notice--warning}
 
 ### Gordon's seeking talents!
 
@@ -321,6 +274,53 @@ toc_sticky: true
 > Dean Kim will discuss SNU faculty recruitment process, research environment, support systems, and more in detail.
 >
 > If you're interested in attending or would like to refer someone, please leave a comment or send a personal message.
+{: .notice--info}
+
+### Sunghee organizes KAIST Roundtable with Silicon Valley Professionals
+
+> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 03:12 PST 2025
+>
+> 🤝 KAIST 간담회 참석자 모집
+>
+> KAIST 임채권 교수님(과기부 서기관 출신, 현 KAIST 전기및전자공학부 초빙교수)께서 실리콘밸리 한인 과학기술인 간담회를 요청하셨습니다.
+>
+> 일시: 2026년 1월 22일 (목요일)
+>
+> 참석 인원: 5~6명 (산업계 한인 과학기술인)
+>
+> 형식: 저녁 만찬
+>
+> 간담회 목적: 이번 간담회는 과기정통부의 "성과 도출형 해외우수인재유치사업" 기획의 일환으로 진행됩니다.
+>
+> - 실리콘밸리 현장에서 활동하시는 한인 과학기술인 분들의 생생한 목소리 청취
+> - AI를 비롯한 첨단 기술 분야의 최신 동향과 산업 흐름 파악
+> - 실리콘밸리에서 일하시면서 겪으시는 어려움이나 한국과의 협력에서 개선이 필요한 부분 공유
+> - KAIST와 실리콘밸리 간 실질적인 협업 가능성 모색
+> - 양방향 교류를 통한 한국 과학기술 생태계와 글로벌 혁신 중심의 긴밀한 연결 방안 논의
+>
+> 참석을 원하시는 분들은 댓글이나 개인 메시지 주시기 바랍니다.
+>
+> —
+>
+> 🤝 KAIST Roundtable - Participant Recruitment
+>
+> Professor Chaegwon Lim from KAIST (former Ministry of Science and ICT official, current visiting professor at KAIST School of Electrical Engineering) has requested a roundtable discussion with Korean scientists and engineers in Silicon Valley.
+>
+> Date: January 22, 2026 (Thursday)
+>
+> Participants: 5-6 people (Korean scientists/engineers in industry)
+>
+> Format: Dinner meeting
+>
+> Meeting Objectives: This roundtable is part of the Ministry of Science and ICT's "Performance-Driven Overseas Talent Attraction Program."
+>
+> - Listen to authentic voices from Korean scientists and engineers actively working in Silicon Valley
+> - Understand the latest trends and industry dynamics in AI and cutting-edge technologies
+> - Share challenges faced while working in Silicon Valley and areas where Korea-US collaboration could be improved
+> - Explore concrete collaboration opportunities between KAIST and Silicon Valley
+> - Discuss ways to more closely connect Korea's science and technology ecosystem with global innovation hubs through meaningful bilateral exchange
+>
+> If you would like to participate, please leave a comment or send a personal message.
 {: .notice--info}
 
 ### Sunghee highlights Board Page Message Archive
