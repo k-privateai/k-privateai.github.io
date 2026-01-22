@@ -1,8 +1,8 @@
 ---
+last_modified_at: Thu Jan 22 01:38:19 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
-last_modified_at: Mon Jan 19 15:21:34 PST 2026
 toc: false
 toc_label: "&nbsp;Table of Contents"
 toc_icon: "fa-solid fa-list"
@@ -135,16 +135,6 @@ author_profile: false
 <tr>
 <td class="role">
 	Operating Committee
-</td>
-<td class="kor-name">
-	노현정
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/%EB%85%B8%ED%98%84%EC%A0%95/">Hyun Jung Noh</a>
-</td>
-</tr>
-<tr>
-<td>
 </td>
 <td class="kor-name">
 	문호근
