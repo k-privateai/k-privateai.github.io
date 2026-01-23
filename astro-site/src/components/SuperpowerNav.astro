@@ -1,0 +1,336 @@
+---
+interface Props {
+  isHeroPage?: boolean;
+}
+
+const { isHeroPage = false } = Astro.props;
+const currentPath = Astro.url.pathname;
+
+function isActive(url: string): boolean {
+  if (url === "/") return currentPath === "/";
+  return currentPath.startsWith(url);
+}
+---
+
+<!-- Navigation Container -->
+<div class={`fixed top-0 left-0 right-0 z-50 pt-4 px-4 md:px-8 ${isHeroPage ? '' : 'nav-light-mode'}`} id="nav-wrapper">
+  <nav class="superpower-nav mx-auto" id="main-nav">
+    <div class="flex items-center justify-between h-14 px-2">
+      <!-- Logo -->
+      <a href="/" class="flex items-center space-x-2 pl-2">
+        <img
+          src="/assets/images/k-on-pie.png"
+          alt="K-PAI Logo"
+          class="h-8 w-8"
+        />
+        <span class="text-lg font-semibold text-white whitespace-nowrap">K-PAI Forum</span>
+      </a>
+
+      <!-- Center Navigation Links -->
+      <div class="hidden lg:flex items-center space-x-1">
+        <!-- Community Dropdown -->
+        <div class="nav-dropdown-wrapper" id="community-dropdown">
+          <button class="nav-link nav-dropdown-trigger">
+            Community
+            <svg class="w-4 h-4 ml-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+        </div>
+
+        <!-- Content Dropdown -->
+        <div class="nav-dropdown-wrapper" id="content-dropdown">
+          <button class="nav-link nav-dropdown-trigger">
+            Content
+            <svg class="w-4 h-4 ml-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
+        </div>
+
+        <span class="nav-divider"></span>
+        <a href="/committee/" class={`nav-link ${isActive('/committee/') ? 'nav-link-active' : ''}`}>Committee</a>
+      </div>
+
+      <!-- Right Side -->
+      <div class="hidden lg:flex items-center space-x-3 pr-1">
+        <a href="/about/" class={`nav-link ${isActive('/about/') ? 'nav-link-active' : ''}`}>About</a>
+        <a href="/membership/" class="nav-cta">Membership</a>
+      </div>
+
+      <!-- Mobile menu button -->
+      <button
+        id="mobile-menu-button"
+        type="button"
+        class="lg:hidden inline-flex items-center justify-center p-2 rounded-lg text-white/80 hover:text-white hover:bg-white/10 transition-colors"
+        aria-controls="mobile-menu"
+        aria-expanded="false"
+      >
+        <span class="sr-only">Open main menu</span>
+        <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- Mega Dropdown Panel - Community -->
+  <div class="mega-dropdown hidden" id="community-mega-menu">
+    <div class="mega-dropdown-content">
+      <!-- Left Image Section -->
+      <div class="mega-dropdown-image">
+        <span class="text-xs text-[var(--color-primary)] font-medium uppercase tracking-wider">Join Our Network</span>
+        <h3 class="text-2xl font-bold text-gray-900 mt-2 leading-tight">
+          Connect with Privacy AI Experts
+        </h3>
+        <div class="mt-6 space-y-3">
+          <div class="flex items-center text-sm text-gray-600">
+            <span class="w-2 h-2 bg-[var(--color-primary)] rounded-full mr-3"></span>
+            Seminars & Workshops
+          </div>
+          <div class="flex items-center text-sm text-gray-600">
+            <span class="w-2 h-2 bg-[var(--color-primary)] rounded-full mr-3"></span>
+            Research Collaboration
+          </div>
+        </div>
+      </div>
+
+      <!-- Center Links -->
+      <div class="mega-dropdown-section">
+        <h4 class="mega-dropdown-title">EVENTS</h4>
+        <a href="/activities/" class="mega-dropdown-item">
+          <div class="mega-dropdown-icon">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <div>
+            <span class="mega-dropdown-item-title">Activities</span>
+            <p class="mega-dropdown-item-desc">Seminars, workshops, and community events</p>
+          </div>
+        </a>
+        <a href="/tmkp/" class="mega-dropdown-item">
+          <div class="mega-dropdown-icon">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10" />
+            </svg>
+          </div>
+          <div>
+            <span class="mega-dropdown-item-title">TMKP</span>
+            <p class="mega-dropdown-item-desc">Tech Meetup Knowledge Platform</p>
+          </div>
+        </a>
+      </div>
+
+      <!-- Right Links -->
+      <div class="mega-dropdown-section">
+        <h4 class="mega-dropdown-title">NETWORK</h4>
+        <a href="/groups/" class="mega-dropdown-link">Groups</a>
+        <a href="/board/" class="mega-dropdown-link">Board</a>
+        <a href="/membership/" class="mega-dropdown-link">Membership</a>
+        <a href="/committee/" class="mega-dropdown-link">Committee</a>
+      </div>
+
+      <div class="mega-dropdown-section">
+        <h4 class="mega-dropdown-title">ABOUT</h4>
+        <a href="/about/" class="mega-dropdown-link">About K-PAI</a>
+        <a href="/meetings/" class="mega-dropdown-link">Meetings</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mega Dropdown Panel - Content -->
+  <div class="mega-dropdown hidden" id="content-mega-menu">
+    <div class="mega-dropdown-content">
+      <!-- Left Image Section -->
+      <div class="mega-dropdown-image">
+        <span class="text-xs text-[var(--color-primary)] font-medium uppercase tracking-wider">Latest Research</span>
+        <h3 class="text-2xl font-bold text-gray-900 mt-2 leading-tight">
+          Privacy-Preserving AI Insights
+        </h3>
+        <div class="mt-6 space-y-3">
+          <div class="flex items-center text-sm text-gray-600">
+            <span class="w-2 h-2 bg-[var(--color-primary)] rounded-full mr-3"></span>
+            Differential Privacy
+          </div>
+          <div class="flex items-center text-sm text-gray-600">
+            <span class="w-2 h-2 bg-[var(--color-primary)] rounded-full mr-3"></span>
+            Federated Learning
+          </div>
+        </div>
+      </div>
+
+      <!-- Center Links -->
+      <div class="mega-dropdown-section">
+        <h4 class="mega-dropdown-title">EXPLORE</h4>
+        <a href="/posts/1/" class="mega-dropdown-item">
+          <div class="mega-dropdown-icon">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z" />
+            </svg>
+          </div>
+          <div>
+            <span class="mega-dropdown-item-title">Posts</span>
+            <p class="mega-dropdown-item-desc">Articles, announcements, and reflections</p>
+          </div>
+        </a>
+        <a href="/tags/" class="mega-dropdown-item">
+          <div class="mega-dropdown-icon">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z" />
+            </svg>
+          </div>
+          <div>
+            <span class="mega-dropdown-item-title">Tags</span>
+            <p class="mega-dropdown-item-desc">Browse content by topics</p>
+          </div>
+        </a>
+      </div>
+
+      <!-- Right Links -->
+      <div class="mega-dropdown-section">
+        <h4 class="mega-dropdown-title">CATEGORIES</h4>
+        <a href="/tags/seminar/" class="mega-dropdown-link">Seminars</a>
+        <a href="/tags/announcement/" class="mega-dropdown-link">Announcements</a>
+        <a href="/tags/reflection/" class="mega-dropdown-link">Reflections</a>
+        <a href="/categories/" class="mega-dropdown-link">All Categories</a>
+      </div>
+
+      <div class="mega-dropdown-section">
+        <h4 class="mega-dropdown-title">TOPICS</h4>
+        <a href="/tags/privacy/" class="mega-dropdown-link">Privacy</a>
+        <a href="/tags/AI/" class="mega-dropdown-link">AI</a>
+        <a href="/tags/ethics/" class="mega-dropdown-link">Ethics</a>
+        <a href="/tags/cybersecurity/" class="mega-dropdown-link">Cybersecurity</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile menu -->
+  <div class="lg:hidden hidden mt-2" id="mobile-menu">
+    <div class="superpower-nav-mobile p-4 space-y-1">
+      <a href="/activities/" class="mobile-nav-link">Activities</a>
+      <a href="/tmkp/" class="mobile-nav-link">TMKP</a>
+      <a href="/board/" class="mobile-nav-link">Board</a>
+      <a href="/groups/" class="mobile-nav-link">Groups</a>
+      <div class="h-px bg-white/10 my-3"></div>
+      <a href="/posts/1/" class="mobile-nav-link">Posts</a>
+      <a href="/tags/" class="mobile-nav-link">Tags</a>
+      <a href="/committee/" class="mobile-nav-link">Committee</a>
+      <div class="h-px bg-white/10 my-3"></div>
+      <a href="/about/" class="mobile-nav-link">About</a>
+      <a href="/membership/" class="block mt-4 py-3 text-center bg-[var(--color-primary)] text-white font-semibold rounded-full hover:bg-[var(--color-primary-dark)] transition-colors">
+        Membership
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Spacer for non-hero pages -->
+{!isHeroPage && <div class="h-24"></div>}
+
+<script>
+  // Navigation scroll effect
+  const nav = document.getElementById('main-nav');
+  const navWrapper = document.getElementById('nav-wrapper');
+  const isHeroPage = !navWrapper?.classList.contains('nav-light-mode');
+
+  function updateNav() {
+    if (window.scrollY > 50) {
+      nav?.classList.add('nav-scrolled');
+      if (!isHeroPage) {
+        navWrapper?.classList.add('scrolled');
+      }
+    } else {
+      nav?.classList.remove('nav-scrolled');
+      if (!isHeroPage) {
+        navWrapper?.classList.remove('scrolled');
+      }
+    }
+  }
+
+  window.addEventListener('scroll', updateNav);
+  updateNav();
+
+  // Mobile menu toggle
+  const button = document.getElementById('mobile-menu-button');
+  const menu = document.getElementById('mobile-menu');
+
+  button?.addEventListener('click', () => {
+    const expanded = button.getAttribute('aria-expanded') === 'true';
+    button.setAttribute('aria-expanded', String(!expanded));
+    menu?.classList.toggle('hidden');
+  });
+
+  // Mega Dropdown functionality
+  const communityDropdown = document.getElementById('community-dropdown');
+  const communityMegaMenu = document.getElementById('community-mega-menu');
+  const contentDropdown = document.getElementById('content-dropdown');
+  const contentMegaMenu = document.getElementById('content-mega-menu');
+
+  let dropdownTimeout: ReturnType<typeof setTimeout>;
+
+  function showDropdown(wrapper: Element | null, megaMenu: Element | null) {
+    clearTimeout(dropdownTimeout);
+    // Hide all other dropdowns
+    document.querySelectorAll('.mega-dropdown').forEach(d => {
+      d.classList.remove('active');
+      d.classList.add('hidden');
+    });
+    document.querySelectorAll('.nav-dropdown-wrapper').forEach(w => {
+      w.classList.remove('active');
+    });
+    // Show this dropdown
+    wrapper?.classList.add('active');
+    megaMenu?.classList.remove('hidden');
+    setTimeout(() => megaMenu?.classList.add('active'), 10);
+  }
+
+  function hideAllDropdowns() {
+    dropdownTimeout = setTimeout(() => {
+      document.querySelectorAll('.mega-dropdown').forEach(d => {
+        d.classList.remove('active');
+        setTimeout(() => d.classList.add('hidden'), 300);
+      });
+      document.querySelectorAll('.nav-dropdown-wrapper').forEach(w => {
+        w.classList.remove('active');
+      });
+    }, 150);
+  }
+
+  // Community dropdown events
+  communityDropdown?.addEventListener('mouseenter', () => {
+    showDropdown(communityDropdown, communityMegaMenu);
+  });
+
+  communityMegaMenu?.addEventListener('mouseenter', () => {
+    clearTimeout(dropdownTimeout);
+  });
+
+  communityDropdown?.addEventListener('mouseleave', hideAllDropdowns);
+  communityMegaMenu?.addEventListener('mouseleave', hideAllDropdowns);
+
+  // Content dropdown events
+  contentDropdown?.addEventListener('mouseenter', () => {
+    showDropdown(contentDropdown, contentMegaMenu);
+  });
+
+  contentMegaMenu?.addEventListener('mouseenter', () => {
+    clearTimeout(dropdownTimeout);
+  });
+
+  contentDropdown?.addEventListener('mouseleave', hideAllDropdowns);
+  contentMegaMenu?.addEventListener('mouseleave', hideAllDropdowns);
+</script>
+
+<style>
+  /* Light mode navigation for non-hero pages */
+  .nav-light-mode .superpower-nav {
+    background: rgba(20, 25, 35, 0.95);
+  }
+
+  .nav-link-active {
+    color: white;
+    background: rgba(255, 255, 255, 0.15);
+  }
+</style>

@@ -1,113 +1,323 @@
 ---
 import { getCollection } from "astro:content";
-import BaseLayout from "../layouts/BaseLayout.astro";
+import SuperpowerNav from "../components/SuperpowerNav.astro";
+import Footer from "../components/Footer.astro";
+import SeoHead from "../components/SeoHead.astro";
+import "../styles/global.css";
 
 const posts = await getCollection("posts");
 const recentPosts = posts
   .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
-  .slice(0, 5);
+  .slice(0, 3);
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
 
-<BaseLayout
-  title="Home"
-  description="Silicon Valley Privacy-Preserving AI Forum - K-PAI"
->
-  <div class="max-w-6xl mx-auto">
-    <!-- Hero Section -->
-    <div class="text-center py-12 mb-12 border-b">
-      <img
-        src="/assets/images/k-on-pie.png"
-        alt="K-PAI Logo"
-        class="w-32 h-32 mx-auto mb-6"
-      />
-      <h1 class="text-4xl md:text-5xl font-bold mb-4">
-        Silicon Valley Privacy-Preserving AI Forum
-      </h1>
-      <p class="text-xl text-gray-600 mb-6">K-PAI</p>
-      <div class="flex flex-wrap justify-center gap-4">
-        <a
-          href="/about/"
-          class="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
-        >
-          About Us
-        </a>
-        <a
-          href="/membership/"
-          class="px-6 py-3 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 transition-colors"
-        >
-          Join K-PAI
-        </a>
-      </div>
-    </div>
+<!doctype html>
+<html lang="en">
+  <head>
+    <SeoHead
+      title="K-PAI | Silicon Valley Privacy-Preserving AI Forum"
+      description="Join K-PAI, the premier community for privacy-preserving AI research and development in Silicon Valley. Advancing AI ethics, security, and innovation."
+      canonical={canonicalURL.toString()}
+    />
+  </head>
+  <body class="bg-white">
+    <!-- Hero Section with Dark Navigation -->
+    <section class="hero-section">
+      <div class="grid-pattern"></div>
 
-    <!-- Recent Posts -->
-    <div class="mb-12">
-      <h2 class="text-3xl font-bold mb-6">Recent Posts</h2>
-      <div class="space-y-6">
-        {
-          recentPosts.map((post) => (
-            <article class="border-b pb-6">
-              <h3 class="text-2xl font-semibold mb-2">
+      <!-- Navigation Component -->
+      <SuperpowerNav isHeroPage={true} />
+
+      <!-- Hero Content -->
+      <div class="relative z-10 text-center px-4 max-w-5xl mx-auto">
+        <div class="animate-float mb-8">
+          <img
+            src="/assets/images/k-on-pie.png"
+            alt="K-PAI Logo"
+            class="w-28 h-28 mx-auto drop-shadow-2xl"
+          />
+        </div>
+
+        <div class="fade-in-up visible">
+          <span class="badge mb-6">Silicon Valley Community</span>
+        </div>
+
+        <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight fade-in-up visible delay-100">
+          Privacy-Preserving
+          <span class="text-gradient block mt-2">AI Forum</span>
+        </h1>
+
+        <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10 fade-in-up visible delay-200">
+          Advancing the future of AI with privacy, security, and ethics at the core.
+          Join the leading community of researchers and engineers in Silicon Valley.
+        </p>
+
+        <div class="flex flex-col sm:flex-row items-center justify-center gap-4 fade-in-up visible delay-300">
+          <a href="/membership/" class="btn-primary">
+            Join Our Community
+            <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+            </svg>
+          </a>
+          <a href="/about/" class="btn-secondary">
+            Learn More
+          </a>
+        </div>
+
+        <!-- Scroll indicator -->
+        <div class="absolute bottom-10 left-1/2 transform -translate-x-1/2">
+          <div class="w-6 h-10 border-2 border-white/30 rounded-full flex justify-center">
+            <div class="w-1.5 h-3 bg-white/50 rounded-full mt-2 animate-bounce"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="py-16 bg-white border-b">
+      <div class="container mx-auto px-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+          <div class="fade-in-up">
+            <div class="stat-number">50+</div>
+            <p class="text-gray-600 mt-2 font-medium">Active Members</p>
+          </div>
+          <div class="fade-in-up delay-100">
+            <div class="stat-number">20+</div>
+            <p class="text-gray-600 mt-2 font-medium">Events Hosted</p>
+          </div>
+          <div class="fade-in-up delay-200">
+            <div class="stat-number">10+</div>
+            <p class="text-gray-600 mt-2 font-medium">Research Topics</p>
+          </div>
+          <div class="fade-in-up delay-300">
+            <div class="stat-number">5+</div>
+            <p class="text-gray-600 mt-2 font-medium">Years Active</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="section bg-gray-50">
+      <div class="container mx-auto px-4">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <span class="badge mb-4">What We Do</span>
+          <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+            Empowering Privacy in AI
+          </h2>
+          <p class="text-gray-600 text-lg">
+            We bring together the brightest minds to solve the most challenging problems
+            in privacy-preserving artificial intelligence.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+          <!-- Feature 1 -->
+          <div class="feature-card fade-in-up">
+            <div class="icon-container mb-6">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-3">Privacy Research</h3>
+            <p class="text-gray-600">
+              Exploring cutting-edge techniques in differential privacy, federated learning,
+              and secure multi-party computation.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div class="feature-card fade-in-up delay-100">
+            <div class="icon-container mb-6">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-3">Community Events</h3>
+            <p class="text-gray-600">
+              Regular meetups, seminars, and workshops connecting researchers,
+              engineers, and industry leaders.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div class="feature-card fade-in-up delay-200">
+            <div class="icon-container mb-6">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-3">Knowledge Sharing</h3>
+            <p class="text-gray-600">
+              Publishing research, best practices, and insights on privacy-preserving
+              AI technologies and applications.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Recent Posts Section -->
+    <section class="section bg-white">
+      <div class="container mx-auto px-4">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-12">
+          <div>
+            <span class="badge mb-4">Latest Updates</span>
+            <h2 class="text-3xl md:text-4xl font-bold text-gray-900">
+              Recent Posts
+            </h2>
+          </div>
+          <a href="/posts/1/" class="text-[var(--color-primary)] font-semibold hover:underline mt-4 md:mt-0 flex items-center">
+            View all posts
+            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+          {
+            recentPosts.map((post, index) => (
+              <article class={`post-card fade-in-up delay-${(index + 1) * 100}`}>
+                <time class="text-sm text-gray-500 mb-3 block">
+                  {post.data.date.toLocaleDateString("en-US", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                  })}
+                </time>
+                <h3 class="text-xl font-bold text-gray-900 mb-3 line-clamp-2">
+                  <a
+                    href={`/posts/${post.slug}/`}
+                    class="hover:text-[var(--color-primary)] transition-colors"
+                  >
+                    {post.data.title}
+                  </a>
+                </h3>
+                {post.data.excerpt && (
+                  <p class="text-gray-600 text-sm line-clamp-3">{post.data.excerpt}</p>
+                )}
                 <a
                   href={`/posts/${post.slug}/`}
-                  class="text-gray-900 hover:text-blue-600 transition-colors"
+                  class="inline-flex items-center text-[var(--color-primary)] font-medium text-sm mt-4 hover:underline"
                 >
-                  {post.data.title}
+                  Read more
+                  <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                  </svg>
                 </a>
-              </h3>
-              <time class="text-gray-600 text-sm">
-                {post.data.date.toLocaleDateString("en-US", {
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-                })}
-              </time>
-              {post.data.excerpt && (
-                <p class="mt-2 text-gray-700">{post.data.excerpt}</p>
-              )}
-            </article>
-          ))
-        }
+              </article>
+            ))
+          }
+        </div>
       </div>
-      <div class="mt-6 text-center">
-        <a
-          href="/posts/1/"
-          class="text-blue-600 hover:text-blue-800 hover:underline font-medium"
-        >
-          View all posts →
-        </a>
-      </div>
-    </div>
+    </section>
 
-    <!-- Quick Links -->
-    <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-      <a
-        href="/activities/"
-        class="block p-6 bg-white border rounded-lg hover:shadow-md transition-shadow"
-      >
-        <h3 class="text-xl font-semibold mb-2">Activities</h3>
-        <p class="text-gray-600 text-sm">
-          View our events, seminars, and community activities
-        </p>
-      </a>
-      <a
-        href="/committee/"
-        class="block p-6 bg-white border rounded-lg hover:shadow-md transition-shadow"
-      >
-        <h3 class="text-xl font-semibold mb-2">Committee</h3>
-        <p class="text-gray-600 text-sm">
-          Meet the K-PAI committee members
-        </p>
-      </a>
-      <a
-        href="/board/"
-        class="block p-6 bg-white border rounded-lg hover:shadow-md transition-shadow"
-      >
-        <h3 class="text-xl font-semibold mb-2">Board</h3>
-        <p class="text-gray-600 text-sm">
-          Community messages and announcements
-        </p>
-      </a>
-    </div>
-  </div>
-</BaseLayout>
+    <!-- Quick Links Section -->
+    <section class="section bg-gray-50">
+      <div class="container mx-auto px-4">
+        <div class="text-center max-w-3xl mx-auto mb-12">
+          <span class="badge mb-4">Explore</span>
+          <h2 class="text-3xl md:text-4xl font-bold text-gray-900">
+            Get Involved
+          </h2>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+          <a href="/activities/" class="feature-card group fade-in-up">
+            <div class="icon-container mb-6 group-hover:scale-110 transition-transform">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Activities</h3>
+            <p class="text-gray-600 text-sm">
+              Discover our events, seminars, and community activities
+            </p>
+          </a>
+
+          <a href="/committee/" class="feature-card group fade-in-up delay-100">
+            <div class="icon-container mb-6 group-hover:scale-110 transition-transform">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Committee</h3>
+            <p class="text-gray-600 text-sm">
+              Meet the dedicated team leading K-PAI
+            </p>
+          </a>
+
+          <a href="/board/" class="feature-card group fade-in-up delay-200">
+            <div class="icon-container mb-6 group-hover:scale-110 transition-transform">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Board</h3>
+            <p class="text-gray-600 text-sm">
+              Community announcements and messages
+            </p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-24 bg-[var(--gradient-dark)] relative overflow-hidden">
+      <div class="absolute inset-0 grid-pattern opacity-50"></div>
+      <div class="container mx-auto px-4 relative z-10">
+        <div class="text-center max-w-3xl mx-auto">
+          <h2 class="text-3xl md:text-5xl font-bold text-white mb-6">
+            Ready to Join the Future of
+            <span class="text-gradient"> Privacy-Preserving AI?</span>
+          </h2>
+          <p class="text-gray-400 text-lg mb-10">
+            Become a member of K-PAI and connect with leading experts in the field.
+            Together, we're building a more private and secure AI future.
+          </p>
+          <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+            <a href="/membership/" class="btn-primary">
+              Become a Member
+              <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
+            </a>
+            <a href="mailto:k.private.ai@gmail.com" class="btn-secondary">
+              Contact Us
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <Footer />
+
+    <!-- Scroll Animation Script -->
+    <script>
+      // Intersection Observer for fade-in animations
+      const observerOptions = {
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.1
+      };
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+          }
+        });
+      }, observerOptions);
+
+      document.querySelectorAll('.fade-in-up, .fade-in, .scale-in').forEach(el => {
+        // Skip hero elements that are already visible
+        if (!el.classList.contains('visible')) {
+          observer.observe(el);
+        }
+      });
+    </script>
+  </body>
+</html>
