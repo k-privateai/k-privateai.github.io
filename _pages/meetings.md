@@ -1,9 +1,9 @@
 ---
+date: Sat Jan 11 14:32:16 PST 2025
+last_modified_at: Fri Jan 23 01:34:41 PST 2026
 layout: single
 permalink: /meetings/
 title: Meetings
-date: Sat Jan 11 14:32:16 PST 2025
-last_modified_at: Sat Dec 27 19:13:52 PST 2025
 categories:
  - blog
 toc: true
@@ -122,7 +122,7 @@ and
 ### Photo
 
 <div class="img-container">
-<img src="/resource/meetings/2025-1031/KakaoTalk_Photo_2025-11-01-16-14-57.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/2025/10/31/KakaoTalk_Photo_2025-11-01-16-14-57-25-reduced.jpeg">
 </div>
 
 ## 10-Oct-2025 Brunch
@@ -145,16 +145,6 @@ Sunghee
 ### Meeting Minutes
 
 - [K-PAI Committee Brunch Meeting Minutes](https://www.notion.so/K-PAI-Committee-Brunch-Meeting-Minutes-2886215a599880b88219c49e6024fca9?v=21a6215a599880e8b4c4000c88a12ff1&source=copy_link)
-
-### Photos
-
-<div class="img-container">
-<img src="/resource/meetings/2025-1010 - Brunch Meeting @ Bloom/photos/KakaoTalk_Photo_2025-10-10-22-46-00 003.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/resource/meetings/2025-1010 - Brunch Meeting @ Bloom/photos/KakaoTalk_Photo_2025-10-10-22-46-55 001.jpeg">
-</div>
 
 ## 29-Aug-2025 Lunch
 
@@ -181,15 +171,7 @@ extremely friendly atmosphere, open to everyone, etc.
 ### Photos
 
 <div class="img-container">
-<img src="/resource/meetings/2025-0829 - Operating Committee - near Stanford/photos/KakaoTalk_Photo_2025-09-05-20-04-03 004.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/resource/meetings/2025-0829 - Operating Committee - near Stanford/photos/KakaoTalk_Photo_2025-09-05-20-04-01 003.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/resource/meetings/2025-0829 - Operating Committee - near Stanford/photos/KakaoTalk_Photo_2025-09-05-20-04-03 005.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/2025/08/29 - Operating Committee - near Stanford/KakaoTalk_Photo_2025-09-05-20-04-03 005-25-reduced.jpeg">
 </div>
 
 ## 13-Jun-2025 Lunch!
@@ -337,7 +319,8 @@ and
 <li>
 	attendees: Sunghee, Sehui &amp; Jaehyuk
 	<div class="img-container">
-		<img src="/resource/meetings/2025-0115-Stanford-students/KakaoTalk_Photo_2025-01-15-15-30-59 001.jpeg">
+		<!--img src="/resource/meetings/2025-0115-Stanford-students/KakaoTalk_Photo_2025-01-15-15-30-59 001.jpeg"-->
+		<img src="https://sungheeyun-photos-01.github.io/resource/2025/01/15 - with Jaehyuk and Sehui/KakaoTalk_Photo_2025-01-15-15-30-59 001.jpeg">
 	</div>
 </li>
 <li>
@@ -392,16 +375,10 @@ and
 <li>
 	attendees: Jung Hee, CI, SVP &amp; Sunghee
 	<div class="img-container">
-		<img src="/resource/meetings/03/Screenshot 2025-01-14 at 1.37.16 AM.png">
+		<img src="https://sungheeyun-photos-01.github.io/resource/2025/01/12/Screenshot 2025-01-14 at 1.37.16 AM.png">
 	</div>
 	<figcaption style="width: 80%">
 		The organizing committee @ Starbucks
-	</figcaption>
-	<div class="img-container">
-		<img src="/resource/meetings/03/KakaoTalk_Photo_2025-01-13-01-16-46.jpeg">
-	</div>
-	<figcaption style="width: 80%">
-		After CI and Sunghee left &hellip; the dinner was greater! :)
 	</figcaption>
 </li>
 <li>
@@ -476,14 +453,6 @@ and
 </li>
 <li>
 	attendees: Jung Hee, Daejun (dubbed SVP - Security Verification Park) &amp; Sunghee
-	<div class="img-container">
-		<img src="/resource/meetings/02/KakaoTalk_Photo_2025-01-13-01-16-50.jpeg">
-	</div>
-	<figcaption style="width: 80%">
-		@ Annual gathering of the UKF community alongside representatives from various companies
-		both in Silicon Valley and Korea,
-		e.g., D.Notitia &amp; Adobe
-	</figcaption>
 </li>
 <li>
 	agenda: organization structure, panel discussion, future events
