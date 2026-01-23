@@ -1,6 +1,6 @@
 ---
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Sat Jan 17 16:28:44 PST 2026
+last_modified_at: Fri Jan 23 02:06:16 PST 2026
 layout: single
 title: K-PAI Activities
 permalink: /activities/
@@ -17,7 +17,7 @@ toc_sticky: true
 |Item|Owner(s)|Status|
 |[Silicon Valley Expert Roundtable with Korean National Assembly Members](#silicon-valley-expert-roundtable-with-korean-national-assembly-members--07-oct-2025)|[Sunghee](https://sungheeyun.github.io)|Completed on 07-Oct-2025|
 |[SNU Engineering Faculty Networking Dinner & Coffee Chat](#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026)|[Sunghee](https://sungheeyun.github.io) [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} |Completed on 08-09 Jan 2026|
-|[KAIST Silicon Valley Talent Attraction Roundtable](#kaist-silicon-valley-talent-attraction-roundtable--22-jan-2026)|[Sunghee](https://sungheeyun.github.io)|Scheduled for 22-Jan-2026|
+|[KAIST Silicon Valley Talent Attraction Roundtable](#kaist-silicon-valley-talent-attraction-roundtable--22-jan-2026)|[Sunghee](https://sungheeyun.github.io)|Completed on 22-Jan-2026|
 |[SNU College of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|Kick-off dinner completed; MOU signing & execution in progress|
 |[Korea University Business School (KUBS) Center for Digital Transformation &amp; Business (CDTB) Partnership Initiative](#korea-university-business-school-kubs-center-for-digital-transformation--business-cdtb-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|Under development|
 |[Joint Hackathon with Krafton (PUBG Developers)](#joint-hackathon-with-krafton-pubg-developers)|[Sunghee](https://sungheeyun.github.io) + [Peter](https://www.linkedin.com/in/peter-bae-551b1b1/){:target="_blank"}|Under development|
@@ -142,7 +142,7 @@ These back-to-back networking events accomplished multiple strategic objectives.
 
 # KAIST Silicon Valley Talent Attraction Roundtable @ 22-Jan-2026
 
-[K-PAI](/) is organizing a strategic roundtable meeting with KAIST Professor Chaegwon Lim as part of the Ministry of Science and ICT's "Performance-Driven Overseas Talent Attraction Program." This initiative represents a significant opportunity to bridge Silicon Valley's Korean scientific and engineering community with Korea's national talent development strategy.
+[K-PAI](/) organized a strategic roundtable meeting with KAIST Professor Chaegwon Lim as part of the Ministry of Science and ICT's "Performance-Driven Overseas Talent Attraction Program." This initiative represents a significant opportunity to bridge Silicon Valley's Korean scientific and engineering community with Korea's national talent development strategy.
 
 <div class="img-container-justified">
 &nbsp;
@@ -162,19 +162,59 @@ Professor Lim, a former Ministry of Science and ICT official and current visitin
 - Concrete collaboration opportunities between KAIST and Silicon Valley
 - Ways to more closely connect Korea's science and technology ecosystem with global innovation hubs
 
-**What [K-PAI](/) Brings**
+## Roundtable Dinner: 22-Jan-2026 - COMPLETED ✅
 
-As a trusted community bridging Silicon Valley and Korea, [K-PAI](/) is uniquely positioned to:
-- Recruit 5-6 highly qualified Korean scientists and engineers from industry
-- Facilitate candid, productive dialogue between practitioners and policymakers
-- Ensure diverse perspectives from various AI and technology domains
-- Create a comfortable environment for honest feedback and collaborative ideation
+The roundtable was held at Chungdam Korean BBQ, bringing together Professor Chaegwon Lim and 6 carefully selected [K-PAI](/) members representing diverse expertise across Silicon Valley's AI and technology landscape. What made this dinner exceptional was the depth and candidness of the conversation—participants didn't just share surface-level observations but engaged in substantive dialogue about the fundamental factors that make Silicon Valley's ecosystem work and how Korea might adapt these insights.
 
-This roundtable exemplifies [K-PAI](/)'s expanding role as a strategic connector between Silicon Valley's Korean professional community and Korea's national science and technology initiatives. The insights gathered will directly inform government programs designed to support overseas Korean talent and strengthen bilateral collaboration.
+<div class="img-container">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-29 002-25-reduced.jpeg">
+</div>
+
+## Key Discussion Topics & Insights
+
+<h3>Korea's Strategic Policy Shift</h3>
+
+The new Korean government administration has fundamentally changed its approach to talent development. Recognizing that the previous administration's "international collaboration" strategy didn't work as intended, the new policy focuses on **attracting Korean talents living abroad** back to Korea—particularly for university faculty positions. This represents a pragmatic shift toward leveraging the diaspora of Korean scientists and engineers who have gained invaluable experience in global innovation hubs like Silicon Valley.
+
+The government is considering multiple incentive mechanisms including competitive salaries and favorable working conditions to make Korean university positions attractive to Silicon Valley professionals.
+
+<h3>Compensation Realities</h3>
+
+Professor Lim and [K-PAI](/) participants discussed specific salary ranges and compensation packages that would be necessary to attract top Silicon Valley talent to Korean academic positions. The conversation was remarkably frank, addressing the substantial gap between current Korean academic salaries and Silicon Valley compensation, while also acknowledging that money alone isn't the primary motivator for many professionals.
+
+<h3>What REALLY makes Silicon Valley Silicon Valley</h3>
+
+Beyond compensation, the roundtable identified critical cultural and structural factors that enable Silicon Valley's success:
+
+🔬 **Genuine Respect for Technical Excellence**: Silicon Valley has cultivated a culture that authentically values and respects engineering and scientific talent—not just as implementers but as innovation drivers and strategic thinkers. This respect is embedded in organizational structures, decision-making processes, and career advancement pathways.
+
+🎯 **The Individual Contributor (IC) Career Path**: One of Silicon Valley's "secret sauces" is that exceptional engineers can flourish and reach the highest levels of influence, compensation, and respect **without transitioning to management roles**. Distinguished Engineers, Principal Scientists, and Staff+ engineers command immense respect and resources while remaining deeply technical. This stands in contrast to many organizations where the only path to advancement is management—forcing talented engineers into roles they may not want or excel at.
+
+📈 **Upward Standardization through Talent Mobility**: Silicon Valley's high talent mobility—engineers moving between companies—creates a virtuous cycle where each company's bar is continuously raised. When top talent from Google joins a startup, or Amazon engineers move to Meta, they bring best practices, elevated expectations, and higher standards. This cross-pollination of excellence creates an ecosystem-wide elevation of quality that benefits everyone.
+
+💡 **Engineering-Savvy Product Management**: The roundtable observed that even Product Managers in Silicon Valley increasingly need strong engineering backgrounds to be effective. The days of PMs who don't understand technology are ending—modern Silicon Valley PMs with engineering backgrounds are flourishing because they can have technical depth conversations, make informed tradeoffs, and earn engineers' respect. This integration of technical and product thinking accelerates innovation.
+
+## Community Impact &amp; Participant Feedback
+
+The roundtable was **remarkably successful**—exceeding expectations in both depth and value. Multiple [K-PAI](/) participants shared that they learned tremendously from this single dinner conversation, gaining insights not just about Korean government policy but about the fundamental dynamics that make their own Silicon Valley careers possible.
+
+Participants specifically requested **more opportunities like this**—recognizing that these substantive dialogues with Korean policymakers and academics create bidirectional learning: Professor Lim gains authentic ground-truth insights to inform national policy, while [K-PAI](/) members gain deeper appreciation for the broader Korea-US talent ecosystem and their potential role in shaping it.
+
+## What [K-PAI](/) Demonstrated
+
+This roundtable showcased [K-PAI](/)'s unique value proposition as a strategic connector:
+
+✅ **Trusted Convener**: Ability to recruit highly qualified Korean professionals for candid policy discussions
+✅ **Quality Curation**: 6 carefully selected participants representing diverse Silicon Valley expertise
+✅ **Honest Dialogue**: Creating safe space for frank conversations about sensitive topics (compensation, cultural gaps, policy effectiveness)
+✅ **Actionable Insights**: Providing Korean government and academic institutions with ground-truth intelligence to inform talent attraction strategies
+✅ **Bidirectional Value**: Ensuring [K-PAI](/) members also gain valuable insights and connections
+
+This roundtable exemplifies [K-PAI](/)'s expanding role as a strategic bridge between Silicon Valley's Korean professional community and Korea's national science and technology initiatives. The insights gathered will directly inform Ministry of Science and ICT programs designed to attract overseas Korean talent and strengthen Korea-US bilateral collaboration in critical technology domains.
 
 **Owner**: [Sunghee, K-PAI Leader](https://sungheeyun.github.io)
 <br>
-**Status**: Scheduled for 22-Jan-2026 (thu)
+**Status**: Completed (22-Jan-2026)
 
 # SNU College of Engineering Strategic Partnership Initiative
 
