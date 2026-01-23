@@ -1,6 +1,6 @@
 ---
 date: Fri Oct 31 04:13:49 PDT 2025
-last_modified_at: Fri Jan 23 02:06:16 PST 2026
+last_modified_at: Fri Jan 23 02:13:07 PST 2026
 layout: single
 title: K-PAI Activities
 permalink: /activities/
@@ -204,11 +204,15 @@ Participants specifically requested **more opportunities like this**—recognizi
 
 This roundtable showcased [K-PAI](/)'s unique value proposition as a strategic connector:
 
-✅ **Trusted Convener**: Ability to recruit highly qualified Korean professionals for candid policy discussions
-✅ **Quality Curation**: 6 carefully selected participants representing diverse Silicon Valley expertise
-✅ **Honest Dialogue**: Creating safe space for frank conversations about sensitive topics (compensation, cultural gaps, policy effectiveness)
-✅ **Actionable Insights**: Providing Korean government and academic institutions with ground-truth intelligence to inform talent attraction strategies
-✅ **Bidirectional Value**: Ensuring [K-PAI](/) members also gain valuable insights and connections
+✅ **Trusted Convener** - ability to recruit highly qualified Korean professionals for candid policy discussions
+
+✅ **Quality Curation** - 6 carefully selected participants representing diverse Silicon Valley expertise
+
+✅ **Honest Dialogue** - creating safe space for frank conversations about sensitive topics (compensation, cultural gaps, policy effectiveness)
+
+✅ **Actionable Insights** - providing Korean government and academic institutions with ground-truth intelligence to inform talent attraction strategies
+
+✅ **Bidirectional Value** - ensuring [K-PAI](/) members also gain valuable insights and connections
 
 This roundtable exemplifies [K-PAI](/)'s expanding role as a strategic bridge between Silicon Valley's Korean professional community and Korea's national science and technology initiatives. The insights gathered will directly inform Ministry of Science and ICT programs designed to attract overseas Korean talent and strengthen Korea-US bilateral collaboration in critical technology domains.
 
