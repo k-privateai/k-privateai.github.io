@@ -99,7 +99,7 @@ body {
   font-weight: 600;
   font-size: 1rem;
   color: white;
-  background: var(--gradient-primary);
+  background: var(--color-primary);
   border: none;
   border-radius: 9999px;
   cursor: pointer;
@@ -214,6 +214,64 @@ body {
   background-size: 60px 60px;
   mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%);
   -webkit-mask-image: radial-gradient(ellipse at center, black 30%, transparent 70%);
+  z-index: 2;
+}
+
+/* Hero Scroll Container - extra height for scroll animation */
+.hero-scroll-container {
+  height: calc(100vh + 300px);
+  position: relative;
+  background: white;
+}
+
+.hero-sticky {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  background: white;
+}
+
+/* Hero Video Background */
+.hero-video-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow: hidden;
+  transition: transform 0.05s ease-out, border-radius 0.05s ease-out, top 0.05s ease-out, left 0.05s ease-out, right 0.05s ease-out, bottom 0.05s ease-out;
+  will-change: transform, border-radius, top, left, right, bottom;
+}
+
+.hero-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
+  object-fit: cover;
+}
+
+.hero-video-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 15, 26, 0.6);
+  transition: background 0.1s ease-out;
+  z-index: 1;
+}
+
+/* Hero Content (for scroll animation) */
+.hero-content {
+  transition: opacity 0.1s ease-out, transform 0.1s ease-out;
+  will-change: opacity, transform;
+}
+
+.scroll-indicator {
+  transition: opacity 0.1s ease-out;
 }
 
 /* Floating Animation */
@@ -247,12 +305,9 @@ body {
   opacity: 0.5;
 }
 
-/* Text Gradient */
+/* Text Accent Color */
 .text-gradient {
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: var(--color-primary);
 }
 
 /* Section Spacing */
@@ -271,10 +326,7 @@ body {
   font-size: 3.5rem;
   font-weight: 700;
   line-height: 1;
-  background: var(--gradient-primary);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: var(--color-primary);
 }
 
 /* Divider */
@@ -392,7 +444,7 @@ body {
   position: absolute;
   top: calc(100% + 0.5rem);
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-50%) translateY(-10px);
   width: calc(100vw - 4rem);
   max-width: 1000px;
   background: white;
@@ -400,14 +452,21 @@ body {
   box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
   opacity: 0;
   visibility: hidden;
-  transition: all 0.3s ease;
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
   z-index: 100;
   overflow: hidden;
+}
+
+.mega-dropdown.hidden {
+  display: none;
 }
 
 .mega-dropdown.active {
   opacity: 1;
   visibility: visible;
+  pointer-events: auto;
+  transform: translateX(-50%) translateY(0);
 }
 
 .mega-dropdown-content {
@@ -605,4 +664,61 @@ body {
 /* Smooth scroll target offset for fixed nav */
 [id] {
   scroll-margin-top: 5rem;
+}
+
+/* Logo Marquee Animation */
+.logo-marquee-container {
+  width: 100%;
+  overflow: hidden;
+  mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+  -webkit-mask-image: linear-gradient(to right, transparent, black 10%, black 90%, transparent);
+}
+
+.logo-marquee {
+  display: flex;
+  width: fit-content;
+  animation: marquee 30s linear infinite;
+}
+
+.logo-marquee-content {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  padding: 0 2rem;
+}
+
+.logo-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.logo-item.logo-text {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-gray-400);
+  letter-spacing: -0.02em;
+  transition: color var(--transition-fast);
+  white-space: nowrap;
+}
+
+.logo-item.logo-text:hover {
+  color: var(--color-gray-700);
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Pause animation when user prefers reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .logo-marquee {
+    animation: none;
+  }
 }

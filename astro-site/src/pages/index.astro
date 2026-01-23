@@ -23,53 +23,152 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     />
   </head>
   <body class="bg-white">
-    <!-- Hero Section with Dark Navigation -->
-    <section class="hero-section">
-      <div class="grid-pattern"></div>
+    <!-- Navigation Component (outside of sticky container for proper z-index) -->
+    <SuperpowerNav isHeroPage={true} />
 
-      <!-- Navigation Component -->
-      <SuperpowerNav isHeroPage={true} />
-
-      <!-- Hero Content -->
-      <div class="relative z-10 text-center px-4 max-w-5xl mx-auto">
-        <div class="animate-float mb-8">
-          <img
-            src="/assets/images/k-on-pie.png"
-            alt="K-PAI Logo"
-            class="w-28 h-28 mx-auto drop-shadow-2xl"
-          />
+    <!-- Hero Section with Video Background -->
+    <div class="hero-scroll-container" id="hero-scroll-container">
+      <section class="hero-section hero-sticky" id="hero-section">
+        <!-- Background Video -->
+        <div class="hero-video-container" id="hero-video-container">
+          <video
+            autoplay
+            muted
+            loop
+            playsinline
+            class="hero-video"
+            id="hero-video"
+          >
+            <source src="/assets/images/video/182284_Woman wearing virtual reality glasses _By_Erwin_De_Boer_Artlist_HD.mp4" type="video/mp4" />
+          </video>
+          <div class="hero-video-overlay" id="hero-video-overlay"></div>
         </div>
 
-        <div class="fade-in-up visible">
-          <span class="badge mb-6">Silicon Valley Community</span>
+        <div class="grid-pattern"></div>
+
+        <!-- Hero Content (will fade on scroll) -->
+        <div class="relative z-10 text-center px-4 max-w-5xl mx-auto hero-content" id="hero-content">
+          <div class="animate-float mb-8">
+            <img
+              src="/assets/images/k-on-pie.png"
+              alt="K-PAI Logo"
+              class="w-28 h-28 mx-auto drop-shadow-2xl"
+            />
+          </div>
+
+          <div class="fade-in-up visible">
+            <span class="badge mb-6">Silicon Valley Community</span>
+          </div>
+
+          <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight fade-in-up visible delay-100">
+            Privacy-Preserving
+            <span class="text-gradient block mt-2">AI Forum</span>
+          </h1>
+
+          <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10 fade-in-up visible delay-200">
+            Advancing the future of AI with privacy, security, and ethics at the core.
+            Join the leading community of researchers and engineers in Silicon Valley.
+          </p>
+
+          <div class="flex flex-col sm:flex-row items-center justify-center gap-4 fade-in-up visible delay-300">
+            <a href="/membership/" class="btn-primary">
+              Join Our Community
+              <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
+            </a>
+            <a href="/about/" class="btn-secondary">
+              Learn More
+            </a>
+          </div>
+
         </div>
+      </section>
+    </div>
 
-        <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight fade-in-up visible delay-100">
-          Privacy-Preserving
-          <span class="text-gradient block mt-2">AI Forum</span>
-        </h1>
+    <!-- Hero Scroll Interaction Script -->
+    <script>
+      const heroScrollContainer = document.getElementById('hero-scroll-container');
+      const heroSection = document.getElementById('hero-section');
+      const heroContent = document.getElementById('hero-content');
+      const heroVideoContainer = document.getElementById('hero-video-container');
+      const heroVideoOverlay = document.getElementById('hero-video-overlay');
 
-        <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10 fade-in-up visible delay-200">
-          Advancing the future of AI with privacy, security, and ethics at the core.
-          Join the leading community of researchers and engineers in Silicon Valley.
-        </p>
+      // Scroll distance for video shrink animation (in pixels)
+      const SHRINK_SCROLL_DISTANCE = 300;
 
-        <div class="flex flex-col sm:flex-row items-center justify-center gap-4 fade-in-up visible delay-300">
-          <a href="/membership/" class="btn-primary">
-            Join Our Community
-            <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
-            </svg>
-          </a>
-          <a href="/about/" class="btn-secondary">
-            Learn More
-          </a>
-        </div>
+      function handleHeroScroll() {
+        const scrollY = window.scrollY;
 
-        <!-- Scroll indicator -->
-        <div class="absolute bottom-10 left-1/2 transform -translate-x-1/2">
-          <div class="w-6 h-10 border-2 border-white/30 rounded-full flex justify-center">
-            <div class="w-1.5 h-3 bg-white/50 rounded-full mt-2 animate-bounce"></div>
+        // Phase 1: Video shrinking (0 to SHRINK_SCROLL_DISTANCE)
+        const shrinkProgress = Math.min(scrollY / SHRINK_SCROLL_DISTANCE, 1);
+
+        if (heroContent) {
+          // Fade out content
+          heroContent.style.opacity = String(1 - shrinkProgress);
+          heroContent.style.transform = `translateY(${-shrinkProgress * 30}px)`;
+        }
+
+        if (heroVideoContainer) {
+          // Scale down subtly (100% to 95%)
+          const scale = 1 - (shrinkProgress * 0.05);
+          const borderRadius = shrinkProgress * 24;
+          const inset = shrinkProgress * 16;
+          heroVideoContainer.style.transform = `scale(${scale})`;
+          heroVideoContainer.style.borderRadius = `${borderRadius}px`;
+          heroVideoContainer.style.top = `${inset}px`;
+          heroVideoContainer.style.left = `${inset}px`;
+          heroVideoContainer.style.right = `${inset}px`;
+          heroVideoContainer.style.bottom = `${inset}px`;
+        }
+
+        if (heroVideoOverlay) {
+          const overlayOpacity = 0.6 - (shrinkProgress * 0.3);
+          heroVideoOverlay.style.background = `rgba(15, 15, 26, ${overlayOpacity})`;
+        }
+      }
+
+      window.addEventListener('scroll', handleHeroScroll);
+      handleHeroScroll();
+    </script>
+
+    <!-- Partners Logo Marquee Section -->
+    <section class="py-8 bg-white border-b overflow-hidden">
+      <div class="logo-marquee-container">
+        <div class="logo-marquee">
+          <!-- First set of logos -->
+          <div class="logo-marquee-content">
+            <div class="logo-item">
+              <img src="/assets/images/SNU-logo.png" alt="Seoul National University" class="h-10 w-auto grayscale hover:grayscale-0 transition-all" />
+            </div>
+            <div class="logo-item logo-text">KAIST</div>
+            <div class="logo-item logo-text">Stanford</div>
+            <div class="logo-item logo-text">Google</div>
+            <div class="logo-item logo-text">Meta</div>
+            <div class="logo-item logo-text">Apple</div>
+            <div class="logo-item logo-text">NVIDIA</div>
+            <div class="logo-item logo-text">Microsoft</div>
+            <div class="logo-item logo-text">Amazon</div>
+            <div class="logo-item logo-text">OpenAI</div>
+            <div class="logo-item logo-text">Anthropic</div>
+            <div class="logo-item logo-text">Samsung</div>
+          </div>
+          <!-- Duplicate for seamless loop -->
+          <div class="logo-marquee-content">
+            <div class="logo-item">
+              <img src="/assets/images/SNU-logo.png" alt="Seoul National University" class="h-10 w-auto grayscale hover:grayscale-0 transition-all" />
+            </div>
+            <div class="logo-item logo-text">KAIST</div>
+            <div class="logo-item logo-text">Stanford</div>
+            <div class="logo-item logo-text">Google</div>
+            <div class="logo-item logo-text">Meta</div>
+            <div class="logo-item logo-text">Apple</div>
+            <div class="logo-item logo-text">NVIDIA</div>
+            <div class="logo-item logo-text">Microsoft</div>
+            <div class="logo-item logo-text">Amazon</div>
+            <div class="logo-item logo-text">OpenAI</div>
+            <div class="logo-item logo-text">Anthropic</div>
+            <div class="logo-item logo-text">Samsung</div>
           </div>
         </div>
       </div>
