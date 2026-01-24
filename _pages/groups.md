@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Fri Jan 23 00:34:18 PST 2026
+last_modified_at: Fri Jan 23 20:39:53 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -51,13 +51,20 @@ James
 
 ## Jan-2026
 
-### K-PAI meets KAIST @ Dinner!
+### K-PAI meets KAIST @ Lunch! (23-Jan-2026)
+
+<div class="img-container-justified">
+<img width="42%" style="max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
+<img width="56%" style="max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
+</div>
+
+### K-PAI meets KAIST @ Dinner! (22-Jan-2026)
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-29 002-25-reduced.jpeg">
 </div>
 
-### K-PAI 2026 New Year Party Retro &amp; Planning 2026!
+### K-PAI 2026 New Year Party Retro &amp; Planning 2026! (17-Jan-2026)
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-21-41-20-50-reduced.jpeg">
