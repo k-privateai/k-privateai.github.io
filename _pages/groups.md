@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sat Jan 24 01:25:38 PST 2026
+last_modified_at: Sat Jan 24 01:37:45 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -12,8 +12,7 @@ toc_sticky: true
 
 [K-PAI](/) encourages organically growing group meetings!
 
-# K-PAI Groups
-(Members alphabetically ordered by their first names.)
+# List of Groups
 
 |name|members|representative(s)|
 |<span id="bmd-group">Bio/Medical/Data</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|Chanik|
@@ -21,24 +20,26 @@ toc_sticky: true
 |<span id="ai-hands-on-group">AI Hands-on</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} James [Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|Sunghee|
 |<span id="legal-prof-group">Legal Professionals</span>|[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"} [Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"} [Ha Young](https://www.linkedin.com/in/hayoungkim5064/){:target="_blank"} [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} Hyojin [Hyung Won](https://www.linkedin.com/in/hyung-won-eric-nahm-511599171/){:target="_blank"} [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} [Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Joo Hyong](https://www.linkedin.com/in/daniel-joo-hyong-lee/){:target="_blank"} [Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"}|Hayden Jeff|
 
+(Members alphabetically ordered by their first names.)
+
 # 2025
 
 ## Jan-2026
 
-### K-PAI meets KAIST @ Lunch! (23-Jan-2026)
+### 23-Jan-2026 - K-PAI meets KAIST @ Lunch!
 
 <div class="img-container-justified">
 <img width="56%" style="max-width: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
 <img width="42%" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
 </div>
 
-### K-PAI meets KAIST @ Dinner! (22-Jan-2026)
+### 22-Jan-2026 - K-PAI meets KAIST @ Dinner!
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-29 002-25-reduced.jpeg">
 </div>
 
-### K-PAI 2026 New Year Party Retro &amp; Planning 2026! (17-Jan-2026)
+### 17-Jan-2026 - K-PAI 2026 New Year Party Retro &amp; Planning 2026!
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-21-41-20-50-reduced.jpeg">
@@ -48,13 +49,13 @@ toc_sticky: true
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-01-47-24 001-25-reduced.jpeg">
 </div>
 
-### Incredible K-PAI Stands Strong again at UKF 82 Summit!!! (12-Jan-2026)
+### 12-Jan-2026 - Incredible K-PAI Stands Strong again at UKF 82 Summit!!!
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/2026 0102 UKF-25-reduced.jpeg">
 </div>
 
-### Incredible K-PAI Stands Strong at K-BioX ABDD Summit 2026 @ Stanford!! (11-Jan-2026)
+### 11-Jan-2026 - Incredible K-PAI Stands Strong at K-BioX ABDD Summit 2026 @ Stanford!!
 
 Below
 &ndash;
@@ -87,7 +88,7 @@ where two of the panelists are K-PAI;
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-27-40 005-25-reduced.jpeg">
 </div>
 
-### Incredible K-PAI Showing - 23 Members Gather Strong at UKF 82 Summit! (10-Jan-2026)
+### 10-Jan-2026 - Incredible K-PAI Showing - 23 Members Gather Strong at UKF 82 Summit!
 
 > We, [K-PAI](/), are Everywhere!
 
