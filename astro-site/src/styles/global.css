@@ -3,10 +3,10 @@
 /* Custom Design System - Superpower Inspired */
 
 :root {
-  /* Primary Colors - Orange Accent */
-  --color-primary: #FF6B35;
-  --color-primary-dark: #E55A2B;
-  --color-primary-light: #FF8A5C;
+  /* Primary Colors - Purple Accent */
+  --color-primary: #613ADC;
+  --color-primary-dark: #5232C2;
+  --color-primary-light: #7B5CE5;
 
   /* Neutral Colors */
   --color-dark: #1A1A2E;
@@ -23,7 +23,7 @@
   --color-gray-50: #F9FAFB;
 
   /* Gradients */
-  --gradient-primary: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%);
+  --gradient-primary: #613ADC;
   --gradient-dark: linear-gradient(135deg, #1A1A2E 0%, #16213E 100%);
   --gradient-hero: linear-gradient(180deg, #0F0F1A 0%, #1A1A2E 50%, #16213E 100%);
 
@@ -32,7 +32,7 @@
   --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
   --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
   --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
-  --shadow-glow: 0 0 40px rgba(255, 107, 53, 0.3);
+  --shadow-glow: 0 0 40px rgba(97, 58, 220, 0.3);
 
   /* Animation Timing */
   --transition-fast: 150ms ease;
@@ -104,12 +104,12 @@ body {
   border-radius: 9999px;
   cursor: pointer;
   transition: all var(--transition-normal);
-  box-shadow: 0 4px 14px 0 rgba(255, 107, 53, 0.39);
+  box-shadow: 0 4px 14px 0 rgba(97, 58, 220, 0.39);
 }
 
 .btn-primary:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(255, 107, 53, 0.5);
+  box-shadow: 0 6px 20px rgba(97, 58, 220, 0.5);
 }
 
 .btn-primary:active {
@@ -199,7 +199,7 @@ body {
   right: 0;
   bottom: 0;
   background:
-    radial-gradient(ellipse at 20% 50%, rgba(255, 107, 53, 0.15) 0%, transparent 50%),
+    radial-gradient(ellipse at 20% 50%, rgba(97, 58, 220, 0.15) 0%, transparent 50%),
     radial-gradient(ellipse at 80% 50%, rgba(247, 147, 30, 0.1) 0%, transparent 50%);
   pointer-events: none;
 }
@@ -396,7 +396,7 @@ body {
 .nav-cta:hover {
   background: var(--color-primary-dark);
   transform: translateY(-1px);
-  box-shadow: 0 4px 12px rgba(255, 107, 53, 0.4);
+  box-shadow: 0 4px 12px rgba(97, 58, 220, 0.4);
 }
 
 .mobile-nav-link {
@@ -630,7 +630,7 @@ body {
   font-size: 0.75rem;
   font-weight: 600;
   color: var(--color-primary);
-  background: rgba(255, 107, 53, 0.1);
+  background: rgba(97, 58, 220, 0.1);
   border-radius: 9999px;
 }
 
@@ -641,7 +641,7 @@ body {
   justify-content: center;
   width: 3.5rem;
   height: 3.5rem;
-  background: rgba(255, 107, 53, 0.1);
+  background: rgba(97, 58, 220, 0.1);
   border-radius: 1rem;
   color: var(--color-primary);
 }
