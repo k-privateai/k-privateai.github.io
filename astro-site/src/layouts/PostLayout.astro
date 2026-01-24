@@ -22,37 +22,47 @@ const { frontmatter, headings = [] } = Astro.props;
 ---
 
 <BaseLayout title={frontmatter.title} description={frontmatter.excerpt}>
-  <article class="max-w-4xl mx-auto">
-    <header class="mb-8">
-      <h1 class="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
-        {frontmatter.title}
-      </h1>
-      <PostMeta
-        date={frontmatter.date}
-        lastModified={frontmatter.last_modified_at}
-      />
-    </header>
+  <div class="max-w-6xl mx-auto px-4 lg:px-8">
+    <div class="flex flex-col lg:flex-row gap-12 justify-center">
+      <!-- Main Content -->
+      <article class="flex-1 min-w-0 max-w-3xl">
+        <header class="mb-8">
+          <h1 class="text-4xl md:text-5xl font-bold mb-4 text-gray-900">
+            {frontmatter.title}
+          </h1>
+          <PostMeta
+            date={frontmatter.date}
+            lastModified={frontmatter.last_modified_at}
+          />
+        </header>
 
-    {
-      frontmatter.toc && headings.length > 0 && (
-        <TableOfContents
-          headings={headings}
-          label={frontmatter.toc_label}
-        />
-      )
-    }
+        <div class="prose prose-lg max-w-none">
+          <slot />
+        </div>
 
-    <div class="prose prose-lg max-w-none">
-      <slot />
+        <footer class="mt-12">
+          <Taxonomy
+            categories={frontmatter.categories}
+            tags={frontmatter.tags}
+          />
+        </footer>
+      </article>
+
+      <!-- Right Sidebar - Table of Contents -->
+      {
+        frontmatter.toc && headings.length > 0 && (
+          <aside class="hidden lg:block w-64 flex-shrink-0">
+            <div class="sticky top-24">
+              <TableOfContents
+                headings={headings}
+                label={frontmatter.toc_label}
+              />
+            </div>
+          </aside>
+        )
+      }
     </div>
-
-    <footer class="mt-12">
-      <Taxonomy
-        categories={frontmatter.categories}
-        tags={frontmatter.tags}
-      />
-    </footer>
-  </article>
+  </div>
 </BaseLayout>
 
 <style is:global>

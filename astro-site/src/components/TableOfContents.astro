@@ -12,14 +12,14 @@ const tocHeadings = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
 
 {
   tocHeadings.length > 0 && (
-    <nav class="toc my-8 p-6 bg-gray-50 rounded-lg border">
-      <h2 class="text-lg font-semibold mb-4">{label}</h2>
-      <ul class="space-y-2">
+    <nav class="toc">
+      <h2 class="text-sm font-bold text-gray-900 mb-4 pb-3 border-b border-gray-200">{label}</h2>
+      <ul class="space-y-1">
         {tocHeadings.map((heading) => (
-          <li class={heading.depth === 3 ? "ml-4" : ""}>
+          <li class={`toc-item ${heading.depth === 3 ? "toc-item-sub" : ""}`}>
             <a
               href={`#${heading.slug}`}
-              class="text-blue-600 hover:text-blue-800 hover:underline text-sm"
+              class="toc-link block py-2 text-sm text-gray-600 hover:text-[var(--color-primary)] transition-colors border-b border-gray-100"
             >
               {heading.text}
             </a>
@@ -29,3 +29,18 @@ const tocHeadings = headings.filter((h) => h.depth >= 2 && h.depth <= 3);
     </nav>
   )
 }
+
+<style>
+  .toc-item-sub {
+    padding-left: 1rem;
+  }
+
+  .toc-item-sub .toc-link {
+    font-size: 0.8125rem;
+    color: #9ca3af;
+  }
+
+  .toc-item:last-child .toc-link {
+    border-bottom: none;
+  }
+</style>
