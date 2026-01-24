@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Fri Jan 23 23:02:25 PST 2026
+last_modified_at: Fri Jan 23 23:25:50 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -45,6 +45,23 @@ James
 [Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"}
 [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
 [Sunghee](https://sungheeyun.github.io)
+(alphabetically ordered)
+
+## Legal Professionals Group {#legal-prof-group}
+
+**Members**
+&ndash;
+[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"}
+[Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"}
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+Hayoung
+Hyojin
+Hyungwon
+[Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"}
+Jaewon
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
+Joohyung
+[Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"}
 (alphabetically ordered)
 
 # 2025
