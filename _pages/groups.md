@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sat Jan 24 00:59:41 PST 2026
+last_modified_at: Sat Jan 24 01:08:26 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -12,57 +12,14 @@ toc_sticky: true
 
 [K-PAI](/) encourages organically growing group meetings!
 
-# Official Groups
+# K-PAI Groups
+(Members alphabetically ordered by their first names.)
 
-## Bio/Medical/Data Group {#bmd-group}
-
-**Members**
-&ndash;
-[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
-[Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"}
-[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
-[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
-[Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"}
-[Sunghee](https://sungheeyun.github.io)
-(alphabetically ordered)
-
-## Karaoke Group {#karaoke-group}
-
-**Members**
-&ndash;
-[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
-[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
-[Sunghee](https://sungheeyun.github.io)
-Yeseul
-(alphabetically ordered)
-
-## AI Hands-on Group {#ai-hands-on-group}
-
-**Members**
-&ndash;
-[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
-James
-[Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"}
-[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
-[Sunghee](https://sungheeyun.github.io)
-(alphabetically ordered)
-
-## Legal Professionals Group {#legal-prof-group}
-
-**Members**
-&ndash;
-[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"}
-[Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"}
-[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
-Hayoung
-Hyojin
-Hyungwon
-[Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"}
-Jaewon
-[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
-Joohyung
-[Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"}
-(alphabetically ordered)
+|name|members|representative(s)|
+|<span id="bmd-group">Bio/Medical/Data</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|Chanik|
+|<span id="karaoke-group">Karaoke</span>|[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) Yeseul|Sunghee|
+|<span id="ai-hands-on-group">AI Hands-on</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} James [Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|Sunghee|
+|<span id="legal-prof-group">Legal Professionals</span>|[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"} [Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"} [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} Hayoung Hyojin Hyungwon [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} Jaewon [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} Joohyung [Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"}|Hayden Jeff|
 
 # 2025
 
