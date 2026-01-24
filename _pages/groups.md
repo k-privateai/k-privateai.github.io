@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Fri Jan 23 23:25:50 PST 2026
+last_modified_at: Sat Jan 24 00:59:41 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -177,7 +177,7 @@ and
 [Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-12/2025-12-05 PST - Ttongbong Meeting-50-reduced.jpg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-12/2025-12-05 PST - Ttongbong Meeting-50-reduced.jpg">
 </div>
 
 ## Nov-2025
@@ -209,7 +209,7 @@ K-PAI + Institute for Information communication Technology Planning and Evaluati
 </div>
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 05.jpg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-15 PST - IITP - 05.jpg">
 </div>
 
 <div class="img-container-justified">
@@ -222,7 +222,7 @@ K-PAI + Institute for Information communication Technology Planning and Evaluati
 Lawyers, Judges, Engineers, Scientists, and Entrepreneurs!
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-14 - Berkeley.jpg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-14 - Berkeley.jpg">
 </div>
 
 ### 10-Nov-2025 @ Palo Alto
@@ -236,7 +236,7 @@ and
 [Sunghee](https://sungheeyun.github.io)!
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-10 PST - KABANC.jpg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2025-11/2025-11-10 PST - KABANC.jpg">
 </div>
 
 ### 04-Nov-2025 @ Mountain View
