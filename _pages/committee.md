@@ -1,5 +1,5 @@
 ---
-last_modified_at: Thu Jan 22 02:34:44 PST 2026
+last_modified_at: Fri Jan 23 18:00:04 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
@@ -106,10 +106,20 @@ author_profile: false
 <td>
 </td>
 <td class="kor-name">
+	김수연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a> - Marketing Leader
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
 	박수민
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a>
+	<a target="_blank" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a> - Website &amp; Content Lead
 </td>
 </tr>
 <tr>
@@ -119,7 +129,7 @@ author_profile: false
 	정주영
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung (Dominick) Jeong</a>
+	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a> - Website &amp; Content Lead
 </td>
 </tr>
 <tr>
@@ -129,7 +139,7 @@ author_profile: false
 	이가은
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun (Kelly) Lee</a>
+	<a target="_blank" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun Lee</a> - Social Media Manager
 </td>
 </tr>
 <tr>
@@ -231,16 +241,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	김수연
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
 </td>
 </tr>
 <tr>
