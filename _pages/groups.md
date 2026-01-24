@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Fri Jan 23 20:39:53 PST 2026
+last_modified_at: Fri Jan 23 22:50:27 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -54,8 +54,8 @@ James
 ### K-PAI meets KAIST @ Lunch! (23-Jan-2026)
 
 <div class="img-container-justified">
-<img width="42%" style="max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
-<img width="56%" style="max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
+<img width="42%" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
+<img width="56%" style="max-width: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
 </div>
 
 ### K-PAI meets KAIST @ Dinner! (22-Jan-2026)
