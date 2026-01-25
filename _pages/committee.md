@@ -1,5 +1,5 @@
 ---
-last_modified_at: Fri Jan 23 18:00:04 PST 2026
+last_modified_at: Sun Jan 25 00:00:24 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
@@ -62,7 +62,8 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	K-PAI Leader
 </td>
 <td class="kor-name">
 	박찬익
@@ -72,7 +73,8 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	K-PAI Leader
 </td>
 <td class="kor-name">
 	윤성희
@@ -103,43 +105,47 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Marketing Leader
 </td>
 <td class="kor-name">
 	김수연
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a> - Marketing Leader
+	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Website &amp; Content Lead
 </td>
 <td class="kor-name">
 	박수민
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a> - Website &amp; Content Lead
+	<a target="_blank" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a>
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Website &amp; Content Lead
 </td>
 <td class="kor-name">
 	정주영
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a> - Website &amp; Content Lead
+	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Social Media Manager
 </td>
 <td class="kor-name">
 	이가은
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun Lee</a> - Social Media Manager
+	<a target="_blank" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun Lee</a>
 </td>
 </tr>
 <tr>
@@ -194,7 +200,8 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
+	Hospitality &amp; Catering Director
 </td>
 <td class="kor-name">
 	정미숙
@@ -274,7 +281,8 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;" id="legal-affairs-advisor">
+	Legal Affairs Advisor
 </td>
 <td class="kor-name">
 	송영욱
@@ -284,7 +292,8 @@ author_profile: false
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Legal Affairs Advisor
 </td>
 <td class="kor-name">
 	이보형
