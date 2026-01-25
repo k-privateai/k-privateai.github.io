@@ -1,6 +1,6 @@
 ---
-date: Thu Jan 23 02:00:00 PST 2026
-last_modified_at: Sat Jan 24 22:02:10 PST 2026
+date: Sat Jan 24 22:02:10 PST 2026
+last_modified_at: Sat Jan 24 23:10:14 PST 2026
 layout: single
 permalink: /branding-brief/
 title: K-PAI Strategic Branding Brief
