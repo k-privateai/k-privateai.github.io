@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sat Jan 24 16:40:31 PST 2026
+last_modified_at: Sat Jan 24 16:56:40 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -59,6 +59,19 @@ toc_sticky: true
 
 Below
 &ndash;
+[Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"}
+moderating a panel discussions
+where two of the panelists are K-PAI;
+[Sunghee](https://sungheeyun.github.io)
+&amp;
+[Jae Ho](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}!
+
+<div class="img-container">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-27-40 005-25-reduced.jpeg">
+</div>
+
+Below
+&ndash;
 [Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"},
 [Sunghee](https://sungheeyun.github.io),
 Prof. JongHyuk Kim,
@@ -73,19 +86,6 @@ and
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg">
 <!--img src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg"-->
-</div>
-
-Below
-&ndash;
-[Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"}
-moderating a panel discussions
-where two of the panelists are K-PAI;
-[Sunghee](https://sungheeyun.github.io)
-&amp;
-[Jae Ho](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}!
-
-<div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-27-40 005-25-reduced.jpeg">
 </div>
 
 ### 10-Jan-2026 - Incredible K-PAI Showing - 23 Members Gather Strong at UKF 82 Summit!
