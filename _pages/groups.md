@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sat Jan 24 21:07:16 PST 2026
+last_modified_at: Sun Jan 25 01:12:09 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -98,6 +98,13 @@ and
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/UKF - 02-25-reduced.jpeg">
+</div>
+
+### 09-Jan-2026 - K-PAI meets SNU College of Engineering! :)
+
+<div class="img-container-justified">
+<img style="max-width: 49%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/activities/2026_0109 - SNU College of Engineering Strategic Partnership Initiatiative Diner - 03-25-reduced.jpeg">
+<img style="max-width: 49%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/pages/activities/2026_0109 - SNU College of Engineering Strategic Partnership Initiatiative Diner - 06-25-reduced.jpeg">
 </div>
 
 ## Dec-2025
