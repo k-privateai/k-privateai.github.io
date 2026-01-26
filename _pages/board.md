@@ -1,6 +1,6 @@
 ---
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Sun Jan 25 17:52:23 PST 2026
+last_modified_at: Sun Jan 25 18:01:16 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
@@ -21,25 +21,29 @@ toc_sticky: true
 > @ Sun Jan 25 13:29 PST 2026
 >
 >
-> 안녕하세요, 이가은 입니다. 
+> 안녕하세요, 이가은 입니다.
 > <br>
 > K-PAI 소셜 미디어 매니저로서 첫 포스팅을 공유드립니다. ㅎㅎ
-> 
+>
 > 지난 주, 이틀에 걸쳐 KAIST 임채권 교수님과 간담회를 성공적으로 마쳤습니다. 🎉
 > <br>
-> 실리콘밸리 과학기술인 6분과 스탠퍼드 박사/포닥 6분이 모여, 
+> 실리콘밸리 과학기술인 6분과 스탠퍼드 박사/포닥 6분이 모여,
 > <br>
 > "실리콘밸리 인재 인프라에서 얻을 수 있는 시사점과, 해외에 있는 한국 인재들의 복귀를 위해 정부가 어떤 노력을 해야 할지"를 주제로 솔직하고 깊이 있는 논의가 이루어졌습니다.
 >
-> 자세한 내용은 공식 링크드인, 인스타그램에서 확인하실 수 있습니다. 
+> 자세한 내용은 공식 링크드인, 인스타그램에서 확인하실 수 있습니다.
 > <br>
 > 반응과 댓글 남겨주시면 감사하겠습니다! 🌟
 > <br>
 > &ndash; [https://www.linkedin.com/feed/update/urn:li:activity:7421098162028785664](https://www.linkedin.com/feed/update/urn:li:activity:7421098162028785664){:target="_blank"}
 > <br>
 > &ndash; [https://www.instagram.com/p/DT64YWrlJsM/?igsh=NTc4MTIwNjQ2YQ==](https://www.instagram.com/p/DT64YWrlJsM/?igsh=NTc4MTIwNjQ2YQ==){:target="_blank"}
-> 
-> 바쁘신 와중에도 함께해 주신 임채권 교수님과 K-PAI 회원 분들께 진심으로 감사드립니다. 
+>
+> 바쁘신 와중에도 함께해 주신 임채권 교수님과 K-PAI 회원 분들께 진심으로 감사드립니다.
+
+<div class="img-container">
+<img style="max-width: 100%; max-height: 70vh;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-58 005-25-reduced.jpeg">
+</div>
 
 ### Gordon's seeking talents!
 
