@@ -1,6 +1,6 @@
 ---
 date: Sat Oct 11 22:27:55 PDT 2025
-last_modified_at: Thu Jan 22 08:59:14 PST 2026
+last_modified_at: Sun Jan 25 17:52:23 PST 2026
 layout: single
 title: K-PAI Board
 permalink: /board/
@@ -14,8 +14,36 @@ toc_sticky: true
 
 ## Selected Posts
 
+### Welcome Kelly! First Social Media Post on KAIST Talent Roundtable
+
+{: .notice--warning}
+> [Kelly](https://www.linkedin.com/in/gaeun-kelly-lee/){:target="_blank"}
+> @ Sun Jan 25 13:29 PST 2026
+>
+>
+> 안녕하세요, 이가은 입니다. 
+> <br>
+> K-PAI 소셜 미디어 매니저로서 첫 포스팅을 공유드립니다. ㅎㅎ
+> 
+> 지난 주, 이틀에 걸쳐 KAIST 임채권 교수님과 간담회를 성공적으로 마쳤습니다. 🎉
+> <br>
+> 실리콘밸리 과학기술인 6분과 스탠퍼드 박사/포닥 6분이 모여, 
+> <br>
+> "실리콘밸리 인재 인프라에서 얻을 수 있는 시사점과, 해외에 있는 한국 인재들의 복귀를 위해 정부가 어떤 노력을 해야 할지"를 주제로 솔직하고 깊이 있는 논의가 이루어졌습니다.
+>
+> 자세한 내용은 공식 링크드인, 인스타그램에서 확인하실 수 있습니다. 
+> <br>
+> 반응과 댓글 남겨주시면 감사하겠습니다! 🌟
+> <br>
+> &ndash; [https://www.linkedin.com/feed/update/urn:li:activity:7421098162028785664](https://www.linkedin.com/feed/update/urn:li:activity:7421098162028785664){:target="_blank"}
+> <br>
+> &ndash; [https://www.instagram.com/p/DT64YWrlJsM/?igsh=NTc4MTIwNjQ2YQ==](https://www.instagram.com/p/DT64YWrlJsM/?igsh=NTc4MTIwNjQ2YQ==){:target="_blank"}
+> 
+> 바쁘신 와중에도 함께해 주신 임채권 교수님과 K-PAI 회원 분들께 진심으로 감사드립니다. 
+
 ### Gordon's seeking talents!
 
+{: .notice--warning}
 > [Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
 > @ Sat Oct 11 17:20 PDT 2025
 >
@@ -39,7 +67,6 @@ toc_sticky: true
 > [Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"} @ Sat Oct 11 17:30 PDT 2025
 >
 > 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
-{: .notice--warning}
 
 ## Jan-2026
 
