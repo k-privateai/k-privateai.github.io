@@ -1,5 +1,5 @@
 ---
-last_modified_at: Sun Jan 25 00:00:24 PST 2026
+last_modified_at: Mon Jan 26 22:34:18 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
@@ -201,7 +201,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
-	Hospitality &amp; Catering Director
+	Community Groups Coordinator
 </td>
 <td class="kor-name">
 	정미숙
