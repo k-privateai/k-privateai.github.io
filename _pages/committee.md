@@ -1,5 +1,5 @@
 ---
-last_modified_at: Mon Jan 26 22:34:18 PST 2026
+last_modified_at: Tue Jan 27 22:35:12 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
@@ -63,7 +63,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;">
-	K-PAI Leader
+	Mentorship Program Chair
 </td>
 <td class="kor-name">
 	박찬익
@@ -74,7 +74,7 @@ author_profile: false
 </tr>
 <tr>
 <td class="role" style="color: #0000dd;">
-	K-PAI Leader
+	<!--K-PAI Leader-->
 </td>
 <td class="kor-name">
 	윤성희
