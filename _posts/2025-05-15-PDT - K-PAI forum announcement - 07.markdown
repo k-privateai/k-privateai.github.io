@@ -1,7 +1,7 @@
 ---
 title: "The Autonomous Alliance - AI Agents in a Connected World"
 date: Thu May 15 07:27:07 PDT 2025
-last_modified_at: Tue May 20 09:19:31 PDT 2025
+last_modified_at: Thu Jan 22 01:05:11 PST 2026
 permalink: /event-announcements/07
 categories:
  - blog
@@ -131,18 +131,6 @@ The event is tailored to a diverse yet focused audience. It caters to:
 - Technology investors and entrepreneurs
 - Journalists and technology media professionals
 - Anyone interested in the future of autonomous AI systems
-
-# Hosting Organizations
-
-This event is hosted by [K-PAI](/). The primary hosting organization of K-PAI is <a href="https://imdarc.snu.ac.kr/?page_id=2129&lang=en">SNU Private AI Initiative / Homomorphic Encryption Research Center (HERC)</a>!
-
-<div class="img-container-justified">
-&nbsp;
-<img width="15%" src="/assets/images/k-on-pie.png">
-<img width="15%" src="/assets/images/SNU-logo.png">
-<img width="15%" src="/assets/images/kappa-to-pi.png">
-&nbsp;
-</div>
 
 We look forward to your participation in this exciting forum! If you have any questions or topics you'd like to discuss, please don't hesitate to reach out.
 

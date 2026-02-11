@@ -1,7 +1,7 @@
 ---
-title: "Reflections on The 4th K-PAI Forum - news articles and photos"
 date: Sat Feb 15 21:58:01 PST 2025
-last_modified_at: Fri Mar 14 23:44:59 PDT 2025
+last_modified_at: Thu Jan 22 00:08:15 PST 2026
+title: "Reflections on The 4th K-PAI Forum - news articles and photos"
 permalink: /seminar-reflections/04/news
 categories:
  - blog
@@ -27,5 +27,5 @@ updated: {{ page.last_modified_at| date: "%d-%b-%Y" }}
 
 
 <div class="img-container">
-<img src="/resource/seminars/04/Screenshot 2025-03-14 at 11.30.11 PM.png">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/04/Screenshot 2025-03-14 at 11.30.11 PM.png">
 </div>

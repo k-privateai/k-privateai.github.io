@@ -1,7 +1,7 @@
 ---
-title: "Blockchain Awakens - The Force of Decentralized AI @ LG Silicon Valley Lab!"
 date: Thu Mar  6 05:59:32 PST 2025
-last_modified_at: Fri Mar  7 00:42:22 KST 2025
+last_modified_at: Thu Jan 22 00:50:23 PST 2026
+title: "Blockchain Awakens - The Force of Decentralized AI @ LG Silicon Valley Lab!"
 permalink: /event-announcements/05
 categories:
  - blog
@@ -50,8 +50,8 @@ This time, you have the opportunity to win a Smart Monitor and Wireless Speaker 
 
 <div class="img-container-justified">
 &nbsp;
-<img width="343" height="202" src="/resource/seminars/05/Monitor_34SR60QC-B_gallery_02_5000x5000.png">
-<img width="140" height="232" src="/resource/seminars/05/speaker-01.png">
+<img width="343" height="202" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/Monitor_34SR60QC-B_gallery_02_5000x5000.avif">
+<img width="140" height="232" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/speaker-01.png">
 &nbsp;
 </div>
 <figcaption>
@@ -155,7 +155,7 @@ The hosting organization of K-PAI is <a href="https://imdarc.snu.ac.kr/?page_id=
 # Parking Information
 
 <div class="img-container">
-<img src="/resource/seminars/05/parking-info.jpeg">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/parking-info-25-reduced.jpeg">
 </div>
 
 We look forward to your participation in this exciting forum! If you have any questions or topics you'd like to discuss, please don't hesitate to reach out.

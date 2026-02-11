@@ -1,7 +1,7 @@
 ---
-title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 date: Wed Oct  1 03:52:54 PDT 2025
-last_modified_at: Wed Oct  8 16:12:07 PDT 2025
+last_modified_at: Thu Jan 22 01:55:26 PST 2026
+title: "K-PAI's 12th Chapter: Ad Intelligence - AI Revolution in Digital Marketing"
 permalink: /event-announcements/12
 categories:
  - blog
@@ -34,11 +34,9 @@ to share this event!
 
 # Invitation
 
----
-
 Marketing Leaders, AI Innovators, and Digital Pioneers!
 
-[Main Program](/resource/seminars/12 - 08-Oct-2025/K-PAI - Ad Intelligence - Oct-2025.pdf)
+[Main Program](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/12 - 08-Oct-2025/K-PAI - Ad Intelligence - Oct-2025.pdf){:target="_blank"}
 
 Yes! I know—K-PAI's 11th Chapter just wrapped up a few days ago, and now I'm already announcing the next one for next week? Before you wonder if I've lost my mind  &#x2605;^^&#x2605;, let me explain! September's forum had to shift to the end of the month due to speaker availability (you know how it is with FOUR busy thought leaders), and October's forum needed to jump to the beginning due to some logistics. But honestly? *<span style="color:red;">Two forums in quick succession just means double the innovation, double the networking, and double the excitement—what's not to love?</span>*
 
@@ -94,8 +92,8 @@ We extend our profound gratitude to [KOTRA Silicon Valley](https://www.connectko
 
 <div class="img-container-justified">
 &nbsp;
-<img src="/resource/seminars/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__a6af28da-2778-47c2-a0ab-e954480c8897_1.gif">
-<img src="/resource/seminars/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__682fa7ff-17b5-4494-a0a0-c18369f20f3a_2.gif">
+<img src="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__a6af28da-2778-47c2-a0ab-e954480c8897_1.gif">
+<img src="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/12 - 08-Oct-2025/u1564158738_Photo_of_a_bunch_of_Asians_and_Caucasians_having__682fa7ff-17b5-4494-a0a0-c18369f20f3a_2.gif">
 &nbsp;
 </div>
 

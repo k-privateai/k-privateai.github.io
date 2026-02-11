@@ -1,7 +1,7 @@
 ---
-title: Reflections on the 2nd K-PAI Seminar (20-Nov-2024)
 date: Thu Nov 21 10:51:49 PST 2024
-last_modified_at: Fri Nov 22 13:24:12 PST 2024
+last_modified_at: Thu Jan 22 00:03:03 PST 2026
+title: Reflections on the 2nd K-PAI Seminar (20-Nov-2024)
 categories:
  - blog
 tags:
@@ -43,31 +43,11 @@ looking forward to a multitude of exciting seminars and other events yet to come
 </div>
 
 <div class="img-container">
-<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-46-55 007.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-47-25 005.jpeg">
-</div>
-
-<div class="img-container">
 <img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-46-47 006.jpeg">
 </div>
 
 <div class="img-container">
 <img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-46-19 003.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-44-51 008.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-47-27 007.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-47-28 008.jpeg">
 </div>
 
 <h2 id="photo-appendix">Appendix</h2>
@@ -82,12 +62,4 @@ looking forward to a multitude of exciting seminars and other events yet to come
 
 <div class="img-container">
 <img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-44-35 006.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-17-54-57 001.jpeg">
-</div>
-
-<div class="img-container">
-<img src="/assets/images/seminars/2024 1120 PST/KakaoTalk_Photo_2024-11-21-10-46-10 001.jpeg">
 </div>

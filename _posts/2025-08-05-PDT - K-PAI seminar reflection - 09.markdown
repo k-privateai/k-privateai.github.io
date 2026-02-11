@@ -1,7 +1,7 @@
 ---
-title: "Reflection on K-PAI's Ninth Forum: Fortress Code - The New Frontier of AI Security"
 date: Tue Aug  5 23:59:48 PDT 2025
 last_modified_at: Tue Jan 13 15:26:23 PST 2026
+title: "Reflection on K-PAI's Ninth Forum: Fortress Code - The New Frontier of AI Security"
 permalink: /seminar-reflections/09
 categories:
  - blog

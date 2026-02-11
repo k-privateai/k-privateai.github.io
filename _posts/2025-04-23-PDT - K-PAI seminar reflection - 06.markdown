@@ -1,7 +1,7 @@
 ---
-title: "Reflection on K-PAI's Sixth Forum: Advancing Humanity - Bio and Medical Technology's AI Revolution"
 date: Wed Apr 23 16:25:07 PDT 2025
-last_modified_at: Tue Dec 30 06:03:21 PST 2025
+last_modified_at: Thu Jan 22 01:01:05 PST 2026
+title: "Reflection on K-PAI's Sixth Forum: Advancing Humanity - Bio and Medical Technology's AI Revolution"
 permalink: /seminar-reflections/06
 categories:
  - blog
@@ -35,10 +35,6 @@ marked a significant milestone in the convergence of <font class="emph">Artifici
 through the partnership between [K-PAI](/) and [K-BioX](https://kbiox.net/).
 This unique collaboration brought together privacy-first AI expertise and biomedical innovation leadership,
 creating a dynamic environment for exploring how AI is transforming healthcare while maintaining critical privacy standards.
-
-<div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/Screenshot 2025-04-23 at 11.07.02 PM-50-reduced.png">
-</div>
 
 # Event Overview and Partnership Significance
 
@@ -186,8 +182,3 @@ As [K-PAI](/) continues its series with upcoming events on
 and
 "Silicon Companions - Robots and Smart Devices in Daily Life" (18-Jun-2025)
 this model of cross-domain knowledge exchange will remain essential for developing technologies that are both powerful and responsible.
-
-<div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/06 - 22-Apr-2025/photos/Screenshot 2025-04-23 at 11.08.27 PM-50-reduced.png">
-</div>
-
