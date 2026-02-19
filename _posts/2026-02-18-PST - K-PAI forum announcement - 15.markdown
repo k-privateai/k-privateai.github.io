@@ -1,6 +1,6 @@
 ---
 date: Wed Feb 18 20:58:09 PST 2026
-last_modified_at: Wed Feb 18 22:11:23 PST 2026
+last_modified_at: Wed Feb 18 23:29:24 PST 2026
 layout: single
 title: "K-PAI's 15th Chapter: Powering the Future - Battery Innovation & Investment Frontiers"
 permalink: /event-announcements/15
@@ -59,16 +59,14 @@ After comprehensive presentations on battery science and investment wisdom, we'r
 - **Date**: 25-Feb-2026 (wed)
 - **Time**: 5pm - 9pm
 - **Venue**: [LG Silicon Valley Lab](https://maps.app.goo.gl/dzcZgvV8ytgCFxq48){:target="_blank"}
-
-Light dinner will be sponsored by CryptoLab.
+- **Dinner Sponsor**: **[Erudio Bio Korea, Inc.](https://www.erudio.bio/)**
 
 <div class="img-container-justified">
 &nbsp;
-<img style="max-width: 48.56%" src="/resource/org-logos/lg-electronics-logo.png">
-<img style="max-width: 31.44%" src="/resource/org-logos/cryptolab-logo.png">
+<img style="max-width: 37.87%" src="/resource/org-logos/erudio-logo-01.png">
+<img style="max-width: 52.13%" src="/resource/org-logos/lg-electronics-logo.png">
 &nbsp;
 </div>
-
 
 ## Why This Forum Matters
 
@@ -157,6 +155,8 @@ By the time we transition to dinner, you'll have everything you need to either j
 
 **7pm - 9pm - This is why you came!**
 
+Light dinner and refreshments, generously sponsored by **Erudio Bio Korea, Inc.**, create the perfect environment for meaningful connections:
+
 **Professional Connections:**
 - Meet potential co-founders, collaborators, advisors
 - Connect with investors, mentors, industry experts
@@ -192,6 +192,38 @@ By the time we transition to dinner, you'll have everything you need to either j
 1. **Follow up within 48 hours!** Connections fade fast without follow-through.
 1. **Don't just collect business cards!** Have real conversations.
 1. **Help before you ask!** "How can I be useful to you?" opens doors.
+
+# Dinner Sponsor - Erudio Bio Korea, Inc.
+
+<div class="img-container">
+<img style="max-width: 60%;" src="/resource/org-logos/erudio-logo-01.png">
+</div>
+
+We are deeply grateful to **Erudio Bio Korea, Inc.** for sponsoring the light dinner and refreshments that make our 2-hour networking session possible!
+
+## About Erudio Bio
+
+Erudio Bio represents the convergence of AI innovation and biomedical breakthroughs that K-PAI exists to celebrate. Founded with dual presence in the United States (Erudio Bio, Inc.) and Korea (Erudio Bio Korea, Inc.), Erudio Bio is pioneering AI-powered platforms that are transforming cancer diagnostics and drug discovery.
+
+**Two Revolutionary Platforms:**
+
+**1. Versatile Smart Assay (VSA) - Cancer Diagnostics Revolution**
+
+VSA technology enables ultra-sensitive, multiplexed detection of cancer biomarkers from minimal sample volumes. By combining advanced microfluidics, AI-driven analysis, and privacy-preserving computation, VSA makes precision oncology accessible and affordable.
+
+**2. bioTCAD™ - Drug Discovery Acceleration**
+
+bioTCAD™ (Biological Target-Compound Activity Discovery) applies AI to dramatically accelerate the drug discovery process. By intelligently modeling molecular interactions and predicting compound activity, bioTCAD™ reduces the time and cost of bringing new therapies to market.
+
+## Validation and Recognition
+
+Erudio Bio's work has garnered significant recognition:
+
+- **$1 Million Gates Foundation Grant** (2024): Supporting development of diagnostic technologies for global health challenges
+- **Seoul National University Bundang Hospital Partnership**: Joint development of cancer diagnostic devices with one of Korea's leading medical institutions
+- **Silicon Valley - Korea Bridge**: Dual headquarters enabling seamless collaboration between U.S. innovation ecosystems and Korean clinical/manufacturing excellence
+
+**Learn more**: [www.erudio.bio](https://www.erudio.bio)
 
 # Why You Should Attend
 
