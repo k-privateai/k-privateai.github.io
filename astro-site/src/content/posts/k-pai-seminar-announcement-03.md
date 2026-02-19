@@ -1,9 +1,9 @@
 ---
+date: 'Sun Nov 24 09:48:08 PST 2024'
+last_modified_at: 'Thu Jan 22 00:06:15 PST 2026'
 title: >-
   The AI Knight Rises - Join Silicon Valley's Premier AI Forum, Networking, and
   Premium Korean Dining Experience @ Stanford University!
-date: 'Sun Nov 24 09:48:08 PST 2024'
-last_modified_at: 'Fri Dec 26 01:00:38 PST 2025'
 categories:
   - blog
 tags:
@@ -55,8 +55,8 @@ featuring a lavish Korean buffet from the Bay Area's finest restaurants.
 Savor an endless array of authentic Korean delicacies, including freshly prepared gimbap and traditional rice cakes.
 
 <div class="img-container-justified">
-<img style="max-width: 45.85%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/gimbaps.png">
-<img style="max-width: 52.15%;" src="https://sungheeyun-photos-01.github.io/resource/k-pai/forums/03/rice-cakes.webp">
+<img style="max-width: 45.85%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/03/gimbaps.png">
+<img style="max-width: 52.15%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/03/rice-cakes.webp">
 </div>
 
 Please RSVP via [Registration &amp; Membership](https://forms.gle/aZgU4A5uxVBmUwa79)!

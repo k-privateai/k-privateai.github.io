@@ -6,7 +6,13 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "migrate:posts": "node scripts/migrate-posts.mjs",
+    "migrate:pages": "node scripts/migrate-pages.mjs",
+    "migrate:data": "node scripts/migrate-data.mjs",
+    "migrate:all": "npm run migrate:posts && npm run migrate:pages && npm run migrate:data",
+    "watch": "node scripts/watch.mjs",
+    "dev:sync": "concurrently \"npm run watch\" \"npm run dev\" --names \"watch,astro\" --prefix-colors \"cyan,magenta\""
   },
   "dependencies": {
     "@astrojs/react": "^4.4.2",
@@ -19,6 +25,9 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
+    "chalk": "^5.6.2",
+    "chokidar": "^4.0.3",
+    "concurrently": "^9.2.1",
     "fast-glob": "^3.3.3",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.1"

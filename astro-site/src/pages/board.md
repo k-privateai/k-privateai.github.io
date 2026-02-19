@@ -1,11 +1,11 @@
 ---
 layout: ../layouts/PageLayout.astro
 date: 'Sat Oct 11 22:27:55 PDT 2025'
-last_modified_at: 'Fri Jan 16 01:23:23 PST 2026'
+last_modified_at: 'Thu Jan 29 20:23:22 KST 2026'
 title: K-PAI Board
 toc: true
-toc_label: ToC
-toc_icon: cog
+toc_label: '&nbsp;Table of Contents'
+toc_icon: fa-solid fa-list
 toc_sticky: true
 _originalPermalink: /board/
 ---
@@ -14,55 +14,18 @@ _originalPermalink: /board/
 
 ## Selected Posts
 
-### Sunghee organizes KAIST Roundtable with Silicon Valley Professionals
+### Nathan shares LinkedIn Post - Career Opportunity!
 
-> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 03:12 PST 2025
->
-> 🤝 KAIST 간담회 참석자 모집
->
-> KAIST 임채권 교수님(과기부 서기관 출신, 현 KAIST 전기및전자공학부 초빙교수)께서 실리콘밸리 한인 과학기술인 간담회를 요청하셨습니다.
->
-> 일시: 2026년 1월 22일 (목요일)
->
-> 참석 인원: 5~6명 (산업계 한인 과학기술인)
->
-> 형식: 저녁 만찬
->
-> 간담회 목적: 이번 간담회는 과기정통부의 "성과 도출형 해외우수인재유치사업" 기획의 일환으로 진행됩니다.
->
-> - 실리콘밸리 현장에서 활동하시는 한인 과학기술인 분들의 생생한 목소리 청취
-> - AI를 비롯한 첨단 기술 분야의 최신 동향과 산업 흐름 파악
-> - 실리콘밸리에서 일하시면서 겪으시는 어려움이나 한국과의 협력에서 개선이 필요한 부분 공유
-> - KAIST와 실리콘밸리 간 실질적인 협업 가능성 모색
-> - 양방향 교류를 통한 한국 과학기술 생태계와 글로벌 혁신 중심의 긴밀한 연결 방안 논의
->
-> 참석을 원하시는 분들은 댓글이나 개인 메시지 주시기 바랍니다.
->
-> —
->
-> 🤝 KAIST Roundtable - Participant Recruitment
->
-> Professor Chaegwon Lim from KAIST (former Ministry of Science and ICT official, current visiting professor at KAIST School of Electrical Engineering) has requested a roundtable discussion with Korean scientists and engineers in Silicon Valley.
->
-> Date: January 22, 2026 (Thursday)
->
-> Participants: 5-6 people (Korean scientists/engineers in industry)
->
-> Format: Dinner meeting
->
-> Meeting Objectives: This roundtable is part of the Ministry of Science and ICT's "Performance-Driven Overseas Talent Attraction Program."
->
-> - Listen to authentic voices from Korean scientists and engineers actively working in Silicon Valley
-> - Understand the latest trends and industry dynamics in AI and cutting-edge technologies
-> - Share challenges faced while working in Silicon Valley and areas where Korea-US collaboration could be improved
-> - Explore concrete collaboration opportunities between KAIST and Silicon Valley
-> - Discuss ways to more closely connect Korea's science and technology ecosystem with global innovation hubs through meaningful bilateral exchange
->
-> If you would like to participate, please leave a comment or send a personal message.
 <!-- TODO: Convert to Notice component type="warning" -->
+> [Nathan](https://www.linkedin.com/in/naehyuck/){:target="_blank"} @ Thu Jan 29 03:38 KST 2026
+>
+> [https://www.linkedin.com/posts/naehyuck_unfortunately-we-will-not-be-offering-internship-activity-7420180825482223616-3H2p?utm_source=share&utm_medium=member_ios&rcm=ACoAAALrSA0BTTnKIkz-ILXYdrcymlHzF-X8QZ0](https://www.linkedin.com/posts/naehyuck_unfortunately-we-will-not-be-offering-internship-activity-7420180825482223616-3H2p?utm_source=share&utm_medium=member_ios&rcm=ACoAAALrSA0BTTnKIkz-ILXYdrcymlHzF-X8QZ0){:target="_blank"}
+>
+> 안녕하세요? 우수한 한국 인재 분들이 많이 지원 했으면 좋겠습니다.
 
 ### Gordon's seeking talents!
 
+<!-- TODO: Convert to Notice component type="warning" -->
 > [Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"}
 > @ Sat Oct 11 17:20 PDT 2025
 >
@@ -86,9 +49,39 @@ _originalPermalink: /board/
 > [Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"} @ Sat Oct 11 17:30 PDT 2025
 >
 > 네…생물 정보학 (Bioinformatics) 분야는 protein (proteomics), RNA (transcriptomics), DNA (genomics), epigenetics 분야들로 세분화 되어 있고 이들 데이터는 bioinformatician이라는 전문가들에 의해 데이터 분석이 수행되고 있습니다. 무어의 법칙을 뛰어넘은 그래프의 상승세는 생물학에서 쏟아져 나오는 데이터의 양이 만들어 내고 있습니다. Bioinformatics의 마켓도 충분히 크고, needs도 높은데,  이를 통합해서 데이터 분석을 쉽게 할 수 있는 좋은 AI agent가 만들어지지 않아서 시작되었습니다. AI를 쓰실 줄 아시고, bioinformatics (깊지 않아도 됩니다.) 분야를 통합해 보시기 원하시면 연락 주시기 바랍니다.  윤박사님 감사해요!!ㅎㅎ
-<!-- TODO: Convert to Notice component type="warning" -->
 
 ## Jan-2026
+
+### Welcome Kelly! First Social Media Post on KAIST Talent Roundtable
+
+<!-- TODO: Convert to Notice component type="warning" -->
+> [Kelly](https://www.linkedin.com/in/gaeun-kelly-lee/){:target="_blank"}
+> @ Sun Jan 25 13:29 PST 2026
+>
+>
+> 안녕하세요, 이가은 입니다.
+> <br>
+> K-PAI 소셜 미디어 매니저로서 첫 포스팅을 공유드립니다. ㅎㅎ
+>
+> 지난 주, 이틀에 걸쳐 KAIST 임채권 교수님과 간담회를 성공적으로 마쳤습니다. 🎉
+> <br>
+> 실리콘밸리 과학기술인 6분과 스탠퍼드 박사/포닥 6분이 모여,
+> <br>
+> "실리콘밸리 인재 인프라에서 얻을 수 있는 시사점과, 해외에 있는 한국 인재들의 복귀를 위해 정부가 어떤 노력을 해야 할지"를 주제로 솔직하고 깊이 있는 논의가 이루어졌습니다.
+>
+> 자세한 내용은 공식 링크드인, 인스타그램에서 확인하실 수 있습니다.
+> <br>
+> 반응과 댓글 남겨주시면 감사하겠습니다! 🌟
+> <br>
+> &ndash; [https://www.linkedin.com/feed/update/urn:li:activity:7421098162028785664](https://www.linkedin.com/feed/update/urn:li:activity:7421098162028785664){:target="_blank"}
+> <br>
+> &ndash; [https://www.instagram.com/p/DT64YWrlJsM/?igsh=NTc4MTIwNjQ2YQ==](https://www.instagram.com/p/DT64YWrlJsM/?igsh=NTc4MTIwNjQ2YQ==){:target="_blank"}
+>
+> 바쁘신 와중에도 함께해 주신 임채권 교수님과 K-PAI 회원 분들께 진심으로 감사드립니다.
+
+<div class="img-container">
+<img style="max-width: 100%; max-height: 70vh;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-58 005-25-reduced.jpeg">
+</div>
 
 ### Sunghee announces SNU Networking Success and Strategic Partnership Progress!
 
@@ -278,6 +271,7 @@ _originalPermalink: /board/
 
 ### Sunghee announces SNU Engineering Faculty Networking Dinner
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 04:00 PST 2025
 >
 > 👨‍🏫 서울대 공대 교수 채용 관심자 간담회
@@ -321,10 +315,57 @@ _originalPermalink: /board/
 > Dean Kim will discuss SNU faculty recruitment process, research environment, support systems, and more in detail.
 >
 > If you're interested in attending or would like to refer someone, please leave a comment or send a personal message.
+
+### Sunghee organizes KAIST Roundtable with Silicon Valley Professionals
+
 <!-- TODO: Convert to Notice component type="info" -->
+> [Sunghee](https://sungheeyun.github.io) @ Fri Dec 26 03:12 PST 2025
+>
+> 🤝 KAIST 간담회 참석자 모집
+>
+> KAIST 임채권 교수님(과기부 서기관 출신, 현 KAIST 전기및전자공학부 초빙교수)께서 실리콘밸리 한인 과학기술인 간담회를 요청하셨습니다.
+>
+> 일시: 2026년 1월 22일 (목요일)
+>
+> 참석 인원: 5~6명 (산업계 한인 과학기술인)
+>
+> 형식: 저녁 만찬
+>
+> 간담회 목적: 이번 간담회는 과기정통부의 "성과 도출형 해외우수인재유치사업" 기획의 일환으로 진행됩니다.
+>
+> - 실리콘밸리 현장에서 활동하시는 한인 과학기술인 분들의 생생한 목소리 청취
+> - AI를 비롯한 첨단 기술 분야의 최신 동향과 산업 흐름 파악
+> - 실리콘밸리에서 일하시면서 겪으시는 어려움이나 한국과의 협력에서 개선이 필요한 부분 공유
+> - KAIST와 실리콘밸리 간 실질적인 협업 가능성 모색
+> - 양방향 교류를 통한 한국 과학기술 생태계와 글로벌 혁신 중심의 긴밀한 연결 방안 논의
+>
+> 참석을 원하시는 분들은 댓글이나 개인 메시지 주시기 바랍니다.
+>
+> —
+>
+> 🤝 KAIST Roundtable - Participant Recruitment
+>
+> Professor Chaegwon Lim from KAIST (former Ministry of Science and ICT official, current visiting professor at KAIST School of Electrical Engineering) has requested a roundtable discussion with Korean scientists and engineers in Silicon Valley.
+>
+> Date: January 22, 2026 (Thursday)
+>
+> Participants: 5-6 people (Korean scientists/engineers in industry)
+>
+> Format: Dinner meeting
+>
+> Meeting Objectives: This roundtable is part of the Ministry of Science and ICT's "Performance-Driven Overseas Talent Attraction Program."
+>
+> - Listen to authentic voices from Korean scientists and engineers actively working in Silicon Valley
+> - Understand the latest trends and industry dynamics in AI and cutting-edge technologies
+> - Share challenges faced while working in Silicon Valley and areas where Korea-US collaboration could be improved
+> - Explore concrete collaboration opportunities between KAIST and Silicon Valley
+> - Discuss ways to more closely connect Korea's science and technology ecosystem with global innovation hubs through meaningful bilateral exchange
+>
+> If you would like to participate, please leave a comment or send a personal message.
 
 ### Sunghee highlights Board Page Message Archive
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 21:00 PST 2025
 >
 > 📌 Board 페이지 - 중요 메시지 아카이브
@@ -342,10 +383,10 @@ _originalPermalink: /board/
 > 🔗 Board page: [https://k-privateai.github.io/board/](https://k-privateai.github.io/board/)
 >
 > I'm documenting them with timestamps down to the minute (if not the second ㅎㅎ) to capture that real-time feel! :)
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Sunghee updates Groups Page with More Photos
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 20:53 PST 2025
 >
 > 📷 Groups 페이지 업데이트
@@ -363,10 +404,10 @@ _originalPermalink: /board/
 > 🔗 Groups page: [https://k-privateai.github.io/groups/](https://k-privateai.github.io/groups/)
 >
 > I'd love to add more descriptions and context, but haven't had the time yet! ㅎㅎ If anyone would like to write descriptions for the photos or gatherings and send them my way, I'll happily add them to the page! Feel free to write in any style you like—completely free-form!! :)
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Sunghee shares K-PAI × K•ASIC Forum Photos & Videos
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 20:48 PST 2025
 >
 > 📸 행사 사진 및 영상 공유
@@ -384,10 +425,10 @@ _originalPermalink: /board/
 > 🔗 View photos/videos: [https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG](https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG){:target="_blank"}
 >
 > Relive the memorable moments from the forum! :)
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Sunghee shares K-PAI × K•ASIC Forum Reflection
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Wed Dec 24 20:30 PST 2025
 > 📧 행사 후기 발송 안내
 >
@@ -408,12 +449,12 @@ _originalPermalink: /board/
 > 🔗 Read the full reflection: [https://k-privateai.github.io/seminar-reflections/13](https://k-privateai.github.io/seminar-reflections/13)
 >
 > For those who want to deepen your technical understanding or explore the broader context and significance of the event, I highly recommend checking out the complete article!
-<!-- TODO: Convert to Notice component type="info" -->
 
 ## Nov-2025
 
 ### James Rhee speaking at Stanford - invitation from Misook
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [정미숙](https://www.linkedin.com/in/misook-chung/){:target="_blank"} @ Thu Nov 13 13:57 PST 2025
 >
 > Hi Everyone!  James Rhee will be at Stanford University this coming Wednesday, 11/19th.  If you are interested in attending, here is the info!
@@ -421,10 +462,10 @@ _originalPermalink: /board/
 > [https://events.stanford.edu/event/conversation-with-james-rhee-founder-author-red-helicopter-johnson-chair-of-entrepreneurship-and-professor-of-entrepreneurship-at-howard-university](https://events.stanford.edu/event/conversation-with-james-rhee-founder-author-red-helicopter-johnson-chair-of-entrepreneurship-and-professor-of-entrepreneurship-at-howard-university){:target="_blank"}
 >
 > Btw, if you want to attend, please connect with me separately.  There may be limited space.
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Jay organizes K-PAI Networking Dinner with IITP
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Wed Nov 12 22:43 PST 2025
 >
 > @[이원표](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"} 대표님께서 마련해 주신 자리인데 ~ 금주 토욜! 11/15 오후 7시!
@@ -435,7 +476,6 @@ _originalPermalink: /board/
 > [이은석](https://www.linkedin.com/in/eunseok-lee-b332a34a/){:target="_blank"},
 > [김수연](https://www.linkedin.com/in/suekimpr/){:target="_blank"},
 > [선우동훈](https://www.linkedin.com/in/sunwoodonghoon/){:target="_blank"})
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Sunghee announces K-PAI × KABANC Joint Forum for August 2026
 
@@ -443,6 +483,7 @@ _originalPermalink: /board/
 <img style="max-width: 60%;" src="/resource/board/KakaoTalk_Photo_2025-11-11-21-58-02.jpeg">
 </div>
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Tue Nov 11 12:13 PST 2025
 >
 > 또 공지! 어제 Santa Clara County의 Deputy District Attorney이신 Daniel Chung 검사님과 우리 K-PAI 멤버이신 @송영욱 변호사님, 그리고 @이보형 변호사님과 함께 점심 식사를 했습니다. - 원래 @허예랑 대표님도 참석하려 하였으나 아쉽게도 급! LA 출장 건으로 요렇게 다섯명이 조촐히 모였습니다~ :)
@@ -454,10 +495,10 @@ _originalPermalink: /board/
 > 개봉 박두! 많이 기대하셔도 좋습니다! 그리고! 언제나처럼 본 행사 organize하는데 직접 기여/참여하고 싶으신 분은 언제나! 말씀해 주십시오~ K-PAI는 여러분과 같이 만들어 가는 모임입니다! :)
 >
 > REMINDER 차원에서~ 8월 행사 후기를 다시 공유드립니다~ ㅎㅎ [https://k-privateai.github.io/seminar-reflections/10](https://k-privateai.github.io/seminar-reflections/10)
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Annie shares Korea Law Center IP Conference at Berkeley!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Annie](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} @ Thu Nov  6 12:33 PST 2025
 >
 > 하나 홍보할 것도 있는데요. 코리아 로 센터에서 이번에 Asia IP & Competition Law Center 와 같이 "IP and Human Creativity in the AI Age" 라는 이름의 컨퍼런스를 코호스팅 하게 되었습니다.
@@ -467,7 +508,6 @@ _originalPermalink: /board/
 > K-PAI에 관심있으신 분들 계실 것 같아 공유드립니다! 혹시 궁금하신 점 있으시면 언제든지 문의 주세요!
 >
 > [https://www.law.berkeley.edu/research/korea-law-center/ip-and-human-creativity-in-the-ai-age-a-global-conversation/](https://www.law.berkeley.edu/research/korea-law-center/ip-and-human-creativity-in-the-ai-age-a-global-conversation/){:target="_blank"}
-<!-- TODO: Convert to Notice component type="info" -->
 
 
 ### Minha announces Bay K-AI Group Vibe Coding Seminar!
@@ -476,6 +516,7 @@ _originalPermalink: /board/
 <img src="/resource/board/KakaoTalk_Photo_2025-11-05-07-27-47.png">
 </div>
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Wed Nov  5 04:43 PST 2025
 >
 > 11월 14일 (금요일)에 K-AI Group (K-Group AI 소그룹)에서 하는 Vibe Coding Seminar가 있어서 공지드립니다. 관심있으신 분들의 많은 참여 부탁드립니다. 세부 사항은 밑에 첨부 참고하시고, 인원 파악을 위한 Form에 Sign-up 해주시면, 감사하겠습니다.
@@ -489,10 +530,10 @@ _originalPermalink: /board/
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Wed Nov  5 04:43 PST 2025
 >
 > Project Study Group 멤버들이 팀마다 짧은 데모와 프로젝트 경험 공유하구요. 30분 동안 short discussion / Q&A로 마무리할 계획입니다. 저희 팀도 발표해요 : )
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Minha recommends Stanford Causal Inference Course by Nobel Laureate Guido Imbens!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Tue Nov  4 23:38 PST 2025
 >
 > Stanford Causal Inference Course Materials이 좋은데 참고하세요. Guido Imbens 교수님 (노벨상)
@@ -506,14 +547,13 @@ _originalPermalink: /board/
 > 랑 요거
 > [https://stanford-causal-inference-class.github.io/materials.html](https://stanford-causal-inference-class.github.io/materials.html){:target="_blank"}
 > 입니다! :)
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Sunghee is seeking technical support from K-PAI Lovers!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Mon Nov  3 16:33 PST 2025
 >
 > I'M LOOKING FOR a volunteer who can provide her/his talent / technical savvy as to do korean -> english translation subtitle functionality. what i mean is .. i watn this! when Korean speakers, that is, those who speak Korean for their presentations, speak, I want "English subtitle" being generated automatically! :) Could ANYONE help me do this for 12-Nov-2025 Forum? :)
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Sunghee seeks for Sponsors for AI-BioX ConfEX Grand Summit 2025 @ COEX
 
@@ -521,6 +561,7 @@ _originalPermalink: /board/
 <img style="max-width: 100%;" src="/resource/board/Screenshot 2025-11-02 at 10.09.59 AM.png">
 </div>
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Sun Nov  2 10:00 PST 2025
 >
 > [https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/](https://sites.google.com/kbiox.net/ai-biox-coex-rutgers/)
@@ -530,12 +571,12 @@ _originalPermalink: /board/
 > 다름이 아니라 저 외에 발표하실 분을 모으는 데 지금의 기준은 "후원사" 입니다! 즉, COEX 행사에 후원을 해 주시면 제가 크게 광고를 해 드릴 거고, 발표할 기획도 드리려고요! 관심 있으신 정회원 분들 있으시면 제게 따로 연락주세요!! 또한 주위에 12/11~12/13에 마침 한국에 계실 분 중에 본 행사에 관심이 있으신 분이 있으면 0.0001초의 망설임도 없이! ㅎㅎㅎ 저랑 (카톡으로) 이어주세요! :)
 >
 > 감사합니다! :)
-<!-- TODO: Convert to Notice component type="info" -->
 
 ## Oct-2025
 
 ### Sunghee proposes two external public engagement activities out of the 11 day business trip to Seoul
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Thu Oct 30 07:39 PDT 2025
 >
 > 안녕하세요, 사랑하는 K-PAI 정회원 여러분!
@@ -570,10 +611,10 @@ _originalPermalink: /board/
 >두 가지 모두 K-PAI의 영향력을 확장하고 실질적인 가치를 창출할 수 있는 기회라고 생각됩니다. 여러분의 고견과 피드백을 부탁드립니다! 🙏
 >
 >[윤성희](https://sungheeyun.github.io) 드림
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Chanik shares the vision of [Nov-2025 Forum](/#ai-silicon-race) Sunghee lays down!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} @ Sat Oct 11 10:49 PDT 2025
 >
 > 안녕하세요. K-PAI가 많은 분들의 열정과 도움으로 회를 거듭할수록 참여가 확대되고 있음에 큰 보람을 느낍니다. 다음 11월에는 K-ASIC와 함께 AI 반도체 분야에서 좋은 분들 모시고 심도 높은 교류를 갖고자 합니다.
@@ -611,19 +652,19 @@ _originalPermalink: /board/
 > 이러한 인식 하에, K-ASIC과 K-PAI의 전략적 제휴를 통한 co-hosting Forum은 단순한 기술 교류를 넘어서는 의미를 갖습니다. 본 행사는 AI 생태계의 가장 foundational layer인 silicon 및 semiconductor architecture를 조명하며, 한국과 미국 양국의 AI semiconductor innovation leadership을 연계하는 전략적 플랫폼으로 기능합니다.
 >
 > 이것이 바로 본 Forum의 주제를 "The AI Silicon Race: Korea-US Innovation Leadership"으로 설정한 근본적 이유입니다. 본 행사는 AI의 미래가 algorithm만이 아닌 silicon 위에 구축된다는 핵심 통찰을 공유하고, 한미 양국의 semiconductor 역량을 결집하여 글로벌 AI 생태계의 지속가능한 발전을 모색하는 장이 될 것입니다.
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Sunghee executes the first Agreement of Strategic Alliances with KOTRA Silicon Valley!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Mon Oct 13 12:59 PDT 2025
 >
 > 그리고 지난번엔 10/7에 있었던 "실리콘벨리 한인 전문가 간담회"에 한국에서 오신 국회 AI 정책 관련자 (국회 의원 4명), 총영사관 AI 담당 영사님, big tech 관계자, investor, bio tech startup 대표님들을 모시고 - 여기서 K-PAI가 KOTRA와 맺은 Strategic Alliances의 동의 사항 중 하나로 -
 > [https://k-privateai.github.io/seminar-reflections/11#the-perpetual-alliance-between-k-pai-and-kotra-silicon-valley](https://k-privateai.github.io/seminar-reflections/11#the-perpetual-alliance-between-k-pai-and-kotra-silicon-valley) -
 > 즉 K-PAI의 Technical Consulation execution 입장에서 인력 풀을 추천/제공 해 드렸었는데 - 했는데 정말 결정적인 발언들을 해 주시고 간담회를 주도해 주셨습니다! 교수님을 추천했던 제가 다 뿌듯했습니다! :) @[편재호](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Minha introduces Google Labs!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Sun Oct 12 11:23 PDT 2025
 >
 > 그리고 (K-PAI 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
@@ -660,15 +701,14 @@ _originalPermalink: /board/
 >
 > 저는 2022 / 2023 / 2024년을 지켜 보면서 잘못하면 Google 망하겠구나~ 하는 생각도 했었는데 ㅎㅎ - hald jokingly - llm을 너무 못 따라와서 ~ 최근에 나름 저력을 보여 주는 것 같아요. 이 모든 일이 .. 저희 근처에서 일어나고 있는 거졍? 제가 주로 골프 연습하고 Shoreline Golf Link 거기 있는 Googlex도 한 몫 한다는 내부자 정보를 얻긴 했는데~ ㅎㅎ
 > @[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"}
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Minha introduces OpenAI Dev Day 2025!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Sun Oct 12 06:20 PDT 2025
 >
 > OpenAI Dev Day 2025에서 AppSDK가 인상 깊네요. 혹시 아직 안 보셨으면, 꼭 보세요. Link 첨부 드립니다.
 > [https://www.youtube.com/live/hS1YqcewH0c?si=OWFrlzSNNlXCcdxy](https://www.youtube.com/live/hS1YqcewH0c?si=OWFrlzSNNlXCcdxy)
-<!-- TODO: Convert to Notice component type="info" -->
 
 <div class="img-container">
 <img style="max-width: 50%;" src="/resource/board/Screenshot 2025-10-12 at 10.04.16 AM.png">
@@ -676,6 +716,7 @@ _originalPermalink: /board/
 
 ### Sunghee's podcast announcement!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 23:32 PDT 2025
 >
 >여러분~ 제가 곧 어떤 podcast에 출연 예정입니다! ㅎㅎㅎ 사실 이미 recording 다 했고요! - 영어가 제 mother tongue이 아니다 보니 제 영어 실력은 그날그날 컨디션에 따라 다른데… ㅎㅎ 이 날은 영어가 꽤나! 안 되는 날이었나 봅니다. ㅎㅎ - [https://sungheeyun.github.io/#podcast-erudio-bio](https://sungheeyun.github.io/#podcast-erudio-bio){:target="_blank"}
@@ -683,12 +724,11 @@ _originalPermalink: /board/
 > [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 23:33 PDT 2025
 >
 >저쪽에서 approve가 떨어지면 어떤 channel에서 보실 수 있는지도 알려 드릴게요! :) ㅎㅎ
-<!-- TODO: Convert to Notice component type="info" -->
 
 ### Chanik's sharing IFEZ X K-BioX ABDD SUMMIT in Song-do!
 
-> [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} @ Sat Oct 11 21:16 PDT 2025
 <!-- TODO: Convert to Notice component type="info" -->
+> [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} @ Sat Oct 11 21:16 PDT 2025
 
 <div class="img-container">
 <img style="max-width:100%;" src="/resource/board/KakaoTalk_Photo_2025-10-11-23-22-15.png">
@@ -696,6 +736,7 @@ _originalPermalink: /board/
 
 ### Minha's announcement of BAY K-AI Seminar!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} @ Sat Oct 11 18:45 PDT 2025
 >
 >10월 18일 K-AI Group (K-Group AI 소그룹)에서 하는 LLM Seminar가 있어서 공지드립니다. KAIST의 LLM 전문가이신 오혜연 교수님 (현 Google 안식년)이 연사이시구요. 관심있으신 분들의 많은 참여 부탁드립니다. 세부 사항은 밑에 첨부 참고하시고, 인원 파악을 위한 Form에 Sign-up 해주시면, 감사하겠습니다.
@@ -707,7 +748,6 @@ _originalPermalink: /board/
 > [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 18:54 PDT 2025
 >
 >모두들 많이 들 참여 바랍니다!
-<!-- TODO: Convert to Notice component type="info" -->
 
 <div class="img-container">
 <img src="/resource/board/KakaoTalk_Photo_2025-10-11-23-12-06.jpeg">
@@ -722,6 +762,7 @@ _originalPermalink: /board/
 
 ### Sunghee announces AI-BioX ConfEX Grand Summit 2025!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Sat Oct 11 20:55 PDT 2025
 >
 > 오늘 박군호 대표님이랑 황민하 박사님께서 해 주셨듯~ 다른 분들도 이 공간을 맘껏! 활용해 주세요! "어, 이 거 너무 걘적인 거 올리는 거 아닐까?" 이런 생각 쏙~! 빼고 ㅎㅎ 걍 맘껏! 자기 자랑도 좋고! 회사 소개도 좋고요! 구직, 구인, 채용, 투자 등등등~ 저는 이 공간이 maximally 활용될 때 가장 큰 보람을 느낄 것 같아요! ㅎ
@@ -744,7 +785,6 @@ _originalPermalink: /board/
 >
 >참고로 최근 한의약韓醫學 AI 융합融合 추진 TF 자문 위원으로 위촉委囑되어 활동하고 있습니다~ :) [https://www.linkedin.com/posts/sungheeyun_im-happy-to-share-that-im-starting-a-new-activity-7369716534962778117-0qYI](https://www.linkedin.com/posts/sungheeyun_im-happy-to-share-that-im-starting-a-new-activity-7369716534962778117-0qYI){:target="_blank"}
 > [Facebook - Started new job at 대한한의사협회](https://www.facebook.com/sunghee.yun1/posts/pfbid0ZRUqxcejzAznXxBzKzz9LDLd41uBRGzCMjpJa4EzdxrPC6XEqTj8os3w5oPtiSiyl){:target="_blank"}
-<!-- TODO: Convert to Notice component type="info" -->
 
 <div class="img-container">
 <img src="/resource/board/KakaoTalk_Photo_2025-10-12-00-39-10.jpeg">
@@ -752,9 +792,9 @@ _originalPermalink: /board/
 
 ### Sunghee invited Maestro Baek to Stanford!
 
+<!-- TODO: Convert to Notice component type="info" -->
 > [Sunghee](https://sungheeyun.github.io) @ Sun Oct 12 11:23 PDT 2025
 >
 > 그리고 (K-PAI 차원이 아니라) 걘적으로 기획/추진/실행했던 춤추는 지휘자 마에스트로 백윤학 교수님을 모시고~ 지난 주 토요일에 스탠포드에서 했던 그 문화행사文化行事! 후기後記가 나왔음을 알려 드립니다! ㅎㅎ -
 > [https://sungheeyun.github.io/reflections/harmony-across-generations](https://sungheeyun.github.io/reflections/harmony-across-generations) - 사람들 feedback도 좀 모았습니다! :) -
 > [https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience](https://sungheeyun.github.io/reflections/harmony-across-generations#feedback-from-the-audience)
-<!-- TODO: Convert to Notice component type="info" -->

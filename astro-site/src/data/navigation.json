@@ -2,43 +2,35 @@
   "main": [
     {
       "title": "Activities",
-      "url": "/activities/"
+      "url": "/activities"
     },
     {
       "title": "TMKP",
-      "url": "/tmkp/"
-    },
-    {
-      "title": "AUCTION",
-      "url": "/auction-2026-new-year-party/"
-    },
-    {
-      "title": "PRIZES",
-      "url": "/prizes-2026-new-year-party/"
+      "url": "/kptm"
     },
     {
       "title": "Board",
-      "url": "/board/"
+      "url": "/board"
     },
     {
       "title": "Groups",
-      "url": "/groups/"
+      "url": "/groups"
     },
     {
       "title": "Posts",
-      "url": "/posts/1/"
+      "url": "/posts"
     },
     {
       "title": "Tags",
-      "url": "/tags/"
+      "url": "/tags"
     },
     {
       "title": "Membership",
-      "url": "/membership/"
+      "url": "/membership"
     },
     {
       "title": "Committee",
-      "url": "/committee/"
+      "url": "/committee"
     }
   ]
 }

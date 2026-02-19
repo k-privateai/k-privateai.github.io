@@ -1,7 +1,7 @@
 ---
-title: Fortress Code - The New Frontier of AI Security
 date: 'Tue Jul  8 20:59:32 PDT 2025'
 last_modified_at: 'Tue Jan 13 14:57:05 PST 2026'
+title: Fortress Code - The New Frontier of AI Security
 categories:
   - blog
 tags:

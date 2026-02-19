@@ -1,9 +1,9 @@
 ---
+date: 'Fri May 30 07:34:10 PDT 2025'
+last_modified_at: 'Thu Jan 22 01:22:27 PST 2026'
 title: >-
   Reflection on K-PAI's Seventh Forum: The Autonomous Alliance - AI Agents in a
   Connected World
-date: 'Fri May 30 07:34:10 PDT 2025'
-last_modified_at: 'Fri Jun  6 08:54:08 PDT 2025'
 categories:
   - blog
 tags:
@@ -47,7 +47,7 @@ to examine the rapidly evolving landscape of autonomous AI systems
 and their implications for software development, research, and human-AI collaboration.
 
 <div class="img-container">
-<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-08 004.jpeg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/07 - 21-May-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-08 004-25-reduced.jpeg">
 </div>
 
 # Overview and Industry Significance
@@ -56,7 +56,7 @@ Building on the tremendous success of [the previous biomedical AI forum](/semina
 this 7th edition demonstrated K-PAI's growing influence as a premier forum for privacy-first AI discussions. The choice to focus on AI agents proved prescient, addressing one of the most transformative developments in contemporary AI—the evolution from passive language models to autonomous, tool-wielding agents capable of complex reasoning and multi-step task execution.
 
 <div class="img-container">
-<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-07 003.jpeg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/07 - 21-May-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-07 003-25-reduced.jpeg">
 </div>
 
 The partnership with [SK hynix America](https://www.linkedin.com/company/skhynix-america-inc/) underscored the critical importance of hardware infrastructure in enabling the agentic AI revolution. As speakers throughout the evening emphasized, the progression from simple language models to sophisticated multi-agent systems requires unprecedented computational resources and memory bandwidth—capabilities that modern GPU architectures and high-speed interconnects like NVLink are specifically designed to provide.
@@ -66,7 +66,7 @@ The partnership with [SK hynix America](https://www.linkedin.com/company/skhynix
 ## Dr. Kenny Lim's Vision of the AI Universe
 
 <div class="img-container">
-<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-08 014.jpeg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/07 - 21-May-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-08 014-25-reduced.jpeg">
 </div>
 
 ([Presentation Slides](/resource/seminars/07 - 21-may-2025/slides/Dream toward AI Universe - UClone.pdf))
@@ -80,7 +80,7 @@ The concept of an "AI Universe" that Dr. Lim articulated—where multiple specia
 ## Dr. Minha Hwang's Research Revolution
 
 <div class="img-container">
-<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-40 001.jpeg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/07 - 21-May-2025/photos/KakaoTalk_Photo_2025-05-30-23-02-40 001-25-reduced.jpeg">
 </div>
 
 ([Presentations Slides](/resource/seminars/07 - 21-may-2025/slides/Harnessing the Power of AI in Research and Data Science - Minha Hwang.pdf))
@@ -94,7 +94,7 @@ His live demonstrations of Deep Research capabilities across ChatGPT, Gemini, an
 ## Dr. Insop Song's Software Development Evolution
 
 <div class="img-container">
-<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-07 002.jpeg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/07 - 21-May-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-07 002-25-reduced.jpeg">
 </div>
 
 ([Presentation Slides](/resource/seminars/07 - 21-may-2025/slides/Agentic AI and Software Development - Insop Song.pdf))
@@ -108,7 +108,7 @@ The practical implications were striking: AI systems that can not only generate 
 ## Dr. Hoshik Kim's Industry Perspective
 
 <div class="img-container">
-<img src="/resource/seminars/07 - 21-may-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-23 001.jpeg">
+<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/07 - 21-May-2025/photos/KakaoTalk_Photo_2025-05-30-23-03-23 001-25-reduced.jpeg">
 </div>
 
 Dr. Hoshik Kim from SK Hynix provided concluding remarks that grounded the evening's technical discussions in practical industry considerations, focusing on "Memory-centric AI System Evolution and New Memory Opportunities." His presentation offered a crucial hardware perspective on the infrastructure requirements for supporting the agentic AI systems discussed throughout the forum.
@@ -150,10 +150,8 @@ The conversation about standardization protocols sparked debate about whether th
 Several major themes emerged from the evening's discussions:
 
 <div class="img-container-justified">
-&nbsp;
-<img width="45%" src="/resource/seminars/07 - 21-may-2025/photos/u1564158738_The_Agentic_TransitionPermalink_We_are_witnessing_79d703be-5280-4037-a277-9020c4db7fdb_2.png">
-<img with="45%" src="/resource/seminars/07 - 21-may-2025/photos/u1564158738_The_Agentic_TransitionPermalink_We_are_witnessing_67206742-62c5-4525-9d79-b1b1b2bb30c4_2.png">
-&nbsp;
+<img width="49%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/07 - 21-May-2025/photos/u1564158738_The_Agentic_TransitionPermalink_We_are_witnessing_79d703be-5280-4037-a277-9020c4db7fdb_2.png">
+<img width="49%" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/07 - 21-May-2025/photos/u1564158738_The_Agentic_TransitionPermalink_We_are_witnessing_67206742-62c5-4525-9d79-b1b1b2bb30c4_2.png">
 </div>
 
 ## The Agentic Transition

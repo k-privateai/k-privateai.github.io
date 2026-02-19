@@ -1,9 +1,9 @@
 ---
+date: 'Sun Apr 13 21:38:43 PDT 2025'
+last_modified_at: 'Wed Apr 23 00:34:29 PDT 2025'
 title: >-
   K-PAI partners with K-BioX! Advancing Humanity &ndash; Bio and Medical
   Technology's AI Revolution!
-date: 'Sun Apr 13 21:38:43 PDT 2025'
-last_modified_at: 'Wed Apr 23 00:34:29 PDT 2025'
 categories:
   - blog
 tags:

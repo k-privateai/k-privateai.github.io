@@ -1,7 +1,7 @@
 ---
-title: K-PAI Seminar-series Invitation
 date: 'Mon Oct  7 13:53:09 PDT 2024'
-last_modified_at: 'Sun Oct 20 20:55:36 PDT 2024'
+last_modified_at: 'Thu Jan 22 00:00:40 PST 2026'
+title: K-PAI Seminar-series Invitation
 categories:
   - blog
 tags:
@@ -75,9 +75,6 @@ Light refreshments will be provided at each event.
 		<br>
         <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 6, 2024 (wed)
 		<br>
-		(Please refer to Prof. Cheon's YouTube video
-		<a href="https://youtu.be/K95MFqP5_V4?si=GBeluC3MdLx5Rkqu">2024 봄 카오스강연 - AI의 역습! 암호가 세상을 구한다.</a>
-		related to the seminar.)
     </li>
     <li>
         <strong>Free Your Data: HE Revolution in Private AI</strong>
@@ -85,14 +82,11 @@ Light refreshments will be provided at each event.
 		<br>
         <strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 20, 2024 (wed)
 		<br>
-		(Please refer to Prof. Cheon's YouTube video
-		<a href="https://youtu.be/yI2fPlCCMRI?si=nLfK-zL9ePXKU_4H">[과찬의말씀] 뚫리지 않는 방패, 동형암호의 아버지를 만나다.</a>
-		related to the seminar.)
     </li>
 </ul>
 
 <p>
-<strong>Speaker:</strong> <a href="https://en.wikipedia.org/wiki/Jung_Hee_Cheon">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab</a>
+<strong>Speaker:</strong> <a href="https://www.linkedin.com/in/jungheecheon/">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab</a>
 <br>
 <strong>Venue:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
 </p>

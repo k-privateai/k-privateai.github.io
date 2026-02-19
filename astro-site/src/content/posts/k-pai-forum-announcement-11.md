@@ -1,7 +1,7 @@
 ---
-title: 'K-PAI''s 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy''s Future'
 date: 'Tue Sep 23 10:26:16 PDT 2025'
-last_modified_at: 'Wed Oct  1 03:26:19 PDT 2025'
+last_modified_at: 'Thu Jan 22 01:53:39 PST 2026'
+title: 'K-PAI''s 11th Chapter: Power Paradigm - AI-Driven Solutions for Energy''s Future'
 categories:
   - blog
 tags:
@@ -32,11 +32,9 @@ to share this event!
 
 # Invitation
 
----
-
 Innovators, Energy Leaders, and AI Pioneers!
 
-<a href="/resource/seminars/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf">Main agenda slides (PDF)</a>
+<a href="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf">Main agenda slides (PDF)</a>
 
 We are thrilled to invite you to the eleventh edition of the [K-PAI Forum](/),
 a premier gathering for researchers, industry leaders,
@@ -86,12 +84,12 @@ We extend our sincere gratitude to [KOTRA Silicon Valley](https://www.connectkot
 
 ## Reception & Networking (5pm ~ 6pm)
 
-<a href="/resource/seminars/11 - 29-Sep-2025/SpeakerslideShow.pptx">Speakers Slide Show</a>
+<a href="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/11 - 29-Sep-2025/SpeakerslideShow.pptx">Speakers Slide Show</a>
 
 Experience our signature networking reception featuring a carefully curated selection of premium refreshments and hors d'oeuvres in the elegant KOTRA setting, **generously sponsored by <a href="https://www.uclone.net/">UClone</a> and <a href="https://www.mangoboost.io/">MangoBoost</a>**!
 This welcoming atmosphere provides the perfect setting for meaningful connections between energy industry professionals, AI researchers, renewable energy specialists, and policy experts who are pioneering the sustainable AI revolution.
 
-<a href="/resource/seminars/11 - 29-Sep-2025/Logo for K_PAI with Uclone.pdf">UClone &amp; Mangoboost</a>
+<a href="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/11 - 29-Sep-2025/Logo for K_PAI with Uclone.pdf">UClone &amp; Mangoboost</a>
 
 <div class="img-container-justified">
 &nbsp;
@@ -106,7 +104,7 @@ This welcoming atmosphere provides the perfect setting for meaningful connection
 
 - **Speakers**: [Sunghee Yun](https://sungheeyun.github.io) (Leader of [K-PAI](/)) and [Oh Hyoung Kwon](https://www.linkedin.com/in/oh-hyoung-kwon-0183b7338/) (Managing Director of [KOTRA Silicon Valley](https://www.connectkotrasv.org/))
 - **Time**: 6pm ~ 6:10pm
-- <a href="/resource/seminars/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf">slides</a>
+- <a href="https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/11 - 29-Sep-2025/K-PAI - Power Paradigm - Sep-2025.pdf">slides</a>
 
 Join us for this historic moment as we officially announce the groundbreaking perpetual partnership between K-PAI and KOTRA Silicon Valley. This opening ceremony will formalize the strategic alliance that will transform how we foster innovation and collaboration in the AI ecosystem, bridging Korean and Silicon Valley AI communities while setting the stage for an evening of transformative discussions about the intersection of AI and energy systems.
 

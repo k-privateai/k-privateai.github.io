@@ -1,7 +1,7 @@
 ---
-title: The 2nd K-PAI Seminar Invitation
 date: 19-Nov-2024 PST
-last_modified_at: 'Mon Nov 18 16:40:55 PST 2024'
+last_modified_at: 'Thu Jan 22 00:00:07 PST 2026'
+title: The 2nd K-PAI Seminar Invitation
 categories:
   - blog
 tags:
@@ -77,15 +77,10 @@ Light refreshments will be provided at each event.
 		<strong>date &amp; time:</strong> 6:00 PM - 8:00 PM on Nov 20, 2024 (wed)
 	</li>
 	<li>
-		<strong>Speaker:</strong> <a href="https://en.wikipedia.org/wiki/Jung_Hee_Cheon">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab</a>
+		<strong>Speaker:</strong> <a href="https://www.linkedin.com/in/jungheecheon/">Jung Hee Cheon</a>, Professor of Mathematics at Seoul National University and CEO of <a href="https://www.cryptolab.co.kr/en/home/">CryptoLab</a>
 	</li>
 	<li>
 		<strong>Venue:</strong> Alaska @ <a href="https://maps.app.goo.gl/5rVTWcxBU8VmXhXq9">KIC Silicon Valley</a>
-	</li>
-	<li>
-	Please refer to Prof. Cheon's YouTube video
-	<a href="https://youtu.be/yI2fPlCCMRI?si=nLfK-zL9ePXKU_4H">[과찬의말씀] 뚫리지 않는 방패, 동형암호의 아버지를 만나다.</a>
-	related to the seminar.
 	</li>
 	</ul>
 </li>
@@ -129,11 +124,6 @@ And the series will continue with more seminars beyond these first two.
         - 인공지능의 역습! 암호가 세상을 구한다.
 		<ul>
         <li>date &amp; time: 6:00 PM - 8:00 PM on Nov 6, 2024 (wed)
-		</li>
-		<li>
-		Please refer to Prof. Cheon's YouTube video
-		<a href="https://youtu.be/K95MFqP5_V4?si=GBeluC3MdLx5Rkqu">2024 봄 카오스강연 - AI의 역습! 암호가 세상을 구한다.</a>
-		related to the seminar.
 		</li>
 		</ul>
     </li>

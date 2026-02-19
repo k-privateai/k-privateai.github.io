@@ -1,7 +1,8 @@
 ---
 layout: ../layouts/PageLayout.astro
+date: 'Wed Jan 28 00:14:51 PST 2026'
+last_modified_at: 'Wed Jan 28 00:14:51 PST 2026'
 title: Committee
-last_modified_at: 'Fri Jan 16 20:30:33 PST 2026'
 toc: false
 toc_label: '&nbsp;Table of Contents'
 toc_icon: fa-solid fa-list
@@ -21,7 +22,8 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Mentorship Program Chair
 </td>
 <td class="kor-name">
 	박찬익
@@ -31,23 +33,14 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	<!--K-PAI Leader-->
 </td>
 <td class="kor-name">
 	윤성희
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	박대준
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/daejunpark/">Daejun Park</a>
 </td>
 </tr>
 <tr>
@@ -61,8 +54,8 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td class="role">
-	Tech Committee
+<td class="role" id="tech-and-social-media-committee">
+	Tech &amp; Social Media Committee
 </td>
 <td class="kor-name">
 	윤성희
@@ -72,7 +65,19 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Marketing Leader
+</td>
+<td class="kor-name">
+	김수연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;">
+	Website &amp; Content Lead
 </td>
 <td class="kor-name">
 	박수민
@@ -82,28 +87,30 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Website &amp; Content Lead
 </td>
 <td class="kor-name">
 	정주영
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung (Dominick) Jeong</a>
+	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;">
+	Social Media Manager
+</td>
+<td class="kor-name">
+	이가은
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun Lee</a>
 </td>
 </tr>
 <tr>
 <td class="role">
-	Operating Committee
-</td>
-<td class="kor-name">
-	노현정
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/%EB%85%B8%ED%98%84%EC%A0%95/">Hyun Jung Noh</a>
-</td>
-</tr>
-<tr>
-<td>
+	Program &amp; Content Committee
 </td>
 <td class="kor-name">
 	문호근
@@ -143,8 +150,7 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td class="role">
-	Program Committee
+<td>
 </td>
 <td class="kor-name">
 	이시연
@@ -154,7 +160,9 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
+	<!--Community Groups Coordinator-->
+	Community Engagement Chair
 </td>
 <td class="kor-name">
 	정미숙
@@ -207,16 +215,6 @@ _originalPermalink: /committee/
 <td>
 </td>
 <td class="kor-name">
-	김수연
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
 	선우동훈
 </td>
 <td class="eng-name">
@@ -244,7 +242,8 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;" id="legal-affairs-advisor">
+	Legal Affairs Advisor
 </td>
 <td class="kor-name">
 	송영욱
@@ -254,7 +253,8 @@ _originalPermalink: /committee/
 </td>
 </tr>
 <tr>
-<td>
+<td class="role" style="color: #0000dd;">
+	Legal Affairs Advisor
 </td>
 <td class="kor-name">
 	이보형
