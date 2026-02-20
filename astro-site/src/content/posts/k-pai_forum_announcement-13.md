@@ -102,15 +102,14 @@ Experience our signature networking reception in K•ASIC's state-of-the-art fac
 
 - **Speakers**: K-PAI Leadership &amp; K•ASIC Leadership
 - **Time**: 5:30pm ~ 5:40pm
-- [slides](/resource/seminars/13 - 12-Nov-2025/K-PAI - The AI Silicon Race - Nov-2025.pdf){:target="_blank"}
-
+- [slides](/resource/seminars/13 - 12-Nov-2025/K-PAI - The AI Silicon Race - Nov-2025.pdf)
 Join us as we officially open this historic K-PAI x K•ASIC Joint Seminar, celebrating the collaboration between two leading organizations in AI semiconductor innovation. This opening address will set the stage for an evening of cutting-edge insights into AI chip design, NPU architecture evolution, and the future of on-device AI.
 
 ## Presentations (5:40pm ~ 7pm)
 
 ### Main Keynote Session: From Semiconductor PPA Optimization to Physical AI - Library-Based Design Challenges and New Frontiers
 
-- **Speaker**: [Naehyuck Chang](https://www.linkedin.com/in/naehyuck/){:target="_blank"}, Advisor and Former EVP of Samsung Electronics
+- **Speaker**: [Naehyuck Chang](https://www.linkedin.com/in/naehyuck/), Advisor and Former EVP of Samsung Electronics
 - **Time**: 5:40pm ~ 6:20pm
 
 Semiconductor design optimization has been a major source of competitiveness in the chip industry and has often had more impact than improvements in architecture or software. Even after many years of progress, the conventional layered design process still leaves room for improvement within standard cell libraries, which play a crucial role in determining power, performance, and area (PPA). The first part of this talk introduces a practical approach that uses artificial intelligence to improve cell library design and enhance PPA efficiency. The second part presents a future-oriented view of Physical AI, which combines control intelligence with physical systems, and introduces the concept of pretrained libraries, revealing new opportunities and challenges in applying library-based design and optimization methods to the next generation of intelligent physical systems.
@@ -119,7 +118,7 @@ As an ACM Fellow, IEEE Fellow, and former Technical Program Chair of the prestig
 
 ### Sub-Session: AI Starts Here - 온디바이스 AI 시대, 경량화된 NPU 아키텍처의 진화
 
-- **Speaker**: [Richard Burroughs](http://linkedin.com/in/richardburroughs1){:target="_blank"}, Vice President @ Mobilint, Inc.
+- **Speaker**: [Richard Burroughs](http://linkedin.com/in/richardburroughs1), Vice President @ Mobilint, Inc.
 - **Time**: 6:20pm ~ 6:40pm
 
 Richard Burroughs will present an in-depth exploration of how Neural Processing Unit (NPU) architectures are evolving to meet the demands of the on-device AI era. As AI capabilities increasingly shift from the cloud to edge devices, the need for lightweight, power-efficient NPU designs has become critical. This presentation will examine the architectural innovations enabling efficient on-device AI inference—from quantization techniques and model compression to novel dataflow architectures and memory hierarchies optimized for neural network workloads.
@@ -128,7 +127,7 @@ Richard will demonstrate how NPU architecture evolution is enabling sophisticate
 
 ### Sub-Session 2: Bridging Performance and Affordability in AI Silicon - AI 반도체 혁신, 성능과 비용의 균형을 잇다
 
-- **Speaker**: [Juntaek Oh](https://www.linkedin.com/in/juntaek-oh-643253349){:target="_blank"}, Compiler Engineer @ HyperAccel
+- **Speaker**: [Juntaek Oh](https://www.linkedin.com/in/juntaek-oh-643253349), Compiler Engineer @ HyperAccel
 - **Time**: 6:40pm ~ 7pm
 
 Juntaek Oh will present insights on bridging the critical gap between performance and affordability in AI silicon design. As the AI semiconductor landscape rapidly evolves, balancing cutting-edge computational capabilities with cost-effective implementations has emerged as one of the industry's most pressing challenges.

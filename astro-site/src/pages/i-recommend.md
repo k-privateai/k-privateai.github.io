@@ -65,7 +65,7 @@ Let's do this!
 Proper recognition and appreciation should follow outstanding devotion and sacrifice!
 
 
-# [Sunghee](https://sungheeyun.github.io){:target="_blank"} recommends MiSook!
+# [Sunghee](https://sungheeyun.github.io) recommends MiSook!
 
 > MiSook showed tremendous confidence and dedication in arranging and organizing the August 2025 Forum,
 > making it possible to invite James Rhee, the author of Red Helicopter.
@@ -101,7 +101,7 @@ Proper recognition and appreciation should follow outstanding devotion and sacri
 > For the aforementioned reasons,
 > I strongly recommend MiSook for the 2025 K-PAI Best Ownership Award nomination!
 
-# [Sunghee](https://sungheeyun.github.io){:target="_blank"} recommends Daniel Huh!
+# [Sunghee](https://sungheeyun.github.io) recommends Daniel Huh!
 
 > I didn't expect—or rather, didn't dare hope for—much from Daniel
 > when we met for coffee to brainstorm and discuss

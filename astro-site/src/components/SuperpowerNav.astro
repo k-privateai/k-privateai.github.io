@@ -14,7 +14,7 @@ function isActive(url: string): boolean {
 
 <!-- Navigation Container -->
 <div class={`fixed top-0 left-0 right-0 z-50 pt-4 px-4 md:px-8 ${isHeroPage ? '' : 'nav-light-mode'}`} id="nav-wrapper">
-  <nav class="superpower-nav mx-auto" id="main-nav">
+  <nav class="superpower-nav mx-auto" id="main-nav" aria-label="Main navigation">
     <div class="flex items-center justify-between h-14 px-2">
       <!-- Logo -->
       <a href="/" class="flex items-center pl-2">
@@ -25,7 +25,7 @@ function isActive(url: string): boolean {
       <div class="hidden lg:flex items-center space-x-1">
         <!-- Community Dropdown -->
         <div class="nav-dropdown-wrapper" id="community-dropdown">
-          <button class="nav-link nav-dropdown-trigger">
+          <button class="nav-link nav-dropdown-trigger" aria-haspopup="true" aria-expanded="false" aria-controls="community-mega-menu">
             Community
             <svg class="w-4 h-4 ml-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
@@ -35,7 +35,7 @@ function isActive(url: string): boolean {
 
         <!-- Content Dropdown -->
         <div class="nav-dropdown-wrapper" id="content-dropdown">
-          <button class="nav-link nav-dropdown-trigger">
+          <button class="nav-link nav-dropdown-trigger" aria-haspopup="true" aria-expanded="false" aria-controls="content-mega-menu">
             Content
             <svg class="w-4 h-4 ml-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
@@ -44,13 +44,14 @@ function isActive(url: string): boolean {
         </div>
 
         <span class="nav-divider"></span>
+        <a href="/events/" class={`nav-link ${isActive('/events/') ? 'nav-link-active' : ''}`}>Events</a>
         <a href="/committee/" class={`nav-link ${isActive('/committee/') ? 'nav-link-active' : ''}`}>Committee</a>
       </div>
 
       <!-- Right Side -->
       <div class="hidden lg:flex items-center space-x-3 pr-1">
         <a href="/about/" class={`nav-link ${isActive('/about/') ? 'nav-link-active' : ''}`}>About</a>
-        <a href="/membership/" class="nav-cta">Membership</a>
+        <a href="https://lu.ma/kpai" target="_blank" rel="noopener noreferrer" class="nav-cta">RSVP</a>
       </div>
 
       <!-- Mobile menu button -->
@@ -93,6 +94,17 @@ function isActive(url: string): boolean {
       <!-- Center Links -->
       <div class="mega-dropdown-section">
         <h4 class="mega-dropdown-title">EVENTS</h4>
+        <a href="/events/" class="mega-dropdown-item">
+          <div class="mega-dropdown-icon">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <div>
+            <span class="mega-dropdown-item-title">Events Calendar</span>
+            <p class="mega-dropdown-item-desc">Upcoming and past forum schedule</p>
+          </div>
+        </a>
         <a href="/activities/" class="mega-dropdown-item">
           <div class="mega-dropdown-icon">
             <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -122,7 +134,7 @@ function isActive(url: string): boolean {
         <h4 class="mega-dropdown-title">NETWORK</h4>
         <a href="/groups/" class="mega-dropdown-link">Groups</a>
         <a href="/board/" class="mega-dropdown-link">Board</a>
-        <a href="/membership/" class="mega-dropdown-link">Membership</a>
+        <a href="https://lu.ma/kpai" target="_blank" rel="noopener noreferrer" class="mega-dropdown-link">RSVP</a>
         <a href="/committee/" class="mega-dropdown-link">Committee</a>
       </div>
 
@@ -204,6 +216,7 @@ function isActive(url: string): boolean {
   <!-- Mobile menu -->
   <div class="lg:hidden hidden mt-2" id="mobile-menu">
     <div class="superpower-nav-mobile p-4 space-y-1">
+      <a href="/events/" class="mobile-nav-link">Events</a>
       <a href="/activities/" class="mobile-nav-link">Activities</a>
       <a href="/tmkp/" class="mobile-nav-link">TMKP</a>
       <a href="/board/" class="mobile-nav-link">Board</a>
@@ -214,8 +227,8 @@ function isActive(url: string): boolean {
       <a href="/committee/" class="mobile-nav-link">Committee</a>
       <div class="h-px bg-white/10 my-3"></div>
       <a href="/about/" class="mobile-nav-link">About</a>
-      <a href="/membership/" class="block mt-4 py-3 text-center bg-[var(--color-primary)] text-white font-semibold rounded-full hover:bg-[var(--color-primary-dark)] transition-colors">
-        Membership
+      <a href="https://lu.ma/kpai" target="_blank" rel="noopener noreferrer" class="block mt-4 py-3 text-center bg-[var(--color-primary)] text-white font-semibold rounded-full hover:bg-[var(--color-primary-dark)] transition-colors">
+        RSVP
       </a>
     </div>
   </div>
@@ -265,6 +278,13 @@ function isActive(url: string): boolean {
 
   let dropdownTimeout: ReturnType<typeof setTimeout>;
 
+  function updateAriaExpanded() {
+    document.querySelectorAll('.nav-dropdown-trigger').forEach(btn => {
+      const wrapper = btn.closest('.nav-dropdown-wrapper');
+      btn.setAttribute('aria-expanded', String(wrapper?.classList.contains('active') ?? false));
+    });
+  }
+
   function showDropdown(wrapper: Element | null, megaMenu: Element | null) {
     clearTimeout(dropdownTimeout);
     // Hide all other dropdowns
@@ -279,6 +299,7 @@ function isActive(url: string): boolean {
     wrapper?.classList.add('active');
     megaMenu?.classList.remove('hidden');
     setTimeout(() => megaMenu?.classList.add('active'), 10);
+    updateAriaExpanded();
   }
 
   function hideAllDropdowns() {
@@ -290,7 +311,20 @@ function isActive(url: string): boolean {
       document.querySelectorAll('.nav-dropdown-wrapper').forEach(w => {
         w.classList.remove('active');
       });
+      updateAriaExpanded();
     }, 150);
+  }
+
+  function hideAllDropdownsImmediate() {
+    clearTimeout(dropdownTimeout);
+    document.querySelectorAll('.mega-dropdown').forEach(d => {
+      d.classList.remove('active');
+      d.classList.add('hidden');
+    });
+    document.querySelectorAll('.nav-dropdown-wrapper').forEach(w => {
+      w.classList.remove('active');
+    });
+    updateAriaExpanded();
   }
 
   // Community dropdown events
@@ -316,6 +350,34 @@ function isActive(url: string): boolean {
 
   contentDropdown?.addEventListener('mouseleave', hideAllDropdowns);
   contentMegaMenu?.addEventListener('mouseleave', hideAllDropdowns);
+
+  // Keyboard accessibility for dropdowns
+  function handleDropdownKeyboard(e: KeyboardEvent, wrapper: Element | null, megaMenu: Element | null) {
+    if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      const isOpen = wrapper?.classList.contains('active');
+      if (isOpen) {
+        hideAllDropdownsImmediate();
+      } else {
+        showDropdown(wrapper, megaMenu);
+      }
+    }
+  }
+
+  communityDropdown?.querySelector('.nav-dropdown-trigger')?.addEventListener('keydown', (e) => {
+    handleDropdownKeyboard(e as KeyboardEvent, communityDropdown, communityMegaMenu);
+  });
+
+  contentDropdown?.querySelector('.nav-dropdown-trigger')?.addEventListener('keydown', (e) => {
+    handleDropdownKeyboard(e as KeyboardEvent, contentDropdown, contentMegaMenu);
+  });
+
+  // Close dropdowns on Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      hideAllDropdownsImmediate();
+    }
+  });
 </script>
 
 <style>

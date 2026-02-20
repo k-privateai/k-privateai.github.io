@@ -18,26 +18,22 @@ So far <strong>47</strong> items have been donated kindly! Thank you, EVERYONE!!
 
 <h3>Donor Info</h3>
 
-- Donor: [Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
-
+- Donor: [Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/)
 ## 에코백 x 10
 
 <h3>Donor Info</h3>
 
-- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
-
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/)
 ## 무선충전기
 
 <h3>Donor Info</h3>
 
-- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
-
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/)
 ## 명함지갑/펜 세트
 
 <h3>Donor Info</h3>
 
-- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
-
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/)
 ## 서울 자개소반 무선충전기 x 3
 
 <h3>Donor Info</h3>
@@ -65,8 +61,7 @@ Total value: $60
 
 <h3>Donor Info</h3>
 
-- Donor: [Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
-
+- Donor: [Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee/)
 ## 2 Stanford Mugs &amp; 1 Stanford Tumbler
 
 <h3>Description of Item</h3>
@@ -84,8 +79,7 @@ Total value: $50
 
 <h3>Donor Info</h3>
 
-- Donor: [Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
-
+- Donor: [Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/)
 ## Amazon Gift Cards (4 x $50)
 
 <h3>Description of Item</h3>
@@ -102,8 +96,7 @@ Total value: $200
 
 <h3>Donor Info</h3>
 
-- Donor: [Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
-
+- Donor: [Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/)
 ## LAMY Logo Brushed Steel BPs (2 ball pens)
 
 <h3>Description of Item</h3>
@@ -119,8 +112,7 @@ Classic German writing instruments from LAMY's Logo series, featuring brushed st
 
 <h3>Donor Info</h3>
 
-- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}
-
+- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do)
 ## H-Heritage nubim handbag
 
 <h3>Description of Item</h3>
@@ -136,8 +128,7 @@ A handcrafted traditional Korean nubim (quilted) handbag that celebrates Korea's
 
 <h3>Donor Info</h3>
 
-- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}
-
+- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do)
 ## 2026 Seoul National University Calendar
 
 <h3>Description of Item</h3>
@@ -150,8 +141,7 @@ An elegant 2026 desk calendar from Seoul National University featuring a strikin
 
 <h3>Donor Info</h3>
 
-- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}
-
+- Donor: [Seoul National University (SNU) College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do)
 ## Topgolf Gift Cards (4 x $50)
 
 <h3>Description of Item</h3>
@@ -168,8 +158,7 @@ Total value: $200
 
 <h3>Donor Info</h3>
 
-- Donor: [Insuk Song](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"}
-
+- Donor: [Insuk Song](https://www.linkedin.com/in/insuk-song-b9995335/)
 ## Samsung Classic 50th Anniversary Collection (5 CDs)
 
 <h3>Description of Item</h3>
@@ -195,8 +184,7 @@ This exclusive Samsung Classic collection represents a unique piece of corporate
 
 <h3>Donor Info</h3>
 
-- Donor: [Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"}
-
+- Donor: [Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32)
 ## Porta Cabernet Gran Reserva
 
 <h3>Description of Item</h3>

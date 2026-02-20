@@ -22,18 +22,9 @@ updated: <!-- TODO: LIQUID {{ page.last_modified_at| date: "%d-%b-%Y" }} -->
 ### Participants
 
 - **Onsite** -
-[MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
-[Sue Kim](https://www.linkedin.com/in/suekimpr/){:target="_blank"}
-[Sunghee Yun](https://sungheeyun.github.io)
+[MiSook Chung](https://www.linkedin.com/in/misook-chung/)[Sue Kim](https://www.linkedin.com/in/suekimpr/)[Sunghee Yun](https://sungheeyun.github.io)
 - **Remote** -
-[Alex Moon](https://www.linkedin.com/in/alex-moon/){:target="_blank"}
-[Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee){:target="_blank"}
-[Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"}
-[Daejun Park](https://www.linkedin.com/in/daejunpark/){:target="_blank"}
-[Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/){:target="_blank"}
-[Jun Yeong Jang](https://www.linkedin.com/in/junyeongjang/){:target="_blank"}
-[Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
-
+[Alex Moon](https://www.linkedin.com/in/alex-moon/)[Bo Hyoung (Jeff) Lee](https://www.linkedin.com/in/bohyounglee)[Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32)[Daejun Park](https://www.linkedin.com/in/daejunpark/)[Daniel Hur](https://www.linkedin.com/in/yerang-d-hur-5378564/)[Jun Yeong Jang](https://www.linkedin.com/in/junyeongjang/)[Youngwook (Hayden) Song](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/)
 (alphabetical order by first names for each)
 
 ### Agenda
@@ -69,21 +60,20 @@ Planning for K-PAI's 2026 New Year Celebration (14-Jan-2026) covering performanc
 - **Selection method**: Committee-based selection (voting deemed inappropriate due to insufficient candidate information across full membership)
 - **Award philosophy**:
   - Pre-ceremony statement explaining award purpose and selection criteria
-  - Statement will be delivered by [Sunghee](https://sungheeyun.github.io) and [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
-  - Emphasis on celebrating community spirit and diverse contributions
+  - Statement will be delivered by [Sunghee](https://sungheeyun.github.io) and [MiSook](https://www.linkedin.com/in/misook-chung/)  - Emphasis on celebrating community spirit and diverse contributions
 - **Categories**: Multiple awards recognizing different dimensions of community participation (up to 3 awards)
 
 ### Action Items
 
 | Item | Owner(s) | Deadline | Priority |
 |------|----------|----------|----------|
-| **Auction coordination & execution** | [Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} [Jun Yeong](https://www.linkedin.com/in/junyeongjang/){:target="_blank"} | 14-Jan-2026 | H |
-| **Game design & facilitation** | [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee){:target="_blank"} | 14-Jan-2026 | H |
-| **Award philosophy statement preparation** | [Sunghee](https://sungheeyun.github.io) [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"} | 10-Jan-2026 | H |
-| **Donation QR code design & integration in presentation** | [MiSook](https://www.linkedin.com/in/misook-chung/){:target="_blank"} | 10-Jan-2026 | H |
-| **Solicit auction items from members** | [Sunghee](https://sungheeyun.github.io) [Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} [Jun Yeong](https://www.linkedin.com/in/junyeongjang/){:target="_blank"} | 07-Jan-2026 | H |
-| **Finalize award categories & recipients** | [Sunghee](https://sungheeyun.github.io) [Daejun](https://www.linkedin.com/in/daejunpark){:target="_blank"} | 07-Jan-2026 | H |
-| **Performance logistics coordination** | [Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} [Sunghee](https://sungheeyun.github.io) | 10-Jan-2026 | H |
+| **Auction coordination & execution** | [Chanik](https://www.linkedin.com/in/chanik-park-14878b32) [Jun Yeong](https://www.linkedin.com/in/junyeongjang/) | 14-Jan-2026 | H |
+| **Game design & facilitation** | [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/) [Jeff](https://www.linkedin.com/in/bohyounglee) | 14-Jan-2026 | H |
+| **Award philosophy statement preparation** | [Sunghee](https://sungheeyun.github.io) [MiSook](https://www.linkedin.com/in/misook-chung/) | 10-Jan-2026 | H |
+| **Donation QR code design & integration in presentation** | [MiSook](https://www.linkedin.com/in/misook-chung/) | 10-Jan-2026 | H |
+| **Solicit auction items from members** | [Sunghee](https://sungheeyun.github.io) [Chanik](https://www.linkedin.com/in/chanik-park-14878b32) [Jun Yeong](https://www.linkedin.com/in/junyeongjang/) | 07-Jan-2026 | H |
+| **Finalize award categories & recipients** | [Sunghee](https://sungheeyun.github.io) [Daejun](https://www.linkedin.com/in/daejunpark) | 07-Jan-2026 | H |
+| **Performance logistics coordination** | [Chanik](https://www.linkedin.com/in/chanik-park-14878b32) [Sunghee](https://sungheeyun.github.io) | 10-Jan-2026 | H |
 | **Make proper announcement with what is discussed in the meeting** | [Sunghee](https://sungheeyun.github.io) | 27-Dec-2025 | H |
 
 ### Key Principles Established
@@ -104,15 +94,14 @@ Planning for K-PAI's 2026 New Year Celebration (14-Jan-2026) covering performanc
 
 ### Participants
 
-- [Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/){:target="_blank"},
-[Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/){:target="_blank"},
+- [Jaehyeok](https://www.linkedin.com/in/jaehyeok-bae-57b866218/),
+[Hagoon](https://www.linkedin.com/in/hagoon-jang-79766a54/),
 and
 [Sunghee](https://sungheeyun.github.io)
 
 ### Food
 
-- [So Gong Dong Tofu House @ Palo Alto](https://maps.app.goo.gl/rzoZZ5AppJLb6UQS6){:target="_blank"}
-
+- [So Gong Dong Tofu House @ Palo Alto](https://maps.app.goo.gl/rzoZZ5AppJLb6UQS6)
 ### Agenda
 
 - [2025 K-PAI Best Ownership Award](/i-recommend/)
@@ -312,7 +301,7 @@ and
 
 <ul>
 <li>
-	location: <a target="_blank" href="https://maps.app.goo.gl/E9z9oaEYXsM9Foyc6">So Gong Dong Tofu House, Palo Alto</a>
+	location: <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/E9z9oaEYXsM9Foyc6">So Gong Dong Tofu House, Palo Alto</a>
 </li>
 <li>
 	attendees: Sunghee, Sehui &amp; Jaehyuk
@@ -368,7 +357,7 @@ and
 
 <ul>
 <li>
-	location: <a target="_blank" href="https://maps.app.goo.gl/85zkWq3idpd2E2bi7">Starbucks, River Oaks, San Jose</a>
+	location: <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/85zkWq3idpd2E2bi7">Starbucks, River Oaks, San Jose</a>
 </li>
 <li>
 	attendees: Jung Hee, CI, SVP &amp; Sunghee
@@ -447,7 +436,7 @@ and
 
 <ul>
 <li>
-	location: <a target="_blank" href="https://maps.app.goo.gl/wB46vzt62DQpK91Z8">Fox Theater, Redwood City</a>
+	location: <a target="_blank" rel="noopener noreferrer" href="https://maps.app.goo.gl/wB46vzt62DQpK91Z8">Fox Theater, Redwood City</a>
 </li>
 <li>
 	attendees: Jung Hee, Daejun (dubbed SVP - Security Verification Park) &amp; Sunghee

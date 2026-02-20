@@ -35,12 +35,7 @@ to share this celebration!
 
 <h1>Posts on SNS</h1>
 
-- [Sunghee's Instagram](https://www.instagram.com/p/DTTQ1U9ksWx/){:target="_blank"}
-- [K-PAI Instagram Page](https://www.instagram.com/p/DTTQ_BrEkUa/){:target="_blank"}
-- [Sunghee's Facebook](https://www.facebook.com/sunghee.yun1/posts/pfbid0ZFzijrbXgsCnjR23n8JjB7y2Nw68ioo3YR58zFDoVPLqmnCSeP4YaK3qRDu7EAEl){:target="_blank"}
-- [K-PAI Facebook Page](https://www.facebook.com/groups/1341495107592328/permalink/1441523834256121/){:target="_blank"}
-- [Sunghee's X](https://x.com/sunghee14/status/2009703223268122654){:target="_blank"}
-
+- [Sunghee's Instagram](https://www.instagram.com/p/DTTQ1U9ksWx/)- [K-PAI Instagram Page](https://www.instagram.com/p/DTTQ_BrEkUa/)- [Sunghee's Facebook](https://www.facebook.com/sunghee.yun1/posts/pfbid0ZFzijrbXgsCnjR23n8JjB7y2Nw68ioo3YR58zFDoVPLqmnCSeP4YaK3qRDu7EAEl)- [K-PAI Facebook Page](https://www.facebook.com/groups/1341495107592328/permalink/1441523834256121/)- [Sunghee's X](https://x.com/sunghee14/status/2009703223268122654)
 <div class="img-container-justified">
 	<div id="podcast-video-01" style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin: 20px auto; display: block; max-width: fit-content;">
 		<div style="background-color: #2c3e50; color: white; padding: 10px 15px; font-size: 14px;">
@@ -92,8 +87,7 @@ This is not just another seminar; this is **<span style="color: red;">OUR celebr
 
 - **Date**: January 14, 2026 (Wednesday)
 - **Time**: 5pm - 8:30pm PST
-- **Venue**: [Alaska @ KOTRA](https://maps.app.goo.gl/rodukzZGtDmz2XZM9){:target="_blank"}
-
+- **Venue**: [Alaska @ KOTRA](https://maps.app.goo.gl/rodukzZGtDmz2XZM9)
 Join us for an evening of **music, reflection, inspiration, recognition, fun, and meaningful connections** as we transition from an extraordinary 2025 into what promises to be an even more transformative 2026!
 
 - <font color="red"><strong>Please RSVP via <a href="https://luma.com/9xuuhnpq" target="_blank">this link</a>!</strong></font>
@@ -101,7 +95,7 @@ Join us for an evening of **music, reflection, inspiration, recognition, fun, an
 	and join us at K-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk) (if you're qualified)!
 
 <span id="sponsors">
-Special thanks to [KSWAN](https://kswan.muv.kr/){:target="_blank"} and [LikeLion](https://us.likelion.net/){:target="_blank"} for graciously sponsoring our celebration dinner! Your generosity enables our community to gather, connect, and celebrate together.
+Special thanks to [KSWAN](https://kswan.muv.kr/) and [LikeLion](https://us.likelion.net/) for graciously sponsoring our celebration dinner! Your generosity enables our community to gather, connect, and celebrate together.
 </span>
 
 <div class="img-container-justified">
@@ -178,8 +172,7 @@ We are honored to feature a special performance by a **talented kids' orchestra*
 
 **2025 - A Year of Milestones and Growth**
 
-[Prof. Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
-will reflect on K-PAI's remarkable journey through 2025.
+[Prof. Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/)will reflect on K-PAI's remarkable journey through 2025.
 From our historic partnerships with KOTRA SV
 and
 exploring AI's energy sustainability challenges
@@ -192,8 +185,7 @@ examining semiconductor foundations—he'll weave together the threads connectin
 
 **Why Korean Engineers Win the Job but Lose the Leadership Story**
 
-[Sue Kim](https://www.linkedin.com/in/suekimpr/){:target="_blank"}
-will address a critical challenge facing our community: why many Korean engineers remain underrecognized in leadership tracks—not due to capability, but due to narrative, visibility, and cultural communication gaps.
+[Sue Kim](https://www.linkedin.com/in/suekimpr/)will address a critical challenge facing our community: why many Korean engineers remain underrecognized in leadership tracks—not due to capability, but due to narrative, visibility, and cultural communication gaps.
 
 Drawing from her 25+ years of experience working closely with U.S. CEOs and executive teams in Silicon Valley's semiconductor industry, Sue will explore
 • how technical excellence alone doesn't guarantee leadership recognition
@@ -210,8 +202,7 @@ This segment naturally flows into broader community aspirations: What does [K-PA
 
 **What Makes Our Community Exceptional**
 
-[MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
-will share reflections on what defines excellence in our community—the values we celebrate, the contributions that matter, and the spirit that makes K-PAI more than just a professional network. This presentation will frame the evening's awards ceremony, articulating the philosophy behind how we recognize and honor outstanding community members.
+[MiSook Chung](https://www.linkedin.com/in/misook-chung/)will share reflections on what defines excellence in our community—the values we celebrate, the contributions that matter, and the spirit that makes K-PAI more than just a professional network. This presentation will frame the evening's awards ceremony, articulating the philosophy behind how we recognize and honor outstanding community members.
 
 MiSook's humanistic perspective will remind us that an advanced AI community is defined not by technological sophistication alone, but by how we use innovation to serve humanity with compassion, dignity, and wisdom.
 
@@ -221,8 +212,7 @@ MiSook's humanistic perspective will remind us that an advanced AI community is 
 
 **Where We're Heading - Themes, Partnerships, and Ambitions**
 
-[Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"}
-will articulate K-PAI's vision for 2026—the themes we'll explore, the partnerships we'll cultivate, the initiatives we'll launch, and the impact we aspire to create. Building on 2025's foundation (strategic alliance with KOTRA SV and established presence as Silicon Valley's premier AI discourse venue), what new frontiers await?
+[Chanik Park](https://www.linkedin.com/in/chanik-park-14878b32/)will articulate K-PAI's vision for 2026—the themes we'll explore, the partnerships we'll cultivate, the initiatives we'll launch, and the impact we aspire to create. Building on 2025's foundation (strategic alliance with KOTRA SV and established presence as Silicon Valley's premier AI discourse venue), what new frontiers await?
 
 Expect insights into
 • planned forum themes addressing emerging AI challenges
@@ -301,7 +291,7 @@ This award celebrates the thought leadership that makes [K-PAI](/) a venue for g
 
 Winners have been selected by the **[K-PAI Committee](/committee)** based on 2025 forum participation, contribution quality, and community impact. The committee carefully evaluated each member's engagement throughout the year to identify those who best embody K-PAI's values of intellectual curiosity, generous collaboration, and community building.
 
-Before presenting the awards, [Sunghee Yun](https://sungheeyun.github.io/) and [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"} will share a statement explaining the philosophy behind these awards and what they represent for our community's spirit and aspirations.
+Before presenting the awards, [Sunghee Yun](https://sungheeyun.github.io/) and [MiSook Chung](https://www.linkedin.com/in/misook-chung/) will share a statement explaining the philosophy behind these awards and what they represent for our community's spirit and aspirations.
 
 While we can't recognize everyone deserving acknowledgment, these awards represent the spirit and excellence we all aspire to embody—<font color="red">celebrating the diverse ways members contribute to making K-PAI exceptional!</font>
 
@@ -382,10 +372,10 @@ But beyond the content, we've created something even more valuable: **a communit
 
 **🎉 OUR KOTRA SILICON VALLEY PARTNERSHIP CONTINUES! 🎉**
 
-As part of our **<font color="#ee0000">Strategic Alliance</font>** between [K-PAI](/) and [KOTRA Silicon Valley](https://www.connectkotrasv.org/){:target="_blank"}, we are delighted to host this celebration at the prestigious [Alaska venue](https://maps.app.goo.gl/rodukzZGtDmz2XZM9){:target="_blank"}—a space that has become synonymous with K-PAI's warmth, hospitality, and community spirit!
+As part of our **<font color="#ee0000">Strategic Alliance</font>** between [K-PAI](/) and [KOTRA Silicon Valley](https://www.connectkotrasv.org/), we are delighted to host this celebration at the prestigious [Alaska venue](https://maps.app.goo.gl/rodukzZGtDmz2XZM9)—a space that has become synonymous with K-PAI's warmth, hospitality, and community spirit!
 
 The KOTRA partnership continues enabling the world-class experiences you've come to expect from K-PAI events: exceptional venues, premium hospitality, and **seamless logistics** that allow us to focus on what matters most—content, connections, and community.
-We extend our heartfelt gratitude to [KOTRA Silicon Valley](https://www.connectkotrasv.org){:target="_blank"} for their unwavering support in making K-PAI's continued success possible, and for providing the perfect setting for this special celebration.
+We extend our heartfelt gratitude to [KOTRA Silicon Valley](https://www.connectkotrasv.org) for their unwavering support in making K-PAI's continued success possible, and for providing the perfect setting for this special celebration.
 
 <div class="img-container-justified">
 &nbsp;

@@ -27,14 +27,14 @@ $100
 
 <span style="color: red; font-weight: bold;">$250 !!</span> to Kevin
 
-[https://namu.wiki/w/%EC%A0%88%EB%8C%80%EC%8B%9C%EA%B3%84](https://namu.wiki/w/%EC%A0%88%EB%8C%80%EC%8B%9C%EA%B3%84){:target="_blank"}
+[https://namu.wiki/w/%EC%A0%88%EB%8C%80%EC%8B%9C%EA%B3%84](https://namu.wiki/w/%EC%A0%88%EB%8C%80%EC%8B%9C%EA%B3%84)
 
 <h3>Starting Bid</h3>
 $30
 
 <h3>Donor Info</h3>
 
-- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/){:target="_blank"}
+- Donor: [Jung Hee Cheon](https://www.linkedin.com/in/jungheecheon/)
 
 ## Yoo Jae-ha 60th Anniversary Memorial LP Collection
 
@@ -94,7 +94,7 @@ LP is in sealed condition; masking tape shows previous use; Yoo Jae-ha Music Com
 
 <h3>Donor Info</h3>
 
-- Donor: [Jun Yeong Jang](https://www.linkedin.com/in/junyeongjang/){:target="_blank"}
+- Donor: [Jun Yeong Jang](https://www.linkedin.com/in/junyeongjang/)
 - Email: [jedychen@gmail.com](mailto:jedychen@gmail.com)
 
 ## Escape to Lake Tahoe
@@ -122,7 +122,7 @@ for a memorable mountain getaway.
 </div>
 
 More info and photos can be found at
-Northstar Condo Website: [https://www.vrbo.com/637620?unitId=1185401](https://www.vrbo.com/637620?unitId=1185401){:target="_blank"}
+Northstar Condo Website: [https://www.vrbo.com/637620?unitId=1185401](https://www.vrbo.com/637620?unitId=1185401)
 
 <h3>Fair Market Value</h3>
 $1,890
@@ -144,5 +144,5 @@ Cleaning fee of $275 not included.
 
 <h3>Donor Info</h3>
 
-- Donor: [MiSook Chung](https://www.linkedin.com/in/misook-chung/){:target="_blank"}
+- Donor: [MiSook Chung](https://www.linkedin.com/in/misook-chung/)
 - Email: [misookchung1226@gmail.com](mailto:misookchung1226@gmail.com)

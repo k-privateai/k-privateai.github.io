@@ -178,6 +178,199 @@
       "keyFiles": []
     }
   },
-  "hotPaths": [],
+  "hotPaths": [
+    {
+      "path": "astro-site/src/components/SuperpowerNav.astro",
+      "accessCount": 15,
+      "lastAccessed": 1771549839188,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/index.astro",
+      "accessCount": 11,
+      "lastAccessed": 1771548268397,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/styles/global.css",
+      "accessCount": 10,
+      "lastAccessed": 1771549860138,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/auction-2026-new-year-party.md",
+      "accessCount": 6,
+      "lastAccessed": 1771526373290,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/meetings.md",
+      "accessCount": 6,
+      "lastAccessed": 1771526474770,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/groups.md",
+      "accessCount": 6,
+      "lastAccessed": 1771526475827,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/activities.md",
+      "accessCount": 5,
+      "lastAccessed": 1771526477024,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src",
+      "accessCount": 5,
+      "lastAccessed": 1771548565587,
+      "type": "directory"
+    },
+    {
+      "path": "astro-site/src/components/Footer.astro",
+      "accessCount": 4,
+      "lastAccessed": 1771526420079,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/board.md",
+      "accessCount": 4,
+      "lastAccessed": 1771526478082,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/about.md",
+      "accessCount": 3,
+      "lastAccessed": 1771526383138,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/data/navigation.json",
+      "accessCount": 3,
+      "lastAccessed": 1771526432680,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/content/posts/k-pai_forum_announcement-13.md",
+      "accessCount": 3,
+      "lastAccessed": 1771526479412,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/content/posts/k-pai_forum_announcement-14.md",
+      "accessCount": 3,
+      "lastAccessed": 1771526480496,
+      "type": "file"
+    },
+    {
+      "path": "index.html",
+      "accessCount": 2,
+      "lastAccessed": 1771525859311,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/snu-eng-round-table.md",
+      "accessCount": 2,
+      "lastAccessed": 1771526388671,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/tmkp.md",
+      "accessCount": 2,
+      "lastAccessed": 1771526389715,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/prizes-2026-new-year-party.md",
+      "accessCount": 2,
+      "lastAccessed": 1771526391175,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/i-recommend.md",
+      "accessCount": 2,
+      "lastAccessed": 1771526407804,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/membership.md",
+      "accessCount": 2,
+      "lastAccessed": 1771526409901,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/content/posts/k-pai-forum-announcement-12.md",
+      "accessCount": 2,
+      "lastAccessed": 1771526410528,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/content/posts/k-pai-forum-announcement-10.md",
+      "accessCount": 2,
+      "lastAccessed": 1771526411571,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/content/posts/k-pai-seminar-reflection-13.md",
+      "accessCount": 2,
+      "lastAccessed": 1771526413744,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/TECHSPEC.md",
+      "accessCount": 1,
+      "lastAccessed": 1771525790734,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/astro.config.mjs",
+      "accessCount": 1,
+      "lastAccessed": 1771525808121,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/layouts/BaseLayout.astro",
+      "accessCount": 1,
+      "lastAccessed": 1771525828392,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/layouts/PostLayout.astro",
+      "accessCount": 1,
+      "lastAccessed": 1771525832389,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/layouts/PageLayout.astro",
+      "accessCount": 1,
+      "lastAccessed": 1771525835973,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/package.json",
+      "accessCount": 1,
+      "lastAccessed": 1771526107142,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages",
+      "accessCount": 1,
+      "lastAccessed": 1771526112406,
+      "type": "directory"
+    },
+    {
+      "path": "astro-site/src/content/config.ts",
+      "accessCount": 1,
+      "lastAccessed": 1771526122624,
+      "type": "file"
+    },
+    {
+      "path": "astro-site/src/pages/events.astro",
+      "accessCount": 1,
+      "lastAccessed": 1771526491004,
+      "type": "file"
+    }
+  ],
   "userDirectives": []
 }

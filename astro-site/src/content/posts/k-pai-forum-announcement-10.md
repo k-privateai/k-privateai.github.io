@@ -90,8 +90,7 @@ Experience our signature networking reception featuring a carefully curated sele
 
 - **Speaker**: [K-PAI Organizing Committee](/committee)
 - **Time**: 6pm ~ 6:10pm
-- [slides](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/K-PAI - Biotech - Aug-2025.pdf){:target="_blank"}
-
+- [slides](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/10 - 20-Aug-2025/K-PAI - Biotech - Aug-2025.pdf)
 Join us as we open this landmark forum exploring the evolution from technical AI compliance to humanistic leadership. This opening address will set the stage for an evening of transformative discussions about how we can build AI systems that truly serve humanity while navigating the complex landscape of regulations, ethics, and human agency.
 
 ## Featured Presentations (6:10pm ~ 7:30pm)

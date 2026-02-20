@@ -16,11 +16,11 @@ _originalPermalink: /activities/
 
 |Item|Owner(s)|Status|
 |[Silicon Valley Expert Roundtable with Korean National Assembly Members](#silicon-valley-expert-roundtable-with-korean-national-assembly-members--07-oct-2025)|[Sunghee](https://sungheeyun.github.io)|Completed on 07-Oct-2025|
-|[SNU Engineering Faculty Networking Dinner & Coffee Chat](#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026)|[Sunghee](https://sungheeyun.github.io) [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} |Completed on 08-09 Jan 2026|
+|[SNU Engineering Faculty Networking Dinner & Coffee Chat](#snu-engineering-faculty-networking-dinner--coffee-chat--08-09-jan-2026)|[Sunghee](https://sungheeyun.github.io) [Chanik](https://www.linkedin.com/in/chanik-park-14878b32/) |Completed on 08-09 Jan 2026|
 |[KAIST Silicon Valley Talent Attraction Roundtable](#kaist-silicon-valley-talent-attraction-roundtable--22-jan-2026)|[Sunghee](https://sungheeyun.github.io)|Completed on 22-Jan-2026|
-|[SNU College of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Sunghee](https://sungheeyun.github.io)|Kick-off dinner completed; MOU signing & execution in progress|
+|[SNU College of Engineering Strategic Partnership Initiative](#snu-college-of-engineering-strategic-partnership-initiative)|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/) [Sunghee](https://sungheeyun.github.io)|Kick-off dinner completed; MOU signing & execution in progress|
 |[Korea University Business School (KUBS) Center for Digital Transformation &amp; Business (CDTB) Partnership Initiative](#korea-university-business-school-kubs-center-for-digital-transformation--business-cdtb-partnership-initiative)|[Sunghee](https://sungheeyun.github.io)|Under development|
-|[Joint Hackathon with Krafton (PUBG Developers)](#joint-hackathon-with-krafton-pubg-developers)|[Sunghee](https://sungheeyun.github.io) + [Peter](https://www.linkedin.com/in/peter-bae-551b1b1/){:target="_blank"}|Under development|
+|[Joint Hackathon with Krafton (PUBG Developers)](#joint-hackathon-with-krafton-pubg-developers)|[Sunghee](https://sungheeyun.github.io) + [Peter](https://www.linkedin.com/in/peter-bae-551b1b1/)|Under development|
 
 # Silicon Valley Expert Roundtable with Korean National Assembly Members @ 07-Oct-2025
 
@@ -38,8 +38,7 @@ As part of the [Perpetual Alliance between K-PAI and KOTRA Silicon Valley](/semi
 The roundtable was a resounding success, with participating experts delivering decisive insights and leading productive discussions on AI policy and technology trends.
 This collaboration demonstrates **<span style="color:red;">[K-PAI](/)'s ability to mobilize our community's expertise for meaningful cross-border dialogue on critical AI and privacy issues</span>**.
 
-[Read more about this event on Facebook](https://www.facebook.com/sunghee.yun1/posts/pfbid0KZpBnPQYJec4KX88yDMK49JKurCfR2CGbxhoJ7AzrL4RiQp3CWyLJQ97zj4qfwTSl){:target="_blank"}
-
+[Read more about this event on Facebook](https://www.facebook.com/sunghee.yun1/posts/pfbid0KZpBnPQYJec4KX88yDMK49JKurCfR2CGbxhoJ7AzrL4RiQp3CWyLJQ97zj4qfwTSl)
 **Owner**: [Sunghee, K-PAI Leader](https://sungheeyun.github.io)
 <br>
 **Status**: Completed (07-Oct-2025)
@@ -50,36 +49,25 @@ This collaboration demonstrates **<span style="color:red;">[K-PAI](/)'s ability 
 
 From left
 &ndash;
-[Senator Kim](https://namu.wiki/w/%EA%B9%80%EC%9A%A9%EB%AF%BC(1976)){:target="_blank"}
+[Senator Kim](https://namu.wiki/w/%EA%B9%80%EC%9A%A9%EB%AF%BC(1976))/
 /
-/
-[Jae H. Pyeon @ San Jose State University](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}
-/
-[Jaydn Yoon @ Google](https://www.linkedin.com/in/jaydnyoon/){:target="_blank"}
-/
+[Jae H. Pyeon @ San Jose State University](https://www.linkedin.com/in/jae-h-pyeon-a8563399/)/
+[Jaydn Yoon @ Google](https://www.linkedin.com/in/jaydnyoon/)/
 [Sunghee Yun @ Erudio Bio](https://sungheeyun.github.io)
 /
-[Jehwan Yoo @ OmicInsight](https://www.linkedin.com/in/josh-ryu/){:target="_blank"}
-/
-[Senator Lee](https://namu.wiki/w/%EC%9D%B4%EC%96%B8%EC%A3%BC){:target="_blank"}
-/
-[Oh Hyoung Kown @ KOTRA Silicon Valley](https://www.linkedin.com/in/oh-hyoung-kwon-0183b7338/){:target="_blank"}
-/
-[Senator Kim](https://namu.wiki/w/%EA%B9%80%EC%A4%80%ED%98%81(1969)){:target="_blank"}
-/
-[Sungwon Lim @ ImpriMed](https://www.linkedin.com/in/sungwon-lim/){:target="_blank"}
-/
-[Soo Jong Kwak @ LIEN Economic Research](https://ko.wikipedia.org/wiki/%EA%B3%BD%EC%88%98%EC%A2%85){:target="_blank"}
-/
-[Senator Jeon](https://namu.wiki/w/%EC%A0%84%EC%9A%A9%EA%B8%B0){:target="_blank"}
-/
-[Consul Lee @ Consulate General of the Republic of Korea in San Francisco](https://www.linkedin.com/in/jayhlee930/){:target="_blank"}
-
+[Jehwan Yoo @ OmicInsight](https://www.linkedin.com/in/josh-ryu/)/
+[Senator Lee](https://namu.wiki/w/%EC%9D%B4%EC%96%B8%EC%A3%BC)/
+[Oh Hyoung Kown @ KOTRA Silicon Valley](https://www.linkedin.com/in/oh-hyoung-kwon-0183b7338/)/
+[Senator Kim](https://namu.wiki/w/%EA%B9%80%EC%A4%80%ED%98%81(1969))/
+[Sungwon Lim @ ImpriMed](https://www.linkedin.com/in/sungwon-lim/)/
+[Soo Jong Kwak @ LIEN Economic Research](https://ko.wikipedia.org/wiki/%EA%B3%BD%EC%88%98%EC%A2%85)/
+[Senator Jeon](https://namu.wiki/w/%EC%A0%84%EC%9A%A9%EA%B8%B0)/
+[Consul Lee @ Consulate General of the Republic of Korea in San Francisco](https://www.linkedin.com/in/jayhlee930/)
 # SNU Engineering Faculty Networking Dinner & Coffee Chat @ 08-09 Jan 2026
 
-On January 8-9, 2026, [K-PAI](/) facilitated two exceptional networking events connecting Stanford's graduate community with [Seoul National University (SNU) College of Engineering](https://k-privateai.github.io/kptm/){:target="_blank"} leadership—creating meaningful pathways for aspiring academics to explore faculty careers at one of Korea's most prestigious institutions.
-These valuable connections were made possible by [Nathan](https://www.linkedin.com/in/naehyuck/){:target="_blank"},
-an enthusiastic new K-PAI member who also delivered an excellent presentation at [our 13th Forum](/seminar-reflections/13#naehyuck-changs-vision---from-standard-cells-to-physical-ai){:target="_blank"}.
+On January 8-9, 2026, [K-PAI](/) facilitated two exceptional networking events connecting Stanford's graduate community with [Seoul National University (SNU) College of Engineering](/tmkp/) leadership—creating meaningful pathways for aspiring academics to explore faculty careers at one of Korea's most prestigious institutions.
+These valuable connections were made possible by [Nathan](https://www.linkedin.com/in/naehyuck/),
+an enthusiastic new K-PAI member who also delivered an excellent presentation at [our 13th Forum](/seminar-reflections/13#naehyuck-changs-vision---from-standard-cells-to-physical-ai).
 
 <div class="img-container-justified">
 &nbsp;
@@ -90,7 +78,7 @@ an enthusiastic new K-PAI member who also delivered an excellent presentation at
 
 **January 8, 2026 - Faculty Networking Dinner**
 
-Professor Young-Oh Kim, Dean of [Seoul National University College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}, hosted an intimate dinner at an outstanding Chinese restaurant in Palo Alto during his Silicon Valley visit. The event was designed to provide candid, practical guidance about academic careers to Silicon Valley-based Korean scholars considering faculty positions.
+Professor Young-Oh Kim, Dean of [Seoul National University College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do), hosted an intimate dinner at an outstanding Chinese restaurant in Palo Alto during his Silicon Valley visit. The event was designed to provide candid, practical guidance about academic careers to Silicon Valley-based Korean scholars considering faculty positions.
 
 The response from Stanford's graduate community was overwhelming—**so many PhD students and postdoctoral scholars wanted to participate that [K-PAI](/) regretfully had to limit attendance to 8 students** to ensure quality dialogue. The final group included 8 Stanford PhD students and postdocs across diverse engineering disciplines, plus one industry professional, creating the perfect environment for deep, meaningful conversations.
 
@@ -222,7 +210,7 @@ This roundtable exemplifies [K-PAI](/)'s expanding role as a strategic bridge be
 
 # SNU College of Engineering Strategic Partnership Initiative
 
-[K-PAI](/) is developing a formal strategic partnership with [Seoul National University College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"}, one of Korea's most prestigious engineering institutions. This initiative aims to establish a Memorandum of Understanding (MOU) that will create systematic pathways for collaboration between [K-PAI](/)'s Silicon Valley community and SNU's academic ecosystem.
+[K-PAI](/) is developing a formal strategic partnership with [Seoul National University College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do), one of Korea's most prestigious engineering institutions. This initiative aims to establish a Memorandum of Understanding (MOU) that will create systematic pathways for collaboration between [K-PAI](/)'s Silicon Valley community and SNU's academic ecosystem.
 
 <div class="img-container-justified">
 &nbsp;
@@ -265,7 +253,7 @@ During [Sunghee](https://sungheeyun.github.io)'s (very) next business trip to Ko
 &ndash;
 Topics: technology trends, entrepreneurship pathways, industry dynamics, and concrete opportunities for ongoing collaboration.
 
-📝 **MOU Signing Ceremony** - [K-PAI](/) and [SNU College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do){:target="_blank"} will formally sign the Memorandum of Understanding, with media coverage (journalists/newspaper reporters invited) to publicly announce this strategic partnership and its tangible deliverables!
+📝 **MOU Signing Ceremony** - [K-PAI](/) and [SNU College of Engineering](https://eng.snu.ac.kr/snuEng/main/main.do) will formally sign the Memorandum of Understanding, with media coverage (journalists/newspaper reporters invited) to publicly announce this strategic partnership and its tangible deliverables!
 
 <h3>3. Sustained Collaboration Models - Framework Established</h3>
 
@@ -277,7 +265,7 @@ The dinner established frameworks for ongoing, structured collaboration:
 
 🌏 **Student Exchange Programs** - Facilitating Korean-American students to study at SNU for academic year programs, experiencing Korea's innovation ecosystem while maintaining Silicon Valley connections—creating bicultural, bilingual talent pipelines.
 
-🌟 **<span id="startx">StartX Partnership Pipeline</span> - A Game-Changing Opportunity** - Through [Sunghee Yun](https://sungheeyun.github.io)'s close friendship with [Andrew Radin, AI Director at StartX](https://web.startx.com/){:target="_blank"}, [K-PAI](/) can connect SNU College of Engineering to one of the world's premier startup accelerators. [StartX](https://web.startx.com/){:target="_blank"} is Stanford's premier startup accelerator that has supported over 1,700 companies with combined market valuations exceeding $100 billion, including notable successes like Lime, Turo, and Patreon. <span style="color:red; font-weight: bold;">This connection represents a potentially transformational leap in SNU's capacity to encourage and support entrepreneurship</span>—giving SNU students, faculty, and alumni access to Silicon Valley's most sophisticated startup support infrastructure, mentorship networks, and investment ecosystems. This is the kind of unique, high-value connection that ONLY [K-PAI](/) can provide through its deep Silicon Valley relationships.
+🌟 **<span id="startx">StartX Partnership Pipeline</span> - A Game-Changing Opportunity** - Through [Sunghee Yun](https://sungheeyun.github.io)'s close friendship with [Andrew Radin, AI Director at StartX](https://web.startx.com/), [K-PAI](/) can connect SNU College of Engineering to one of the world's premier startup accelerators. [StartX](https://web.startx.com/) is Stanford's premier startup accelerator that has supported over 1,700 companies with combined market valuations exceeding $100 billion, including notable successes like Lime, Turo, and Patreon. <span style="color:red; font-weight: bold;">This connection represents a potentially transformational leap in SNU's capacity to encourage and support entrepreneurship</span>—giving SNU students, faculty, and alumni access to Silicon Valley's most sophisticated startup support infrastructure, mentorship networks, and investment ecosystems. This is the kind of unique, high-value connection that ONLY [K-PAI](/) can provide through its deep Silicon Valley relationships.
 
 🎤 **Knowledge Exchange Forums** - Organizing regular seminars, workshops, and technical talks connecting SNU researchers with Silicon Valley practitioners—systematic knowledge transfer between academia and industry.
 
@@ -322,7 +310,7 @@ This partnership offers multiple engagement opportunities:
 - Serve as guest lecturers or research collaborators at SNU
 - Connect with StartX ecosystem through the SNU-StartX partnership pipeline
 
-**Owner**: [Chanik Park, K-PAI Leader](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"} &amp; [Sunghee Yun, K-PAI Leader](https://sungheeyun.github.io)
+**Owner**: [Chanik Park, K-PAI Leader](https://www.linkedin.com/in/chanik-park-14878b32) &amp; [Sunghee Yun, K-PAI Leader](https://sungheeyun.github.io)
 <br>
 **Status**: Kick-off strategic dinner completed (09-Jan-2026) ✅; MOU signing scheduled for Sunghee's next Korea visit; internship pipeline launching immediately
 

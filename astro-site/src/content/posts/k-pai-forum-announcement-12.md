@@ -37,8 +37,7 @@ to share this event!
 
 Marketing Leaders, AI Innovators, and Digital Pioneers!
 
-[Main Program](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/12 - 08-Oct-2025/K-PAI - Ad Intelligence - Oct-2025.pdf){:target="_blank"}
-
+[Main Program](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/12 - 08-Oct-2025/K-PAI - Ad Intelligence - Oct-2025.pdf)
 Yes! I know—K-PAI's 11th Chapter just wrapped up a few days ago, and now I'm already announcing the next one for next week? Before you wonder if I've lost my mind  &#x2605;^^&#x2605;, let me explain! September's forum had to shift to the end of the month due to speaker availability (you know how it is with FOUR busy thought leaders), and October's forum needed to jump to the beginning due to some logistics. But honestly? *<span style="color:red;">Two forums in quick succession just means double the innovation, double the networking, and double the excitement—what's not to love?</span>*
 
 Having said that,

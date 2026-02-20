@@ -18,7 +18,7 @@ _originalPermalink: /committee/
 	천정희
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/jungheecheon/">Jung Hee Cheon</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jungheecheon/">Jung Hee Cheon</a>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ _originalPermalink: /committee/
 	박찬익
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/chanik-park-14878b32">Chanik Park</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/chanik-park-14878b32">Chanik Park</a>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ _originalPermalink: /committee/
 	윤성희
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ _originalPermalink: /committee/
 	장준영
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/junyeongjang/">Jun Yeong Jang</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/junyeongjang/">Jun Yeong Jang</a>
 </td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ _originalPermalink: /committee/
 	윤성희
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://sungheeyun.github.io/">Sunghee Yun</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://sungheeyun.github.io/">Sunghee Yun</a>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ _originalPermalink: /committee/
 	김수연
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/suekimpr//">Sue Kim</a>
 </td>
 </tr>
 <tr>
@@ -83,7 +83,7 @@ _originalPermalink: /committee/
 	박수민
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/soominpark04/">Soomin Park</a>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ _originalPermalink: /committee/
 	정주영
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/juyoung-jeong/">JuYoung Jeong</a>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ _originalPermalink: /committee/
 	이가은
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun Lee</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/gaeun-kelly-lee/">Gaeun Lee</a>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ _originalPermalink: /committee/
 	문호근
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/alex-moon/">Alex Moon</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/alex-moon/">Alex Moon</a>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ _originalPermalink: /committee/
 	배재혁
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/jaehyeok-bae-57b866218/">Jaehyeok Bae</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/jaehyeok-bae-57b866218/">Jaehyeok Bae</a>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,7 @@ _originalPermalink: /committee/
 	정세희
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/sehui-jeong-0509241a4/">Sehui Jeong</a>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ _originalPermalink: /committee/
 	장하군
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/hagoon-jang-79766a54/">Hagoon Jang</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/hagoon-jang-79766a54/">Hagoon Jang</a>
 </td>
 </tr>
 <tr>
@@ -156,7 +156,7 @@ _originalPermalink: /committee/
 	이시연
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/siyeon-rhee-39449642/">Siyeon Rhee</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/siyeon-rhee-39449642/">Siyeon Rhee</a>
 </td>
 </tr>
 <tr>
@@ -168,7 +168,7 @@ _originalPermalink: /committee/
 	정미숙
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
 </td>
 </tr>
 <tr>
@@ -178,7 +178,7 @@ _originalPermalink: /committee/
 	허예랑
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/yerang-d-hur-5378564/">Daniel Hur</a>
 </td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ _originalPermalink: /committee/
 	진재현
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/austinnnjin/">Austin Jin</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/austinnnjin/">Austin Jin</a>
 </td>
 </tr>
 <tr>
@@ -198,7 +198,7 @@ _originalPermalink: /committee/
 	김해윤
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/haeyunkimsv/">Haeyun Kim</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/haeyunkimsv/">Haeyun Kim</a>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ _originalPermalink: /committee/
 	최세영
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/seyoung-choi-060670286/">Seyoung Choi</a>
 </td>
 </tr>
 <tr>
@@ -218,7 +218,7 @@ _originalPermalink: /committee/
 	선우동훈
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/sunwoodonghoon/">Kain Sunwoo</a>
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ _originalPermalink: /committee/
 	이주현
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/joohyeun-julia-yi/">Joohyeun Yi</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/joohyeun-julia-yi/">Joohyeun Yi</a>
 </td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@ _originalPermalink: /committee/
 	최경환
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/kywch/">Kyoung Whan Choe</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/kywch/">Kyoung Whan Choe</a>
 </td>
 </tr>
 <tr>
@@ -249,7 +249,7 @@ _originalPermalink: /committee/
 	송영욱
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
 </td>
 </tr>
 <tr>
@@ -260,7 +260,7 @@ _originalPermalink: /committee/
 	이보형
 </td>
 <td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
 </td>
 </tr>
 </table>

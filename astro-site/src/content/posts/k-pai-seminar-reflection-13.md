@@ -43,7 +43,7 @@ Use this link — <a href="<!-- TODO: LIQUID {{ page.url }} -->"><!-- TODO: LIQU
 <!-- TODO: Convert to Notice component type="info" -->
 
 To access all the photos and videos taken during [the Forum](<!-- TODO: LIQUID {{ page.url }} -->),
-please click [here](https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG?usp=sharing){:target="_blank"}!
+please click [here](https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy1ABN7lrabLaG?usp=sharing)!
 <!-- TODO: Convert to Notice component type="info" -->
 
 > The 13th K-PAI Forum marked a historic inflection point—the first joint seminar with K•ASIC revealing the foundational silicon layer that enables all AI innovation. While discourse typically focuses on algorithms and applications, this evening illuminated the essential truth: AI's future is built not only on code but on **silicon**, requiring deep understanding of the semiconductor ecosystem that makes everything possible.
@@ -55,13 +55,13 @@ please click [here](https://drive.google.com/drive/folders/1W2M9qmXbEflpnLu58gCy
 ## The K-PAI x K•ASIC Strategic Alliance
 
 [The 13th K-PAI Forum](/event-announcements/13), held on November 12, 2025,
-at [K•ASIC's Innovation Center](https://maps.app.goo.gl/r9KoFnFBuE6M7p6r5){:target="_blank"} in the heart of Silicon Valley,
+at [K•ASIC's Innovation Center](https://maps.app.goo.gl/r9KoFnFBuE6M7p6r5) in the heart of Silicon Valley,
 represented far more than another successful technical presentation.
 The evening marked the **<font color="red">first joint seminar between <a href="/">K-PAI</a> and <a target="_blank" href="https://www.kasicusa.com/">K•ASIC</a></font>**—a strategic alliance that positions both organizations at the forefront of AI semiconductor innovation and Korea-US technological cooperation.
 
 This partnership transcends simple event co-hosting. As we articulated in the opening remarks, this collaboration addresses the most foundational layer of the AI ecosystem. <span class="emph">Contemporary AI discourse tends to focus heavily on visible layers—software services, algorithms, and applications—while overlooking the semiconductor infrastructure that makes everything possible.</span> Even within technical domains, hardware constitutes the essential pillar: GPUs (Nvidia's dominance, partially, only partially though, by Google's TPUs &#9733;^^&#9734;), HBM (SK hynix's breakthroughs), specialized AI semiconductors (NPUs, DPUs), custom accelerators from tech giants, and what not!
 
-The strategic partnership between [K•ASIC](https://www.kasicusa.com/){:target="_blank"} and [K-PAI](/) illuminates this foundational layer while connecting Korea's and America's semiconductor innovation leadership. This is why we titled this forum **"The AI Silicon Race - Korea-US Innovation Leadership."** The event shares the core insight that AI's future rests on silicon, serving as a venue to explore sustainable development of the global AI ecosystem by consolidating the semiconductor capabilities of both nations.
+The strategic partnership between [K•ASIC](https://www.kasicusa.com/) and [K-PAI](/) illuminates this foundational layer while connecting Korea's and America's semiconductor innovation leadership. This is why we titled this forum **"The AI Silicon Race - Korea-US Innovation Leadership."** The event shares the core insight that AI's future rests on silicon, serving as a venue to explore sustainable development of the global AI ecosystem by consolidating the semiconductor capabilities of both nations.
 
 ## The Significance of Location
 
@@ -72,7 +72,7 @@ The reception and networking session (5pm - 5:30pm) in K•ASIC's premium facili
 # Opening Remarks - Framing Silicon as the Invisible Foundation
 
 The evening's opening remarks (5:30pm - 5:40pm) by K-PAI and K•ASIC leadership
-([Sunghee](https://sungheeyun.github.io), [Austin](https://www.linkedin.com/in/austinnnjin/){:target="_blank"}, and [Kisoo](https://www.linkedin.com/in/kisoo-kim-7838723/){:target="_blank"})
+([Sunghee](https://sungheeyun.github.io), [Austin](https://www.linkedin.com/in/austinnnjin/), and [Kisoo](https://www.linkedin.com/in/kisoo-kim-7838723/))
 established the intellectual framework for understanding why this forum represents more than another technical presentation—it illuminates **the most foundational yet frequently overlooked layer of the entire AI ecosystem**.
 
 <div class="img-container">
