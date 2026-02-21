@@ -1,6 +1,6 @@
 ---
 date: Wed Feb 18 20:58:09 PST 2026
-last_modified_at: Wed Feb 18 23:29:24 PST 2026
+last_modified_at: Fri Feb 20 16:13:42 PST 2026
 layout: single
 title: "K-PAI's 15th Chapter: Powering the Future - Battery Innovation & Investment Frontiers"
 permalink: /event-announcements/15
@@ -58,7 +58,7 @@ After comprehensive presentations on battery science and investment wisdom, we'r
 
 - **Date**: 25-Feb-2026 (wed)
 - **Time**: 5pm - 9pm
-- **Venue**: [LG Silicon Valley Lab](https://maps.app.goo.gl/dzcZgvV8ytgCFxq48){:target="_blank"}
+- **Venue**: [LG Silicon Valley Lab](https://maps.app.goo.gl/dzcZgvV8ytgCFxq48){:target="_blank"} (South Entrance)
 - **Dinner Sponsor**: **[Erudio Bio Korea, Inc.](https://www.erudio.bio/)**
 
 <div class="img-container-justified">
@@ -66,6 +66,10 @@ After comprehensive presentations on battery science and investment wisdom, we'r
 <img style="max-width: 37.87%" src="/resource/org-logos/erudio-logo-01.png">
 <img style="max-width: 52.13%" src="/resource/org-logos/lg-electronics-logo.png">
 &nbsp;
+</div>
+
+<div class="img-container">
+<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/parking-info-25-reduced.jpeg">
 </div>
 
 ## Why This Forum Matters
