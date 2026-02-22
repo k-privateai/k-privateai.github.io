@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sun Feb 22 13:16:17 PST 2026
+last_modified_at: Sun Feb 22 15:25:48 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -77,7 +77,7 @@ and
 
 Moved by the depth of the conversation, [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} captured his reflections in an essay that further explores the philosophical questions raised.
 
-{: .notice}
+{: .notice--info}
 > AI 시대, 누가 진짜 '훌륭한 변호사'인가?
 >
 > 작년 초 연수를 앞두고 한창 생성형 AI의 폭발적인 발전으로 시끄러울 때 쯤, 문득 재밌는 가상 사례가 떠올라 사무실에 있는 선후배들에게 질문을 던진 적이 있다.
@@ -98,6 +98,23 @@ Moved by the depth of the conversation, [Hayden](https://www.linkedin.com/in/you
 > 이제 일반인도 AI라는 ‘1차 전문가’의 조력을 받고 변호사를 만나는 시대다. 이런 환경에서 전문가가 고객에게 신뢰를 주려면, AI를 활용해 더 깊고 넓은 전문성으로 격차를 벌려야 한다. 그리고 AI가 주는 효율성을 바탕으로 더 다양한 경험을 쌓고 내공을 키워야 한다. 결국 AI는 전문가의 대체재가 아니다. 전문가를 더욱 강력하게 만드는 도구가 되어야 한다.
 >
 > &ndash; [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+
+Having observed the exchange between [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} and [Sunghee](https://sungheeyun.github.io/),
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} contributed his own perspective.
+
+{: .notice--info}
+> 두 분 말씀을 보면서 한 가지 생각이 더 들었습니다.
+>
+> 송 변호사님 글에서는 결국 '전문성의 본질은 신뢰와 책임’이라는 점이 인상적이었고, 대표님 말씀에서는 ‘좋은 아이디어를 가진 제너럴리스트’라는 키워드가 기억에 남는 것 같습니다.
+>
+> 어쩌면 AI 시대에는 콘텐츠를 잘 만드는 사람보다, 문제를 어떻게 정의하고 그 결과에 대해 책임질 수 있는 구조를 설계하는 사람이 더 중요해지는 것 아닐까 싶습니다.
+>
+> AI가 초안을 만들 수는 있지만, 결국 누가 신뢰를 담보하고 판을 설계하느냐의 문제로 수렴하는 것 같아서요. 그런 구조를 설계하시는 두분과 이야기 나눌 수 있어 영광입니다.
+>
+> 오늘 강의와 글 덕분에 저도 생각을 더 정리하게 되네요. 감사합니다.
+>
+> &ndash; [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
+
 
 ## Jan-2026
 
