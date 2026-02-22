@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Wed Feb 18 22:14:09 PST 2026
+last_modified_at: Sun Feb 22 02:20:13 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -23,6 +23,57 @@ toc_sticky: true
 (Members alphabetically ordered by their first names.)
 
 # 2026
+
+## Feb-2026
+
+### 21-Feb-2026 - K-PAI Legal Professionals Group Kicks Off with Special AI Lecture
+
+Early Saturday morning,
+members of [K-PAI Legal Professionals Group]({{ page.url }}/#legal-prof-group) gathered
+for the group's inaugural meeting.
+To mark this milestone, the group invited
+[Sunghee](https://sungheeyun.github.io/)
+to deliver a [Special AI Lecture for Legal Professionals](https://sungheeyun.github.io/#ai-seminar-legal-experts-feb-2026),
+exploring how AI is reshaping legal practice and what legal professionals need to understand about emerging technologies.
+
+The session was an extraordinary success!
+Not only did [Sunghee](https://sungheeyun.github.io/) successfully convey the core insights about recent AI developments—covering algorithmic breakthroughs, historical context,
+and differentiated perspectives on technology, markets, and the industry as a whole—but
+the discussion evolved into a profound philosophical exploration.
+The group engaged in deep cognitive-scientific and epistemic inquiries into the fundamental nature of both AI systems and legal discourse,
+examining the philosophies that underpin entire legal frameworks.
+Through this dialogue, participants concluded that questions like &ldquo;Can or should AI replace judges or lawyers?&rdquo; are rather superficial and miss the deeper issues at stake.
+Instead, the group agreed we must transcend these surface-level concerns and
+ask truly important questions by understanding the essential nature of AI, legal systems, and the software industry together as interconnected domains of human knowledge and practice.
+
+The lecture was physically attended by
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
+Jiyoon,
+[Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"},
+[Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"},
+[Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"},
+and
+[KyungEun](https://www.linkedin.com/in/kyungeunhyon/){:target="_blank"},
+and
+remotely attended by
+[Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"}
+and
+[Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"}!
+
+<div class="img-container-justified">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-34-01 001-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-31 016-50-reduced.jpeg">
+</div>
+
+<div class="img-container">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-39-58 003-50-reduced.jpeg">
+</div>
+
+<div class="img-container-justified">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-35-26 007-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-03 011-50-reduced.jpeg">
+</div>
 
 ## Jan-2026
 
