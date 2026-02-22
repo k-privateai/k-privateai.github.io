@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sun Feb 22 15:25:48 PST 2026
+last_modified_at: Sun Feb 22 15:32:34 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -75,6 +75,7 @@ and
 	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-03 011-50-reduced.jpeg">
 </div>
 
+<span id="hayden-jeff-comments"></span>
 Moved by the depth of the conversation, [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} captured his reflections in an essay that further explores the philosophical questions raised.
 
 {: .notice--info}
