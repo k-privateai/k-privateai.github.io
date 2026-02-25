@@ -1,5 +1,5 @@
 ---
-last_modified_at: Wed Jan 28 00:14:51 PST 2026
+last_modified_at: Fri Feb 20 21:14:03 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
@@ -151,16 +151,6 @@ author_profile: false
 <tr>
 <td class="role">
 	Program &amp; Content Committee
-</td>
-<td class="kor-name">
-	문호근
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/alex-moon/">Alex Moon</a>
-</td>
-</tr>
-<tr>
-<td>
 </td>
 <td class="kor-name">
 	배재혁

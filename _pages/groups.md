@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Wed Feb 18 22:14:09 PST 2026
+last_modified_at: Sun Feb 22 16:49:44 PST 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -23,6 +23,101 @@ toc_sticky: true
 (Members alphabetically ordered by their first names.)
 
 # 2026
+
+## Feb-2026
+
+### 21-Feb-2026 - K-PAI Legal Professionals Group Kicks Off with Special AI Lecture
+
+Early Saturday morning,
+members of [K-PAI Legal Professionals Group]({{ page.url }}/#legal-prof-group) gathered
+for the group's inaugural meeting.
+To mark this milestone, the group invited
+[Sunghee](https://sungheeyun.github.io/)
+to deliver a [Special AI Lecture for Legal Professionals](https://sungheeyun.github.io/#ai-seminar-legal-experts-feb-2026),
+exploring how AI is reshaping legal practice and what legal professionals need to understand about emerging technologies.
+
+The session was an extraordinary success!
+Not only did [Sunghee](https://sungheeyun.github.io/) successfully convey the core insights about recent AI developments—covering algorithmic breakthroughs, historical context,
+and differentiated perspectives on technology, markets, and the industry as a whole—but
+the discussion evolved into a profound philosophical exploration.
+The group engaged in deep cognitive-scientific and epistemic inquiries into the fundamental nature of both AI systems and legal discourse,
+examining the philosophies that underpin entire legal frameworks.
+Through this dialogue, participants concluded that questions like &ldquo;Can or should AI replace judges or lawyers?&rdquo; are rather superficial and miss the deeper issues at stake.
+Instead, the group agreed we must transcend these surface-level concerns and
+ask truly important questions by understanding the essential nature of AI, legal systems, and the software industry together as interconnected domains of human knowledge and practice.
+
+The lecture was physically attended by
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
+Jiyoon,
+[Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"},
+[Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"},
+[Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"},
+and
+[KyungEun](https://www.linkedin.com/in/kyungeunhyon/){:target="_blank"},
+and
+remotely attended by
+[Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"}
+and
+[Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"}!
+
+<div class="img-container-justified">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-34-01 001-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-31 016-50-reduced.jpeg">
+</div>
+
+<div class="img-container">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-39-58 003-50-reduced.jpeg">
+</div>
+
+<div class="img-container-justified">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-35-26 007-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-03 011-50-reduced.jpeg">
+</div>
+
+<span id="hayden-jeff-comments"></span>
+Moved by the depth of the conversation, [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} captured his reflections in an essay that further explores the philosophical questions raised.
+
+{: .notice--info}
+> AI 시대, 누가 진짜 '훌륭한 변호사'인가?
+>
+> 작년 초 연수를 앞두고 한창 생성형 AI의 폭발적인 발전으로 시끄러울 때 쯤, 문득 재밌는 가상 사례가 떠올라 사무실에 있는 선후배들에게 질문을 던진 적이 있다.
+> “AI를 기가 막히게 활용하여 95점짜리 법률 메모를 2시간만에 써온 2년차 변호사 vs. AI를 불신하며 오로지 자신의 실력과 노하우로 90점짜리 법률 메모를 5시간만에 써온 20년차 변호사. 과연 누가 더 훌륭한 변호사일까?”
+> 후배들은 대부분 결과물의 퀄리티를 근거로 2년 차를 선택했다.
+> 선배들은 우선 이상한 비교를 하지 말라고 화를 냈다. 그리고 업무를 AI에 의존하고 자기 전문성이 없는 변호사를 어떻게 훌륭한 변호사라고 할 수 있겠냐며 반문했다.
+> 선배와 후배 간의 엇갈린 반응에 재미를 느끼고, 이번엔 고객들에게도 질문해 보았다. 고객들은 고민하는 듯 보였지만, 대부분은 2년차 변호사의 결과물이 더 좋고 비용도 더 적게 들더라도, 정작 중요한 일은 여전히 20년차 변호사에게 맡길 것 같다고 답했다. 그리고 차라리 자신들이 AI로 초안을 잡고, 그 검수와 진행을 베테랑에게 맡기는 편이 낫겠다고 했다.
+> 당신의 답변은 무엇인가?
+>
+> 전문성의 본질: 콘텐츠를 넘어선 ‘신뢰’와 ‘책임’
+>
+> 여기서 우리는 전문가의 본질에 대해 다시 생각하게 된다. 전문가에게 어떤 문제를 의뢰한다는 행위는 단순히 '전문적인 정보(콘텐츠)'를 구매하는 것이 아니다. 그 안에는 전문가(사람)에 대한 신뢰와 기대, 나아가 책임에 대한 위임이 포함되는 것이다. 내용이 아무리 좋아도 그것이 그 사람에게서 나오는 것이 아니라면, 사람과 사람 사이의 관계에서는 어딘가 부자연스러움이나 불신, 불안이 싹트기 마련이다. 특히 법률 서비스는 고객과 변호사, 변호사와 기관 등 사람 간의 관계를 기반으로 하는데, 여기서 전문가(변호사) 개인의 역량과 경험은 이러한 관계들을 원활하게 조율하고 일을 성사시키는 동력이 된다. 즉, 연차를 통해 쌓아올린 전문가의 내공은 단순히 좋은 콘텐츠를 생산낼 수 있는 능력만이 아니라, 고객에게 확신을 주고 복잡한 이해관계를 원활하게 풀어내는 무기가 되는 것이다.
+>
+> AI 전문가 대체론: 기술이 대체할 수 없는 '신임'의 무게
+>
+> AI가 전문가를 대체할 수 있다는 주장은 어쩌면 '콘텐츠 기반'의 영역에서만 타당할 수 있을지 모른다. AI가 잘 작성한 95점짜리 콘텐츠를 고객이 그대로 활용하는 것이라면, 시간과 비용을 아낄 수 있는 AI를 선택하지 않을 이유가 없다. 그러나 이는 고객과의 소통, 제3자 설득, 즉흥적 판단 등 전문가가 사람으로서 직접 개입해야 하는 영역에서는 이야기가 달라진다. 이 경우 고객이 전문가를 선택하는 기준은 단순히 '답이 맞느냐'를 넘어, '내 일을 믿고 맡길 수 있는가'라는 신임(신뢰와 믿음, 그리고 책임)로 쏠리게 된다. 그리고 그러한 신임은 깊은 역량과 오랜 경험을 가진 사람에게서만 나올 수 있다. 결국 AI는 '사람으로서의 전문가'를 완전히 대체할 수 없다.
+>
+> 공부하지 않아도 되는 시대가 아닌, '더 넓게' 공부해야 하는 시대
+>
+> 누군가는 AI가 있으니 전문가는 이제 더 이상 예전처럼 열심히 공부할 필요가 없다고 말한다. 그리고 이제는 커뮤니케이션 기술을 키워야 한다고 말한다. 그러나 이는 반은 맞고 반은 틀린 이야기다(커뮤니케이션 기술을 키워야 한다는 점에는 동의한다). AI라는 강력한 도구가 생겼기에, 우리는 오히려 더 효율적이고 광범위하게 공부해야 한다. 이제 일반인도 AI라는 ‘1차 전문가’의 조력을 받고 변호사를 만나는 시대다. 이런 환경에서 전문가가 고객에게 신뢰를 주려면, AI를 활용해 더 깊고 넓은 전문성으로 격차를 벌려야 한다. 그리고 AI가 주는 효율성을 바탕으로 더 다양한 경험을 쌓고 내공을 키워야 한다. 결국 AI는 전문가의 대체재가 아니다. 전문가를 더욱 강력하게 만드는 도구가 되어야 한다.
+>
+> &ndash; [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"}
+
+Having observed the exchange between [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} and [Sunghee](https://sungheeyun.github.io/),
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} contributed his own perspective.
+
+{: .notice--info}
+> 두 분 말씀을 보면서 한 가지 생각이 더 들었습니다.
+>
+> 송 변호사님 글에서는 결국 '전문성의 본질은 신뢰와 책임’이라는 점이 인상적이었고, 대표님 말씀에서는 ‘좋은 아이디어를 가진 제너럴리스트’라는 키워드가 기억에 남는 것 같습니다.
+>
+> 어쩌면 AI 시대에는 콘텐츠를 잘 만드는 사람보다, 문제를 어떻게 정의하고 그 결과에 대해 책임질 수 있는 구조를 설계하는 사람이 더 중요해지는 것 아닐까 싶습니다.
+>
+> AI가 초안을 만들 수는 있지만, 결국 누가 신뢰를 담보하고 판을 설계하느냐의 문제로 수렴하는 것 같아서요. 그런 구조를 설계하시는 두분과 이야기 나눌 수 있어 영광입니다.
+>
+> 오늘 강의와 글 덕분에 저도 생각을 더 정리하게 되네요. 감사합니다.
+>
+> &ndash; [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"}
+
 
 ## Jan-2026
 
