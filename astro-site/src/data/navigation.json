@@ -1,40 +1,36 @@
 {
   "main": [
     {
-      "title": "Events",
-      "url": "/events/"
-    },
-    {
       "title": "Activities",
-      "url": "/activities/"
+      "url": "/activities"
     },
     {
       "title": "TMKP",
-      "url": "/tmkp/"
+      "url": "/kptm"
     },
     {
       "title": "Board",
-      "url": "/board/"
+      "url": "/board"
     },
     {
       "title": "Groups",
-      "url": "/groups/"
+      "url": "/groups"
     },
     {
       "title": "Posts",
-      "url": "/posts/1/"
+      "url": "/posts"
     },
     {
       "title": "Tags",
-      "url": "/tags/"
+      "url": "/tags"
     },
     {
-      "title": "RSVP",
-      "url": "https://lu.ma/kpai"
+      "title": "Membership",
+      "url": "/membership"
     },
     {
       "title": "Committee",
-      "url": "/committee/"
+      "url": "/committee"
     }
   ]
 }

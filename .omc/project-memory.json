@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1771525187770,
+  "lastScanned": 1772002382031,
   "projectRoot": "/Users/jeongjuyeong/StudioProjects/k-privateai.github.io",
   "techStack": {
     "languages": [
@@ -61,7 +61,7 @@
       "path": "_data",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1771525187668,
+      "lastAccessed": 1772002381924,
       "keyFiles": [
         "navigation.yml"
       ]
@@ -70,14 +70,14 @@
       "path": "_includes",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1771525187672,
+      "lastAccessed": 1772002381925,
       "keyFiles": []
     },
     "_layouts": {
       "path": "_layouts",
       "purpose": null,
       "fileCount": 15,
-      "lastAccessed": 1771525187706,
+      "lastAccessed": 1772002381932,
       "keyFiles": [
         "archive-taxonomy.html",
         "archive.html",
@@ -90,7 +90,7 @@
       "path": "_pages",
       "purpose": null,
       "fileCount": 17,
-      "lastAccessed": 1771525187723,
+      "lastAccessed": 1772002381936,
       "keyFiles": [
         "404.md",
         "K-PAI_Strategic_BrandingBrief_V_1_FORMATTED.md",
@@ -102,8 +102,8 @@
     "_posts": {
       "path": "_posts",
       "purpose": null,
-      "fileCount": 25,
-      "lastAccessed": 1771525187727,
+      "fileCount": 26,
+      "lastAccessed": 1772002381938,
       "keyFiles": [
         "2024-10-07-PDT - K-PAI seminar series invitation.markdown",
         "2024-10-07-PDT - KPAI seminar invitation.markdown",
@@ -116,21 +116,21 @@
       "path": "_python",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1771525187727,
+      "lastAccessed": 1772002381939,
       "keyFiles": []
     },
     "assets": {
       "path": "assets",
       "purpose": "Static assets",
       "fileCount": 0,
-      "lastAccessed": 1771525187728,
+      "lastAccessed": 1772002381939,
       "keyFiles": []
     },
     "astro-site": {
       "path": "astro-site",
       "purpose": null,
       "fileCount": 8,
-      "lastAccessed": 1771525187728,
+      "lastAccessed": 1772002381940,
       "keyFiles": [
         "CLAUDE.md",
         "README.md",
@@ -143,7 +143,7 @@
       "path": "resource",
       "purpose": null,
       "fileCount": 1,
-      "lastAccessed": 1771525187729,
+      "lastAccessed": 1772002381940,
       "keyFiles": [
         "styles.css"
       ]
@@ -152,7 +152,7 @@
       "path": "_python/bin",
       "purpose": "Executable scripts",
       "fileCount": 5,
-      "lastAccessed": 1771525187732,
+      "lastAccessed": 1772002381941,
       "keyFiles": [
         "convert-k-pai-registrants-to-google-contacts.py",
         "k-pai-registrants-5-in-google-contacts-format.csv",
@@ -163,7 +163,7 @@
       "path": "astro-site/dist",
       "purpose": "Distribution/build output",
       "fileCount": 3,
-      "lastAccessed": 1771525187733,
+      "lastAccessed": 1772002381943,
       "keyFiles": [
         "404.html",
         "favicon.svg",
@@ -174,203 +174,10 @@
       "path": "astro-site/node_modules",
       "purpose": "Dependencies",
       "fileCount": 1,
-      "lastAccessed": 1771525187769,
+      "lastAccessed": 1772002381949,
       "keyFiles": []
     }
   },
-  "hotPaths": [
-    {
-      "path": "astro-site/src/components/SuperpowerNav.astro",
-      "accessCount": 15,
-      "lastAccessed": 1771549839188,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/index.astro",
-      "accessCount": 11,
-      "lastAccessed": 1771548268397,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/styles/global.css",
-      "accessCount": 10,
-      "lastAccessed": 1771549860138,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/auction-2026-new-year-party.md",
-      "accessCount": 6,
-      "lastAccessed": 1771526373290,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/meetings.md",
-      "accessCount": 6,
-      "lastAccessed": 1771526474770,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/groups.md",
-      "accessCount": 6,
-      "lastAccessed": 1771526475827,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/activities.md",
-      "accessCount": 5,
-      "lastAccessed": 1771526477024,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src",
-      "accessCount": 5,
-      "lastAccessed": 1771548565587,
-      "type": "directory"
-    },
-    {
-      "path": "astro-site/src/components/Footer.astro",
-      "accessCount": 4,
-      "lastAccessed": 1771526420079,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/board.md",
-      "accessCount": 4,
-      "lastAccessed": 1771526478082,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/about.md",
-      "accessCount": 3,
-      "lastAccessed": 1771526383138,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/data/navigation.json",
-      "accessCount": 3,
-      "lastAccessed": 1771526432680,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/content/posts/k-pai_forum_announcement-13.md",
-      "accessCount": 3,
-      "lastAccessed": 1771526479412,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/content/posts/k-pai_forum_announcement-14.md",
-      "accessCount": 3,
-      "lastAccessed": 1771526480496,
-      "type": "file"
-    },
-    {
-      "path": "index.html",
-      "accessCount": 2,
-      "lastAccessed": 1771525859311,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/snu-eng-round-table.md",
-      "accessCount": 2,
-      "lastAccessed": 1771526388671,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/tmkp.md",
-      "accessCount": 2,
-      "lastAccessed": 1771526389715,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/prizes-2026-new-year-party.md",
-      "accessCount": 2,
-      "lastAccessed": 1771526391175,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/i-recommend.md",
-      "accessCount": 2,
-      "lastAccessed": 1771526407804,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/membership.md",
-      "accessCount": 2,
-      "lastAccessed": 1771526409901,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/content/posts/k-pai-forum-announcement-12.md",
-      "accessCount": 2,
-      "lastAccessed": 1771526410528,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/content/posts/k-pai-forum-announcement-10.md",
-      "accessCount": 2,
-      "lastAccessed": 1771526411571,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/content/posts/k-pai-seminar-reflection-13.md",
-      "accessCount": 2,
-      "lastAccessed": 1771526413744,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/TECHSPEC.md",
-      "accessCount": 1,
-      "lastAccessed": 1771525790734,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/astro.config.mjs",
-      "accessCount": 1,
-      "lastAccessed": 1771525808121,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/layouts/BaseLayout.astro",
-      "accessCount": 1,
-      "lastAccessed": 1771525828392,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/layouts/PostLayout.astro",
-      "accessCount": 1,
-      "lastAccessed": 1771525832389,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/layouts/PageLayout.astro",
-      "accessCount": 1,
-      "lastAccessed": 1771525835973,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/package.json",
-      "accessCount": 1,
-      "lastAccessed": 1771526107142,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages",
-      "accessCount": 1,
-      "lastAccessed": 1771526112406,
-      "type": "directory"
-    },
-    {
-      "path": "astro-site/src/content/config.ts",
-      "accessCount": 1,
-      "lastAccessed": 1771526122624,
-      "type": "file"
-    },
-    {
-      "path": "astro-site/src/pages/events.astro",
-      "accessCount": 1,
-      "lastAccessed": 1771526491004,
-      "type": "file"
-    }
-  ],
+  "hotPaths": [],
   "userDirectives": []
 }

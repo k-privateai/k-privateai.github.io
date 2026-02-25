@@ -4,7 +4,8 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "npm run migrate:all && astro build",
+    "build:only": "astro build",
     "preview": "astro preview",
     "astro": "astro",
     "migrate:posts": "node scripts/migrate-posts.mjs",

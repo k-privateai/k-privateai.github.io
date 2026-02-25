@@ -1,7 +1,6 @@
 ---
-layout: ../layouts/PageLayout.astro
 date: 'Tue Nov  4 14:28:34 PST 2025'
-last_modified_at: 'Sun Jan 25 01:38:13 PST 2026'
+last_modified_at: 'Wed Feb 18 22:14:09 PST 2026'
 title: K-PAI Groups
 toc: true
 toc_label: '&nbsp;Table of Contents'
@@ -15,10 +14,10 @@ _originalPermalink: /groups/
 # List of Groups
 
 |name|members|representative(s)|
-|<span id="bmd-group">Bio/Medical/Data</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/) [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/) [Jeff](https://www.linkedin.com/in/bohyounglee/) [Minha](https://www.linkedin.com/in/minha-hwang-7440771/) [Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/) [Sunghee](https://sungheeyun.github.io) (6)|Chanik|
-|<span id="karaoke-group">Karaoke</span>|[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/) [Jeff](https://www.linkedin.com/in/bohyounglee/) [Sunghee](https://sungheeyun.github.io) [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/) (4)|Sunghee|
-|<span id="ai-hands-on-group">AI Hands-on</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/) James [Kyoung Whan](https://www.linkedin.com/in/kywch/) [Minha](https://www.linkedin.com/in/minha-hwang-7440771/) [Sunghee](https://sungheeyun.github.io) (5)|Sunghee|
-|<span id="legal-prof-group">Legal Professionals</span>|[Dayoung](https://www.linkedin.com/in/dayoungjeong/) [Deborah](https://www.linkedin.com/in/dlysl/) [Ha Young](https://www.linkedin.com/in/hayoungkim5064/) [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/) [Hyojin](https://www.linkedin.com/in/hyojin-lee-7b43a2260/) [Hyung Won](https://www.linkedin.com/in/hyung-won-eric-nahm-511599171/) [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/) [Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr) [Jeff](https://www.linkedin.com/in/bohyounglee/) Jiyoon [Joo Hyong](https://www.linkedin.com/in/daniel-joo-hyong-lee/) [Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/) [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/) (13)|Hayden Jeff|
+|<span id="bmd-group">Bio/Medical/Data</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} [Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (6)|Chanik|
+|<span id="karaoke-group">Karaoke</span>|[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"} (4)|Sunghee|
+|<span id="ai-hands-on-group">AI Hands-on</span>|[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"} James [Kyoung Whan](https://www.linkedin.com/in/kywch/){:target="_blank"} [Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"} [Sunghee](https://sungheeyun.github.io) (5)|Sunghee|
+|<span id="legal-prof-group">Legal Professionals</span>|[Dayoung](https://www.linkedin.com/in/dayoungjeong/){:target="_blank"} [Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"} [Ha Young](https://www.linkedin.com/in/hayoungkim5064/){:target="_blank"} [Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"} [Hyojin](https://www.linkedin.com/in/hyojin-lee-7b43a2260/){:target="_blank"} [Hyung Won](https://www.linkedin.com/in/hyung-won-eric-nahm-511599171/){:target="_blank"} [Hyunjung](https://www.linkedin.com/in/hyunjung-annie-yu/){:target="_blank"} [Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"} [Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"} Jiyoon [Joo Hyong](https://www.linkedin.com/in/daniel-joo-hyong-lee/){:target="_blank"} [Natalie](https://www.linkedin.com/in/natalie-huh-03b2221b7/){:target="_blank"} [Yeseul](https://www.linkedin.com/in/yeseul-lee-7980381ba/){:target="_blank"} (13)|Hayden Jeff Natalie|
 
 (Members alphabetically ordered by their first names.)
 
@@ -59,11 +58,12 @@ _originalPermalink: /groups/
 
 Below
 &ndash;
-[Deborah](https://www.linkedin.com/in/dlysl/)moderating a panel discussions
+[Deborah](https://www.linkedin.com/in/dlysl/){:target="_blank"}
+moderating a panel discussions
 where two of the panelists are K-PAI;
 [Sunghee](https://sungheeyun.github.io)
 &amp;
-[Jae Ho](https://www.linkedin.com/in/jae-h-pyeon-a8563399/)!
+[Jae Ho](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}!
 
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-27-40 005-25-reduced.jpeg">
@@ -71,15 +71,17 @@ where two of the panelists are K-PAI;
 
 Below
 &ndash;
-[Chanik](https://www.linkedin.com/in/chanik-park-14878b32),
+[Chanik](https://www.linkedin.com/in/chanik-park-14878b32){:target="_blank"},
 [Sunghee](https://sungheeyun.github.io),
 Prof. JongHyuk Kim,
-[Jeff](https://www.linkedin.com/in/bohyounglee/),
-[Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/),
-[Siyeon](https://www.linkedin.com/in/siyeon-rhee-39449642/),
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
+[Gordon](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank"},
+[Siyeon](https://www.linkedin.com/in/siyeon-rhee-39449642/){:target="_blank"},
 and
-[Don](https://www.linkedin.com/in/don-kim-b541b862/)(from left)
-@ [K-BioX ABDD Summit 2026 @ Stanford](https://sites.google.com/kbiox.net/2026k-bioxsiliconvalley/home?authuser=0)
+[Don](https://www.linkedin.com/in/don-kim-b541b862/){:target="_blank"}
+(from left)
+@ [K-BioX ABDD Summit 2026 @ Stanford](https://sites.google.com/kbiox.net/2026k-bioxsiliconvalley/home?authuser=0){:target="_blank"}
+
 <div class="img-container">
 <img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg">
 <!--img src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg"-->
@@ -112,8 +114,8 @@ and
 
 The 1st [K-PAI Karaoke Group](#karaoke-group) Gathering!
 We were
-[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/),
-[Jeff](https://www.linkedin.com/in/bohyounglee/),
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
 Yeseul,
 and
 [Sunghee](https://sungheeyun.github.io)!
@@ -134,9 +136,9 @@ and
 ### 05-Dec-2025 @ TTobongee, Santa Clara
 
 Flash meetup with
-[Jae Chul](https://www.linkedin.com/in/jae-chul-koh-4967a69b/),
-[Goonho](https://www.linkedin.com/in/gordon-g-park-452bab26/),
-[Wonpyo](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/),
+[Jae Chul](https://www.linkedin.com/in/jae-chul-koh-4967a69b/){:target="_blank"},
+[Goonho](https://www.linkedin.com/in/gordon-g-park-452bab26/){:target="_blank},
+[Wonpyo](https://www.linkedin.com/in/jay-wonpyo-lee-57177784/){:target="_blank"},
 and
 [Sunghee](https://sungheeyun.github.io)!
 
@@ -149,8 +151,8 @@ and
 ### 27-Nov-2025 KST @ Sadang
 
 Early morning breakfast in Seoul;
-[June Hee](https://www.linkedin.com/in/jungheecheon/),
-[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/),
+[June Hee](https://www.linkedin.com/in/jungheecheon/){:target="_blank"},
+[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"},
 and
 [Sunghee](https://sungheeyun.github.io).
 
@@ -193,9 +195,9 @@ Lawyers, Judges, Engineers, Scientists, and Entrepreneurs!
 
 K-PAI meets KABANC!
 We were
-[Daniel](https://www.linkedin.com/in/chungforchange/),
-[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/),
-[Jeff](https://www.linkedin.com/in/bohyounglee/),
+[Daniel](https://www.linkedin.com/in/chungforchange/){:target="_blank"},
+[Hayden](https://www.linkedin.com/in/youngwook-hayden-song-a5177019/){:target="_blank"},
+[Jeff](https://www.linkedin.com/in/bohyounglee/){:target="_blank"},
 and
 [Sunghee](https://sungheeyun.github.io)!
 
@@ -207,10 +209,10 @@ and
 
 The **<span style="color: red;">first</span>** K-PAI's (organically created) group meeting; [Bio / Medical / Data Group](#bmd-group)!
 We were
-[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/),
-[Insuk](https://www.linkedin.com/in/insuk-song-b9995335/),
-[Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/),
-[Minha](https://www.linkedin.com/in/minha-hwang-7440771/),
+[Chanik](https://www.linkedin.com/in/chanik-park-14878b32/){:target="_blank"},
+[Insuk](https://www.linkedin.com/in/insuk-song-b9995335/){:target="_blank"},
+[Mitch](https://www.linkedin.com/in/mitch-jungmok-bae/){:target="_blank"},
+[Minha](https://www.linkedin.com/in/minha-hwang-7440771/){:target="_blank"},
 and
 [Sunghee](https://sungheeyun.github.io)!
 
