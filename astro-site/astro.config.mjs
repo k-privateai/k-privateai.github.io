@@ -6,7 +6,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://k-privateai.github.io',
+  site: 'https://k-privateai-github-io.vercel.app',
   integrations: [react()],
   build: {
     format: 'directory', // /foo/ -> /foo/index.html

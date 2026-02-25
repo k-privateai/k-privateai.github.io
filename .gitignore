@@ -166,3 +166,4 @@ Gemfile.lock
 _site/
 .*.swp
 .idea/
+node_modules/
