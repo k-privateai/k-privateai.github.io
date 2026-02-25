@@ -1,6 +1,6 @@
 ---
 date: Wed Feb 18 20:58:09 PST 2026
-last_modified_at: Fri Feb 20 16:13:42 PST 2026
+last_modified_at: Wed Feb 25 00:36:44 PST 2026
 layout: single
 title: "K-PAI's 15th Chapter: Powering the Future - Battery Innovation & Investment Frontiers"
 permalink: /event-announcements/15
@@ -52,9 +52,9 @@ Now we're ready to dive back into the cutting edge of technology—but with a tw
 
 We are **<span style="color: red;">thrilled</span>** to invite you to K-PAI's **<span style="color: red;">15th Forum</span>**—a unique dual-track exploration connecting the physical foundations of our AI future (battery technology) with the financial engines that bring innovation to market (venture capital and startup ecosystems).
 
-But here's what makes this Forum truly special: **<span style="color: red;">2 FULL HOURS of energized networking!</span>**
+But here's what makes this Forum truly special: **<span style="color: red;">Nearly 2 hours of energized networking!</span>**
 
-After comprehensive presentations on battery science and investment wisdom, we're dedicating extended time for the kind of **active, interactive, energized networking you can only experience at K-PAI**. Connect with battery engineers, AI researchers, investors, founders, legal professionals, and fellow innovators in an environment designed for meaningful conversations and lasting relationships.
+After comprehensive presentations on battery science, investment wisdom, and practical resources for global expansion, we're dedicating extended time for the kind of **active, interactive, energized networking you can only experience at K-PAI**. Connect with battery engineers, AI researchers, investors, founders, legal professionals, and fellow innovators in an environment designed for meaningful conversations and lasting relationships.
 
 - **Date**: 25-Feb-2026 (wed)
 - **Time**: 5pm - 9pm
@@ -88,17 +88,18 @@ As AI scales exponentially, two questions become increasingly critical!
 
 # Event Schedule: Built for Connection
 
-This Forum features a networking-optimized format:
+This Forum features a networking-optimized format.
 
 | Time | Activity |
 |------|----------|
 | 5pm - 5:30pm | **Registration & Early Networking** |
-| 5:30pm - 6:10pm | **Talk 1: Battery Technology Deep Dive** + Q&A |
-| 6:10pm - 6:50pm | **Talk 2: Investment Landscape & Founder Journey** + Q&A |
-| 6:50pm - 7pm | **MiSook Chung: K-PAI Groups Initiative** |
-| 7pm - 9pm | **🎉 Extended Networking Dinner (2 Full Hours!) 🎉** |
+| 5:30pm - 6:10pm | **Talk 1 - Battery Technology Deep Dive** + Q&A |
+| 6:10pm - 6:50pm | **Talk 2 - Investment Landscape & Founder Journey** + Q&A |
+| 6:50pm - 7pm | **MiSook Chung - K-PAI Groups Initiative** |
+| 7pm - 7:15pm | **Junsung Kim - KOTRA - Your Gateway to Global Expansion** |
+| 7:15pm - 9pm | **🎉 Extended Networking Dinner (Nearly 2 Hours!) 🎉** |
 
-**Why are we dedicating 2 hours to networking?**
+**Why are we dedicating nearly 2 hours to networking?**
 
 At our New Year Party, we learned something profound - the most valuable experiences happen not just when we're learning *about* technology, but when we're connecting *with* the people building it. The conversations during dinner, the spontaneous collaborations, the "you should meet..." introductions—these moments create lasting value.
 
@@ -106,9 +107,9 @@ So this Forum is designed to give you time. Time to find your future co-founder.
 
 **Come for the insights. Stay for the connections. Leave with relationships that last.**
 
-## Talk 1: Understanding Lithium-Ion Battery Technology, Safety, Manufacturing, and Market Trends
+## Talk 1 - Understanding Lithium-Ion Battery Technology, Safety, Manufacturing, and Market Trends
 
-**Speaker**: <a target="_blank" href="https://www.linkedin.com/in/naehyuck/">Nathan Chang</a> - SVP at Samsung Electronics DSRA, ACM Fellow, and IEEE Fellow
+**Speaker** <a target="_blank" href="https://www.linkedin.com/in/naehyuck/">Nathan Chang</a> - SVP at Samsung Electronics DSRA, ACM Fellow, and IEEE Fellow
 
 This talk begins with the fundamentals of lithium-ion chemistry, cell architecture, and performance trade-offs between energy, power, lifetime, and safety. It then examines manufacturing processes, cost drivers, yield challenges, and scaling constraints that shape real-world competitiveness. We connect these technical and manufacturing realities to current market trends, including chemistry transitions, supply chain pressures, regional competition, and long-term cost evolution.
 
@@ -125,9 +126,9 @@ Battery technology intersects with K-PAI's core themes in unexpected ways.
 
 This talk provides the technical depth and market context to understand why batteries matter—not just for EVs, but for the entire AI-enabled, electrified future we're building.
 
-## Talk 2: Seoul to Silicon Valley - Lessons Learned as a Founder and Investor
+## Talk 2 - Seoul to Silicon Valley - Lessons Learned as a Founder and Investor
 
-**Speaker**: <a target="_blank" href="https://www.linkedin.com/in/davidleexg/">David Lee</a> - Investor, Entrepreneur, Tech &amp; Media Exec, Producer
+**Speaker** <a target="_blank" href="https://www.linkedin.com/in/davidleexg/">David Lee</a> - Investor, Entrepreneur, Tech &amp; Media Exec, Producer
 
 Join David Lee—prolific investor, tech executive, entrepreneur and one of Google’s first 200 employees—for an inside look at the his journey and lessons learned from the Silicon Valley venture capital and startup ecosystems.
 
@@ -137,11 +138,11 @@ In this candid session, David shares hard-won lessons from two decades at the in
 
 **What Makes This Relevant to K-PAI!**
 
-Many K-PAI members are founders, aspiring founders, or early employees at startups. David's perspective offers something rare: a view from inside the room where investment decisions happen, informed by actual operational experience building companies.
+Many K-PAI members are founders, aspiring founders, or early employees at startups. David's perspective offers something rare - a view from inside the room where investment decisions happen, informed by actual operational experience building companies.
 
 Whether you're seeking funding, considering joining a startup, evaluating career moves, or simply curious about how Silicon Valley actually works behind the buzzwords—this session provides unfiltered insights from someone who has seen it all, succeeded and failed, and kept building anyway.
 
-## Special Session: K-PAI Groups Initiative
+## Special Session - K-PAI Groups Initiative
 
 **Presented by** <a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a> - Former HR Leader @ Micron, Wharton CHRO, Connecting People, Purpose & Innovation
 
@@ -155,41 +156,54 @@ By the time we transition to dinner, you'll have everything you need to either j
 
 *For more information, visit our [Groups page](/groups){:target="_blank"} showcasing existing K-PAI Groups and their activities.*
 
-## 2 Hours of THE K-PAI Networking
+## Special Presentation - KOTRA - Your 'Control-C, Control-V' for Global Expansion
 
-**7pm - 9pm - This is why you came!**
+**Speaker** Junsung Kim - Head of Silicon Valley IT Center and Director of KOTRA Silicon Valley
+[slides](https://sungheeyun-seminars-01.github.io/resource/k-privateai.github.io/15 - 25-Feb-2026/2026 Intro to KOTRA SV by Junsung Kim.pdf){:target="_blank"}
 
-Light dinner and refreshments, generously sponsored by **Erudio Bio Korea, Inc.**, create the perfect environment for meaningful connections:
+In this practical 15-minute session, Junsung Kim will demystify how KOTRA (Korea Trade-Investment Promotion Agency) serves as your strategic partner for global business expansion—making international growth as simple as "copy-paste."
 
-**Professional Connections:**
+**Why This Matters to K-PAI**
+
+Many K-PAI members are founders, early employees, or professionals at companies navigating the Korea-US corridor. Whether you're a Korean startup exploring Silicon Valley expansion, a US company considering Korean markets, or a professional facilitating cross-border collaboration, KOTRA provides institutional support that can dramatically accelerate your efforts.
+
+This session offers practical insights into how to access government resources designed specifically to support the kind of trans-Pacific innovation our community embodies.
+
+## Nearly 2 Hours of THE K-PAI Networking
+
+**7:15pm - 9pm - This is why you came!**
+
+Light dinner and refreshments, generously sponsored by **Erudio Bio Korea, Inc.**, create the perfect environment for meaningful connections.
+
+**Professional Connections**
 - Meet potential co-founders, collaborators, advisors
 - Connect with investors, mentors, industry experts
 - Discover hiring opportunities or find your next role
 - Build relationships with Korean institutions and Silicon Valley organizations
 
-**Technical Exchange:**
+**Technical Exchange**
 - Discuss battery technology challenges with engineers working on energy storage
 - Explore AI/ML applications in manufacturing and supply chain
 - Share insights on privacy-preserving computation in industrial settings
 - Debate the future of energy infrastructure and sustainable tech
 
-**Cross-Pollination:**
+**Cross-Pollination**
 - Battery engineers meet AI researchers (unexpected applications emerge)
 - Founders meet investors (real conversations, not rushed pitches)
 - Legal professionals meet technical teams (practical guidance on IP and compliance)
 - Experienced leaders meet early-career professionals (mentorship relationships form)
 
-**Cultural Community:**
+**Cultural Community**
 - Connect with fellow Korean professionals navigating Silicon Valley
 - Share experiences, challenges, advice
 - Build the support network that makes a difference
 
-**And Yes, Fun:**
+**And Yes, Fun!**
 - Because the best conversations often happen when you're laughing
 - Because professional networking doesn't mean being professionally boring
 - Because K-PAI knows how to celebrate community
 
-**Pro Tips for Networking Success:**
+**Pro Tips for Networking Success**
 
 1. **Come with questions, not just answers!** The best networkers are genuinely curious.
 1. **Make introductions!** "You should meet..." is the most powerful phrase in networking.
