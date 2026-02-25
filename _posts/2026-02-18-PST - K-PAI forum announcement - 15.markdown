@@ -1,6 +1,6 @@
 ---
 date: Wed Feb 18 20:58:09 PST 2026
-last_modified_at: Wed Feb 25 00:36:44 PST 2026
+last_modified_at: Wed Feb 25 00:53:59 PST 2026
 layout: single
 title: "K-PAI's 15th Chapter: Powering the Future - Battery Innovation & Investment Frontiers"
 permalink: /event-announcements/15
@@ -69,7 +69,7 @@ After comprehensive presentations on battery science, investment wisdom, and pra
 </div>
 
 <div class="img-container">
-<img src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/parking-info-25-reduced.jpeg">
+<img id="map" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/parking-info-25-reduced.jpeg">
 </div>
 
 ## Why This Forum Matters
