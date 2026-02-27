@@ -1,5 +1,5 @@
 ---
-last_modified_at: Fri Feb 20 21:14:03 PST 2026
+last_modified_at: Thu Feb 26 23:24:53 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
@@ -291,6 +291,16 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td class="kor-name">
+	김수연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
 </td>
 </tr>
 </table>
