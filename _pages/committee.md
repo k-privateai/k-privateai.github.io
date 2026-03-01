@@ -1,7 +1,7 @@
 ---
-last_modified_at: Sun Mar  1 01:22:51 PST 2026
+last_modified_at: Sun Mar  1 01:35:39 PST 2026
 layout: single
-title: Committee
+title: Committees
 permalink: /committee/
 toc: false
 toc_label: "&nbsp;Table of Contents"
@@ -49,10 +49,11 @@ author_profile: false
 </style>
 </head>
 
+# Organizing Committee
+
 <table class="borderless-table">
 <tr>
-<td class="role">
-	Organizing Committee
+<td>
 </td>
 <td class="kor-name">
 	천정희
@@ -93,9 +94,14 @@ author_profile: false
 	<a target="_blank" href="https://www.linkedin.com/in/junyeongjang/">Jun Yeong Jang</a>
 </td>
 </tr>
+</table>
+
+# Tech &amp; Social Media Committee {#tech-and-social-media-committee}
+
+<table class="borderless-table">
 <tr>
-<td class="role" id="tech-and-social-media-committee">
-	Tech &amp; Social Media Committee
+<td class="role" style="color: #0000dd;">
+	Tech &amp; Social Media Leader
 </td>
 <td class="kor-name">
 	윤성희
@@ -159,9 +165,47 @@ author_profile: false
 	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
 </td>
 </tr>
+</table>
+
+# Program &amp; Content Committee
+
+<table class="borderless-table">
 <tr>
-<td class="role">
-	Program &amp; Content Committee
+<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
+	<!--Community Groups Coordinator-->
+	Community Engagement Chair
+</td>
+<td class="kor-name">
+	정미숙
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;" id="legal-affairs-advisor">
+	Legal Affairs Advisor
+</td>
+<td class="kor-name">
+	송영욱
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
+</td>
+</tr>
+<tr>
+<td class="role" style="color: #0000dd;">
+	Legal Affairs Advisor
+</td>
+<td class="kor-name">
+	이보형
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
+</td>
+</tr>
+<tr>
+<td>
 </td>
 <td class="kor-name">
 	배재혁
@@ -198,18 +242,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/siyeon-rhee-39449642/">Siyeon Rhee</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;" id="hospitality-and-catering-director">
-	<!--Community Groups Coordinator-->
-	Community Engagement Chair
-</td>
-<td class="kor-name">
-	정미숙
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/misook-chung/">MiSook Chung</a>
 </td>
 </tr>
 <tr>
@@ -280,28 +312,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/kywch/">Kyoung Whan Choe</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;" id="legal-affairs-advisor">
-	Legal Affairs Advisor
-</td>
-<td class="kor-name">
-	송영욱
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/youngwook-hayden-song-a5177019/">Youngwook (Hayden) Song</a>
-</td>
-</tr>
-<tr>
-<td class="role" style="color: #0000dd;">
-	Legal Affairs Advisor
-</td>
-<td class="kor-name">
-	이보형
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
 </td>
 </tr>
 </table>
