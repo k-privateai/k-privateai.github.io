@@ -1,5 +1,5 @@
 ---
-last_modified_at: Thu Feb 26 23:24:53 PST 2026
+last_modified_at: Sun Mar  1 01:22:51 PST 2026
 layout: single
 title: Committee
 permalink: /committee/
@@ -149,6 +149,17 @@ author_profile: false
 </td>
 </tr>
 <tr>
+<td class="role" style="color: #0000dd;">
+	UI/UX Lead
+</td>
+<td class="kor-name" id="soo">
+	김수연
+</td>
+<td class="eng-name">
+	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
+</td>
+</tr>
+<tr>
 <td class="role">
 	Program &amp; Content Committee
 </td>
@@ -291,16 +302,6 @@ author_profile: false
 </td>
 <td class="eng-name">
 	<a target="_blank" href="https://www.linkedin.com/in/bohyounglee/">Bo Hyoung (Jeff) Lee</a>
-</td>
-</tr>
-<tr>
-<td>
-</td>
-<td class="kor-name">
-	김수연
-</td>
-<td class="eng-name">
-	<a target="_blank" href="https://www.linkedin.com/in/callmesoo/">Soo Kim</a>
 </td>
 </tr>
 </table>
