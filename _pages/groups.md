@@ -1,6 +1,6 @@
 ---
 date: Tue Nov  4 14:28:34 PST 2025
-last_modified_at: Sun Feb 22 16:49:44 PST 2026
+last_modified_at: Tue Mar 10 00:48:18 PDT 2026
 layout: single
 title: K-PAI Groups
 permalink: /groups/
@@ -62,17 +62,17 @@ and
 [Jaewon](https://www.linkedin.com/in/jaewon-hwang/?originalSubdomain=kr){:target="_blank"}!
 
 <div class="img-container-justified">
-	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-34-01 001-50-reduced.jpeg">
-	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-31 016-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-34-01 001-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-31 016-50-reduced.jpeg">
 </div>
 
 <div class="img-container">
-	<img style="max-width: 100%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-39-58 003-50-reduced.jpeg">
+	<img style="max-width: 100%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-39-58 003-50-reduced.jpeg">
 </div>
 
 <div class="img-container-justified">
-	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-35-26 007-50-reduced.jpeg">
-	<img style="max-width: 49%;" src="https://sungheeyun-photos-01.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-03 011-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-35-26 007-50-reduced.jpeg">
+	<img style="max-width: 49%;" src="https://sungheeyun-photos-02.github.io/resource/2026/02/21 PST - Special AI Lecture for K-PAI Legal Professionals Group/KakaoTalk_Photo_2026-02-21-21-36-03 011-50-reduced.jpeg">
 </div>
 
 <span id="hayden-jeff-comments"></span>
@@ -124,30 +124,30 @@ Having observed the exchange between [Hayden](https://www.linkedin.com/in/youngw
 ### 23-Jan-2026 - K-PAI meets KAIST @ Lunch!
 
 <div class="img-container-justified">
-<img width="56%" style="max-width: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
-<img width="42%" src="https://sungheeyun-photos-01.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
+<img width="56%" style="max-width: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-58-47 027-25-reduced.jpeg">
+<img width="42%" src="https://sungheeyun-photos-02.github.io/resource/2026/01/23 - K-PAI meets KAIST for Lunch/KakaoTalk_Photo_2026-01-23-14-56-35 014-25-reduced.jpeg">
 </div>
 
 ### 22-Jan-2026 - K-PAI meets KAIST @ Dinner!
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-29 002-25-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/22 - K-PAI meets KAIST/KakaoTalk_Photo_2026-01-23-00-14-29 002-25-reduced.jpeg">
 </div>
 
 ### 17-Jan-2026 - K-PAI 2026 New Year Party Retro &amp; Planning 2026!
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-21-41-20-50-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-21-41-20-50-reduced.jpeg">
 </div>
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-01-47-24 001-25-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/17 - K-PAI Committee Dinner/KakaoTalk_Photo_2026-01-18-01-47-24 001-25-reduced.jpeg">
 </div>
 
 ### 12-Jan-2026 - Incredible K-PAI Stands Strong again at UKF 82 Summit!!!
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/groups/2026-01/2026 0102 UKF-25-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/k-privateai.github.io/groups/2026-01/2026 0102 UKF-25-reduced.jpeg">
 </div>
 
 ### 11-Jan-2026 - Incredible K-PAI Stands Strong at K-BioX ABDD Summit 2026 @ Stanford!!
@@ -162,7 +162,7 @@ where two of the panelists are K-PAI;
 [Jae Ho](https://www.linkedin.com/in/jae-h-pyeon-a8563399/){:target="_blank"}!
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-27-40 005-25-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-27-40 005-25-reduced.jpeg">
 </div>
 
 Below
@@ -179,7 +179,7 @@ and
 @ [K-BioX ABDD Summit 2026 @ Stanford](https://sites.google.com/kbiox.net/2026k-bioxsiliconvalley/home?authuser=0){:target="_blank"}
 
 <div class="img-container">
-<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg">
+<img style="max-width: 100%; max-height: none;" src="https://sungheeyun-photos-02.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg">
 <!--img src="https://sungheeyun-photos-01.github.io/resource/2026/01/11 - K-BioX ABDD Summit 2026 @ Stanford/KakaoTalk_Photo_2026-01-16-00-25-19-50-reduced.jpeg"-->
 </div>
 
