@@ -1,6 +1,6 @@
 ---
 date: Wed Feb 18 20:58:09 PST 2026
-last_modified_at: Wed Feb 25 00:53:59 PST 2026
+last_modified_at: Thu Mar 12 18:00:32 PDT 2026
 layout: single
 title: "K-PAI's 15th Chapter: Powering the Future - Battery Innovation & Investment Frontiers"
 permalink: /event-announcements/15
@@ -52,7 +52,7 @@ Now we're ready to dive back into the cutting edge of technology—but with a tw
 
 We are **<span style="color: red;">thrilled</span>** to invite you to K-PAI's **<span style="color: red;">15th Forum</span>**—a unique dual-track exploration connecting the physical foundations of our AI future (battery technology) with the financial engines that bring innovation to market (venture capital and startup ecosystems).
 
-But here's what makes this Forum truly special: **<span style="color: red;">Nearly 2 hours of energized networking!</span>**
+But here's what makes this Forum truly special &ndash; **<span style="color: red;">Nearly 2 hours of energized networking!</span>**
 
 After comprehensive presentations on battery science, investment wisdom, and practical resources for global expansion, we're dedicating extended time for the kind of **active, interactive, energized networking you can only experience at K-PAI**. Connect with battery engineers, AI researchers, investors, founders, legal professionals, and fellow innovators in an environment designed for meaningful conversations and lasting relationships.
 
@@ -63,8 +63,8 @@ After comprehensive presentations on battery science, investment wisdom, and pra
 
 <div class="img-container-justified">
 &nbsp;
-<img style="max-width: 37.87%" src="/resource/org-logos/erudio-logo-01.png">
-<img style="max-width: 52.13%" src="/resource/org-logos/lg-electronics-logo.png">
+<img style="max-width: 37.87%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/erudio-logo-01.png">
+<img style="max-width: 52.13%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/lg-electronics-logo.png">
 &nbsp;
 </div>
 
