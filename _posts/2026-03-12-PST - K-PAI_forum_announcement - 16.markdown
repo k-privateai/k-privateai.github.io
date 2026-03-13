@@ -1,6 +1,6 @@
 ---
 date: Thu Mar 12 17:01:32 PDT 2026
-last_modified_at: Thu Mar 12 18:41:37 PDT 2026
+last_modified_at: Thu Mar 12 21:55:53 PDT 2026
 layout: single
 title: "K-PAI's 16th Chapter - K-PAI X LGE Forum: Next-Generation Computing & AI Security Forum"
 permalink: /event-announcements/16
@@ -204,18 +204,20 @@ For researchers, this session reveals what one of the world's largest electronic
 &ndash;
 LG Global Recruiting Office (GRO)
 
-**Presenter**: <a target="_blank" href="https://www.linkedin.com/in/youngki-an/">YoungKi An</a> - Head of Global Recruiting Office, LG Electronics
+**Presenter**
+&ndash;
+<a target="_blank" href="https://www.linkedin.com/in/youngki-an/">YoungKi An</a> - Head of Global Recruiting Office, LG Electronics
 
 After the technical deep-dives, LG's Global Recruiting Office will share insights into career opportunities at LG Electronics for researchers, engineers, and innovators passionate about next-generation computing, AI security, and privacy-preserving systems.
 
-**What You'll Learn:**
+**What You'll Learn**
 
 - LG Electronics' research priorities and expansion areas in Silicon Valley and Korea
 - Open positions in AI security, cryptography, edge computing, and related fields
 - How LG supports researchers transitioning between academia and industry
 - Global career pathways within LG's innovation ecosystem
 
-**Why This Matters:**
+**Why This Matters**
 
 If the technical talks inspire you to work on these problems at scale, this is your chance to learn how. LG is actively building teams in exactly these areas—and K-PAI members are ideal candidates.
 
@@ -229,38 +231,38 @@ This is K-PAI's way of adding **fun** to forums—because serious technical cont
 
 **Over an hour of networking!**
 
-Dinner and refreshments, generously sponsored by **LG Electronics North America**, create the perfect environment for meaningful connections:
+Dinner and refreshments, generously sponsored by **LG Electronics North America**, create the perfect environment for meaningful connections.
 
-**Professional Connections:**
+**Professional Connections**
 - Meet LG researchers and recruiters (potential collaborators or employers!)
 - Connect with security researchers, cryptographers, AI engineers
 - Discover career opportunities in quantum-resistant cryptography and AI security
 - Build relationships across Korean and Silicon Valley tech ecosystems
 
-**Technical Exchange:**
+**Technical Exchange**
 - Discuss homomorphic encryption implementation challenges with people deploying it
 - Explore AI security architectures with practitioners defending real systems
 - Share insights on edge intelligence and privacy-preserving computation
 - Debate the future of encrypted computation and quantum threats
 
-**Cross-Pollination:**
+**Cross-Pollination**
 - Security researchers meet AI engineers (defense strategies emerge)
 - Cryptographers meet product builders (practical constraints clarify theory)
 - Academic researchers meet industry practitioners (collaboration opportunities form)
 - Founders meet engineers (teams get built)
 
-**Cultural Community:**
+**Cultural Community**
 - Connect with fellow Korean professionals navigating Silicon Valley's security landscape
 - Learn about opportunities at LG and other Korean tech leaders
 - Share experiences and build the support network that matters
 
-**Pro Tips for Networking Success:**
+**Pro Tips for Networking Success**
 
 1. **Ask about implementation details!** These speakers are deploying this tech in production—go deep.
-2. **Connect researchers with complementary expertise.** "You work on FHE optimization? Meet someone doing edge AI deployment."
-3. **Follow up within 48 hours!** Security and crypto communities are tight-knit—make the connection count.
-4. **Explore career opportunities thoughtfully.** LG is hiring, and K-PAI members have the right background.
-5. **Have fun!** The raffle, the food, the conversations—enjoy the community we've built.
+1. **Connect researchers with complementary expertise.** "You work on FHE optimization? Meet someone doing edge AI deployment."
+1. **Follow up within 48 hours!** Security and crypto communities are tight-knit—make the connection count.
+1. **Explore career opportunities thoughtfully.** LG is hiring, and K-PAI members have the right background.
+1. **Have fun!** The raffle, the food, the conversations—enjoy the community we've built.
 
 # Dinner & Venue Sponsor - LG Electronics North America
 
@@ -282,6 +284,7 @@ LG's Silicon Valley Lab serves as a critical innovation hub, connecting LG's glo
 
 When a company deploying AI in hundreds of millions of devices worldwide invests in homomorphic encryption and quantum-resistant security, it signals where the industry is heading. LG isn't just researching these technologies academically—they're building them into products that will reach consumers globally.
 
+<!--
 **Recruiting at the Intersection of Security and AI:**
 
 LG's Global Recruiting Office is actively seeking researchers and engineers passionate about:
@@ -290,6 +293,7 @@ LG's Global Recruiting Office is actively seeking researchers and engineers pass
 - Edge intelligence and efficient computation
 - Quantum-resistant cryptography
 - Next-generation computing architectures
+-->
 
 Tonight's GRO session provides insights into joining teams working on exactly the problems presented in this forum.
 
