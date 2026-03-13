@@ -1,6 +1,6 @@
 ---
 date: Thu Mar 12 17:01:32 PDT 2026
-last_modified_at: Thu Mar 12 23:31:18 PDT 2026
+last_modified_at: Fri Mar 13 02:55:58 PDT 2026
 layout: single
 title: "K-PAI's 16th Chapter - K-PAI X LGE Forum: Next-Generation Computing & AI Security Forum"
 permalink: /event-announcements/16
@@ -84,10 +84,7 @@ As AI systems scale exponentially and quantum computers advance toward breaking 
 
 [Mar-2026 K-PAI Forum]({{ page.url }}) brings together **three leading LG Electronics researchers** to address these questions with real-world solutions, followed by networking time to connect with security professionals, cryptographers, AI researchers, and fellow innovators.
 
-<!--
-- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/[LUMA_LINK_HERE]">this link</a>!</strong></font>
--->
-- <font color="red"><strong>RSVP link coming very soon! Check back here or watch for announcements via email and KakaoTalk!</strong></font>
+- <font color="red"><strong>Please RSVP via <a target="_blank" href="https://luma.com/6z07hik5">this link</a>!</strong></font>
 - Please visit [K-PAI Membership](/membership){:target="_blank"} to learn about our K-PAI membership for qualification and all exclusive perks you can enjoy!
 - Join us at K-PAI Members Kakaotalk Chatroom using [this info](/#join-us-at-kakaotalk){:target="_blank"} (if you're qualified)!
 
