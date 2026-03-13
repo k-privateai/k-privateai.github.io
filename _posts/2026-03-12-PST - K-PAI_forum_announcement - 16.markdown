@@ -1,8 +1,8 @@
 ---
 date: Thu Mar 12 17:01:32 PDT 2026
-last_modified_at: Thu Mar 12 18:33:51 PDT 2026
+last_modified_at: Thu Mar 12 18:41:37 PDT 2026
 layout: single
-title: "K-PAI's 16th Chapter: The Quantum Shield - Securing AI in the Post-Quantum Era"
+title: "K-PAI's 16th Chapter - K-PAI X LGE Forum: Next-Generation Computing & AI Security Forum"
 permalink: /event-announcements/16
 categories:
  - blog
