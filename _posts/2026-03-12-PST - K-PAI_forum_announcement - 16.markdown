@@ -1,6 +1,6 @@
 ---
 date: Thu Mar 12 17:01:32 PDT 2026
-last_modified_at: Thu Mar 12 18:22:36 PDT 2026
+last_modified_at: Thu Mar 12 18:33:51 PDT 2026
 layout: single
 title: "K-PAI's 16th Chapter: The Quantum Shield - Securing AI in the Post-Quantum Era"
 permalink: /event-announcements/16
@@ -66,6 +66,10 @@ Plus
 
 <div id="lg-logo" class="img-container">
 <img style="max-width: 80%" src="https://sungheeyun-photos-02.github.io/resource/org-logos/lg-electronics-logo.png">
+</div>
+
+<div id="map" class="img-container">
+<img id="map" src="https://sungheeyun-photos-01.github.io/resource/k-privateai.github.io/forums/05/parking-info-25-reduced.jpeg">
 </div>
 
 ## Why This Forum Matters
