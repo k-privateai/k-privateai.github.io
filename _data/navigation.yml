@@ -1,0 +1,27 @@
+main:
+  - title: "About"
+    url: /about
+#  - title: "Activities"
+#    url: /activities
+#  - title: "TMKP"
+#    url: /kptm
+#  - title: "Meetings"
+#    url: /meetings
+#  - title: "AUCTION"
+#    url: /auction-2026-new-year-party
+#  - title: "PRIZES"
+#    url: /prizes-2026-new-year-party
+#  - title: "Board"
+#    url: /board
+#  - title: "Groups"
+#    url: /groups
+#  - title: "I recommend ..."
+#    url: /i-recommend
+  - title: "Posts"
+    url: /posts
+#  - title: "Tags"
+#    url: /tags
+#  - title: "Membership"
+#    url: /membership
+#  - title: "Committee"
+#    url: /committee

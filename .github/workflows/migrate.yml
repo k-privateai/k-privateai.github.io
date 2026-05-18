@@ -1,0 +1,48 @@
+name: Migrate Jekyll content to Astro
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '_posts/**'
+      - '_pages/**'
+      - '_data/**'
+      - '_includes/**'
+      - 'index.html'
+      - '_config.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        working-directory: astro-site
+        run: npm install
+
+      - name: Run migration
+        working-directory: astro-site
+        run: npm run migrate:all
+
+      - name: Commit migrated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add astro-site/src/content/ astro-site/src/pages/ astro-site/src/data/
+          if git diff --cached --quiet; then
+            echo "No migration changes to commit"
+          else
+            git commit -m "chore: auto-migrate Jekyll content to Astro"
+            git push
+          fi
