@@ -1,0 +1,65 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts");
+  const tags = new Set<string>();
+
+  posts.forEach((post) => {
+    (post.data.tags || []).forEach((tag) => tags.add(tag));
+  });
+
+  return [...tags].map((tag) => ({ params: { tag } }));
+}
+
+const { tag } = Astro.params;
+const posts = (await getCollection("posts"))
+  .filter((p) => p.data.tags?.includes(tag))
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+---
+
+<BaseLayout title={`Tag: ${tag}`} description={`Posts tagged with ${tag}`}>
+  <div class="max-w-4xl mx-auto">
+    <h1 class="text-4xl font-bold mb-4">#{tag}</h1>
+    <p class="text-gray-600 mb-8">
+      {posts.length} post{posts.length !== 1 ? "s" : ""}
+    </p>
+
+    <ul class="space-y-4">
+      {
+        posts.map((post) => (
+          <li class="border-b pb-4">
+            <a
+              href={`/posts/${post.slug}/`}
+              class="text-xl font-semibold text-blue-600 hover:text-blue-800 hover:underline"
+            >
+              {post.data.title}
+            </a>
+            <div class="flex items-center gap-4 mt-2 text-sm text-gray-600">
+              <time datetime={post.data.date.toISOString()}>
+                {post.data.date.toLocaleDateString("en-US", {
+                  year: "numeric",
+                  month: "long",
+                  day: "numeric",
+                })}
+              </time>
+              {post.data.excerpt && (
+                <span class="text-gray-500">• {post.data.excerpt}</span>
+              )}
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+
+    <div class="mt-8 pt-8 border-t">
+      <a
+        href="/tags/"
+        class="text-blue-600 hover:text-blue-800 hover:underline"
+      >
+        ← View all tags
+      </a>
+    </div>
+  </div>
+</BaseLayout>

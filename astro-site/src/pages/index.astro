@@ -1,0 +1,552 @@
+---
+import { getCollection } from "astro:content";
+import SuperpowerNav from "../components/SuperpowerNav.astro";
+import Footer from "../components/Footer.astro";
+import SeoHead from "../components/SeoHead.astro";
+import "../styles/global.css";
+
+const posts = await getCollection("posts");
+const recentPosts = posts
+  .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
+  .slice(0, 3);
+
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <SeoHead
+      title="K-PAI | Silicon Valley Privacy-Preserving AI Forum"
+      description="Join K-PAI, the premier community for privacy-preserving AI research and development in Silicon Valley. Advancing AI ethics, security, and innovation."
+      canonical={canonicalURL.toString()}
+    />
+  </head>
+  <body class="bg-white">
+    <!-- Navigation Component (outside of sticky container for proper z-index) -->
+    <SuperpowerNav isHeroPage={true} />
+
+    <!-- Hero Section with Video Background -->
+    <div class="hero-scroll-container" id="hero-scroll-container">
+      <section class="hero-section hero-sticky" id="hero-section">
+        <!-- Background Video -->
+        <div class="hero-video-container" id="hero-video-container">
+          <video
+            autoplay
+            muted
+            loop
+            playsinline
+            class="hero-video"
+            id="hero-video"
+          >
+            <source src="/assets/images/video/landing_page.mp4" type="video/mp4" />
+          </video>
+          <div class="hero-video-overlay" id="hero-video-overlay"></div>
+        </div>
+
+        <div class="grid-pattern"></div>
+
+        <!-- Hero Content (will fade on scroll) -->
+        <div class="relative z-10 text-center px-4 max-w-5xl mx-auto hero-content" id="hero-content">
+          <div class="fade-in-up visible">
+            <span class="badge mb-6">Silicon Valley Community</span>
+          </div>
+
+          <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight fade-in-up visible delay-100">
+            Privacy-Preserving
+            <span class="text-gradient block mt-2">AI Forum</span>
+          </h1>
+
+          <p class="text-lg md:text-xl text-gray-400 max-w-2xl mx-auto mb-10 fade-in-up visible delay-200">
+            Advancing the future of AI with privacy, security, and ethics at the core.
+            Join the leading community of researchers and engineers in Silicon Valley.
+          </p>
+
+          <div class="flex flex-col sm:flex-row items-center justify-center gap-4 fade-in-up visible delay-300">
+            <a href="https://lu.ma/kpai" target="_blank" rel="noopener noreferrer" class="btn-primary">
+              RSVP on Luma
+              <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
+            </a>
+            <a href="/about/" class="btn-secondary">
+              Learn More
+            </a>
+          </div>
+
+        </div>
+      </section>
+    </div>
+
+    <!-- Hero Scroll Interaction Script -->
+    <script>
+      const heroScrollContainer = document.getElementById('hero-scroll-container');
+      const heroSection = document.getElementById('hero-section');
+      const heroContent = document.getElementById('hero-content');
+      const heroVideoContainer = document.getElementById('hero-video-container');
+      const heroVideoOverlay = document.getElementById('hero-video-overlay');
+
+      // Scroll distance for video shrink animation (in pixels)
+      const SHRINK_SCROLL_DISTANCE = 300;
+
+      function handleHeroScroll() {
+        const scrollY = window.scrollY;
+
+        // Phase 1: Video shrinking (0 to SHRINK_SCROLL_DISTANCE)
+        const shrinkProgress = Math.min(scrollY / SHRINK_SCROLL_DISTANCE, 1);
+
+        if (heroContent) {
+          // Fade out content
+          heroContent.style.opacity = String(1 - shrinkProgress);
+          heroContent.style.transform = `translateY(${-shrinkProgress * 30}px)`;
+        }
+
+        if (heroVideoContainer) {
+          // Scale down subtly (100% to 95%)
+          const scale = 1 - (shrinkProgress * 0.05);
+          const borderRadius = shrinkProgress * 24;
+          const inset = shrinkProgress * 16;
+          heroVideoContainer.style.transform = `scale(${scale})`;
+          heroVideoContainer.style.borderRadius = `${borderRadius}px`;
+          heroVideoContainer.style.top = `${inset}px`;
+          heroVideoContainer.style.left = `${inset}px`;
+          heroVideoContainer.style.right = `${inset}px`;
+          heroVideoContainer.style.bottom = `${inset}px`;
+        }
+
+        if (heroVideoOverlay) {
+          const overlayOpacity = 0.6 - (shrinkProgress * 0.3);
+          heroVideoOverlay.style.background = `rgba(15, 15, 26, ${overlayOpacity})`;
+        }
+      }
+
+      window.addEventListener('scroll', handleHeroScroll);
+      handleHeroScroll();
+    </script>
+
+    <!-- Partners Section -->
+    <section class="py-8 bg-white border-b">
+      <div class="container mx-auto px-4">
+        <div class="flex flex-wrap items-center justify-center gap-10 md:gap-16">
+          <a href="https://www.connectkotrasv.org/" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
+            <img src="/resource/org-logos/kotra-silicon-valley-logo.jpeg" alt="KOTRA Silicon Valley" class="h-10 w-auto grayscale hover:grayscale-0 transition-all" />
+          </a>
+          <a href="https://kbiox.net/" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
+            <img src="/resource/org-logos/k-biox-logo-02.png" alt="K-BioX" class="h-10 w-auto grayscale hover:grayscale-0 transition-all" />
+          </a>
+          <a href="https://overseas.mofa.go.kr/us-sanfrancisco-ko/index.do" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
+            <img src="/resource/org-logos/korean-consulate-general-san-francisco-logo.png" alt="Consulate General of Republic of Korea" class="h-10 w-auto grayscale hover:grayscale-0 transition-all" />
+          </a>
+          <a href="https://www.kabanc.com/" target="_blank" rel="noopener noreferrer" class="flex-shrink-0">
+            <img src="/resource/org-logos/kabanc-logo-01.jpeg" alt="KABANC" class="h-10 w-auto grayscale hover:grayscale-0 transition-all" />
+          </a>
+          <div class="flex-shrink-0">
+            <img src="/assets/images/SNU-logo.png" alt="Seoul National University" class="h-10 w-auto grayscale hover:grayscale-0 transition-all" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="py-16 bg-white border-b">
+      <div class="container mx-auto px-4">
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+          <div class="fade-in-up">
+            <div class="stat-number">50+</div>
+            <p class="text-gray-600 mt-2 font-medium">Active Members</p>
+          </div>
+          <div class="fade-in-up delay-100">
+            <div class="stat-number">20+</div>
+            <p class="text-gray-600 mt-2 font-medium">Events Hosted</p>
+          </div>
+          <div class="fade-in-up delay-200">
+            <div class="stat-number">10+</div>
+            <p class="text-gray-600 mt-2 font-medium">Research Topics</p>
+          </div>
+          <div class="fade-in-up delay-300">
+            <div class="stat-number">5+</div>
+            <p class="text-gray-600 mt-2 font-medium">Years Active</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="section bg-gray-50">
+      <div class="container mx-auto px-4">
+        <div class="text-center max-w-3xl mx-auto mb-16">
+          <span class="badge mb-4">What We Do</span>
+          <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+            Empowering Privacy in AI
+          </h2>
+          <p class="text-gray-600 text-lg">
+            We bring together the brightest minds to solve the most challenging problems
+            in privacy-preserving artificial intelligence.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+          <!-- Feature 1 -->
+          <div class="feature-card fade-in-up">
+            <div class="icon-container mb-6">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-3">Privacy Research</h3>
+            <p class="text-gray-600">
+              Exploring cutting-edge techniques in differential privacy, federated learning,
+              and secure multi-party computation.
+            </p>
+          </div>
+
+          <!-- Feature 2 -->
+          <div class="feature-card fade-in-up delay-100">
+            <div class="icon-container mb-6">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-3">Community Events</h3>
+            <p class="text-gray-600">
+              Regular meetups, seminars, and workshops connecting researchers,
+              engineers, and industry leaders.
+            </p>
+          </div>
+
+          <!-- Feature 3 -->
+          <div class="feature-card fade-in-up delay-200">
+            <div class="icon-container mb-6">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-3">Knowledge Sharing</h3>
+            <p class="text-gray-600">
+              Publishing research, best practices, and insights on privacy-preserving
+              AI technologies and applications.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Upcoming Events Section -->
+    <section class="section bg-white">
+      <div class="container mx-auto px-4">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-12">
+          <div>
+            <span class="badge mb-4">Next Up</span>
+            <h2 class="text-3xl md:text-4xl font-bold text-gray-900">
+              Upcoming Events
+            </h2>
+          </div>
+          <a href="/events/" class="text-[var(--color-primary)] font-semibold hover:underline mt-4 md:mt-0 flex items-center">
+            View all events
+            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+          <!-- Event 1 - Highlighted -->
+          <div class="relative p-6 rounded-2xl border border-[var(--color-primary)] bg-purple-50/50 fade-in-up">
+            <span class="inline-block px-2 py-0.5 text-xs font-semibold bg-[var(--color-primary)] text-white rounded-full mb-3">Next Event</span>
+            <h3 class="text-lg font-bold text-gray-900 mb-2">Voltage Valley - Silicon, Batteries, and the Future of Energy Intelligence</h3>
+            <div class="text-sm text-gray-600 space-y-1 mb-4">
+              <p class="flex items-center gap-1.5">
+                <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+                25-Feb-2026 (Wed) 5pm–8pm
+              </p>
+              <p class="flex items-center gap-1.5">
+                <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                <a href="https://maps.app.goo.gl/9fQSDnc72u7CE4P69" target="_blank" rel="noopener noreferrer" class="text-[var(--color-primary)] hover:underline">LG Silicon Valley Lab</a>
+              </p>
+            </div>
+            <a href="https://lu.ma/kpai" target="_blank" rel="noopener noreferrer" class="btn-primary text-sm !py-2 !px-4">
+              RSVP
+              <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
+            </a>
+          </div>
+
+          <!-- Event 2 -->
+          <div class="p-6 rounded-2xl border border-gray-200 bg-white fade-in-up delay-100">
+            <h3 class="text-lg font-bold text-gray-900 mb-2">Edge Intelligence - Privacy-Preserving AI at the Network Periphery</h3>
+            <div class="text-sm text-gray-600 space-y-1">
+              <p class="flex items-center gap-1.5">
+                <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+                18-Mar-2026 (Wed) 5pm–8pm
+              </p>
+              <p class="flex items-center gap-1.5">
+                <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                Venue TBD
+              </p>
+            </div>
+          </div>
+
+          <!-- Event 3 -->
+          <div class="p-6 rounded-2xl border border-gray-200 bg-white fade-in-up delay-200">
+            <h3 class="text-lg font-bold text-gray-900 mb-2">Digital Sovereignty - Data Governance in the Age of AI Regulations</h3>
+            <div class="text-sm text-gray-600 space-y-1">
+              <p class="flex items-center gap-1.5">
+                <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+                15-Apr-2026 (Wed) 5pm–8pm
+              </p>
+              <p class="flex items-center gap-1.5">
+                <svg class="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                Venue TBD
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Podcasts Section -->
+    <section class="section bg-gray-50">
+      <div class="container mx-auto px-4">
+        <div class="text-center max-w-3xl mx-auto mb-12">
+          <span class="badge mb-4">Listen & Watch</span>
+          <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+            K-PAI Podcasts
+          </h2>
+          <p class="text-gray-600 text-lg">
+            AI-generated podcasts exploring privacy-preserving AI, digital sovereignty, and neural data protection.
+          </p>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-6 max-w-5xl mx-auto mb-8">
+          <!-- Video Podcast 1 -->
+          <div class="rounded-2xl overflow-hidden border border-gray-200 bg-white fade-in-up">
+            <div class="bg-[var(--color-dark)] text-white p-4">
+              <h3 class="font-semibold text-sm">K-PAI - Privacy in AI</h3>
+              <span class="text-xs text-gray-400">(06:32)</span>
+            </div>
+            <div class="p-4">
+              <video class="w-full rounded-lg" controls preload="metadata">
+                <source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/K-PAI__Privacy_in_AI.mp4" />
+                Your browser does not support this video element.
+              </video>
+            </div>
+          </div>
+
+          <!-- Video Podcast 2 -->
+          <div class="rounded-2xl overflow-hidden border border-gray-200 bg-white fade-in-up delay-100">
+            <div class="bg-[var(--color-dark)] text-white p-4">
+              <h3 class="font-semibold text-sm">K-PAI - AI & Privacy</h3>
+              <span class="text-xs text-gray-400">(06:14)</span>
+            </div>
+            <div class="p-4">
+              <video class="w-full rounded-lg" controls preload="metadata">
+                <source type="video/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/K-PAI__AI_and_Privacy.mp4" />
+                Your browser does not support this video element.
+              </video>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid md:grid-cols-2 gap-6 max-w-5xl mx-auto">
+          <!-- Audio Podcast 1 -->
+          <div class="rounded-2xl overflow-hidden border border-gray-200 bg-white fade-in-up delay-200">
+            <div class="bg-[var(--color-dark)] text-white p-4">
+              <h3 class="font-semibold text-sm leading-snug">Beyond Encryption - Inside the K-PAI Roadmap for Privacy-Preserving AI</h3>
+              <span class="text-xs text-gray-400">(13:36)</span>
+            </div>
+            <div class="p-4">
+              <audio controls class="w-full" preload="metadata">
+                <source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/Beyond_Encryption__Inside_the_K-PAI_Roadmap_for_Privacy-Preserv.m4a" />
+              </audio>
+            </div>
+          </div>
+
+          <!-- Audio Podcast 2 -->
+          <div class="rounded-2xl overflow-hidden border border-gray-200 bg-white fade-in-up delay-300">
+            <div class="bg-[var(--color-dark)] text-white p-4">
+              <h3 class="font-semibold text-sm leading-snug">Decoding K-PAI - The Global Roadmap for Privacy-Preserving AI</h3>
+              <span class="text-xs text-gray-400">(15:34)</span>
+            </div>
+            <div class="p-4">
+              <audio controls class="w-full" preload="metadata">
+                <source type="audio/mp4" src="https://sungheeyun-podcasts-02.github.io/resource/k-privateai.github.io/Decoding_K-PAI_The_Global_Roadmap_for_Privacy-Preserving_AI,_Fr.m4a" />
+              </audio>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Recent Posts Section -->
+    <section class="section bg-white">
+      <div class="container mx-auto px-4">
+        <div class="flex flex-col md:flex-row md:items-end md:justify-between mb-12">
+          <div>
+            <span class="badge mb-4">Latest Updates</span>
+            <h2 class="text-3xl md:text-4xl font-bold text-gray-900">
+              Recent Posts
+            </h2>
+          </div>
+          <a href="/posts/1/" class="text-[var(--color-primary)] font-semibold hover:underline mt-4 md:mt-0 flex items-center">
+            View all posts
+            <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+            </svg>
+          </a>
+        </div>
+
+        <div class="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
+          {
+            recentPosts.map((post, index) => (
+              <article class={`post-card fade-in-up delay-${(index + 1) * 100}`}>
+                <time class="text-sm text-gray-500 mb-3 block">
+                  {post.data.date.toLocaleDateString("en-US", {
+                    year: "numeric",
+                    month: "long",
+                    day: "numeric",
+                  })}
+                </time>
+                <h3 class="text-xl font-bold text-gray-900 mb-3 line-clamp-2">
+                  <a
+                    href={`/posts/${post.slug}/`}
+                    class="hover:text-[var(--color-primary)] transition-colors"
+                  >
+                    {post.data.title}
+                  </a>
+                </h3>
+                {post.data.excerpt && (
+                  <p class="text-gray-600 text-sm line-clamp-3">{post.data.excerpt}</p>
+                )}
+                <a
+                  href={`/posts/${post.slug}/`}
+                  class="inline-flex items-center text-[var(--color-primary)] font-medium text-sm mt-4 hover:underline"
+                >
+                  Read more
+                  <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                  </svg>
+                </a>
+              </article>
+            ))
+          }
+        </div>
+      </div>
+    </section>
+
+    <!-- Quick Links Section -->
+    <section class="section bg-gray-50">
+      <div class="container mx-auto px-4">
+        <div class="text-center max-w-3xl mx-auto mb-12">
+          <span class="badge mb-4">Explore</span>
+          <h2 class="text-3xl md:text-4xl font-bold text-gray-900">
+            Get Involved
+          </h2>
+        </div>
+
+        <div class="grid md:grid-cols-4 gap-6 max-w-6xl mx-auto">
+          <a href="/events/" class="feature-card group fade-in-up">
+            <div class="icon-container mb-6 group-hover:scale-110 transition-transform">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Events</h3>
+            <p class="text-gray-600 text-sm">
+              Monthly forums and upcoming events calendar
+            </p>
+          </a>
+
+          <a href="/activities/" class="feature-card group fade-in-up delay-100">
+            <div class="icon-container mb-6 group-hover:scale-110 transition-transform">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19.428 15.428a2 2 0 00-1.022-.547l-2.387-.477a6 6 0 00-3.86.517l-.318.158a6 6 0 01-3.86.517L6.05 15.21a2 2 0 00-1.806.547M8 4h8l-1 1v5.172a2 2 0 00.586 1.414l5 5c1.26 1.26.367 3.414-1.415 3.414H4.828c-1.782 0-2.674-2.154-1.414-3.414l5-5A2 2 0 009 10.172V5L8 4z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Activities</h3>
+            <p class="text-gray-600 text-sm">
+              Strategic partnerships and collaborative initiatives
+            </p>
+          </a>
+
+          <a href="/committee/" class="feature-card group fade-in-up delay-200">
+            <div class="icon-container mb-6 group-hover:scale-110 transition-transform">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Committee</h3>
+            <p class="text-gray-600 text-sm">
+              Meet the dedicated team leading K-PAI
+            </p>
+          </a>
+
+          <a href="/board/" class="feature-card group fade-in-up delay-300">
+            <div class="icon-container mb-6 group-hover:scale-110 transition-transform">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-900 mb-2">Board</h3>
+            <p class="text-gray-600 text-sm">
+              Community announcements and messages
+            </p>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-24 bg-[var(--gradient-dark)] relative overflow-hidden">
+      <div class="absolute inset-0 grid-pattern opacity-50"></div>
+      <div class="container mx-auto px-4 relative z-10">
+        <div class="text-center max-w-3xl mx-auto">
+          <h2 class="text-3xl md:text-5xl font-bold text-white mb-6">
+            Ready to Join the Future of
+            <span class="text-gradient"> Privacy-Preserving AI?</span>
+          </h2>
+          <p class="text-gray-400 text-lg mb-10">
+            Become a member of K-PAI and connect with leading experts in the field.
+            Together, we're building a more private and secure AI future.
+          </p>
+          <div class="flex flex-col sm:flex-row items-center justify-center gap-4">
+            <a href="https://lu.ma/kpai" target="_blank" rel="noopener noreferrer" class="btn-primary">
+              RSVP on Luma
+              <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
+            </a>
+            <a href="mailto:k.private.ai@gmail.com" class="btn-secondary">
+              Contact Us
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <Footer />
+
+    <!-- Scroll Animation Script -->
+    <script>
+      // Intersection Observer for fade-in animations
+      const observerOptions = {
+        root: null,
+        rootMargin: '0px',
+        threshold: 0.1
+      };
+
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+          }
+        });
+      }, observerOptions);
+
+      document.querySelectorAll('.fade-in-up, .fade-in, .scale-in').forEach(el => {
+        // Skip hero elements that are already visible
+        if (!el.classList.contains('visible')) {
+          observer.observe(el);
+        }
+      });
+    </script>
+  </body>
+</html>

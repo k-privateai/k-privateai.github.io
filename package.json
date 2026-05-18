@@ -1,0 +1,10 @@
+{
+  "name": "k-privateai-monorepo",
+  "private": true,
+  "workspaces": ["astro-site"],
+  "scripts": {
+    "dev": "npm run dev -w astro-site",
+    "build": "npm run build -w astro-site",
+    "preview": "npm run preview -w astro-site"
+  }
+}

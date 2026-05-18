@@ -1,0 +1,183 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1771525187770,
+  "projectRoot": "/Users/jeongjuyeong/StudioProjects/k-privateai.github.io",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "Ruby",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "Gemfile"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "bundler",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "npm run build",
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": "npm run dev",
+    "scripts": {
+      "dev": "npm run dev -w astro-site",
+      "build": "npm run build -w astro-site",
+      "preview": "npm run preview -w astro-site"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": true,
+    "workspaces": [
+      "astro-site"
+    ],
+    "mainDirectories": [
+      "assets"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "_data": {
+      "path": "_data",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1771525187668,
+      "keyFiles": [
+        "navigation.yml"
+      ]
+    },
+    "_includes": {
+      "path": "_includes",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1771525187672,
+      "keyFiles": []
+    },
+    "_layouts": {
+      "path": "_layouts",
+      "purpose": null,
+      "fileCount": 15,
+      "lastAccessed": 1771525187706,
+      "keyFiles": [
+        "archive-taxonomy.html",
+        "archive.html",
+        "categories.html",
+        "category.html",
+        "collection.html"
+      ]
+    },
+    "_pages": {
+      "path": "_pages",
+      "purpose": null,
+      "fileCount": 17,
+      "lastAccessed": 1771525187723,
+      "keyFiles": [
+        "404.md",
+        "K-PAI_Strategic_BrandingBrief_V_1_FORMATTED.md",
+        "about.md",
+        "activities.md",
+        "auction-2026-new-year-party.md"
+      ]
+    },
+    "_posts": {
+      "path": "_posts",
+      "purpose": null,
+      "fileCount": 25,
+      "lastAccessed": 1771525187727,
+      "keyFiles": [
+        "2024-10-07-PDT - K-PAI seminar series invitation.markdown",
+        "2024-10-07-PDT - KPAI seminar invitation.markdown",
+        "2024-11-20-PDT - K-PAI 2nd seminar.markdown",
+        "2024-11-24-PST - K-PAI seminar announcement - 03.markdown",
+        "2025-01-28-PST - K-PAI seminar reflection - 03.markdown"
+      ]
+    },
+    "_python": {
+      "path": "_python",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1771525187727,
+      "keyFiles": []
+    },
+    "assets": {
+      "path": "assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1771525187728,
+      "keyFiles": []
+    },
+    "astro-site": {
+      "path": "astro-site",
+      "purpose": null,
+      "fileCount": 8,
+      "lastAccessed": 1771525187728,
+      "keyFiles": [
+        "CLAUDE.md",
+        "README.md",
+        "TECHSPEC.md",
+        "astro.config.mjs",
+        "package-lock.json"
+      ]
+    },
+    "resource": {
+      "path": "resource",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1771525187729,
+      "keyFiles": [
+        "styles.css"
+      ]
+    },
+    "_python/bin": {
+      "path": "_python/bin",
+      "purpose": "Executable scripts",
+      "fileCount": 5,
+      "lastAccessed": 1771525187732,
+      "keyFiles": [
+        "convert-k-pai-registrants-to-google-contacts.py",
+        "k-pai-registrants-5-in-google-contacts-format.csv",
+        "k-pai-registrants-6-in-google-contacts-format.csv"
+      ]
+    },
+    "astro-site/dist": {
+      "path": "astro-site/dist",
+      "purpose": "Distribution/build output",
+      "fileCount": 3,
+      "lastAccessed": 1771525187733,
+      "keyFiles": [
+        "404.html",
+        "favicon.svg",
+        "index.html"
+      ]
+    },
+    "astro-site/node_modules": {
+      "path": "astro-site/node_modules",
+      "purpose": "Dependencies",
+      "fileCount": 1,
+      "lastAccessed": 1771525187769,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

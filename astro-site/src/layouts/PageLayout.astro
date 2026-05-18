@@ -1,0 +1,98 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="max-w-4xl mx-auto">
+    <div class="prose prose-lg max-w-none">
+      <slot />
+    </div>
+  </div>
+</BaseLayout>
+
+<style is:global>
+  /* Same prose styling as PostLayout */
+  .prose {
+    color: #374151;
+  }
+
+  .prose h1 {
+    font-size: 2.25rem;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+    color: #111827;
+  }
+
+  .prose h2 {
+    font-size: 1.875rem;
+    font-weight: 700;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: #111827;
+  }
+
+  .prose h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    color: #111827;
+  }
+
+  .prose p {
+    margin-bottom: 1.25rem;
+    line-height: 1.75;
+  }
+
+  .prose a {
+    color: #2563eb;
+    text-decoration: underline;
+  }
+
+  .prose a:hover {
+    color: #1d4ed8;
+  }
+
+  .prose ul,
+  .prose ol {
+    margin-bottom: 1.25rem;
+    padding-left: 1.5rem;
+  }
+
+  .prose li {
+    margin-bottom: 0.5rem;
+  }
+
+  .prose img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.5rem;
+    margin: 1.5rem 0;
+  }
+
+  .prose table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+  }
+
+  .prose th {
+    background-color: #f9fafb;
+    font-weight: 600;
+    text-align: left;
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
+  }
+
+  .prose td {
+    padding: 0.75rem;
+    border: 1px solid #e5e7eb;
+  }
+</style>

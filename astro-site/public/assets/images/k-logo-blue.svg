@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Outer decorative circle (braided/lattice style) -->
+  <circle cx="100" cy="100" r="95" fill="none" stroke="#00509E" stroke-width="8"/>
+  <!--circle cx="100" cy="100" r="88" fill="none" stroke="#1a1a1a" stroke-width="2"/-->
+  
+  <!-- Decorative lattice pattern elements around the circle -->
+  <g stroke="#00509E" stroke-width="3" fill="none">
+    <!-- Top -->
+    <!--path d="M 85,15 Q 100,10 115,15"/>
+    <path d="M 80,20 Q 100,16 120,20"/-->
+    
+    <!-- Right -->
+    <!--path d="M 185,85 Q 190,100 185,115"/>
+    <path d="M 180,80 Q 184,100 180,120"/-->
+    
+    <!-- Bottom -->
+    <!--path d="M 115,185 Q 100,190 85,185"/>
+    <path d="M 120,180 Q 100,184 80,180"/-->
+    
+    <!-- Left -->
+    <!--path d="M 15,115 Q 10,100 15,85"/>
+    <path d="M 20,120 Q 16,100 20,80"/-->
+  </g>
+  
+  <!-- Inner circle -->
+  <!--circle cx="100" cy="100" r="70" fill="none" stroke="#1a1a1a" stroke-width="3"/-->
+  
+  <!-- The Letter K -->
+  <g fill="#00509E">
+    <path d="M 50,35 L 70,35 L 70,95 L 129,35 L 152,35 L 93,100 L 152,165 L 129,165 L 70,105 L 70,165 L 50,165 Z"/>
+  </g>
+</svg>

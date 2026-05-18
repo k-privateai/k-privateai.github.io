@@ -1,0 +1,295 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import "../styles/global.css";
+
+const upcomingEvents2026 = [
+  {
+    title: "Voltage Valley - Silicon, Batteries, and the Future of Energy Intelligence",
+    date: "25-Feb-2026 (Wed) 5pm–8pm",
+    venue: "LG Silicon Valley Lab",
+    venueUrl: "https://maps.app.goo.gl/9fQSDnc72u7CE4P69",
+    rsvp: "https://lu.ma/kpai",
+    highlight: true,
+  },
+  {
+    title: "Edge Intelligence - Privacy-Preserving AI at the Network Periphery",
+    date: "18-Mar-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+  },
+  {
+    title: "Digital Sovereignty - Data Governance in the Age of AI Regulations",
+    date: "15-Apr-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+  },
+  {
+    title: "Neural Privacy Shields - Brain-Computer Interfaces and Mental Data Protection",
+    date: "20-May-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+  },
+  {
+    title: "Sovereign Clouds - National AI Infrastructure and Data Localization",
+    date: "17-Jun-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+  },
+  {
+    title: "Privacy-Preserving Robotics - Autonomous Systems in Shared Spaces",
+    date: "15-Jul-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+  },
+  {
+    title: "Legal Frontiers - Navigating AI's Regulatory Landscape",
+    date: "19-Aug-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+    note: "K-PAI partners with Korean American Bar Association of Northern California (KABANC)",
+  },
+  {
+    title: "The Verification Valley - AI Auditing and Compliance Automation",
+    date: "16-Sep-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+  },
+  {
+    title: "Quantum Renaissance - Post-Quantum AI and the New Cryptographic Era",
+    date: "14-Oct-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+  },
+  {
+    title: "Mirror Worlds - Digital Twins, Privacy, and the Metaverse of Things",
+    date: "18-Nov-2026 (Wed) 5pm–8pm",
+    venue: "TBD",
+  },
+  {
+    title: "K-PAI 2026 Year End Celebration!",
+    date: "09-Dec-2026",
+    venue: "TBD",
+    isSpecial: true,
+  },
+];
+
+const upcomingEvents2027 = [
+  { title: "The Quantum Menace - When Encryption Faces Its Greatest Threat", date: "20-Jan-2027", theme: "Quantum Computing & Post-Quantum Cryptography" },
+  { title: "Guardians of the Privacy Galaxy - Legal Frontiers in AI", date: "17-Feb-2027", theme: "AI Regulation, Privacy Laws & Legal Issues" },
+  { title: "Neural Awakening - The Mind-Machine Connection Revolution", date: "17-Mar-2027", theme: "Brain-Computer Interfaces & Neural Privacy" },
+  { title: "Code of Honor - Ethics in the Age of Intelligent Machines", date: "21-Apr-2027", theme: "AI Ethics, Bias, Fairness & Humanity" },
+  { title: "Fortress Protocol - Defending the Digital Realm", date: "19-May-2027", theme: "Cybersecurity, Threat Detection & Zero Trust Architecture" },
+  { title: "The Healing Algorithm - AI's Promise to Medicine", date: "16-Jun-2027", theme: "Medical AI, Drug Discovery & Personalized Healthcare" },
+  { title: "The Invisible Shield - Biometric Privacy in a Watchful World", date: "21-Jul-2027", theme: "Biometric Security, Facial Recognition & Identity Protection" },
+  { title: "Rise of the Sentinels - Enterprise AI Governance", date: "18-Aug-2027", theme: "Corporate AI Strategy, Governance & Risk Management" },
+  { title: "Green Silicon - Sustainable AI for Tomorrow's Earth", date: "15-Sep-2027", theme: "Environmental AI, Energy Efficiency & Climate Tech" },
+  { title: "The Digital Genome - Precision Medicine Meets Privacy", date: "20-Oct-2027", theme: "Genomic Privacy, Biotech AI & Precision Medicine" },
+  { title: "Silicon Justice - AI in the Courts and Constitution", date: "17-Nov-2027", theme: "AI in Legal Systems, Judicial Tech & Constitutional Rights" },
+  { title: "K-PAI 2027 Year End Celebration!", date: "08-Dec-2027", isSpecial: true },
+];
+
+const pastEvents = [
+  {
+    title: "K-PAI 2026 New Year Party",
+    date: "14-Jan-2026",
+    venue: "Alaska @ KOTRA",
+    rsvp: "https://luma.com/9xuuhnpq",
+  },
+  {
+    title: "The AI Silicon Race - Korea-US Innovation Leadership",
+    date: "12-Nov-2025",
+    venue: "Korea AI & IC Innovation Center (K·ASIC)",
+    note: "K-PAI partners with K·ASIC",
+  },
+  {
+    title: "Ad Intelligence - AI Revolution in Digital Marketing",
+    date: "08-Oct-2025",
+    venue: "Alaska @ KOTRA",
+    speakers: ["Sunghyuk Park (CEO @ Impact AI, Asst. Prof @ KAIST)", "Diko Ko (Director of Engineering @ Toss USA)"],
+  },
+  {
+    title: "Power Paradigm - AI-Driven Solutions for Energy's Future",
+    date: "29-Sep-2025",
+    venue: "Alaska @ KOTRA",
+    speakers: ["Jae-Won Chung (U of Michigan)", "Jieul Jang (Hanwha Qcells)", "Brian Shin (PG&E)", "Seong Choi (NREL)"],
+  },
+  {
+    title: "The Human-Centric AI Revolution - From Technical Compliance to Humanistic Leadership",
+    date: "20-Aug-2025",
+    venue: "EVGR Theater, Stanford University",
+    speakers: ["Natalie Huh (Quinn Emanuel)", "James Rhee with Jennifer Kim Lin"],
+  },
+  {
+    title: "Fortress Code - The New Frontier of AI Security",
+    date: "16-Jul-2025",
+    venue: "Alaska @ KIC Silicon Valley",
+    speakers: ["Prof. Gail-Joon Ahn (Arizona State University)", "Kyeyeon Kim (Co-Founder & CTO @ GENIANS)"],
+  },
+  {
+    title: "Silicon Companions - Robots and Smart Devices in Daily Life",
+    date: "18-Jun-2025",
+    venue: "Altos Ventures",
+    speakers: ["Han Kim (Altos Ventures)", "Cong Jie Ng (Mars Auto)", "Victor Cho (Emovid)", "Tae Yoon (Altos Ventures)"],
+  },
+  {
+    title: "The Autonomous Alliance - AI Agents in a Connected World",
+    date: "21-May-2025",
+    venue: "SK hynix America",
+    speakers: ["Dr. Minha Hwang (Microsoft)", "Dr. Insop Song (GitHub)", "Dr. Geunhwi Kenny Lim (Uclone)", "Dr. Hoshik Kim (SK Hynix)"],
+  },
+  {
+    title: "Advancing Humanity - Bio and Medical Technology's AI Revolution",
+    date: "22-Apr-2025",
+    venue: "Alaska, KOTRA",
+    speakers: ["HoJoon Lee (Stanford Medicine)", "Donghoon Kim (Stanford CAFN)", "Siyeon Rhee (Stanford Medicine)"],
+  },
+  {
+    title: "Blockchain Awakens - The Force of Decentralized AI",
+    date: "12-Mar-2025",
+    venue: "LG Silicon Valley Lab",
+    speakers: ["Daejun Park (a16z crypto)"],
+  },
+  {
+    title: "Silicon Citadel - Forging AI's Data Kingdoms on Iron & Sand",
+    date: "12-Feb-2025",
+    venue: "EVGR Theater, Stanford",
+    speakers: ["Chanik Park (CCO @ MangoBoost, Inc.)"],
+  },
+  {
+    title: "The AI Knight Rises - From Deep Learning to Flourishing Societies",
+    date: "22-Jan-2025",
+    venue: "Havana Room, Stanford Graduate Community Center",
+    speakers: ["Sunghee Yun (Co-founder & CTO @ Erudio Bio, Inc.)"],
+  },
+  {
+    title: "Free Your Data - HE Revolution in Private AI",
+    date: "20-Nov-2024",
+    venue: "Alaska @ KIC Silicon Valley",
+    speakers: ["Prof. Jung Hee Cheon"],
+  },
+  {
+    title: "The AI Strikes Back - A New Hope in Cryptography",
+    date: "06-Nov-2024",
+    venue: "Alaska @ KIC Silicon Valley",
+    speakers: ["Prof. Jung Hee Cheon"],
+  },
+];
+---
+
+<BaseLayout title="Events | K-PAI" description="K-PAI Forum events calendar - upcoming and past events in privacy-preserving AI">
+  <div class="max-w-6xl mx-auto px-4 lg:px-8">
+    <!-- Page Header -->
+    <div class="text-center mb-16">
+      <span class="badge mb-4">Calendar</span>
+      <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">K-PAI Events</h1>
+      <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+        Monthly forums bringing together the brightest minds in privacy-preserving AI.
+        Join us for seminars, workshops, and community events.
+      </p>
+    </div>
+
+    <!-- Upcoming Events 2026 -->
+    <section class="mb-20">
+      <div class="flex items-center gap-3 mb-8">
+        <span class="badge">2026</span>
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900">Upcoming Events</h2>
+      </div>
+
+      <div class="space-y-4">
+        {upcomingEvents2026.map((event) => (
+          <div class={`relative p-6 rounded-2xl border transition-all hover:shadow-lg ${event.highlight ? 'border-[var(--color-primary)] bg-purple-50/50' : event.isSpecial ? 'border-amber-300 bg-amber-50/50' : 'border-gray-200 bg-white'}`}>
+            <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
+              <div class="flex-1">
+                {event.highlight && <span class="inline-block px-2 py-0.5 text-xs font-semibold bg-[var(--color-primary)] text-white rounded-full mb-2">Next Event</span>}
+                {event.isSpecial && <span class="inline-block px-2 py-0.5 text-xs font-semibold bg-amber-500 text-white rounded-full mb-2">Special Event</span>}
+                <h3 class="text-lg font-bold text-gray-900">{event.title}</h3>
+                <div class="flex flex-wrap items-center gap-4 mt-2 text-sm text-gray-600">
+                  <span class="flex items-center gap-1.5">
+                    <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" /></svg>
+                    {event.date}
+                  </span>
+                  {event.venueUrl ? (
+                    <a href={event.venueUrl} target="_blank" rel="noopener noreferrer" class="flex items-center gap-1.5 text-[var(--color-primary)] hover:underline">
+                      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                      {event.venue}
+                    </a>
+                  ) : (
+                    <span class="flex items-center gap-1.5">
+                      <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" /><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" /></svg>
+                      {event.venue}
+                    </span>
+                  )}
+                </div>
+                {event.note && <p class="mt-2 text-sm text-[var(--color-primary)] font-medium">{event.note}</p>}
+              </div>
+              {event.rsvp && (
+                <a href={event.rsvp} target="_blank" rel="noopener noreferrer" class="btn-primary text-sm !py-2.5 !px-5 whitespace-nowrap">
+                  RSVP on Luma
+                  <svg class="w-4 h-4 ml-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" /></svg>
+                </a>
+              )}
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- 2027 Preview -->
+    <section class="mb-20">
+      <div class="flex items-center gap-3 mb-8">
+        <span class="badge">2027</span>
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900">2027 Forums Preview</h2>
+      </div>
+
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {upcomingEvents2027.map((event) => (
+          <div class={`p-5 rounded-xl border transition-all hover:shadow-md ${event.isSpecial ? 'border-amber-300 bg-amber-50/50' : 'border-gray-200 bg-white'}`}>
+            {event.isSpecial && <span class="inline-block px-2 py-0.5 text-xs font-semibold bg-amber-500 text-white rounded-full mb-2">Special Event</span>}
+            <h3 class="text-base font-bold text-gray-900 mb-2">{event.title}</h3>
+            <p class="text-sm text-gray-500 mb-1">{event.date}</p>
+            {event.theme && <p class="text-xs text-[var(--color-primary)] font-medium">{event.theme}</p>}
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- Past Events -->
+    <section class="mb-20">
+      <div class="flex items-center gap-3 mb-8">
+        <span class="badge">Archive</span>
+        <h2 class="text-2xl md:text-3xl font-bold text-gray-900">Past Events</h2>
+      </div>
+
+      <div class="space-y-3">
+        {pastEvents.map((event) => (
+          <div class="p-5 rounded-xl border border-gray-200 bg-white hover:shadow-md transition-all">
+            <div class="flex flex-col md:flex-row md:items-start md:justify-between gap-3">
+              <div class="flex-1">
+                <h3 class="text-base font-bold text-gray-900">{event.title}</h3>
+                <div class="flex flex-wrap items-center gap-3 mt-1.5 text-sm text-gray-500">
+                  <span>{event.date}</span>
+                  <span class="text-gray-300">|</span>
+                  <span>{event.venue}</span>
+                </div>
+                {event.speakers && event.speakers.length > 0 && (
+                  <div class="mt-2 flex flex-wrap gap-1.5">
+                    {event.speakers.map((speaker) => (
+                      <span class="inline-block px-2 py-0.5 text-xs bg-gray-100 text-gray-600 rounded-full">{speaker}</span>
+                    ))}
+                  </div>
+                )}
+                {event.note && <p class="mt-1.5 text-sm text-[var(--color-primary)] font-medium">{event.note}</p>}
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- CTA -->
+    <section class="text-center py-16 mb-8">
+      <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-4">Don't Miss the Next Forum</h2>
+      <p class="text-gray-600 mb-8 max-w-xl mx-auto">
+        RSVP on Luma to receive updates and secure your spot at upcoming K-PAI events.
+      </p>
+      <a href="https://lu.ma/kpai" target="_blank" rel="noopener noreferrer" class="btn-primary">
+        RSVP on Luma
+        <svg class="w-5 h-5 ml-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+        </svg>
+      </a>
+    </section>
+  </div>
+</BaseLayout>
