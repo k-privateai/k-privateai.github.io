@@ -167,3 +167,7 @@ _site/
 .*.swp
 .idea/
 node_modules/
+vendor/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
